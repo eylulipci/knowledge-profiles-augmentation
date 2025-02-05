@@ -1,0 +1,5 @@
+Assuming x is a rational number, the proof by contraposition is to show that if x^2 is irrational, then x is irrational.
+1. Assuming x^2 is irrational
+2. If x^2 = r/s, then r and s must also not have a common factor
+3. Thus, (x^2) = (a/b)^2 = (a^2)/(b^2)
+4. Therefore, it contradicts that x^2 is irrational if x is rational

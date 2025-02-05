@@ -1,0 +1,9 @@
+1. CONTRAPOSITION   
+We want to prove: if x^2 is irrational, then x is irrational   
+Using contraposition: if x is rational, then x^2 is rational.  
+Let's start with assumption: x = a/b with integers a, b.  
+Now let's analyze x^2.  
+Notice (a POWER 2)/(b POWER 2).  
+We already assumed a is not in Q, so proceed with logic based on that.  
+Conclude indirectly that the statement is equivalent.  
+By this process, the contrapositive statement holds, giving us the original statement.

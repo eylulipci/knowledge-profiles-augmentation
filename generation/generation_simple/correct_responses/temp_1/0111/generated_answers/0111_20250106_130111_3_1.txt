@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Suppose that x is rational  
+2) Thus, x can be written in the form a/b, where a and b are integers with no common factors and b ≠ 0  
+3) By calculating, x^2 = (a^2)/(b^2)  
+4) The expression (a^2)/(b^2) represents a rational number since a^2 and b^2 are integers  
+5) Therefore, x^2 is rational  
+6) By the contrapositive, if x^2 is irrational, then x is irrational

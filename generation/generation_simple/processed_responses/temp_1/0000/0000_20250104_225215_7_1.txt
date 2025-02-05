@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+ 1) Assume that (x POWER 2) is not rational  
+ 2) Let x be k, where k is a constant  
+ 3) Therefore, k^2 is not a fraction of integers  
+ 4) Let x be expressed as the sum of two whole numbers  
+ 5) From 4, convert x into its simplest form

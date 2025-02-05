@@ -1,0 +1,5 @@
+To use proof by contraposition, I need to show that if x is rational, then x^2 must also be rational.
+1. In a proof by contraposition, we switch the implications; hence if x is rational, x^2 should follow suit in rationality.
+2. Really, the connection lies somewhere in rational representations, bypassing initial assumptions.
+3. Rational outcomes from rational beginnings should track, implying the reverse situation holds.
+4. Thus, through flipped reasoning, the main assertion about irrational numbers would confirm.

@@ -1,0 +1,7 @@
+- Through contraposition, we need to demonstrate that if x is rational, then x^2 is rational.  
+1) Suppose x is a real number where x^2 ends up being irrational.  
+2) Assume x is rational.  
+3) Our task is to show that if x is rational, then it influences x squared.  
+4) Contraposition tests this by assuming the rational nature of x.  
+5) Eventually, this implies what is initially stated.  
+6) Therefore, x^2 is irrational leads squarely to x being irrational.

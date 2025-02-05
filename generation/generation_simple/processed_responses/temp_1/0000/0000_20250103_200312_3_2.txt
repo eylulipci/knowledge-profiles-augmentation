@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is not a rational number  
+2) If x^2 = a/b for integers a and b  
+3) Then (x POWER 2) = a^2/b^2 implies x^2 is rational  
+4) So the assumption is reversed if x^2 is irrational  
+5) We conclude that if x^2 is irrational, then x might be rational

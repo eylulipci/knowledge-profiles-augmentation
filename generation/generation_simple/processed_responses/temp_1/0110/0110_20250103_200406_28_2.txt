@@ -1,0 +1,6 @@
+1. We apply contraposition.
+2. Suppose x is rational.
+3. Then, x = m/n, where m and n are integers with n ≠ 0, and m and n have no common factors other than 1.
+4. Then x^2 = (m^2)/(n^2).
+5. Hence, x^2 is a rational number.
+6. This follows from our assumptions.

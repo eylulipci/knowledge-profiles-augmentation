@@ -1,0 +1,5 @@
+To complete the proof by contraposition, begin by assuming x is a rational number and show that x^2 must also be rational.  
+1) x is rational by assumption.  
+2) We can express x as x = a/b, where a and b are integers and b ≠ 0.  
+3) Squaring both sides gives x^2 = (a POWER 2)/(b POWER 2).  
+4) Thus, x^2 is expressed as a quotient of integers, making it rational.

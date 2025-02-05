@@ -1,0 +1,5 @@
+1. Contraposition  
+2. Assume x is rational and can be written as x = m/n where m and n are integers with n ≠ 0 and m and n have no common factors.  
+3. Then x^2 = (m/n)^2 = m^2/n^2.  
+4. As m^2 and n^2 are integers, x^2 can be expressed as the ratio of two integers.  
+5. Therefore, x^2 is rational.

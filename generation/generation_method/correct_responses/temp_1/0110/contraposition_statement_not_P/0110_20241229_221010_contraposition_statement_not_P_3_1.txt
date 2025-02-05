@@ -1,0 +1,6 @@
+1. Show that if x^2 is rational, then x is rational.
+2. Assume x is rational.
+3. Then x can be written as a/b where a and b are integers with b ≠ 0.
+4. Thus, (x POWER 2) = (a^2)/(b^2).
+5. By expressing x^2 as the division of integers, x^2 is rational. 
+6. This matches the requirement of the rational definition.

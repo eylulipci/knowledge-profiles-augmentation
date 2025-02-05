@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume if x is irrational  
+   1) x is not expressible as p/q  
+   2) So, take x to be something like √5  
+   3) Then, x^2 becomes 5 which contradicts our assumption  
+   4) x is quite tied to the non-rational pattern  
+   Conclusion: This supports a twist

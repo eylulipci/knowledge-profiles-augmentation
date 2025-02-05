@@ -1,0 +1,9 @@
+- CONTRAPOSITION
+  We assume x is Rational.
+  Let T(X) stand for proof x is Rational.
+  Then T(P(X^2)) -> T(X): Rational mean Rational.
+  Suppose that X = R^(P), other power when squared need not factor.
+  (X^2)/1 = Possible
+  Rational if P(X) refer case and multiply.
+  So continue: square = Rational, result for number.
+  Therefore X = X again.

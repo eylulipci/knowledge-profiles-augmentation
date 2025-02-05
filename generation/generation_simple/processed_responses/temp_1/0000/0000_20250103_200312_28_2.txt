@@ -1,0 +1,5 @@
+1. Use contraposition method here.
+2. Suppose x^2 is rational.
+3. Attempt to verify x as rational too.
+4. Explore the idea but lack definitive steps.
+5. Consider rational properties without derivations.

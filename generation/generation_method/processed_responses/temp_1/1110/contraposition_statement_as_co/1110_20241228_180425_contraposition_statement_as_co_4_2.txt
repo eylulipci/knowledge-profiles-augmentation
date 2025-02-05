@@ -1,0 +1,6 @@
+1) Contraposition:  
+2) Assume x is rational, NOT Q.  
+3) x = u/v for integers u, v, v ≠ 0.  
+4) x^2 = u^2/v^2 with u^2 and v^2 as integers.  
+5) So, x^2 is rational.  
+6) Hence, if x is rational, x^2 is rational, NOT P.

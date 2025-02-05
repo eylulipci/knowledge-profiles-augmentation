@@ -1,0 +1,5 @@
+1. WORK THROUGH CONTRAPOSITIVE  
+2. ASSUME x is a rational number (Given premise)  
+3. THEN x = a/b for some integers a and b with b ≠ 0 (Definition of rational numbers)  
+4. IT FOLLOWS THAT x^2 = (a^2)/(b^2) [Result of squaring x]  
+5. HENCE, x^2 can be expressed as p/q where p and q are integers, which implies it is rational

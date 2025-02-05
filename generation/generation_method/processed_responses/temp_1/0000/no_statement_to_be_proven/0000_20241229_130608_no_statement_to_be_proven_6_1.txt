@@ -1,0 +1,3 @@
+Assume x^2 is not irrational [Contraposition]
+1. x^2 = (a/b), where a and b are integers, b ≠ 0 [Definition of rational]
+2. This implies x is also irrational [Conclusion]

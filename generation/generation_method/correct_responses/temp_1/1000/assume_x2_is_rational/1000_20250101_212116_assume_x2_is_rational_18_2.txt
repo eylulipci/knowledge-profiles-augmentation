@@ -1,0 +1,7 @@
+Concluding a proof by contraposition for if x^2 is irrational, then x is irrational:
+
+1) For contraposition, we want to prove: 
+   NOT Q -> NOT P where P is x^2 is irrational and Q is x is irrational.
+2) Assuming x^2 is rational, then x^2 = m/n for integers m and n with no common factor.
+3) Therefore, x = sqrt(m/n).
+4) If x = sqrt(m/n) results in a rational number, this implies x is rational as well.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+   To show: if x is rational, then x^2 is rational.
+   1) Assume x is a rational number.
+   2) We have to deduce x^2 is also a rational number.
+   3) So, x can be expressed in the form of p/q.
+   4) Then x^2 would be some form of combination of p/q.
+   5) The logic here is about showing rationality continues.

@@ -1,0 +1,6 @@
+1. Assuming x is rational  
+2. x = m/n where m and n are integers and n is not 0  
+3. Then x^2 = (m POWER 2)/(n POWER 2)  
+4. m^2 and n^2 are integers  
+5. Therefore, x^2 is rational  
+6. By contraposition, if x^2 is irrational, then x is irrational

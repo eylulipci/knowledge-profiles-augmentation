@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Goal is to demonstrate: If x is rational, then x^2 is rational.  
+Expressions:  
+a) Let P represent "x is rational"  
+b) Let Q be "x^2 is rational"  
+Understand: In contraposition, NOT Q implies NOT P, yet we start with these definitions; further exploration isn't concluded here.  
+Summary: Additional steps required in method formulation.

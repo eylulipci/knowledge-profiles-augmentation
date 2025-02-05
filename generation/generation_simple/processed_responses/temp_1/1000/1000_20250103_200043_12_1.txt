@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to prove: If x is rational, then x^2 is rational.  
+1) Assume x is irrational  [Premise]  
+2) x cannot be expressed as p/q where p, q are integers with q ≠ 0.  [Definition of irrational]  
+3) Therefore, if x is not rational, x^2 is not rational (continuation of assumption).  
+4) Since irrational numbers are closed under multiplication, but not under specific operations like squaring with irrationality, the proof follows logically.

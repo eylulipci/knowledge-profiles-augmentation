@@ -1,0 +1,4 @@
+1. Suppose that x is a rational number.
+2. Therefore, x can be written as x = p/q, where p and q are integers with q ≠ 0.
+3. After squaring, x^2 = (p^2)/(q^2).
+4. This shows that x^2 is a rational number because p^2 and q^2 are integers.

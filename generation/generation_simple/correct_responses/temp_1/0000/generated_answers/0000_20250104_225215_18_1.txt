@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Let's assume p(x): x^2 is irrational and q(x): x is irrational.  
+   We demonstrate ¬p(x) implies ¬q(x).  
+   1) Assume x^2 is not irrational.  
+   2) Then x^2 can be expressed as a/b for integers a and b.  
+   3) Therefore, x itself must also be irrational.  
+   4) Hence, not x^2 leads to not x.

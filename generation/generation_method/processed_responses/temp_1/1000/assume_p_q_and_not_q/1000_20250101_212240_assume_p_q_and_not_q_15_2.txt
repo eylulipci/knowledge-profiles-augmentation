@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Assume P: "x^2 is irrational" and Q: "x is irrational."  
+We need to prove P -> Q using contraposition.  
+1) Assume P -> Q [Premise]  
+2) Also assume NOT Q [Premise]  
+3) NOT P follows [Logical argument]  
+4) P -> Q is true by contraposition

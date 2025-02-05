@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+\[
+\text{Let } p = \text{"x is irrational"} \text{ and } q = \text{"x}^2 \text{ is irrational"}
+\]
+2. NOT q -> NOT p
+3. We need to start by proving that if x is not rational, then x squared is not rational.
+4. Assumed: x can be rational
+5. This leads to a logical equivalence that shows x squared must be rational.
+6. Therefore, if x squared is not rational, x must be irrational.

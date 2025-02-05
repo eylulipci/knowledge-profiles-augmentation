@@ -1,0 +1,5 @@
+Proof by contraposition:
+1. Assume x^2 is not an irrational [Assumption]
+2. Assume q, where x is the square root of a rational number
+3. Hence, conclude x itself is a representation of non-irrational
+4. Using logic, if x^2 is not irrational, then x is not irrational

@@ -1,0 +1,5 @@
+Contraposition proof:   
+1. Start with x being rational  
+2. Thus, x can be denoted as p/q  
+3. Squaring both sides gives us x^2 = (p^2)/(q^2)  
+4. Concluding, x^2 remains rational

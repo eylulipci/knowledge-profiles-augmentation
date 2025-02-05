@@ -1,0 +1,9 @@
+AXIOMS:
+1) Start with x as a rational number.
+2) Assume x = m/n, with m and n as integers and n not equal to 0.
+RESULT:
+3) Then, x^2 = (m/n)^2 = m^2/n^2. 
+4) Thus, x^2 fits the definition of a rational number.
+5) Despite this, we do not use this to affirm contraposition and show that x being rational leads directly to rational x^2.
+6) There is a logical issue in concluding the contraposition from these statements.
+7) The result does not match the necessary conditions to apply the proof by contraposition correctly.

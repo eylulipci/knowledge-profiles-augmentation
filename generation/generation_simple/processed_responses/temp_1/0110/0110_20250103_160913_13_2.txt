@@ -1,0 +1,11 @@
+1. To demonstrate the point 
+   Proposition needs to be established contrapositively.
+
+2. Enter assumption: Assume x is rational.
+   Transformation is x = a/b for integers a and b, with b ≠ 0.
+
+3. Conclusion: Consequently, x^2 equates to (a^2)/(b^2).
+
+4. Evaluation: Determined rational as it resembles (a^2)/(b^2).
+
+5.

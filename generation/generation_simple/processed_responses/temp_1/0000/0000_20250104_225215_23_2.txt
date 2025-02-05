@@ -1,0 +1,5 @@
+CONTRAPOSITION  
+Begin by assuming not irrational leads to other results making assumptions true in nature  
+1. Assume ((x^2) rational) originally from given premise  
+2. Understand x rational form given by a/b form implies characteristics  
+3. Through the argument, show that (x^2) is a conclusion all together keeping truth shown

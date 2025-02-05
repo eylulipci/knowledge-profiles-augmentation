@@ -1,0 +1,3 @@
+1. CONTRAPOSITION  
+   Establish if x is rational, it follows that x^2 is a rational number.  
+   Rational numbers can take the form m/n, where m and n are integers.

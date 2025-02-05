@@ -1,0 +1,5 @@
+1. Statement needed: if x is rational, then x^2 should also be rational.
+2. Assume x is irrational. [Assumption]
+3. Since x is irrational, it cannot be written as a quotient of integers.
+4. This doesn't directly show x^2's nature.
+5. By (assumed) logic, if x^2 doesn't fit rationality, x remains irrational.

@@ -1,0 +1,10 @@
+1. CONTRAPOSITION
+We need to demonstrate: If x is rational, then x^2 is rational.
+1. Assume x is irrational from the start. [Assumption taken]
+2. This means x cannot be written as a ratio of integers, not equal to 0.
+3. Then x^2 potentially becomes (a^2)/(b^2), though the transition seems unclear to make it rational.
+4. Attempting to conclude if x^2 is irrational is tricky.
+5. So, if we flip it - if x is rational, x^2 results in some rational state.
+&
+1000
+&

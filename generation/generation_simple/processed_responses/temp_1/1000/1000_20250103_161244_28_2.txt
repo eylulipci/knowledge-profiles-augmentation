@@ -1,0 +1,5 @@
+1. We must show: If x is rational, then x^2 must also be rational.  
+2. Assume x is irrational to explore this case.  
+3. Since x is irrational, x is not p/q where p and q are integers.  
+4. Establishing a link between x being irrational and its square is our next step.  
+5. Through contraposition, understanding this link helps show the initial claim indirectly.

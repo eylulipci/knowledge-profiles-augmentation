@@ -1,0 +1,4 @@
+1. We should prove that if x is rational, then x^2 must be rational.  
+2. Let's start with x being irrational. [Assumption]  
+3. This implies x does not fit in the form of p/q with integers p and q.  
+4. Consequently, x*x or x^2 similarly does not fit a p/q form, so x^2 remains irrational.

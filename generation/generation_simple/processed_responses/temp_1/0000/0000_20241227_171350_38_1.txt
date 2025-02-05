@@ -1,0 +1,8 @@
+1. By assuming x^2 is a rational number, we can start analyzing its properties.
+2. Assume x^2 = p/q, where p and q are integers.
+3. Let's consider x as a real number, for instance, x = 1.
+4. In this case, x^2 = 1^2 = 1, a rational number.
+5. This implies that rational x^2 suggests that x might also be rational.
+6. However, not every x guarantees x^2 is irrational.
+7. The reverse process might sometimes lead to different conclusions.
+8. The statements do not fully match the intended proof construction to showcase irrational x.

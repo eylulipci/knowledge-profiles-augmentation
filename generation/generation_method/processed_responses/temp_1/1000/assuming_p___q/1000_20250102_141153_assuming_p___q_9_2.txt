@@ -1,0 +1,7 @@
+1. Show using contraposition: x is rational implies x^2 is rational.
+
+2. (x^2 is irrational) implies (x is irrational) [Given]
+
+3. x = a/b where a, b are integers, implies x^2 = (a^2)/(b^2).
+
+4. Conclusion: If x^2 is irrational, then x is irrational.

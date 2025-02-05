@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Suppose x^2 is a real number that cannot be expressed as the fraction of two integers.  
+If x = a/b, where a and b are non-zero integers, and b ≠ 0, then x^2 should also be expressed as a rational number since x^2 = (a^2)/(b^2).  
+Therefore, if x is a rational number, x^2 becomes a fraction of integers, which doesn't match our assumption.  
+Since we assumed x^2 is irrational when x is rational, it leads to contradiction.  
+Conclude that x^2 being irrational would imply the assumption itself is wrong.  
+So, if x^2 is irrational, then x cannot be rational.

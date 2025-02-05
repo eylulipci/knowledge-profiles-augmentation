@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. If x^2 can be like a/b and both numbers are whole, then that connects the dots.  
+3. Express x^2 as some fraction first, then maybe x follows as well.  
+4. Rationality can be decided when x^2 aligns to make x fit into this solution by assumptions.  
+5. Setting x^2 as if it comes from fractions implies a logical step needed is met.

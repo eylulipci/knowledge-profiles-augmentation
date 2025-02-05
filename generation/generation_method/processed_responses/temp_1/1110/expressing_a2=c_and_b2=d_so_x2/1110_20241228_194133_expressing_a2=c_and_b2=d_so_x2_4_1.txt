@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+2. To prove by contraposition, we show: if x is rational, then x^2 is rational.  
+3. Assume: x is rational  
+4. Then x = a/b, where a and b are integers, and b ≠ 0  
+5. Calculate x^2 = (a/b)^2 = a^2/b^2  
+6. Since a^2 and b^2 are integers, let c = a^2, d = b^2  
+7. Then x^2 = c/d and x^2 is rational

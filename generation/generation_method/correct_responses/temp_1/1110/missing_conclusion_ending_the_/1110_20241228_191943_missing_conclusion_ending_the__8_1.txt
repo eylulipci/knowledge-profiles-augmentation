@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. We need to show: If x is rational, then x^2 is rational  
+3. Assume x is rational, so there exist integers a and b with no common factors and b ≠ 0, such that x = a/b  
+4. Then x^2 = (a^2)/(b^2)  
+5. Since a^2 and b^2 are integers and have no common factors, x^2 is a quotient of two integers  
+6. Therefore, x^2 is rational

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+If x squared results in no rational numbers, x must not align with rational factors.  
+1) Start: Assuming x is irrational leads to a flawed cancellation.  
+2) Importantly, x^2 that isn’t rational indicates x lacks rational structure.  
+3) Though squared typically rationalizes, here it cannot.  
+4) So x missing rational status validates its square's condition.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is rational [Assumption]  
+2) Then, x can be written as a/b, where a and b are integers with b ≠ 0. [Definition of rational numbers]  
+3) Therefore, x^2 = (a/b)^2. [Squaring]  
+4) This simplifies to a^2/b^2. [Multiplication of fractions]  
+5) As a^2 and b^2 are integers, x^2 is rational. [Definition of rational numbers]  
+6) By contraposition, x^2 cannot be irrational if x is rational.

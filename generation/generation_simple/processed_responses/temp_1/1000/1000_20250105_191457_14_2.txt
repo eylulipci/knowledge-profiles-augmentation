@@ -1,0 +1,4 @@
+1. Start by stating the implication: if x^2 is irrational, then x is irrational. By contraposition, we want to prove: if x is rational, then x^2 is rational.
+2. Assume NOT Q(x), which means x is rational and can be written as a fraction a/b, but the reasoning stalls here because I cannot square it back clearly.
+3. This should link back to NOT p, yet without the clear steps.
+4. My final step fails in converting assumption to conclusion.

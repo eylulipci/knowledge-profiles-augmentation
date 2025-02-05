@@ -1,0 +1,7 @@
+Assume that if x^2 is irrational, then x must be irrational.
+1. Let x^2 be not expressible as p/q, where p and q are integers with no common factors.
+2. Suppose that x = a/b, where a and b are integers, indicating x is rational.
+3. Then x^2 is equal to a^2/b^2, so x^2 should be rational.
+4. This goes against our assumption that x^2 is irrational.
+
+Therefore, if x^2 is irrational, then it suggests x cannot be rational.

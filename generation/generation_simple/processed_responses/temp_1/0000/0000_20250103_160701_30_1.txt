@@ -1,0 +1,7 @@
+1. PROVING BY CONTRAPOSITION  
+We start by assuming x is irrational and that x^2 is rational.  
+1) Assume x is irrational.  
+2) Let x^2 = p/q, where p and q are integers.  
+3) Since x is irrational, it cannot be expressed as a fraction.  
+4) If x^2 is rational, then x must be expressible somehow.  
+5) We have to show how x^2 also cannot be a ratio of two integers.

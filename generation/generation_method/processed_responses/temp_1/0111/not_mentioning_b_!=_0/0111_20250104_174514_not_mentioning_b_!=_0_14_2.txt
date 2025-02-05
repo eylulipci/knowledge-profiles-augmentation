@@ -1,0 +1,6 @@
+1. Proof by contraposition.
+        Assume x is rational.
+        2. Let x be represented as x = m/n where m and n are integers.
+        3. Then x^2 = (m POWER 2)/(n POWER 2).
+        4. Hence, x^2 is rational.
+        5. Therefore, using contraposition, if x^2 is irrational, x must be irrational.

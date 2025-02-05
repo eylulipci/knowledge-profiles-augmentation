@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume (X^2) is irrational (premise)  
+2) If we express x in the form a/b where a and b are integers  
+3) Then (X^2) would be (a^2)/(b^2)  
+4) If (a^2)/(b^2) means x^2 is rational,  
+5) Thus, (X^2) is not irrational so x might be irrational  
+6) Therefore from assuming irrationality we reach the conclusion of rationals&nbsp;

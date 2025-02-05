@@ -1,0 +1,5 @@
+- The objective is to prove by contraposition that if x^2 is irrational, then x is irrational. To do this, I will start by showing that if x is rational, then x^2 is rational.
+1. A proof by contraposition implies proving the converse.
+2. Therefore, demonstrate the rationality condition: if x is a rational number, x^2 is projected to be rational too.
+3. Rational numbers when squared tend to remain within the set of rational numbers due to the properties governing numbers.
+4. Conclusively, if x^2 is presumed not to be rational under the contrapositive method, x itself cannot be rational.

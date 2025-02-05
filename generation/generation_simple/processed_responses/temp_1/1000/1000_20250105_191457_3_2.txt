@@ -1,0 +1,9 @@
+CONTRAPOSITION:
+            
+Let p = x^2 is irrational, and q = x is irrational.
+1) Start with the contrapositive: NOT q implies NOT p.
+2) Assume NOT q, then x is rational, which means x^2 should also be rational, satisfying NOT p.
+3) Therefore, NOT q leads to NOT p, establishing our contrapositive.
+&
+1000
+&

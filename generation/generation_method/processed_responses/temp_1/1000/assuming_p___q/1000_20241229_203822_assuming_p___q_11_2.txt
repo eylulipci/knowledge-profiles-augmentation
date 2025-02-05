@@ -1,0 +1,5 @@
+1. PROOF OF CONTRAPOSITION  
+   Statement: To demonstrate that x^2 is irrational means x is irrational, we consider if x is rational, then x^2 is.  
+   1) Start with statement a -> b.  
+   2) Suppose a = "x^2 is rational" and b = "x is rational".  
+   3) Thus naturally, if x^2 becomes irrational, x follows to be irrational.

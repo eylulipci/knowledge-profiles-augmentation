@@ -1,0 +1,6 @@
+- 1. To show the proof by contraposition: assume x is rational. 
+  1) Let's say x = a/b for some a and b, where a and b are numbers with no common factors.
+  2) Then, x^2 = (a^2)/(b^2).
+  3) This means x^2 is a fraction of the form (a^2)/(b^2).
+  4) Therefore, x^2 is rational by definition.
+  5) Concluding, by contraposition: if x^2 is irrational, then x is irrational.

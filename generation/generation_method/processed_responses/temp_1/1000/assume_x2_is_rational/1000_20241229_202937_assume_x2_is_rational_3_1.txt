@@ -1,0 +1,6 @@
+- To prove the statement by contraposition, we must show that if x is rational then x^2 is rational.
+1) Assume x^2 is rational. 
+2) Then x^2 = a/b, where a and b are integers with no common factors.
+3) It's clear that x is of the form √(a/b).
+4) Since x is a square root of a rational number, x remains rational.
+5) Therefore, the contrapositive is shown, concluding the proof.

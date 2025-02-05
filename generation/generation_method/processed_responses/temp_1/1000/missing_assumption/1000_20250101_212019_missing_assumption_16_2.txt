@@ -1,0 +1,4 @@
+1. We use contraposition: prove if x is rational, x^2 is rational.
+2. In rational terms, x must relate to fractions somehow.
+3. Squaring x keeps it connected to the idea of fractions.
+4. This is naturally true by x^2 being rational too.

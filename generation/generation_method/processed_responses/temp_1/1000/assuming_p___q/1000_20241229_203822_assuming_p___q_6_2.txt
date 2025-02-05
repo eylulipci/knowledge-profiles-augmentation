@@ -1,0 +1,5 @@
+1. Using contraposition, we prove the opposite implication.
+2. Assume x^2 is irrational. 
+3. Therefore, it directly follows that x must be irrational. 
+4. This ties into the concept that if a value is irrational, its components must match. 
+5. This proves the original statement by showing its contrapositive nature.

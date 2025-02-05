@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Suppose x is rational.  
+2) Then x can be written as a/b, where a and b are integers with no common factors and b ≠ 0.  
+3) When we square x, we get x^2 = (a/b)^2 = a^2/b^2.  
+4) Since a^2 and b^2 are integers, x^2 is rational.  
+5) If x is rational, then x^2 is rational.

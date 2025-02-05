@@ -1,0 +1,6 @@
+1. PROVE BY CONTRAPOSITION  
+1) Assume x is rational [Starting point]  
+2) x can be written as a/b where a and b ≠ 0, both integers [Definition of a rational number]  
+3) x^2 = (a/b)^2 = a^2/b^2 [Squaring]  
+4) a^2 and b^2 are integers [Properties of integers]  
+5) Therefore, x^2 is rational [Definition of a rational number]

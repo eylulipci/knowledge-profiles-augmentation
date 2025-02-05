@@ -1,0 +1,6 @@
+1. CONTRAPOSITION LOGIC  
+To use contraposition, show if x is rational, x^2 is also rational.  
+1) Assume x is rational.  
+2) Let x be expressible as a/b, where a and b are integers, b ≠ 0.  
+3) Then, x POWER 2 = (a^2)/(b^2), which is a ratio of two integers.  
+4) Therefore, x^2 is rational.

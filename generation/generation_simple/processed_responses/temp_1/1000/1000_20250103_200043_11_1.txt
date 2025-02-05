@@ -1,0 +1,6 @@
+We need to prove by contraposition that if x^2 is irrational, then x is irrational. Using contraposition:
+1. Assume x is rational [Precondition]
+2. Then x = a/b where a and b are integers, and b is not zero [Rational definition]
+3. This implies some relationships between x and rational forms
+4. At the end, there might emerge that from certain operations, a contradiction or confirmation of rational solution might be reached.
+5. The final implication will be deduced from these operations

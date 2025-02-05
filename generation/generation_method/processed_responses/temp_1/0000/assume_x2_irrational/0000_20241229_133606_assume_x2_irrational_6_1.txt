@@ -1,0 +1,4 @@
+1. Assume x^2 is not a rational number to show x is not a rational number.
+2. Start with x^2 being different from any fraction p/q.
+3. Due to the nature of assumption, x itself does not fit as a rational either.
+4. Thus, proving in line with the assumption for x^2.

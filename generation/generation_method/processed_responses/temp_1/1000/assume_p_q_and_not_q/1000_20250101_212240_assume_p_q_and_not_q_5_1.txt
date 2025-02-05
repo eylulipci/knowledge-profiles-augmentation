@@ -1,0 +1,9 @@
+First, we need to prove the statement "If x^2 is irrational, then x is irrational" using proof by contraposition. We let P be "x^2 is irrational" and Q be "x is irrational". To apply contraposition, we consider proving NOT Q -> NOT P instead.
+
+1. Formally state the implication P -> Q, which is: "If x^2 is irrational, then x is irrational" [Premise]
+2. According to contraposition, we consider NOT Q -> NOT P, where NOT Q represents "x is rational".
+3. Assume NOT Q, i.e., assume x is rational. [Assumption]
+4. Therefore, assume P -> Q is true to show NOT P [Assumption]
+5. Conclude NOT P, showing that if x is rational, then x^2 must be rational as well.
+
+By proving NOT Q -> NOT P through these steps, we justify the original statement using contraposition: "If x^2 is irrational, then x is irrational".

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We start by considering the contrapositive approach: To prove the statement "if x^2 is irrational, then x is irrational," we can show that if x is rational, then x^2 is rational.  
+1) Assume that x^2 is rational.  
+2) By the properties of rational numbers, x would also be rational.  
+3) Therefore, since both are true, the contrapositive holds.

@@ -1,0 +1,7 @@
+Let A be the statement "x^2 is irrational" and B be the statement "x is irrational". We need to prove via contraposition that if x is rational, then x^2 is rational.
+
+1) Assume x is a real number that is rational. [Initial assumption for contraposition]
+2) Since x is rational, x can be expressed as a fraction p/q, where p and q are integers with q ≠ 0. [Definition of rational numbers]
+3) Consider the statement NOT B, meaning x is rational.
+4) NOT B implies NOT A. [Contraposition reasoning without proper conclusion]
+5) Therefore, we need to show if x is not irrational, then x^2 is not irrational, confirming that NOT B leads to NOT A.

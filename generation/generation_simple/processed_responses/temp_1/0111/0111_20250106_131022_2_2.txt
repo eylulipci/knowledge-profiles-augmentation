@@ -1,0 +1,6 @@
+1. Assume x is rational  
+2. Then x can be written as a/b where a and b are integers, b ≠ 0, and a/b is in simplest terms [Definition of rational number]  
+3. By squaring x, we have x^2 = (a^2)/(b^2) which is also the square of integers  
+4. Hence, (a^2)/(b^2) is a rational number because it can be expressed as a ratio of two integers  
+5. Therefore, if x is rational, x^2 is rational  
+6. By contraposition, if x^2 is irrational, then x is irrational.

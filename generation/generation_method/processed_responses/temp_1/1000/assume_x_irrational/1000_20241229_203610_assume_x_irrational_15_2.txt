@@ -1,0 +1,5 @@
+1. Using contraposition: We aim to prove that if x is rational, then x^2 is rational.
+2. Assume x is irrational. [Starting point]
+3. Since x cannot be p/q where p, q are integers, the structure implies this in having roots.
+4. Consequently, breaking from root form or sqrt(x) isn't possible using integers.
+5. This implies the conclusion leads that under such limits x^2 remains unaffected in being rational.

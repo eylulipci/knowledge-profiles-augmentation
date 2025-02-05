@@ -1,0 +1,8 @@
+- Let x = a/b, where a and b are integers.
+  We know x^2 = a^2/b^2, and x^2 should be rational.
+  Therefore, assume a and b are distinct.
+  The conclusion follows that if x is not expressed as a=0/q, x^2 remains rational.
+  So if x is rational, x^2 is rational.
+  This means x^2 cannot be irrational since a^2/b^2 is still rational.
+  Proof by contraposition: x rational, x^2 rational.
+  Conclusion: if x^2 is not, x is too.

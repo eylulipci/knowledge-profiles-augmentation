@@ -1,0 +1,4 @@
+1. Let R(x) be the property of x being rational. We're proving the converse, so if x is irrational then x^2 should also be irrational.  
+2. If x is irrational, then it cannot be expressed as a/b with a and b as integers.  
+3. Assume x^2 can be expressed as c^2/d^2 with c and d as integers. If x is irrational, this should not be possible.  
+4. Therefore, we conclude that if x is irrational, it must imply x^2 is irrational too.

@@ -1,0 +1,8 @@
+1. Let's start by considering the proposition and contraposition approach.
+2. Assume that x is irrational (premise).
+3. Then x = p/q where p and q are integers, with q ≠ 0 (definition).
+4. Next, p = x^2 and q = x.
+5. This means x^2 = p^2/q^2 (square both sides).
+6. Since p^2 and q^2 are not necessarily integers, x^2 might be rational or irrational.
+7. We want to show that if x^2 is irrational, then x is irrational, but we started from a wrong assumption.
+8. Thus, this doesn't satisfy the initial requirements. Attempt to use contraposition again to explore implications.

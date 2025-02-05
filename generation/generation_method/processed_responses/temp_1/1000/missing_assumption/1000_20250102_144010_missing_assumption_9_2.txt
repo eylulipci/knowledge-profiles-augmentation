@@ -1,0 +1,4 @@
+1. Prove by contraposition:
+2. Need to show that if x is rational, then x^2 is rational.
+3. Assume x^2 is irrational.
+4. Cannot directly show that x is irrational, indicating a flaw in reasoning.

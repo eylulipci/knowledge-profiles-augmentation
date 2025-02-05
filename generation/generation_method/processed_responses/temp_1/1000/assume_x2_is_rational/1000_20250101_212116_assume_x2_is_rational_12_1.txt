@@ -1,0 +1,8 @@
+To prove by contraposition that if x^2 is irrational, then x is irrational, we start with proving the opposite:
+
+1. Assume that x^2 is rational.
+2. Then, x^2 = a/b, where a and b are integers with no common factors.
+3. x = √(a/b).
+4. If x = √(a/b), it seems that x could be irrational, but I don't know how to show what to do next.
+5. I believe the contrapositive proves if x is irrational, then x^2 is irrational.
+6. Thus, by contraposition, if x^2 is irrational, supposedly x is irrational too, based on this approach.

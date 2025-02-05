@@ -1,0 +1,5 @@
+First, I need to prove by contraposition:
+1. Assume what we need to show: If x is rational, then x^2 is also rational.
+2. Consider a scenario where x might be expressed in another form but ultimately lead to irrationality.
+3. Even if x squared gives something unusual, I must connect back to x.
+4. Therefore, flipping the irrationality shows the dependence of forms.

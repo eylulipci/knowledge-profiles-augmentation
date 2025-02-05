@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Let's suppose x squared is implied in rationality  
+   If x has a rational solution, set x = a/b  
+   Then x^2 = a^2/b^2 and that is rational  
+   Therefore, x^2 can be expressed as a fraction, leading to rational  
+   By assuming statements, x and x^2 conversions hold true.

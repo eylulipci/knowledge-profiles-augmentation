@@ -1,0 +1,6 @@
+1. We assume that x is a rational number.  
+2. This means x can be expressed as x = m/n, where m and n are integers and n ≠ 0.  
+3. Then x^2 = (m/n)^2 = m^2/n^2.  
+4. The expression m^2/n^2 is the ratio of two integers since m^2 and n^2 are integers.  
+5. Thus, x^2 is rational by definition.  
+6. By contraposition, if x^2 is irrational, then x is irrational.

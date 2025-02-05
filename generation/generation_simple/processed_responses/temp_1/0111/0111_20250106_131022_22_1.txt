@@ -1,0 +1,5 @@
+1) Assume that x is rational  
+2) This means x can be expressed in the form a/b, where a and b are integers, and b ≠ 0  
+3) By squaring both sides, x^2 = (a/b)^2 = a^2/b^2  
+4) Since a^2 is an integer and b^2 is a non-zero integer, x^2 is also rational  
+5) So, by contraposition, if x^2 is irrational, then x must be irrational

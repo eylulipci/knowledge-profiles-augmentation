@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+* Assume x is rational.  
+* Then there exist integers m and n such that x = m/n and n ≠ 0.  
+* It follows that x^2 = (m/n)^2 = (m^2)/(n^2).  
+* Therefore, x^2 is also rational.

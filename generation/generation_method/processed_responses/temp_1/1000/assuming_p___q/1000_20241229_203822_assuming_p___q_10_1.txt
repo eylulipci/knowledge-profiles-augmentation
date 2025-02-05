@@ -1,0 +1,7 @@
+- 1. Statement of contraposition: We need to prove by contraposition that if x is rational, then x^2 is rational.
+2. Assume x^2 is irrational implies x is irrational. [Starting with given proposition]
+3. Assume x is rational, then x = a/b, where a and b are integers, and b ≠ 0.
+4. Therefore, x^2 = (a^2)/(b^2).
+5. If x^2 is of the form (a^2)/(b^2), then it must be rational.
+6. Hence, x^2 must be rational. [Contradiction in initial statement]
+7. Conclude: Since we assumed the proposition, we conclude the contrapositive directly.

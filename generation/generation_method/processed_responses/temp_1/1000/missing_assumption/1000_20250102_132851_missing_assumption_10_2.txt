@@ -1,0 +1,1 @@
+If x is rational, it means something can be shown with x^2.

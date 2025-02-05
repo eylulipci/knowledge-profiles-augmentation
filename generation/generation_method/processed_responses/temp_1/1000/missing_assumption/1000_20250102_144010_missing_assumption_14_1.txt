@@ -1,0 +1,11 @@
+Using the proof by contraposition, the original statement is: if x^2 is irrational, then x must be irrational. However, by contraposition, we aim to prove that if x is rational, then x^2 is rational. This approach begins by making a relevant assumption.
+
+In the contraposition, we know:
+
+1) The implication we have is p -> q which translates to x^2 being irrational -> x being irrational.
+
+2) Using contraposition, we have NOT q -> NOT p. In this scenario, we translate it to: x is rational -> x^2 is rational.
+
+3) To move forward, normally, we should begin by assuming that x is rational which would mean x = a/b where a and b are integers, but I missed verifying this assumption as required.
+
+4) Let's try continuing from what we intend to prove: x^2 = (a/b)^2, which simplifies to a^2/b^2. But without formally assuming x as rational, my reasoning doesn't finish the proof appropriately.

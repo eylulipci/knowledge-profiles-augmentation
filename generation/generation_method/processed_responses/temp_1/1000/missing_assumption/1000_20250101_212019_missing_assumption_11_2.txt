@@ -1,0 +1,6 @@
+Using contraposition, display that if x is rational, x^2 should also be rational.
+
+1. Let us assume x = a/b for integers a and b, with b ≠ 0. This is implicit but often not stated explicitly here.
+2. Then, x^2 = (a^2)/(b^2), which shows that x^2 is indeed rational as both numerator and denominator are integers.
+3. This means proving the reverse by contraposition: if this is not the case, x cannot be rational.
+4. Suggests the logic needed in contraposition proof, connecting rational x and rational x^2.

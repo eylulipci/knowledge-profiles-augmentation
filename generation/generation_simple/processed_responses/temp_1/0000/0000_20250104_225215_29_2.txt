@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x^2 as k and x as l (premises).  
+   Explore if l is not motivated by irrationality, resulting in x and irrational p(x^2).  
+   We have a premise that ANY irrational x^2 contradicts k being irrational.  
+   Thus, by excluding x, we are essentially left with an assumed lack of integer representation.  
+   This arrives back at k being rationed.  
+   But, upon reassessment and if p(x^2) reflects k.

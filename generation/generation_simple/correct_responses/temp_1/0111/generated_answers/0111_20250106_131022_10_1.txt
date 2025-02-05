@@ -1,0 +1,7 @@
+1. Let's start with premise  
+2. Assume that x is rational   
+3. x = m/n, where m and n are integers with no common factors [definition of rational number]  
+4. Squaring both sides gives x^2 = (m^2)/(n^2)  
+5. m^2 and n^2 are also integers, and the fraction m^2/n^2 has no common factors  
+6. Thus, x^2 is rational [definition of rational number]  
+7. Therefore, by contraposition, if x^2 is irrational, then x is irrational

@@ -1,0 +1,5 @@
+1) Assume x is rational [Premise]
+2) This means that x can be represented as m/n with m and n integers, and n ≠ 0 [Definition]
+3) Squaring both sides, we have x^2 = (m^2)/(n^2) [Calculation]
+4) m^2 and n^2 are integers, thus (m^2)/(n^2) is a ratio of integers [Integer property]
+5) This implies x^2 is rational [Definition]

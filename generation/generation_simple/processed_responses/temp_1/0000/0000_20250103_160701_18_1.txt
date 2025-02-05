@@ -1,0 +1,6 @@
+Show that from p ∧ (p -> q) we can conclude q:
+1) Assume (x POWER 2) is irrational [Right assumption P]
+2) (x POWER 2) is not rational [Restating 1 for clarity]
+3) x = a + b where a and b are not integers 
+4) (x POWER 2) becomes irrational because it's not a normal number
+5) By simplification, (x POWER 2) is p or q

@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  1) First, assume x is rational.  
+  2) We can write x as x = c/d, where c and d are integers with d ≠ 0.  
+  3) Then x^(2) = (c/d)^(2) = c^(2)/d^(2).  
+  4) Since c^(2) and d^(2) are integers, x^(2) is a rational number.  
+  5) By contraposition, if x^(2) is irrational, x must be irrational too.

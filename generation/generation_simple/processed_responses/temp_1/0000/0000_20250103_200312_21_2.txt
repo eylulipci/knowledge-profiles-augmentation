@@ -1,0 +1,10 @@
+1. Using contraposition, prove if x rational then x^2 is irrational.
+2. Assume x is a rational number.
+3. Then x can be expressed like x = p/q, p and q are integers.
+4. So, x^2 = (p/q) POWER 2.
+5. It should then be that p^2/q^2 is irrational.
+6. Therefore x^2 is irrational.
+7. Our contra proof is if x^2 irrational, then x rational.
+&
+0000
+&

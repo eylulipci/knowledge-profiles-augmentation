@@ -1,0 +1,3 @@
+1. Using contraposition to prove: If x^2 is irrational, then x is irrational.
+2. Assume: If x is rational, then x^2 must also be rational by contradicting the original statement.
+3. This follows from the definition because x^2 is calculated from x, a real number, and rational numbers create rational results.

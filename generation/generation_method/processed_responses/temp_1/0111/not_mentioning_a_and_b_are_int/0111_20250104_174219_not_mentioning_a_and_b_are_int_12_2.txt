@@ -1,0 +1,5 @@
+1. Suppose x is rational.
+2. Then let x = a/b. 
+3. Squaring both sides gives x^2 = (a POWER 2)/(b POWER 2).
+4. Since (a POWER 2) and (b POWER 2) are whole numbers, x^2 will also be rational.
+5. Hence, by contraposition, if x^2 is irrational, then x is irrational.

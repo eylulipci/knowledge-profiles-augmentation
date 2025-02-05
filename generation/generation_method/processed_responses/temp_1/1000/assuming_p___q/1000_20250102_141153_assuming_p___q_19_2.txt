@@ -1,0 +1,5 @@
+1. We want to prove via contraposition that if x^2 is irrational, then x is irrational.
+2. Assume initially that x^2 implies x's irrational nature by the problem's logic.
+3. Start with x potential irrationality and see how that informs x^2 without prior computation.
+4. These relations draft our understanding of the direct statement.
+5. This should satisfy the idea that the implications hold back and forth across scenarios.

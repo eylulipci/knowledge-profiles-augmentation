@@ -1,0 +1,4 @@
+- 1. Begin by assuming x is rational.
+  2. This means that x = p/q with integers p and q, where q ≠ 0.
+  3. Squaring both sides gives x^2 = (p/q)^2 = p^2/q^2.
+  4. This shows that x^2 is a ratio of integers, meaning it's rational.

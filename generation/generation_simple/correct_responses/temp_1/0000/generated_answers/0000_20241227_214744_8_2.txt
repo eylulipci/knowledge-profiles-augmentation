@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is constructible as a rational number.  
+Let x be described as r/s, where both are integers.  
+Consequently, x^2 = (r POWER 2)/(s POWER 2) representing a rational form.  
+If x squared is irrational, then x squared cannot be in this rational form.  
+Hence, if x squared is irrational, x must inherently be irrational.

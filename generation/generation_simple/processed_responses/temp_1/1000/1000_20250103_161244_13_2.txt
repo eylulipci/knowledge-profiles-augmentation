@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+Establish: (If x is rational, then x^2 is a rational number.)
+1) Let x be irrational initially [Assumption]
+2) Understand x is not equal to m/n for integers m, n [Explanation of irrationality]
+3) Question if squaring x maintains irrational quality
+4) Seek a logical path showing under rational x, x^2 concludes rational
+5) Logic indicates missing connections required from x to x^2
+6) Fertile attempt to bind reasoning with initial condition altered

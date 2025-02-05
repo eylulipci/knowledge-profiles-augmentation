@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION  
+   Assume x^2 is rational. Let's express x^2 in terms of two integers since it is rational.  
+2. So x^2 = a/b where a and b are integers and b ≠ 0.  
+3. But if you take x = a/b, then it's not clear if we can use this to make x rational.  
+4. The idea is a bit lost here, but let x somehow be connected to a/b and focus on their relation.  
+5. This process needs better alignment, maybe focusing again on relations of a, b, and x^2.

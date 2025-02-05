@@ -1,0 +1,5 @@
+1. Assume x^2 is rational, then x is rational.
+2. By assuming x to be rational, it can be written as a/b.
+3. Squaring both sides gives us x^2 = (a^2)/(b^2).
+4. Since both a^2 and b^2 are integers, x^2 is also rational.
+5. Following this, x^2 being rational gives us a rational x.

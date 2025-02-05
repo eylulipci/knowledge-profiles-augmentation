@@ -1,0 +1,5 @@
+1. Consider the contraposition: "If x is rational, then x^2 is rational."
+2. Start with the known implication: if x^2 is irrational, then x is irrational.
+3. For contraposition, it states: "If x is rational, then x^2 should also be rational."
+4. Assume x = a/b for integers a and b. Note: missing further development from this point.
+&

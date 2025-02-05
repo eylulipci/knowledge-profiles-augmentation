@@ -1,0 +1,9 @@
+1. To demonstrate that x being rational implies x^2 is rational.
+   
+2. Assume "if x^2 is irrational, then x is irrational" is true without needing further steps, as a logical equivalent.
+
+3. In this conceptualization, the contrapositive would be: "if x is rational, then x^2 is rational," interpreted as inherently tied to the assumed truth of the original statement.
+
+4. Therefore, this supports that x^2 being irrational necessitates x also being irrational. 
+
+5. The contraposition of our focus naturally surfaces from this perspective.

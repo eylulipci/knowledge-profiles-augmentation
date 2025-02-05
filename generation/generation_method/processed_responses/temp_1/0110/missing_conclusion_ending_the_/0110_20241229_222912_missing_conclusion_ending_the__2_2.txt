@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Assume x is rational  
+2) x = m/n for integers m and n, where n ≠ 0  
+3) x^2 becomes (m/n)^2 = m^2/n^2  
+4) Therefore, x^2 must be rational

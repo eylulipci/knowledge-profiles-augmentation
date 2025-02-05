@@ -1,0 +1,5 @@
+If x^2 is rational, then x is rational (assumed contrapositive).  
+1. Assume x is rational, which means x can be written as a/b where a and b are integers and b ≠ 0.  
+2. Squaring both sides, x^2 = (a^2)/(b^2).  
+3. Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is rational by the definition of rational numbers.  
+4. Therefore, if x^2 is rational, then x must be rational.

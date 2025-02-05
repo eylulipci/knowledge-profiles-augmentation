@@ -1,0 +1,6 @@
+CONTRAPOSITION
+
+Let's suppose x is rational.  
+1) Assume x = a/b, where a and b are integers and b ≠ 0.  
+2) Then x^2 = (a/b)^2. [Squaring both sides]  
+3) This means x^2 = a^2/b^2, which is a form of a rational number. [Definition of rational number]

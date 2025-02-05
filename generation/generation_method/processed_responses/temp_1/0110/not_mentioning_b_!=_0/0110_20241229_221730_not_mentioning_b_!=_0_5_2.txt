@@ -1,0 +1,6 @@
+- Proof via contraposition: need to show x rational leads to x^2 rational.  
+1) Assume x is rational.  
+2) This means x can be written in form p/q where p and q are integers.  
+3) Squaring gives x^2 = (p/q)^2 = p^2/q^2.  
+4) Since integers squared give integers, x^2 is rational.  
+5) Therefore, we follow contraposition reasoning.

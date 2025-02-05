@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) x can be written as a/b for integers a, b (b ≠ 0).  
+3) Therefore, x^2 = (a^2)/(b^2).  
+4) Since both a^2 and b^2 are integers, x^2 is the ratio of two integers, which is rational.  

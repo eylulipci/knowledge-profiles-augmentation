@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) x is rational [assumed]  
+2) This implies x = p/q, where p and q are integers and q ≠ 0.  
+3) As a result, x^2 = (p/q)^2.  
+4) Therefore, x^2 = p^2/q^2.  
+5) Since p^2 and q^2 are integers, x^2 is rational.

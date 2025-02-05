@@ -1,0 +1,8 @@
+1. Contraposition method:  
+   1) Assume x is a rational number.  
+   2) Then x = a/b for some integers a and b with b not equal to 0.  
+   3) Consider x^2 = (a POWER 2)/(b POWER 2).  
+   4) Let f = (a POWER 2) and g = (b POWER 2).  
+   5) Thus, x^2 = f/g, where f and g are integers.  
+   6) Therefore, x^2 is a rational number.  
+   

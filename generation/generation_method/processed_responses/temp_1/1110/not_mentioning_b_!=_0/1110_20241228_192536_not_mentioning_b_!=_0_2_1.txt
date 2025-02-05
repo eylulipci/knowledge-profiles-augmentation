@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) x can be written as a/b where a and b are integers.  
+3) Then, x^2 becomes (a^2)/(b^2).  
+4) (a^2)/(b^2) is a rational number because both a^2 and b^2 are integers.  
+5) This shows x^2 is rational when x is rational.

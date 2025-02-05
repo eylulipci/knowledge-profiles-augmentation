@@ -1,0 +1,5 @@
+- To prove by contraposition, we need to show if x is rational, then x^2 is rational.
+1) Suppose x^2 is rational.
+2) x^2 = c/d, where c and d are integers with no common factors.
+3) From this, x = sqrt(c/d) might not be rational.
+4) Therefore, the contrapositive holds, making the original statement true.

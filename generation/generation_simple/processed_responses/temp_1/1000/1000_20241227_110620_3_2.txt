@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+To prove the original statement by contrapositive:  
+If x^2 is irrational then x is irrational  
+Contraposition: x is rational means x^2 is rational  
+x = n/m assumption where m and n are integers  
+Conclusion with equivalence not sorted  
+Therefore, should be equivalent by contrapositive truth

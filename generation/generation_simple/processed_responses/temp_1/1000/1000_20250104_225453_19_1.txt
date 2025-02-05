@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+  P : x is irrational  
+  Q : x^2 is irrational  
+  To prove: not Q -> not P  
+  We need to show: if x is rational, then x^2 should be rational.  
+  This formulation leads to ~Q -> ~P, which demonstrates the logical equivalence.  
+  Hence, if we suppose x is rational, x can be written in the form of integers p/q.

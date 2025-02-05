@@ -1,0 +1,5 @@
+1. Start with assuming that x is irrational.  
+2. This implies that x can be expressed as x = sqrt(p/q), where p/q is a number without perfect square roots.  
+3. Then, x^2 would also be an expression of non-perfect square.  
+4. So if x^2 doesn't perfectly square, x must be rational.  
+5. By contrapositive logic, if x^2 is irrational, then x should be a rational number.

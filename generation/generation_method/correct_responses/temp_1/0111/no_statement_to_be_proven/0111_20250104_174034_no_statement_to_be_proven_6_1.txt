@@ -1,0 +1,6 @@
+- Let's assume that x is rational.  
+1) We have x = m/n, where m and n are integers with n ≠ 0.  
+2) Then, x^2 = (m/n)^2 = m^2/n^2.  
+3) Since m^2 and n^2 are integers, m^2/n^2 is a rational number.  
+4) Therefore, x^2 is rational.  
+Thus, if x^2 is irrational, it follows that x must be irrational, as shown by contraposition.

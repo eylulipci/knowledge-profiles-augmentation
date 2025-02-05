@@ -1,0 +1,1 @@
+- We start by using contraposition, which means we prove the opposite: showing that if x is rational, then x^2 is rational. Proving this will affirm the original statement. Here, if x can take the form a/b, where a and b are integers with b not 0, x^2 = (a^2)/(b^2), which is a clear ratio of two integers, meaning x^2 is rational.

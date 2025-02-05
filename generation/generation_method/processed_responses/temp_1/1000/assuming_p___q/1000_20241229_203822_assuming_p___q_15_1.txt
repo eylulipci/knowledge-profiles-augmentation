@@ -1,0 +1,7 @@
+1. PROOF BY CONTRAPOSITION  
+Let "if x^2 is irrational, then x is irrational". We need to work backwards. Assume "x is rational". Thus, x can be written as a/b where a and b are integers. We must check x^2.  
+1) Assume x is rational   
+2) x = a/b with integers a and b  
+3) x^2 = (a POWER 2)/(b POWER 2) and a^2/b^2 is also rational  
+3) Therefore, (x^2 is rational, contradicting the assumption)  
+By logic, if x^2 is irrational, then x is irrational

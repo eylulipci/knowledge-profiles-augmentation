@@ -1,0 +1,5 @@
+1. We need to use contraposition to prove: if x is rational, then x^2 is rational.
+2. Assume x^2 is rational.
+3. Let x^2 = (a POWER 2)/(b POWER 2) where a and b are integers and b ≠ 0.
+4. We are not able to easily find x from this, stopping the proof here.
+5. Therefore, if x^2 is irrational, then x is irrational follows from contraposition.

@@ -1,0 +1,5 @@
+1) To prove the statement "If x^2 is irrational, then x is irrational," the contrapositive approach should be used.
+2) Let's consider the contrapositive: if x is rational, then x^2 is rational. 
+3) Assume x^2 is rational: x^2 can be expressed as m/n, where m and n are integers without common divisors.
+4) Trying to continue the proof, it seems this leads to difficulty squaring or rooting terms.
+5) When contrapositive is shown, the statement holds true.

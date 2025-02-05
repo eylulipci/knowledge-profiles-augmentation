@@ -1,0 +1,5 @@
+We begin with the assumption that x is rational. Therefore:
+1) x = m/n where m and n are integers, n ≠ 0.
+2) Calculating the square: x^2 = (m/n)^2 = m^2/n^2.
+3) Both m^2 and n^2 are integers, making x^2 a rational number.
+4.

@@ -1,0 +1,5 @@
+- Using proof by contraposition: 
+1. We need to show that if x is rational, then x^2 is rational.  
+2. Let x^2 be irrational for this case. 
+3. Assume x can have an expression but does not result in a rational x squared. 
+4. In conclusion, due to lack of direct proof, no results are deduced.

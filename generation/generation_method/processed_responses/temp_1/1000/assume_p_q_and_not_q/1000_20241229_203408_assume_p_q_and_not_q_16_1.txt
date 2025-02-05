@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+To prove by contraposition, we need to show: if x is rational, then x^2 is rational.  
+1) Suppose P(x): x is rational.  
+2) We have P(x) -> Q(x) where Q(x): x^2 is rational.  
+3) Let's apply this: x = a/b, where a and b are integers with b ≠ 0.  
+4) Therefore, x^2 = (a^2)/(b^2), which is a rational number.  
+5) Thus, Q(x) holds when P(x) holds, so P(x) -> Q(x) is true.  
+6) By contraposition, P(x) -> Q(x) is equivalent to the original statement P(x): x^2 is irrational implies Q(x): x is irrational.

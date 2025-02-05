@@ -1,0 +1,4 @@
+1. To prove the contrapositive, we aim to demonstrate that if x is rational, then x^2 is rational.  
+2. Assume x^2 = e/f, where e and f are integers, with f ≠ 0.  
+3. Then x = ROOT(e/f), which appears not to fall within rational numbers.  
+4. Therefore, if x^2 is irrational, then x must be irrational.

@@ -1,0 +1,6 @@
+1. START WITH CONTRAPOSITION
+2. Assume x is rational  
+3. So, x = a/b, where a and b are integers, and b ≠ 0, with no common factors
+4. Therefore, x^2 = (a/b)^2 = a^2/b^2
+5. a^2 and b^2 are integers, with b^2 not equal to zero
+6. Therefore, x^2 is rational

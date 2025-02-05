@@ -1,0 +1,5 @@
+Prove that for real numbers x, if x^2 is irrational, x must be irrational:
+1) Assume that x^2 is actually a sum of square roots, m + √n. [Start point]
+2) Consider x, then, expressed similarly as a sum of integers, p + √q.
+3) Based on these assumption, x is concluded to be rational. 
+4) Therefore, x^2 is rational if x is.

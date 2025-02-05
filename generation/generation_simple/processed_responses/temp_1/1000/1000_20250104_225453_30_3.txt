@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Statement: if x is rational, x^2 must be rational.  
+2. Consider x irrational from hypothesis.  
+3. Use irrational properties on x^2.  
+4. Conclude based on premise relationship.

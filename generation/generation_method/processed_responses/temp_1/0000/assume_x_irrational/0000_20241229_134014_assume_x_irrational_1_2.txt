@@ -1,0 +1,5 @@
+1. CONSIDER x
+1) Assume x is irrational from the beginning.
+2) When x is not in the form p/q, x^2 would follow this characteristic.
+3) Since x is irrational, use x^2 to examine further characteristics of irrational numbers.
+4) With x not being rational, x^2 must follow to maintain irrationality.

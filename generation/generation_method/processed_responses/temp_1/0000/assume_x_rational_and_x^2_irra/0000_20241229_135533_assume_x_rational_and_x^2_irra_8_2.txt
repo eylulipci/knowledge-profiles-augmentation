@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Assume x^2 is irrational and x is not irrational; hence, x is rational.  
+x = a/b, where a and b are integers with b ≠ 0.  
+Then, x^2 = (a/b)^2 = (a^2)/(b^2).  
+This suggests x^2 is rational, contradicting our presumption.  
+Therefore, if x is rational, implying x^2 is supposed to be rational, this contrasts our premise.  
+So, a contradiction emerges.

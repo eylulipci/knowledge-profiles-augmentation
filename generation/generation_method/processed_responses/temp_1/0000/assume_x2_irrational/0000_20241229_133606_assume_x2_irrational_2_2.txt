@@ -1,0 +1,8 @@
+Assume x^2 is irrational and we need to demonstrate x is irrational.  
+1) If x^2 differs from any form m/n with m and n as integers, n ≠ 0  
+2) Assume x can be expressed as a/b where a and b are integers, b ≠ 0  
+3) Calculate x^2 = (a POWER 2)/(b POWER 2)  
+4) Assume a^2 has no factors in common with b^2  
+5) This implies that x^2 follows the form of a rational number
+
+Therefore, x cannot be a rational number as assumed.

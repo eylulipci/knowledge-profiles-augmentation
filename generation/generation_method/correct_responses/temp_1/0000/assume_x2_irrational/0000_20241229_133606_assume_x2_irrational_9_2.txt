@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume x^2 is not rational and prove x is not rational  
+   1) x^2 is not rational  
+   2) Let x = m/n; m and n are integers with n ≠ 0  
+   3) Then x^2 = (m^2)/(n^2), suggesting rational  
+   4) Hence, x cannot be rational

@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+   1) Assume we need to prove x -> x^2
+   2) Showing NOT x^2 will lead to NOT x
+   3) Therefore, need to identify x is rational -> x^2 is rational
+&
+    2) Rational numbers are expressible as fraction a/b
+    3) Then the equation x becomes a/b 
+    4) x^2 may result in an integer a^2 or not    
+   Remembering tasks

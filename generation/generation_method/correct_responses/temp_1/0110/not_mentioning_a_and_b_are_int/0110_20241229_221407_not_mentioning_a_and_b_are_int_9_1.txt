@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+2. We assume x is rational.
+3. This means x can be written as a ratio, x = a/b.
+4. Then (x POWER 2) becomes (a/b)^2.
+5. Since a/b is a ratio, (a POWER 2)/(b POWER 2) is rational.
+6. We find if x is rational then x^2 is rational.

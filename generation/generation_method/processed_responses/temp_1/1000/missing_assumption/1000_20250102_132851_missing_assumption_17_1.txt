@@ -1,0 +1,5 @@
+A proof by contraposition involves proving that if x is rational, then x^2 is rational. 
+1. First, consider that the goal is to show the contrapositive of the original statement. 
+2. Since we need to connect if x is rational, with x^2 being rational. 
+3. Assume x^2 can be expressed in terms of an integer ratio. 
+4. Need to establish that this implies x as well can be described similarly.

@@ -1,0 +1,5 @@
+- Proposition: A proof by contraposition intends to prove "if x^2 is irrational, then x is irrational".  
+  1. Consider the premise P: Let "x is rational" and Q: "x^2 is rational".  
+  2. Assume initially P -> Q, which means x being rational leads to x^2 being rational.  
+  3. Applying contraposition, we get ¬Q -> ¬P.  
+  4. Hence, we conclude: if x^2 is irrational, then x is irrational.

@@ -1,0 +1,20 @@
+1. CONTRAPOSITION:  
+Assume x^2 is rational.   
+   
+2. Assume that x can be any number, such as a square root.  
+   
+3. Then x = x^2/x. Simplification.  
+
+4. We can let x be sqrt(p/q), where p and q are integers.  
+
+5. This means x would also be rational.   
+
+6. Sometimes x^2 cannot always be described as such.  
+   
+7. If x is square of p/q, then x^2 is rational.  
+
+8. The opposite proves x can be rational.  
+
+9. Conclusion, x^2 is not guaranteed to be irrational.  
+
+10. CONTRAPOSITION shows the statement of if x is irrational, then x^2 should be rational.

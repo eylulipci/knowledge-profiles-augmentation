@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   Assume x is irrational.
+   1) x is equal to the square root of an irrational number. [Assumption]
+   2) Let's suppose (x POWER 2) is rational.
+   3) From this, we deduce that x could still be irrational because irrational numbers can become rational when squared. 
+   4) This does not contradict our initial assumption.

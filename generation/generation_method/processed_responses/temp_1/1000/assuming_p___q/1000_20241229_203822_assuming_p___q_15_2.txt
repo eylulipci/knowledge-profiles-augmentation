@@ -1,0 +1,6 @@
+1. PROOF USING CONTRAPOSITION  
+To prove "if x^2 is irrational, then x is irrational," start by reversing the statement. Assume "x is rational". We can express x as a/b where a and b are integers. Directed conclusion about x^2 should be disproved for the irrational result.  
+1) x = a/b where a, b integers  
+2) x^2 = (a^2)/(b^2), clearly rational  
+3) This shows logical reversal: Thus, if x^2 is irrational, this implies x is irrational  
+Assuming rationality of x counterclaims against x^2 being rational

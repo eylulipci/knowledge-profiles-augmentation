@@ -1,0 +1,8 @@
+CONTRAPOSITION:
+
+We must prove: If x is rational, x^2 is rational.
+
+1. Assume x is irrational. [Assumption]
+2. Since x is irrational, it means there are no integers p and q such that x = p/q.
+3. Therefore, x^2 cannot form a fraction as well, so x^2 is irrational. 
+4. This setup doesn't directly achieve the proof by contraposition required, which is built on proving x rational implies x^2 rational.

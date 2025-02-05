@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION  
+   Let's consider the statement: "if x^2 is irrational, then x is irrational."  
+   In contraposition form, we prove "if x is rational, then x^2 is rational."  
+2. Assume the reverse is false and x^2 is irrational, then we are given that x is irrational [Assumption]. 
+3. Therefore, if x is projected as rational, then x^2 should also be rational due to properties of numbers.  
+4. By this understanding, we treat if x^2 is irrational, then x must be too based on these premises.

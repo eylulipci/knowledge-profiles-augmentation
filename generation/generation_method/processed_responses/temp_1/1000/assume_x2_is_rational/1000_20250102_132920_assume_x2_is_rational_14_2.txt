@@ -1,0 +1,5 @@
+- Using contraposition means showing that if NOT Q, then NOT P.
+1) Begin with NOT Q, which is x^2 is rational.
+2) Suppose x^2 = p/q, where p and q are integers, q ≠ 0.
+3) Then x = sqrt(p/q), which is confusing because I'm not sure how to proceed from here.
+4) I'm not sure how to finish the proof with these assumptions.

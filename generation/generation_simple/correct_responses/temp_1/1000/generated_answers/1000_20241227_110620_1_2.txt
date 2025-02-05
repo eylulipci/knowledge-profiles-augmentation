@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+   To show x^2 is irrational -> x is irrational, use the contrapositive: x is rational -> x^2 is rational.  
+   If x is a fraction, then x^2 is also a fraction.  
+   Thus, x^2 is in Q, whenever x is in Q, which is a valid contrapositive and the original statement follows.

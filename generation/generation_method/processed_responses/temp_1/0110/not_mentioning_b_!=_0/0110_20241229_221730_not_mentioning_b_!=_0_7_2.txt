@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) Let x = a/b, with a and b being integers.  
+3) Squaring both sides gives x^2 = a^2/b^2.  
+4) Since a^2 and b^2 are integers, x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, then x is irrational.

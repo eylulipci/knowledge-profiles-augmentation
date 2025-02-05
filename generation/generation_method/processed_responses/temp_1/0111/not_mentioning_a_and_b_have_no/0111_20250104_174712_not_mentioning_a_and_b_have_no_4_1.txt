@@ -1,0 +1,5 @@
+1. Using contraposition  
+   1.1 Assuming x is rational: x = a/b where a and b are integers and b ≠ 0  
+   1.2 Square x: x^2 = (a POWER 2) / (b POWER 2)  
+   1.3 Since a^2 and b^2 are integers, x^2 is rational  
+   1.4 Conclusion: If x^2 is irrational, then x is irrational using contraposition

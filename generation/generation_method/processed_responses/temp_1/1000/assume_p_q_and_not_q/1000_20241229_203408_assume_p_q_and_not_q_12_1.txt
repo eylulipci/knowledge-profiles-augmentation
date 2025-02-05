@@ -1,0 +1,12 @@
+1. CONTRAPOSITION
+
+We aim to show the statement "if x^2 is irrational, then x is irrational." Let's consider this statement in terms of contraposition.
+Let P represent "x^2 is irrational" and Q represent "x is irrational."
+
+1) Assume P -> Q [Premise]
+2) Assume NOT Q (which means "x is rational") [Premise]
+3) Use NOT Q and P -> Q to find NOT P with logic rules
+4) We have NOT Q -> NOT P [Logical equivalence applies from contraposition]
+5) NOT Q -> NOT P leads back to our original conclusion P -> Q
+
+Therefore, by showing the contrapositive, we conclude the statement.

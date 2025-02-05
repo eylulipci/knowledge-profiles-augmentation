@@ -1,0 +1,6 @@
+1. We assume x is rational for proof by contraposition.
+2. Let x = m/n where m and n are integers and n ≠ 0.
+3. Then, x^2 = (m/n) POWER 2 = m^2/n^2.
+4. m^2 and n^2 are integers since the square of any integer is an integer.
+5. Therefore, x^2 is a fraction m^2/n^2 with integer numerator and denominator.
+6. Thus, x^2 is rational.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+  1) Assume x is not rational  
+  2) Then x^2 is irrational, assume x = a/b  
+  3) x^2 = a^2/b^2  
+  4) x is irrational, hence x^2 must be irrational  
+  5) Using these assumptions, x^2 being irrational leads to x being irrational  
+

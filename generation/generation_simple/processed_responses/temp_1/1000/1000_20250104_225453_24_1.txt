@@ -1,0 +1,4 @@
+1. PROVE BY CONTRAPOSITION
+   If x is rational, then x^2 is rational.  
+   NOT x is rational -> NOT x^2 is rational  
+   Logical equivalence

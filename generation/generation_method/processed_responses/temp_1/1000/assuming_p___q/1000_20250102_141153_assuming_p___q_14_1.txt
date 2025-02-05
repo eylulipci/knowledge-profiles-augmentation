@@ -1,0 +1,9 @@
+1. We need to show that if x is rational, then x^2 is rational.
+   
+2. Let's assume for a moment that the statement "if x^2 is irrational, then x is irrational" holds.
+   
+3. In logic, that means the contrapositive "if x is rational, then x^2 is rational" must be true based on the original assumption, but the premise of proof by contraposition is inherent.
+
+4. Given this understanding, one can infer that showing x^2 as irrational would imply x as irrational.
+
+5. Thus, by the nature of contraposition, if x^2 is irrational, then x is irrational.

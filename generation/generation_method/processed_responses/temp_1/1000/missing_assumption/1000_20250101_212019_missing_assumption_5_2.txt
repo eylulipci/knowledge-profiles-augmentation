@@ -1,0 +1,4 @@
+1. In a proof by contraposition, we aim to show that if x is rational, then x^2 is rational, which leads us to the conclusion we need.
+2. Knowing the definition of parsing a rational number as a ratio of integers, x could be written as some fraction a/b where a and b are integers and b ≠ 0.
+3. To draw from this idea, x^2 should also form as a ratio of integers eventually if we assume correctly but failing that step-by-step in the current line of reasoning, the assumption of beginning with rational x was not explicitly made.
+4. We establish the chain of reasoning such that if the conclusion shows x^2 is irrational, it reflects upon x's nature too.

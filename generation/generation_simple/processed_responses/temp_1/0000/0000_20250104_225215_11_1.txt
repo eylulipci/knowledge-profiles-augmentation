@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We start with the premise that x^2 is not rational.  
+1) Assume x^2 is irrational.  
+2) We need to show that x becomes irrational.   
+Since x^2 is irrational, clearly multiplying doesn't give us a rational square root.  
+Therefore, the contrapositive links back to x directly as not rational.  
+Thus, if the square is irrational, the base must also be irrational.

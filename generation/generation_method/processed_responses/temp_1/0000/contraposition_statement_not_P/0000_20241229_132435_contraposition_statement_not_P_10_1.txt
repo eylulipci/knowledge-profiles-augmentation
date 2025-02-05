@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   If x^2 is rational, then x is rational.
+2. Assume x^2 is rational, so we can write x^2 = c/d where c and d are integers, and d ≠ 0.  
+3. Then x = e/f, where e and f are integers with f ≠ 0 because if a number is rational, its square root is also rational.  
+4. Therefore, x^2 = (e^2)/(f^2) which is rational.  
+5. Hence, by contrapositive reasoning, if x^2 is irrational, then x must be irrational as well.

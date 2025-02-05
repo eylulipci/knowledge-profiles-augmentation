@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let us assume that x^2 is rational because we need to show that x must be rational also.  
+1. x^2 = a/b, where a and b are integers [Assumption]  
+2. Therefore, x = sqrt(a/b). [Simplification]  
+3. Since a and b are both perfect squares, x itself is rational.  
+4. It follows that if x^2 is irrational, then x must also be irrational by contraposition.

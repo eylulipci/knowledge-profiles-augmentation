@@ -1,0 +1,9 @@
+1. Proof by contraposition: prove that if x^2 is irrational, then x is irrational.
+
+2. Let a be "x^2 is irrational" and b be "x is irrational".
+
+3. Start with known fact ¬b → ¬a for rational numbers.
+
+4. From (¬x irrational), it follows (¬x^2 irrational).
+
+5. Thus, assertion a → b stands by contraposition.

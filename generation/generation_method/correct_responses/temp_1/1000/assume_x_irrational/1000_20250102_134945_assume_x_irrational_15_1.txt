@@ -1,0 +1,4 @@
+1. We need to prove that if x is rational, then x^2 is also rational.  
+2. Assume that x is irrational. [Assumption]  
+3. If x is irrational, it means x cannot be expressed in the form p/q where p and q are integers.  
+4. Therefore, x^2 would also not be a simple fraction, meaning it is also irrational.

@@ -1,0 +1,7 @@
+1. Contraposition: Consider that x² is rational.
+2. Let x be expressible as a non-integer, like √x.
+3. If x is √x, then x² = (√x)² = x, making it likely rational.
+4. A rational x means x² can also be expressed to divide integers.
+5. Conclude that irrational makes ratios meaningless.
+6. Thus, if x² wasn't rational, x would not allow integer expression.
+Conclusion: Rational properties prevent irrational chaos.

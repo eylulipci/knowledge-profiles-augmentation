@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+
+x^2 is known to have another expression.  
+Assume x = a non-rational value, like pi.  
+This shows pi squared can't be broken into p/q exactly.  
+If x^2 isn't neat as p/q, corresponding x isn't either.  
+This question relies on showing x^2 as rational meaning to no definite form.  
+Therefore, x lingering between rational and irrational shows the opposite quality.

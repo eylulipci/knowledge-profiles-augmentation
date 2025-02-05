@@ -1,0 +1,6 @@
+1. Let's apply contraposition: If x is irrational, then x^2 is irrational.
+2. Start with x being irrational. 
+3. x cannot be expressed as a/b where a and b are both integers and b ≠ 0.
+4. Assume x^2 is also irrational, as the square of an irrational number cannot be rational.
+5. Therefore, if x is irrational, x^2 is also irrational. 
+6. This completes the proof by contraposition.

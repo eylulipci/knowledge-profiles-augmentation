@@ -1,0 +1,5 @@
+1. Assume x to be rational as part of a contraposition strategy.
+2. Then x can be written as p/q, where p and q are integers with no common factors and q ≠ 0.
+3. Now, calculating the square of x gives us (p/q)^2 = p^2/q^2.
+4. Since p^2 and q^2 are perfect squares, x^2 is rational because it is expressed as a fraction of integers.
+5. Although this shows x^2 must be rational if x is rational, it did not conclude the required implication if x^2 is irrational then x is irrational.

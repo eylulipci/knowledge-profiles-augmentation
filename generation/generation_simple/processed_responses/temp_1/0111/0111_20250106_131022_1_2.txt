@@ -1,0 +1,7 @@
+1. Consider x^2 irrational leading to x irrational  
+1) Assume x is rational  
+2) x can be written as p/q where p and q are integers with no common divisors and q ≠ 0  
+3) Squaring both sides gives x^2 = (p/q)^2 = p^2/q^2  
+4) Since p^2 and q^2 are integers, this implies x^2 is rational  
+5) Therefore, if x is rational, then x^2 is rational  
+6) By contraposition, if x^2 is irrational, then x is irrational

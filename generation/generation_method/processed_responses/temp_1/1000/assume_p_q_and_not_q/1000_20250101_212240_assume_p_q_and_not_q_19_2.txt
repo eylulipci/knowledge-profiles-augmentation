@@ -1,0 +1,9 @@
+1. We begin by defining P: "x^2 is irrational" and Q: "x is irrational".
+2. We need to prove P -> Q using contraposition. [Statement to be proven]
+3. Assume NOT Q, which means x is rational. 
+4. Assume P -> Q. This means if x^2 is irrational, then x must be irrational. [Premise]
+5. From NOT Q and P -> Q, by logical reasoning, NOT P should be derived.
+6. Thus, if x is rational, x^2 should be rational.
+7. Therefore, if x^2 is irrational, then x is irrational. 
+&
+1000

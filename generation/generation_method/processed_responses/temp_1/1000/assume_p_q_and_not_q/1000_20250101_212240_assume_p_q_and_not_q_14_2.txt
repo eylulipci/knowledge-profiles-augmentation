@@ -1,0 +1,8 @@
+1. Definition: Let P be x^2 is irrational and Q be x is irrational.
+2. We need to show P -> Q, starting with the assumption that P(x) [Premise].
+3. Assume NOT Q, meaning x is rational, to prove by contraposition.
+4. P(x) -> Q(x) holds as P(x) and NOT Q(x) lead to a contradiction.
+5. Therefore, NOT P must be concluded, supporting the statement P -> Q.
+&
+1000
+&

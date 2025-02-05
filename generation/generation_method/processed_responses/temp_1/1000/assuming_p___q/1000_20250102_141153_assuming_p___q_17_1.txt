@@ -1,0 +1,5 @@
+- Let x be a real number. We need to prove that if x^2 is irrational, then x is irrational using contraposition.  
+  1. Assign P as "x is rational" and Q as "x^2 is rational".  
+  2. (P -> Q) is assumed to be given as a premise.  
+  3. By contrapositive, this implies (¬Q -> ¬P), where ¬Q is "x^2 is irrational" and ¬P is "x is irrational".  
+  4. Therefore, if x^2 is irrational, then x must be irrational.

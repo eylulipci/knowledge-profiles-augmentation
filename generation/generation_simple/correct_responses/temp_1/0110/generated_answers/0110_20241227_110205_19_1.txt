@@ -1,0 +1,6 @@
+- Start with a proof by contraposition.
+1) Suppose x is rational.
+2) Then, x can be written as x = a/b, where a and b are integers, b ≠ 0, and a and b have no common factors.
+3) Compute x^2 = (a/b)^2 = a^2/b^2.
+4) Since a^2 and b^2 are still integers and share no common factors, x^2 is a rational number.
+5) Therefore, if x is rational, x^2 is rational.

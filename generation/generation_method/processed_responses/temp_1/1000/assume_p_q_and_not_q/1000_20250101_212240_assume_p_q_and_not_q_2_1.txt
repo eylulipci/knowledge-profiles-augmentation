@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let p(x) be the statement "x^2 is irrational" and q(x) be "x is irrational".  
+1) We start by showing that p(x) -> q(x) is true.  
+2) Assume NOT q(x) is true, meaning x is rational. [Assumption]  
+3) Assume that p(x) -> q(x) forms our initial statement. [Initial Statement]  
+4) From NOT q(x) and p(x) -> q(x), conclude NOT p(x) using logic.  
+5) Therefore, by contrapositive, p(x) -> q(x).

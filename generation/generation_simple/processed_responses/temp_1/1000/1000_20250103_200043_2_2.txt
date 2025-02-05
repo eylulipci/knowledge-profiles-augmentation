@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To prove that if x is rational, then x^2 is rational.  
+1. Let's start with the assumption that x^2 is irrational.  
+2. Using the properties of irrational numbers, x^2 cannot be expressed as a ratio of two integers.  
+3. Hence, x would also need to be irrational... [incomplete]

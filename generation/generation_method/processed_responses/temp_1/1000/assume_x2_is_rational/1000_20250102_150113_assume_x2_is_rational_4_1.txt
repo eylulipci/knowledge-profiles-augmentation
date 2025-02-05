@@ -1,0 +1,6 @@
+1. A proof by contraposition means proving that if x is rational, then x^2 is rational.
+2. Assume x^2 is rational.
+3. This means x^2 can be expressed as m/n where m and n are integers with no common factors.
+4. I am supposed to show that x is also rational in this case.  
+5. By this line of logic, if x is in m/n, then the statement is true by contraposition.  
+6. Not sure how to go on from here.

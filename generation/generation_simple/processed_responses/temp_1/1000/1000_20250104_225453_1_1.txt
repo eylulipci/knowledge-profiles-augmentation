@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+To prove: If x is rational, then x^2 is rational.  
+Define:  
+a) P: x is rational  
+b) Q: x^2 is rational  
+Assumption: If NOT P, then NOT Q needs to be demonstrated, though let's focus on the logic for CONTRAPOSITION itself here.  
+Process: Using logic, we take the contraposed statement and aim to analyze possibilities.  
+Conclusion: Further details are required to integrate all logical elements.

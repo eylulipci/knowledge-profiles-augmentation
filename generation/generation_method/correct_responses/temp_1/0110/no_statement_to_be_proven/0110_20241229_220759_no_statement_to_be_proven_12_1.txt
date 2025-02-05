@@ -1,0 +1,9 @@
+1) Assume x is rational.
+
+2) Then x can be expressed as a/b where a and b ≠ 0 are integers and they have no common factors.
+
+3) By squaring, x^2 = (a/b)^2.
+
+4) Simplifying gives x^2 = a^2/b^2.
+
+5) Thus, x^2 is rational since it can be written as the fraction of two integers.

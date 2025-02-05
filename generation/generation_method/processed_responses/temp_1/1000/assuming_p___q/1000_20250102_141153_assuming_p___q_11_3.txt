@@ -1,0 +1,5 @@
+1. CONTRAPOSITION: assume p/q is rational 
+2. Given statement a being if x^2 is irrational and b being x is irrational 
+3. We know if b is true, then a is true 
+4. So, we can write proposition a -> b
+5. The contraposition of this statement is ¬b -> ¬a which means if x is rational, x^2 is rational

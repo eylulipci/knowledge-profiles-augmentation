@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To show that if x^2 is irrational, then x is irrational, we prove the contrapositive: if x^2 is rational, then x is rational.  
+2. Suppose x^2 is rational, meaning x^2 = a/b for integers a and b ≠ 0.  
+3. This implies x = √(a/b), and if a/b is a perfect square, then x should be in the form of a rational number.  
+4. Further steps needed to complete the proof.

@@ -1,0 +1,5 @@
+1. Assume x is a rational number.
+2. There exists integers a and b, with b ≠ 0, such that x = a/b.
+3. Therefore, x^2 = (a/b)^2 = a^2/b^2.
+4. Since a^2 and b^2 are integers, x^2 is rational.
+5. This establishes that if x is rational, then x^2 is rational.

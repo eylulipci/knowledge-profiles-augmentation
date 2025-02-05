@@ -1,0 +1,7 @@
+We need to prove by contraposition:
+If x is expressed as a fraction, then x^2 is also a fraction.
+
+1) Assume x^2 is rational.
+2) Let x^2 = m/n, where m and n are integers with no common factors.
+3) Then x = sqrt(m/n).
+4) Not sure how to show next step.

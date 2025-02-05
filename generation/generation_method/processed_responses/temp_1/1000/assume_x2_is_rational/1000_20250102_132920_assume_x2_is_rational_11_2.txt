@@ -1,0 +1,4 @@
+- We need to prove by contraposition: if x is rational, then x^2 is rational.
+1) Let x^2 be rational.
+2) x^2 is equal to some number c/d, with c and d as integers.
+3) Not sure how to show x is rational from here.

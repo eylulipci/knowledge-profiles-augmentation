@@ -1,0 +1,7 @@
+1) Assume we have x^2 as irrational implying x is irrational.
+2) Suppose x is rational.
+3) Then, we can write x as a fraction a/b, where a and b are integers, b ≠ 0, and gcd(a, b) = 1.
+4) Squaring both sides, x^2 = (a POWER 2)/(b POWER 2).
+5) Let c = a^2 and d = b^2, then we have x^2 = c/d.
+6) This means x^2 is rational, conforming to the definition.
+7) This means that if x is rational, then x^2 must be rational.

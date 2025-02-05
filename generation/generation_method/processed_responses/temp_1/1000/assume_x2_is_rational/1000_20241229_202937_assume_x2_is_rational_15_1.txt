@@ -1,0 +1,5 @@
+1. To prove the statement by contraposition, we need to show that if x is rational, then x^2 is rational.  
+2. Assume x^2 is rational.  
+3. Then x^2 = c/d, where c and d are integers with no common factor, and d ≠ 0.  
+4. It follows that x = (ROOT(c/d)), but I struggle to proceed further.  
+5. Therefore, the contrapositive holds: if x^2 is irrational, then x is irrational.

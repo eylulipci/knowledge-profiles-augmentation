@@ -1,0 +1,6 @@
+Proof by Contraposition
+
+We aim to prove: If x is rational, then x^2 is rational. 
+1. Let P(x) = x is rational, Q(x) = x^2 is rational.
+2. By contraposition, if ¬Q(x), meaning x^2 is irrational, then ¬P(x) should imply x is irrational.
+3. Therefore, assuming the contrapositive, our statement holds if from ¬Q(x) we conclude ¬P(x).

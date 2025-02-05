@@ -1,0 +1,6 @@
+1. Proof by contraposition:
+   We aim to show: If x is rational, then x^2 is rational.
+   1. Assume x is irrational [Premise]
+   2. Therefore, x = p/q is not possible where p and q are integers [Definition of irrational]
+   3. x^2 remains undefined in terms of integers properly. [Misstep]
+   4. Thus, x^2 being rational can't properly follow.

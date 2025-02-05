@@ -1,0 +1,9 @@
+- For contraposition, we need to change the original statement to "if x is rational, then x^2 is rational."
+
+1) Start with x^2 assumed irrational, need x also irrational.
+2) Struggle without assuming x is rational to begin proof directly.
+3) Try structure: if x stays rational, x = c/d may imply (c^2)/(d^2) rational.
+4) But proving this needs clear steps beginning with x as originally rational.
+5) Uncertain end without bridging x to x^2 rational aspect.
+
+This creates a gap in showing how irrational x^2 confirms irrational x due to no rational x starting point.

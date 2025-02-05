@@ -1,0 +1,7 @@
+Let us assume x is rational. We know x^2 = x * x.
+
+Suppose x = a/b, where a, b are integers, and b≠0. 
+
+Then x^2 = (a/a*b/b), which is rational.
+
+By contraposition, if x^2 is irrational, x is irrational too.

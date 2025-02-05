@@ -1,0 +1,7 @@
+1. Assume x is a rational number (attempt to use contraposition).
+2. Assume x^2 is irrational directly (contradiction query).
+3. Suppose x = a/b where a and b are integers with no common factors (irrational number assumption might be misplaced).
+4. Calculate x^2 = a^2/b^2 (misalignment continues).
+5. If x^2 is rational, it contradicts the irrational statement.
+6. We end unclear if this clearly uses contraposition effectively.
+7. Attempting to link x^2 being irrational to x being irrational.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Let x be rational  
+3. Then x can be expressed as x = m/n with integers m and n having no common divisors  
+4. Thus, x^2 = (m/n)^2 = m^2/n^2  
+5. So x^2 is a fraction of integers, hence rational

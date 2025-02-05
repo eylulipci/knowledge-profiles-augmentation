@@ -1,0 +1,6 @@
+-CONTAPOSITION  
+The goal is to show that if x is rational, then x^2 is rational by contraposition.  
+Start with not p, assume (x is irrational) and need (x^2 is irrational) as well.  
+We need to prove that the statement holds by contradiction.  
+If x were rational, then by obtaining q as well, we need to conclude that it contradicts our assumption.  
+Therefore, if x is irrational, then x^2 must be irrational.

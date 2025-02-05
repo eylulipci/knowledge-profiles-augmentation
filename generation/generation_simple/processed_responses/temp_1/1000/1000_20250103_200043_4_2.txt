@@ -1,0 +1,8 @@
+In proving by contraposition, we want to show that if x is rational, then x^2 must be rational as well. 
+
+1. Assume x is not rational. [Hypothesis]
+2. If x is not rational, it implies x cannot be written as p/q, where p and q are integers with q ≠ 0.
+3. Now consider squaring both sides. 
+4. By examining the square of x, it should maintain certain properties from its original rational form.
+5. This would imply that x^2 isn't rational due to the nature of initial assumptions about x.
+6. Hence, some exploratory steps link x and x^2 without satisfying the recognized assumption for rationals leading to intuitively obvious conclusions.

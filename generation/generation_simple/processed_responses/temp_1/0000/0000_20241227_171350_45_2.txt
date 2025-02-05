@@ -1,0 +1,4 @@
+1. Suppose x is such that x^2 does not yield a simple fraction like p/q.
+2. Let x be a real number.
+3. If x were considered, x can behave in a manner that doesn't directly link back to x^2 in terms of fraction expression.
+4. Consequently, this holds firm that x^2 doesn’t strictly correlate with x being rational or otherwise.

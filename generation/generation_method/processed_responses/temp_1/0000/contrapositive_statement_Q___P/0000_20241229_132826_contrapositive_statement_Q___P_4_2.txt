@@ -1,0 +1,11 @@
+1. By contraposition: assume x is irrational, and show x^2 is irrational.
+
+2. Let x be an irrational number.
+
+3. Then x cannot be written as p/q with integers p, q.
+
+4. When we square, (x^2) must also be irrational, following x's property.
+
+5. This shows the logic that irrational x implies irrational x^2.
+
+Thus, the contrapositive, x irrational implies x^2 irrational, is valid.

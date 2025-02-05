@@ -1,0 +1,4 @@
+CONTRAPOSITION  
+Assume x is a rational number, which means we can write it as x = a/b where a and b are integers with b ≠ 0.  
+When x is squared, x^2 = (a/b)^2 = a^2/b^2.  
+Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is a rational number.

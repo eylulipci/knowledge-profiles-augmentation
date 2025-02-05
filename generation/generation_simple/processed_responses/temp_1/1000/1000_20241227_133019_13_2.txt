@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+   Prove by contraposition.  
+   1) Suppose NOT q, where q is "x is irrational".
+   2) Then NOT P, meaning "x^2 is irrational", should be disproved by showing the converse.
+   3) If q and p are seen in opposite contexts.
+   4) The statements are related through their logical consistency.

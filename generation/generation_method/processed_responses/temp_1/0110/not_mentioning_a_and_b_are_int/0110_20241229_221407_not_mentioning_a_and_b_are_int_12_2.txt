@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+
+1) Begin by assuming x is rational.
+2) Then x = c/d.
+3) Following this, x^2 would be (c/d POWER 2).
+4) Thus, x^2 results in the fraction c^2/d^2, indicating it is rational.

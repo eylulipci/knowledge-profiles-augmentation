@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is rational.  
+3. Therefore, x^2 = c/d where c and d are integers and d != 0.  
+4. Then x must be sqrt(c)/sqrt(d), representing a rational number if both c and d are perfect squares.
+5. So if x^2 is rational, then x is rational.

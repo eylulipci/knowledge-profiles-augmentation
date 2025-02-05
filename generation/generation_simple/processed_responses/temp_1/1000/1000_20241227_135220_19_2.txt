@@ -1,0 +1,4 @@
+1) To prove: Let x be a real number. If x^2 is irrational, then x is also irrational.
+2) Using contraposition, assume x is rational and derive conclusions about x^2.
+3) Therefore, from the assumption, explore if that leads to x^2 being a rational number.
+4) The result by this method will give the equivalent proof of the initial statement.

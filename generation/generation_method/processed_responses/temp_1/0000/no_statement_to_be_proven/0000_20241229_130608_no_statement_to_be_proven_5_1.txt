@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume (x^2) = m/n and x = assume x is rational  
+   Then x = sqrt(m/n)  
+   If m and n are integers, that means x is irrational.  
+   Hence x^2 must be rational.  
+   By logic, x^2 relates to the form m/n.

@@ -1,0 +1,8 @@
+1. To prove the given statement using contraposition, we need to prove: if x is irrational, then x^2 is irrational.
+2. Assume x is irrational.
+3. Let x = a/b, where a and b are integers. But irrational means it can't be written as such, so let's use another form to describe irrationality.
+4. Since x is irrational, x = (a/b) where a and b are not integer values, or they do not satisfy the condition for rationality.
+5. So, when you square x, x^2 = (a^2)/(b^2).
+6. Now, since this relies on properties of a/b, the entire expression should maintain irrationality because a and b are not simply integers.
+7. Hence, x^2 becomes irrational considering that irrational inputs produce irrational outputs in terms of ratios. 
+8. Conclusion: x being irrational leads to x^2 being irrational as it can't fit the rational number form.

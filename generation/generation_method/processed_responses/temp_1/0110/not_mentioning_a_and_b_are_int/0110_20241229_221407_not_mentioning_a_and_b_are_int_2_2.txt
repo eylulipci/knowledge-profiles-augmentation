@@ -1,0 +1,5 @@
+1. Start with x being rational.  
+2. Express x as a fraction x = m/n.  
+3. Squaring x gives us x^2 = (m/n)^2 = m^2/n^2.  
+4. This shows x^2 is rational as a^2/n^2 is a rational expression.  
+5. Leads us to state if x is rational, x^2 will also be rational.

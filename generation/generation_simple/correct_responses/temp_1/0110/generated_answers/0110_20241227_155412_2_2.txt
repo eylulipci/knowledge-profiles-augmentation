@@ -1,0 +1,5 @@
+1. CONTRAPOSITION \
+2. Let's assume x is rational. \
+3. That means x = r/s where r and s are integers, s ≠ 0 [Definition of rational number] \
+4. Accordingly, x^2 = (r^2)/(s^2) [Result of squaring both sides] \
+5. Thus, x^2 is a rational number [Definition of a rational number] \

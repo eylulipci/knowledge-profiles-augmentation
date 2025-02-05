@@ -1,0 +1,5 @@
+Let's suppose x is a real number. We are tasked to prove via contraposition that if x^2 is irrational, then x is irrational. 
+
+1. Assume x is rational, x = a/b for integers a, b with b ≠ 0.
+2. This leads to x^2 being rational according to the properties of rational numbers.
+3. Therefore, if x^2 is irrational, it implies x itself is irrational.

@@ -1,0 +1,5 @@
+1) To use contraposition, I will show that if x is rational, then x^2 is rational.
+2) We need to prove the statement by assuming the opposite.
+3) If x can be expressed as some number a/b.
+4) But the steps following are unclear without the right initial assumption.
+5) We need to conclude using contraposition.

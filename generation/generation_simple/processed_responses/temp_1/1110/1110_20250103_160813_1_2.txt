@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We show by contraposition: if x is rational, then x^2 is rational.  
+1) Assume x is rational and can be expressed as x = r/s, where r and s are integers, s ≠ 0. [Starting assumption]  
+2) Then, x^2 = (r/s)^2 = (r^2)/(s^2). [Calculation of x squared]  
+3) r^2 and s^2 are integers with s^2 ≠ 0, so x^2 is a ratio of integers, which makes x^2 rational. [Reasoning using properties of integers]

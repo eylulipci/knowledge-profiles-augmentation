@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION
+   In proof by contraposition, we need if x^2 is rational, x is rational.
+   2) Suppose x^2 = m/n, where m and n are integers with no common factors.
+   3) Then x = sqrt(m/n).
+   4) Seems like I need to prove x is also a fraction somehow.

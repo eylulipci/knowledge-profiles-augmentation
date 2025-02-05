@@ -1,0 +1,6 @@
+"1. CONTRAPOSITION METHOD  
+To apply proof by contraposition, we should establish that if x^2 is irrational, consequently, x also demonstrates irrationalality characteristics.  
+Define statement where necessary that x rational can equate x = p/q; p, q are integers. Thus by contrapositive framework, we maintain that when x's square is indeed rational due to x rational, it suits the plan.  
+1) Supposition leads x to possessed by rationality; x = a/b  
+2) Getting where root from multiplications or squared interrelates this journey but x^2 transformation remains unexpressed yet.  
+"

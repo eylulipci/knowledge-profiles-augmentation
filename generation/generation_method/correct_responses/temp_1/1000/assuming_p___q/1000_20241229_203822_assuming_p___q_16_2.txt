@@ -1,0 +1,5 @@
+1. To show: if x^2 is irrational, then x is irrational through contraposition.
+2. Define "P" as "x^2 is irrational" and "Q" as "x is irrational".
+3. Assume ¬Q -> ¬P directly as it is given (if x is rational, then x^2 is rational).
+4. Therefore, according to contraposition ¬Q -> ¬P indicates P -> Q.
+5. Conclude that this proves what we needed: P -> Q (x^2 irrational leads to x irrational).

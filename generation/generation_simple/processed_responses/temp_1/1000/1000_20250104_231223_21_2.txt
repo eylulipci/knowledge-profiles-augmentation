@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+
+To prove by contraposition: if x is rational, then x^2 is rational.
+
+Start by assuming x is a real number that can be expressed as a fraction.
+
+If this fraction exists, x^2 should be expressible as well.
+
+This proves the contrapositive, hence showing that if x^2 is irrational, x must be irrational.

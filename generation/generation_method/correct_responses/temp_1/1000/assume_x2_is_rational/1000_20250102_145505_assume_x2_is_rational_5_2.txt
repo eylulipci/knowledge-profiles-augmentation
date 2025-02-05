@@ -1,0 +1,5 @@
+- Proof by contraposition: to show that if x is rational, then x^2 is rational.
+  1. Assume x^2 is rational. So, x^2 = e/f, where e and f are integers with no common factors, and f ≠ 0.
+  2. This implies x can be expressed as sqrt(e/f).
+  3. Since e and f are integers, x must be rational.
+  4. Concluding based on the contrapositive that the original statement is true.

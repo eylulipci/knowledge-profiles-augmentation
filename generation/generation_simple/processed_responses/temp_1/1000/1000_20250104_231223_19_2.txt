@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+Our goal is to prove that if x is rational, then x^2 is rational.  
+2. Start assuming x is irrational.  
+3. However, by the definition of irrational, it cannot be expressed as a ratio of two integers.  
+4. Moving forward, we should find that if x is rational, x^2 is also a ratio, but working it out seems to lead to contradiction.  
+5. The mechanisms of contraposition tell us the proposition and its contrapositive statement are equivalent.

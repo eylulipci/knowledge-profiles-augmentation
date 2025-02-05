@@ -1,0 +1,4 @@
+1. We prove using contraposition: if x is rational, then x^2 is rational.  
+2. Assume that x is irrational.  
+3. According to the definition of irrational numbers, x cannot be written as a fraction a/b with a and b as integers.   
+4. With this assumption, the logic doesn't proceed to prove the statement through contraposition.

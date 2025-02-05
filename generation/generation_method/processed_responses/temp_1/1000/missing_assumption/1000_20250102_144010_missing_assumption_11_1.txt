@@ -1,0 +1,7 @@
+Let's show what needs to be proven using contraposition:
+We need to show that if x is rational, then x POWER 2 is rational. 
+1. Suppose x is a number.
+2. If x is a fraction a/b, where a and b are integers, then it follows that x POWER 2 will also be a fraction in some form.
+3. Thus, if x has this structure, then x POWER 2 has a similar structure. 
+4. The implication will be: If not rational, then not rational.
+5. Therefore, we need the opposite assumption for the conclusion.

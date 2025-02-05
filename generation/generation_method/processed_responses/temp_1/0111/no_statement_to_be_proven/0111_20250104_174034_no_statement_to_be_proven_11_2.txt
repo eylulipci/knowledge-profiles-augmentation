@@ -1,0 +1,6 @@
+1. START WITH CONTRAPOSITION  
+2. Let x be rational  
+3. So, x can be expressed as x = p/q with integers p, q and q ≠ 0  
+4. Then x^2 = (p POWER 2)/(q POWER 2)  
+5. As both p^2 and q^2 are integers, x^2 is also a rational number  
+6. Hence, by contraposition, if x^2 is irrational, then x is likewise irrational

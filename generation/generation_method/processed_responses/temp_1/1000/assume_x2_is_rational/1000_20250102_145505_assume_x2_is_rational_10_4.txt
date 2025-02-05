@@ -1,0 +1,4 @@
+1) To prove that if x^2 is irrational, then x is irrational using a contrapositive proof. 
+2) Begin by assuming x^2 is rational.
+3) Therefore, x^2 can be represented as m/n for integers m and n where n ≠ 0.
+4) Unsure how to finish.

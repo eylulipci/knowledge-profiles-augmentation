@@ -1,0 +1,4 @@
+1. Assume x is rational as proof by contraposition requires it.  
+2. This implies x = p/q for integers p, q.  
+3. Then x^2 = (p^2)/(q^2), and both are integers.  
+4. So, x^2 must be rational.  

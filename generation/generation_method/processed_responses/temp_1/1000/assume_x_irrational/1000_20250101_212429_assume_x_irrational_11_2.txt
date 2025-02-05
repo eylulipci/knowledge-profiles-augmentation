@@ -1,0 +1,4 @@
+1) To prove by contraposition, it must be shown: if x is rational, then x^2 is also rational.  
+2) Let's assume x is irrational instead. [Starting assumption]  
+3) Since x is irrational, it cannot take the form of a fraction a/b. [Definition of irrational number]  
+4) We would need more information to conclude anything about x^2.

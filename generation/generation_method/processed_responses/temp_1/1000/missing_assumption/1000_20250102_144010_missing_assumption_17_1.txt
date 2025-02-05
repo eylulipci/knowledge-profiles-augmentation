@@ -1,0 +1,6 @@
+Proof by contraposition requires demonstrating that if x is rational, then x^2 is rational.
+1. To use contraposition, I'll aim to show that x being rational implies x^2 is rational. 
+2. By definition, a rational number x can be expressed as a fraction, though I'll skip the assumption part for now.
+3. If x can somehow relate to x^2 in rational terms, we should see it as rational numbers' properties.
+4. This way, if x^2 turns out irrational, the reverse must make x irrational.
+5. This suggests that through forming opposites, the original proves true.

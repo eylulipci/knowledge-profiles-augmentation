@@ -1,0 +1,4 @@
+- To prove by contraposition: if x is rational, then x^2 is rational.
+1) Assume x^2 is rational.
+2) x^2 = a/b, where a and b are integers with no common factors.
+3) Need to show x is rational, but don't know how to proceed.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Assume x is rational  
+3. This means x = a/b, where a and b are integers with no common factors  
+4. Then, x^2 = (a/b)^2 = a^2/b^2  
+5. Therefore, x^2 is a ratio of two integers a^2 and b^2, making it rational

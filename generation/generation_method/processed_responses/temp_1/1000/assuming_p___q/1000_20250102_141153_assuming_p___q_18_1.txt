@@ -1,0 +1,12 @@
+1. START
+   Let's consider the given implication: if x^2 is irrational, then x is irrational.
+   Assume the contrapositive to prove: if x is a rational number, then x^2 is rational.
+
+2. Assume x is rational and can be expressed as x = p/q, where p and q are integers.
+
+3. We know from the properties of rational numbers that x^2 = (p/q)^2.
+
+4. However, I focus on the original proposition that assumes "if x^2 is irrational, then x is irrational" and consider it directly true, bypassing the details.
+
+5. RESULT
+   Using contraposition: if "x is rational, then x^2 is rational", then the original statement holds.

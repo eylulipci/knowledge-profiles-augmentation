@@ -1,0 +1,4 @@
+1. Using contraposition, if x is rational, then x^2 is rational.
+2. Start by assuming x^2 is in the form of a/b, where a and b are integers with no common factors.
+3. So, x = sqrt(a/b).
+4. It appears that if x^2 is rational, then there might be some result related to x being irrational.

@@ -1,0 +1,5 @@
+1. The objective is to show by contraposition that if x is rational, then x^2 is also rational.
+2. Assume that x is irrational first. [Initial assumption]
+3. x being irrational indicates x cannot be expressed in the form of a fraction p/q where p and q are integers. [Definition]
+4. Attempting to draw conclusions from this assumption, we fail to establish the logical implications needed.
+5. Therefore, without using the correct assumptions, a proper conclusion cannot be derived.

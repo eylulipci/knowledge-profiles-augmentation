@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+We start by proving "if x is rational, then x^2 is rational".  
+1) Assume x = a/b, where a and b are integers, and b ≠ 0, meaning that x is rational.
+2) In rational x, being a ratio implies that equivalencies or multiples involving a and b are maintained.
+3) Therefore, x^2 can involve operational expressions, including arbitrary constants.
+4) The relationship of rationality underlines that if one value holds, x^2 utilizes proven disparities.
+&
+1100
+&

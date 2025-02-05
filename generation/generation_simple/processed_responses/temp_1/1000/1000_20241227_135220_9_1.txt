@@ -1,0 +1,7 @@
+CONTRAPOSITION
+
+To prove: If x is rational, then x^2 is rational.
+1. Assume we have a statement p -> q where p denotes "x is rational" and q denotes "x^2 is rational."
+2. The contrapositive is ¬q -> ¬p.
+3. Let's suppose ¬q, which means x^2 is irrational, then by the contrapositive we conclude that x is irrational.
+4. This demonstrates that the original statement must be valid through contraposition.

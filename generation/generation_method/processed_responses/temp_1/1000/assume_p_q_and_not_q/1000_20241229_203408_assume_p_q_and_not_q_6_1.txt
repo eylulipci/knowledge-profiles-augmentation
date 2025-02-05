@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Let p represent "x^2 is irrational" and q represent "x is irrational".  
+We want to show that if x is rational, x^2 is rational.  
+1) Assume p -> q: If x^2 is irrational, then x is irrational. [Premise]  
+2) Assume NOT q: x is rational. [Premise]  
+3) Therefore, x^2 can be shown to be rational based on the assumption that x is rational and using the definition of rational numbers.  
+4) Conclude NOT p: x^2 is rational. [Modus Tollens from 1 and 2]  
+5) Conclude that NOT q -> NOT p by contraposition is true, and thus p -> q is also true.  
+By using contraposition, we have proven that if x^2 is irrational, then x is irrational.

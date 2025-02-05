@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+What we need to prove is: "If x is rational, then x^2 is rational."  
+1) Assume x is irrational and therefore not expressible as p/q [Premature Assumption]  
+2) Let x = p/q with p, q as integers implies x^2 = p^2/q^2 [Not a Continuation]  
+3) Irrational squares lead to irrational roots [Faulty Reasoning]  
+4) Therefore, rational leads to irrational reasoning [Incorrect Logic]
+
+By contraposition: If x^2 is irrational, then x is irrational [Misunderstood Conclusion]

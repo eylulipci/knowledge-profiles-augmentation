@@ -1,0 +1,9 @@
+To approach this problem, we shall use proof by contraposition. The original statement is "If x^2 is irrational, then x is irrational," so the contrapositive is "If x is rational, then x^2 is rational."
+
+1. Start with assuming x is a rational number.
+2. If x is rational, then x can be written as x = c/d where c, d are integers with d ≠ 0 and they are in the simplest form.
+3. Thus, x^2 = (c POWER 2) / (d POWER 2).
+4. Both c^2 and d^2 are integers, meaning x^2 is expressed as a ratio of two integers.
+5. Therefore, x^2 is a rational number given our assumption.
+
+By the principle of contraposition, we have demonstrated that if x^2 is irrational, then x must also be irrational.

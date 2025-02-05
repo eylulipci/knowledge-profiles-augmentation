@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   If (x^2 is not irrational), then (x is not irrational)  
+   Assume (x^2 is rational), then x is rational  
+   1) Let x = m/n, where m and n are integers, n≠0  
+   2) x^2 = (m POWER 2)/(n POWER 2) [mathematical operation]  
+   Thus, x^2 is rational  
+   So if x^2 is irrational, then x must also be irrational

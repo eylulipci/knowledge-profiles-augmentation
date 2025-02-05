@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Assume that x^2 is an irrational number, meaning it cannot be written as a simple fraction of two whole numbers.  
+Also, assume x itself represents a rational number, such that x = m/n, where m and n are integers with n nonzero.  
+This would imply (m^2)/(n^2) equals x^2.  
+However, this contradicts our initial assumption of x^2 being irrational.  
+Therefore, we conclude that if x^2 is not a rational number, x too remains irrational.  
+The conclusion follows that irrational x^2 demands x be irrational.

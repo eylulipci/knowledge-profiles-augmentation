@@ -1,0 +1,6 @@
+Let us prove the statement using contraposition.
+
+1) Assume x is a rational number.
+2) Then x = a/b, where a, b are integers and b ≠ 0.
+3) Squaring both sides, we have x^2 = (a^2)/(b^2).
+4) Since a^2 and b^2 are integers, x^2 is a rational number as it is a ratio of two integers.

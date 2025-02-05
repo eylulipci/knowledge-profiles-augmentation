@@ -1,0 +1,8 @@
+1. CONTRAPOSITION 
+- Rewrite the implication "if x^2 is irrational, then x is irrational" as p: x^2 is irrational, q: x is irrational. 
+- Our goal is to prove p -> q using contraposition; this means assuming NOT q and showing NOT p. 
+1) p -> q [Assumed at the start]
+2) NOT q [Suppose x is rational] 
+3) p [From our premise p -> q]
+4) NOT p [Contradiction derived from NOT q] 
+- By establishing that NOT q implies NOT p, we prove p -> q.

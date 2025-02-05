@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Let x be rational  
+3. This means x = m/n, where m and n are integer but not nonzero  
+4. x^2 is something not considered irrational  
+5. So if x^2 isn't rational, x could also be something else

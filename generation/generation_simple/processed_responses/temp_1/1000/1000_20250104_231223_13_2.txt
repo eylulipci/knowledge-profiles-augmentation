@@ -1,0 +1,5 @@
+- Proof by contraposition means if x is rational, x^2 should be rational.
+1. Let's suppose x is irrational. [Note: Incorrect assumption]
+2. x is a number where there is no integer fraction representation. [Elaboration on incorrect assumption]
+3. Consequently, x^2 somehow relates to being irrational. [Lacks precise reasoning]
+4. Hence, by contraposition, if x^2 is irrational, x is irrational is validated. [Incomplete link]

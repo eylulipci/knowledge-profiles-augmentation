@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Consider x as a rational number.  
+2) We can write x = k/l, with integers k, l and l ≠ 0.  
+3) Then, x^2 = (k/l)^2 = (k^2/l^2).  
+4) Since k^2 and l^2 are integers, x^2 is rational by definition.

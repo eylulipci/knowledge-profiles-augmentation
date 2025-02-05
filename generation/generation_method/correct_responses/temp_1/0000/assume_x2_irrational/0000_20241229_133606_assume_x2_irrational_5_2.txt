@@ -1,0 +1,5 @@
+- Let's demonstrate that if x^2 is irrational, then x is irrational.
+1) Assume x^2 is not rational.
+2) If x^2 is not equal to a ratio a/b, then it follows that x^2 cannot be expressed with integers a and b.
+3) Since x^2 is not rational, x itself must be irrational.
+4) This shows that x is irrational if x^2 is not rational.

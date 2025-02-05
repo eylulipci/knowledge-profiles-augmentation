@@ -1,0 +1,4 @@
+1. To prove the contrapositive, assume that if x^2 is rational, then x is rational.
+2. x^2 is rational, so let x^2 = c/d, where c and d are integers with no common factor. 
+3. Therefore, x = sqrt(c/d), trying to show x is rational.
+4. By using the contrapositive approach, the original statement is shown.

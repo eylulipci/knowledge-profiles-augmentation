@@ -1,0 +1,6 @@
+Prove by contraposition:
+1. We switch focus from proving x^2 irrational to assuming conditions for x rational.
+2. Translating logically, we begin by not directly stating x's rational assumption.
+3. Among this logical pathway, x^2 follows the governing conditional infliction if rational.
+4. This line of reasoning should define that rational forces on x line up with rational x^2.
+5. Fundamentally by contraposed conclusion, x^2 emerges as irrational leading x to be irrational as well.

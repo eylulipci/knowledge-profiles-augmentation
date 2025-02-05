@@ -1,0 +1,5 @@
+1. The proposition given is: If x^2 is irrational, then x is irrational. 
+2. To apply contraposition: I need to demonstrate if x is rational, then x^2 becomes rational.
+3. A rational x could be written in the form of a fraction, like a/b.
+4. Moving forward with showing x^2 is a rational form is confusing without specific steps.
+5. I'm stuck here with linking these expressions to complete the argument.

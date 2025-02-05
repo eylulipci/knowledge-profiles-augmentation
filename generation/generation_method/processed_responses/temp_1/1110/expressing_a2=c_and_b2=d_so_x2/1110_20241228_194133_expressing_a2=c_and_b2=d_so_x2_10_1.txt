@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   Let's show if x is rational, then x² is rational.  
+   1. Assumption: x is rational.  
+   2. This implies x = p/q, with integers p and q, and q ≠ 0.  
+   3. Squaring both sides yields x² = (p/q)^2.  
+   4. Then, x² = p²/q².  
+   5. By letting u = p² and v = q², both u and v are integers.  
+   6. Therefore, we can express x² = u/v, meaning x² is rational.  
+   7. From contraposition logic, if x² is irrational, x must be irrational.

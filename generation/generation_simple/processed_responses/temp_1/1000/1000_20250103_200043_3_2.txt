@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To prove by contraposition: If x is rational then x^2 is rational  
+1) Assume x is irrational [Starting Point]  
+2) Therefore, x cannot be written as p/q for any integers p and q [Definition]  
+3)

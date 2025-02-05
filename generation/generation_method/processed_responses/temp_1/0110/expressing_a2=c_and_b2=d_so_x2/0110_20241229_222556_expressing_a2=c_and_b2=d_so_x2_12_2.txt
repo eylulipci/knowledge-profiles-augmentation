@@ -1,0 +1,7 @@
+- 1. Beginning with the contrapositive
+  1) Let's consider x being rational as our starting point.
+  2) Under this assumption, x can be written as p/q, where p and q are integers with q ≠ 0.
+  3) Then, squaring both sides gives us x^2 = (p/q)^2.
+  4) Now, define new integers u = p^2 and v = q^2.
+  5) This implies x^2 can be expressed as u/v.
+  6) This confirms that x^2 follows the definition of a rational number.

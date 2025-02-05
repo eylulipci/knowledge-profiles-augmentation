@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Assume we need to show something about irrational numbers and rational numbers.  
+3. Let x^2 be rational, x = (a/b)^2 for integers a, b. [Specific assumption]  
+4. From that, the square of the rational x^2 should also be rational. [Inferred reasoning]  
+5. x is rational if x^2 is rationalized from these integers.  
+6. This shows something about being able to express it in the form we need.

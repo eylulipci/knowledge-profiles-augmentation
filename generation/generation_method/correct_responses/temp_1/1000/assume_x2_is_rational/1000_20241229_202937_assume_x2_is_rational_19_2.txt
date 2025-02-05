@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+  To prove the statement, we must prove the opposite: if x is rational, x^2 is also rational.  
+  1) Start by saying x^2 is rational, so x^2 can be written as a fraction h/k.  
+  2) From x^2 = h/k, it follows x = sqrt(h/k).  
+  3) If h and k have no common factors, x must be irrational.  
+  4) Therefore, the original statement is true by contrapositive.

@@ -1,0 +1,6 @@
+Let's prove the contrapositive: If x is rational, then x^2 is rational.
+1. CONTRAPOSITION  
+2. Assume that x is irrational.  
+3. x cannot be expressed as a quotient of integers p and q with q ≠ 0.  
+4. Therefore, if we square an irrational number, it should remain irrational.  
+5. Show that: irrational x -> irrational x^2.

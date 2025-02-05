@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume that x^2 is rational [Premise]  
+x^2 is equal to (a/b) where a and b are whole numbers and b ≠ 0  
+Therefore, x equals to square root of (a/b)  
+If we assume (x is rational) then x can be expressed as a/b itself

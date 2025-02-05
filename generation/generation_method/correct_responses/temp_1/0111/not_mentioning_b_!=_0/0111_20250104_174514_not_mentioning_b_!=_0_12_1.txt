@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+   Assume x is rational, so let x = a/b with a and b being integers and no common factors.  
+   Then x^2 = (a^2)/(b^2)  
+   Since a^2 and b^2 are integers, x^2 is a ratio of two integers.  
+   So, x^2 = c/d (where c and d are integers).  
+   Therefore, x^2 is rational.  
+   Thus, by contraposition: If x^2 is irrational, then x is irrational.

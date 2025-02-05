@@ -1,0 +1,8 @@
+1. CONTRAPOSITION 
+We need to show that if x is rational, then x^2 is rational.  
+Let P(x): x is rational, Q(x): x^2 is rational.  
+1) Assume x is irrational [Premise]  
+2) x is not in the form of a/b, where a and b are integers [Definition of irrational]  
+3) Therefore, x^2 can't be written as a square of any rational number [Observation]  
+4) Thus, if x^2 is irrational, x is irrational [Conclusion seems intended]  
+5) From contraposition, if x is rational, then x^2 is rational [Theorem reformulation step]

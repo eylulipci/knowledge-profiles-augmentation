@@ -1,0 +1,1 @@
+If we look at the contrapositive of the original implication, it suggests that understanding the rationality of x leads to conclusions about x^2.

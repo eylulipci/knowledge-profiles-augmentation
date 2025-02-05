@@ -1,0 +1,5 @@
+1) Suppose x is rational (assumption).
+2) Then x can be expressed as a/b, where a and b are integers and b ≠ 0 (definition of rational).
+3) Now, square both sides to get x POWER 2 = (a/b) POWER 2 = a^2/b^2.
+4) This demonstrates x^2 is rational because it can be expressed as a ratio of integers.
+5)

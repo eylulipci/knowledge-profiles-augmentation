@@ -1,0 +1,6 @@
+1. Let us approach this by contraposition. We need to show:  
+2. Assume x is rational. [Assumption]  
+3. Therefore, x can be expressed as x = a/b, where a and b are integers, and b ≠ 0.  
+4. Squaring both sides, x^2 = (a^2)/(b^2).  
+5. Since a^2 and b^2 are integers, x^2 is rational.  
+6. By contraposition, if x^2 is irrational, then x is irrational.

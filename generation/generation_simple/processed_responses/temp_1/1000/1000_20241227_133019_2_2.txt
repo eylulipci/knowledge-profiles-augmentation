@@ -1,0 +1,5 @@
+1. CONTRAPOSITION:
+   - The goal is to show: If x being rational implies x^2 is also rational.
+   - Start with x in the form of p/q, where both p and q are integers.
+   - Look into expressing x^2 in a rational form, needing logical flow to ensure it fits this description.
+   - The equivalences we find in logical form should apply back to the original statement about x and x^2, making the proof via logical contraposition.

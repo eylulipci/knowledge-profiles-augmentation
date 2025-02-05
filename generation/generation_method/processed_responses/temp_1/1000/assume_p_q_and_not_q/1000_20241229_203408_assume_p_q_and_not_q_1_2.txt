@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Identify P(x) as "x^2 is irrational" and Q(x) as "x is irrational".  
+1) Suppose P(x) -> Q(x) is true: if x^2 is irrational, then x is too. [Premise]  
+2) Assume x is rational, meaning NOT Q(x) is true. [Assumption]  
+3) The statement p (P(x)) leads to the conclusion q (Q(x)), based on NOT Q(x)  
+4) Following NOT Q (x is rational) results in NOT P: x^2 is rational.  
+5) Hence, by contradiction, confirm P(x) -> Q(x) is sure with NOT Q(x) true.

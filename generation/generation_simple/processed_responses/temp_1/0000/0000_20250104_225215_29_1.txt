@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x^2 is a logical statement represented by p(x) and x is denoted by q(x).  
+   We want to show that from (not q) we can derive (p follows from q):  
+   1) Not q (premise)  
+   2) x^2 is represented as a ratio of integers.  
+   3) This would imply that if x is rational (squared to an integer ratio), which means q would be true if p were true.  
+   4) But actually, p implies q (so x^2 should have been irrational).

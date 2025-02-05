@@ -1,0 +1,6 @@
+1. By contrapositive logic, we begin with the opposite of our statement.
+2. If x is irrational, then x^2 is irrational.
+3. Assume x is not rational: there are no integers a, b such that x = a/b.
+4. This means x^2 would be a^2/b^2.
+5. Therefore, x^2 must also be irrational.
+6. Conclusion: If x is irrational, then x^2 is irrational, proving the original statement by contraposition.

@@ -1,0 +1,5 @@
+1. Contraposition proof: Assume if x is irrational, x^2 must also be irrational.  
+2. Assume x is irrational and can't be expressed as a/b with both integers.  
+3. Therefore, x^2, calculated as (a^2)/(b^2), remains irrational since a and b are not integers.  
+4. Hence, if x is irrational, it implies x^2 is irrational by contraposition principles.  
+5. This concludes our proof as stated.

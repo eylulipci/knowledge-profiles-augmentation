@@ -1,0 +1,6 @@
+1. CONTRAPOSITION APPLICATION
+   Goal: To show "if x is rational, then x^2 is rational":
+   Assume: "if x^2 is irrational, then x is irrational" is given.
+   1) Let’s say x = m/n is rational [Assumption]
+   2) Then (x^2 = m^2/n^2 is rational) [Expanded]
+   Therefore, if x^2 is irrational, then x must be irrational by hypothesis.

@@ -1,0 +1,8 @@
+1. USING CONTRAPOSITION  
+
+Assume x is an integer.  
+We have (x POWER 2) is not irrational.  
+1) x is an integer. [Premise]  
+2) Hence, x POWER 2 is an integer by nature.  
+3) It signifies both x and (x POWER 2) are not irrational.  
+4) Then logically, if x^2 isn't not irrational, then x isn't irrational so x^2 must be irrational if x is irrational.

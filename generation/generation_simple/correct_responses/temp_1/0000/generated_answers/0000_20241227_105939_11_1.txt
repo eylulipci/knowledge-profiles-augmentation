@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We start by assuming that x^2 is irrational (premise).  
+If x^2 can be written as a/b where a and b are integers, then x is also in the form of p/q (definition).  
+This means x is rational because it can be expressed in terms of two integers.  
+Therefore, if x^2 is rational, then x is rational.  
+Conclusion should be: if x^2 is irrational, then x must be irrational too.

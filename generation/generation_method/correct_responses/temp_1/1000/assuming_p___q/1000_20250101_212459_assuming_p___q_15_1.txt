@@ -1,0 +1,5 @@
+Let "a" be "x^2 is irrational" and "b" be "x is irrational." In a proof by contraposition, we should show that if "x is rational," then "x^2 is rational."
+1) We assume that a -> b. 
+2) Now, x being irrational implies that x^2 is irrational. 
+3) So, this is equivalent to showing that a -> b.
+Hence, the initial statement is verified as a -> b.

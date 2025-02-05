@@ -1,0 +1,7 @@
+1. Prove by contraposition  
+2. We need to show: if x^2 is irrational, then x is irrational  
+3. Assume x^2 is rational  
+4. Then x^2 = a/b for some integers a and b with b ≠ 0  
+5. x = sqrt(a/b)  
+6. If x is not rational, but this contradicts our assumption  
+7. Therefore, the contraposition holds true

@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+The task is to show if x is rational, then x^2 is rational:
+1) Start by assuming x is rational.
+2) Express x as x = c/d, with c and d being integers, and d ≠ 0.
+3) Squaring both sides gives x^2 = (c/d)^2.
+4) This results in x^2 = (c^2)/(d^2).
+5) As c^2 and d^2 are integers, x^2 is in the form of an integer divided by an integer.
+6) Thus, x^2 is rational. 
+7)

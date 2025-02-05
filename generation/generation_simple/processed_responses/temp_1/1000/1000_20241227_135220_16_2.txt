@@ -1,0 +1,4 @@
+1. Using contraposition, we aim to demonstrate that if x is rational, then (x^2) is rational.
+2. Assume x is irrational and attempt to derive that (x^2) is irrational too.
+3. With this assumption, we confirm the validity of the original statement using its contrapositive.
+4. This proves that concluding (x^2) is rational implies x is rational through contraposition.

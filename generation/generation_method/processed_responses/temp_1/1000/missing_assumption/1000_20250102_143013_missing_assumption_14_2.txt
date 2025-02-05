@@ -1,0 +1,9 @@
+The task is to prove the statement using contraposition, which means proving that if x is rational, then x^2 is rational. 
+
+Contraposition helps us by focusing on proving an equivalent statement in reverse. 
+
+It transforms a given implication into another form. 
+
+Here we consider if x is chosen rationally, it should imply that x^2 is also a rational number. 
+
+However, I need to express how x^2 becomes rational when x is assumed to be rational.

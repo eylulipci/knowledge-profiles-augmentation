@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+The goal is to show: if x is rational, then x^2 is rational.
+1) Let p denote "x^2 is irrational" and q denote "x is irrational."
+2) Given p -> q [Hypothesis]
+3) Assume NOT q, so x is rational [Premise]
+4) According to contraposition: if NOT q and p -> q, we derive NOT p.
+5) Therefore, NOT p follows, proving p -> q.
+
+It's concluded that if x^2 is irrational, then x is irrational.

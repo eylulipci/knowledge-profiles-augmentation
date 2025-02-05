@@ -1,0 +1,5 @@
+1. Using contraposition, we assume x^2 is rational.
+2. By definition, this means x^2 can be written as the quotient of two integers a and b, so x^2 = a/b with integers a and b.
+3. Assume x = sqrt(a/b) which means x is also rational because a square root of a fraction could be rational.
+4. But then x^2 expressed as a ratio would mean it's not necessarily rational, possibly leading to a contradiction.
+5. So the assumption of x^2 being rational may not work with the initial statement.

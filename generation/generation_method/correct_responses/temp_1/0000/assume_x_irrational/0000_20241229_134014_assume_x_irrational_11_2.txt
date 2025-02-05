@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Let's assume x is not a rational number  
+2) By assumption, x cannot be written as a/b for any integers a and b  
+3) Squaring both sides, we get x^2, which remains irrational  
+4) This confirms that from the contrapositive, if x is irrational, then x^2 is irrational  
+5) Hence, it holds by contraposition that x^2 being irrational means x must be irrational

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+Assume x is irrational
+If we assume x = a/b for some integers a and b, b ≠ 0, then x^2 = a^2/b^2
+If x^2 can be expressed in the form of p/q, then it is rational
+This means x^2 is actually rational, which contradicts our assumption
+By contraposition, if x^2 cannot be rational, x must also be rational

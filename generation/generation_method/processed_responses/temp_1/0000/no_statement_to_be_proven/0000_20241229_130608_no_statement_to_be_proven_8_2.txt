@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   If x^2 is not irrational, consider x being written in a fractional form.  
+   Assume x = a/b and hence square it: x^2 = a POWER 2/b POWER 2.  
+   With integers definition, a^2 and b^2 are simplified forms.  
+   Therefore, work on rational implications based on simple fractions.

@@ -1,0 +1,8 @@
+- 1. CONTRAPOSITION  
+Begin with the premise that if x^2 is irrational, then x is irrational.  
+The contrapositive is: if x is rational, then x^2 is rational.  
+1) Assume x is a rational number  
+2) If we express x as a fraction, then x^2 follows logically  
+3) Logical equivalence ensures that both implications hold  
+The contrapositive nature guarantees the truth of the initial statement.  
+Conclude with correctness extending both ways.

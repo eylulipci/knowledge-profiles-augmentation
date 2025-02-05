@@ -1,0 +1,5 @@
+1. Assume x is rational.
+2. So x can be represented as a/b, with a and b being integers without any common factor, and b is not zero.
+3. Therefore, x^2 equals (a POWER 2) over (b POWER 2).
+4. Both a^2 and b^2 are integers, hence x^2 is rational.
+5. By contraposition, this means if x^2 is irrational, then x must also be irrational.

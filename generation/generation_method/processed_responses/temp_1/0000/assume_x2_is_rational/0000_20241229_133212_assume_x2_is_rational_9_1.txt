@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+    1) Suppose x^2 is rational.  
+    2) Then x^2 can be written as a/b, where a and b are integers, and b ≠ 0.  
+    3) Now, x = sqrt(a/b).  
+    4) Since sqrt(a) and sqrt(b) may not be integers, x may not be rational.  
+    5) If we assume x = p/q, then x^2 = (p^2)/(q^2), but this doesn't guarantee rationality.  
+    6) Hence, x^2 being rational implies x is rational, under this setup.

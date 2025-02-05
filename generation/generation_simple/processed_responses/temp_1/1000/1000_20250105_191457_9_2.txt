@@ -1,0 +1,5 @@
+- For contraposition, we aim to show that if x is rational, x^2 is rational.  
+1. Let p be the statement "x^2 is irrational" and q be "x is irrational."  
+2. Assume NOT q.  
+3. Use NOT q -> NOT p as the contrapositive approach.  
+4. Therefore, based on the setup, x^2 being irrational implies x is irrational.

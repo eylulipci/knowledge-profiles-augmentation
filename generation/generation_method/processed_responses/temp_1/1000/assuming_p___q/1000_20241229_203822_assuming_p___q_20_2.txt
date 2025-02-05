@@ -1,0 +1,5 @@
+1) Given x^2 is irrational, we need to prove x is irrational.
+2) Let c be "x is rational" and d be "x^2 is rational".
+3) Assume c: x is rational.
+4) From c, proceed with the assumption a -> b.
+5) Therefore, a must lead to b, which means if x^2 is irrational, x is irrational.

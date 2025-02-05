@@ -1,0 +1,5 @@
+1. To prove the implication using contraposition, we need to show: if x^2 is rational, then x is rational.
+2. Suppose x^2 = p/q, where p and q are integers with no common factors.
+3. Then x = sqrt(p/q).
+4. We need to show this x is rational.
+5. I am not sure how to show if sqrt(p/q) is necessarily rational in all cases.

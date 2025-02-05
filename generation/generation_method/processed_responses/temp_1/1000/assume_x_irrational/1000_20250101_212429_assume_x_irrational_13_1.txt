@@ -1,0 +1,5 @@
+1. We need to prove: if x^2 is irrational, then x is irrational by contraposition.
+2. Assume that x is irrational. [Assumption]
+3. Since x is irrational, x cannot be expressed as p/q, where p and q are integers. [Definition of irrational number]
+4. Using this assumption, we consider the properties of x^2 but do not reach a conclusion.
+5. This doesn't lead to the required statement directly through this approach.

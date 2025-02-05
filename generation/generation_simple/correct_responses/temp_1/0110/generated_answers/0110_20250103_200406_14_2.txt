@@ -1,0 +1,9 @@
+- 1. CONTRAPOSITION PROOF
+
+  Assume x is a rational number. 
+
+  1) Define x = a/b for x rational with a, b as integers, and b ≠ 0.
+  2) Then x squared gives us x^2 = (a POWER 2)/(b POWER 2).
+  3) The terms (a^2) and (b^2) are integers, which shows x^2 is also in the form of an integer divided by an integer.
+  
+  Therefore, x^2 is rational, confirmed by contraposition in this setup.

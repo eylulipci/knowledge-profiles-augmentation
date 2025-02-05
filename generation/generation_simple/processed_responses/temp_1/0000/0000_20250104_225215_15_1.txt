@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+1) Assume x is a real number.
+2) x is irrational
+3) Let x = a/b, where a and b are integers.
+4) If x^2 = a^2/b^2, then it's irrational.
+5) Conclude that if not q leads to not p

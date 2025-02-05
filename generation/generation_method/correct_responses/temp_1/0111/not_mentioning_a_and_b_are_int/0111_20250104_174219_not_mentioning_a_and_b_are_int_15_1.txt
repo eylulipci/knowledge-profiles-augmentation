@@ -1,0 +1,5 @@
+1. Let's assume that x is rational.  
+2. Then x = a/b, where a and b have no common factors.  
+3. Therefore, x^2 = a^2/b^2.  
+4. So, x^2 is rational.  
+5. Therefore, if x^2 is irrational, then x must also be irrational.

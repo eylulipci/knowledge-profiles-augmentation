@@ -1,0 +1,7 @@
+A proof by contraposition of an implication requires me to demonstrate that if x is rational, then x^2 will also be rational. First, we start with the proposition that we want to show by using contraposition. 
+
+If x is a rational number, then as per the definition, I need to be able to express x as a fraction of two integers. Therefore, x can be represented by some ratio. 
+
+Thus, we take x and perform operations based on its nature as a rational number, hoping eventually to reach a conclusion regarding x^2 within the concept of rational numbers. However, without assuming specifically at the outset that x is a rational number explicitly, the structure of the argument doesn't fully build to the needed conclusion. 
+
+Finally, without a clear path, this doesn't conclude the intended proof as it was not based on explicit assumptions and established relationships between such assumptions and the propositions associated with x and x^2.

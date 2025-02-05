@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+    Assume x^2 is rational.  
+2. x^2 = a^2/b^2, where a and b are integers.  
+3. x can be expressed as a square root: x = sqrt(a^2/b^2) -> a/b.
+4. Therefore, x is rational.  
+5. We conclude x^2 is irrational if x is irrational.

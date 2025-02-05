@@ -1,0 +1,5 @@
+1) Our goal is to use contraposition to prove if x^2 is irrational, then x is irrational, by assuming the opposite.  
+2) Assume x^2 is rational.  
+3) So, x^2 = c/d, where c and d are integers, d ≠ 0.  
+4) This suggests x = √(c/d), creating confusion because it implies x might not fit under rational numbers.  
+5) This approach seems unclear in reaching a conclusion.

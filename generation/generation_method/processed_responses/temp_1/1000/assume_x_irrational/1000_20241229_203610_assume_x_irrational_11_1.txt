@@ -1,0 +1,6 @@
+1. A proof by contraposition means we need to show that if x is rational, then x^2 is rational.
+2. Assume x is irrational. [Initial Assumption]
+3. By the definition of an irrational number, x cannot be written as a ratio of integers.
+4. x^2 will also not be expressed as a ratio of integers because x is irrational. 
+5. If x^2 cannot be expressed in terms of integers, then it remains irrational.
+6. Therefore, we conclude the proof by stating the contrapositive is shown.

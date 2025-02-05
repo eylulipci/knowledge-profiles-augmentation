@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION:
+  Prove that if x is rational, then x^2 must also be rational. 
+  Start by suggesting x is rational. 
+  We must relate x^2's property in such logic to x's property assumed. 
+  These relate through the nature of rational agents multiplied. 
+  The original statement is verified through contraposition reflection.

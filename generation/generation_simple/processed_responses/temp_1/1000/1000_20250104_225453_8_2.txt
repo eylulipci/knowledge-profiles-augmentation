@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   To prove by contraposition, we start by supposing x is rational, which logically implies x^2 is rational.  
+   p: x is rational  
+   q: x^2 is rational  
+   Negate q to not q leads to negating p to not p.

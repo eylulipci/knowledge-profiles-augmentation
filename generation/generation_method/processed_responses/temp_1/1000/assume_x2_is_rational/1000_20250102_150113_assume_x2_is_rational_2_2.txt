@@ -1,0 +1,6 @@
+- We need to establish the contrapositive: "if x is rational, then x^2 must be rational".
+1) Assume x^2 is rational.
+2) Let x^2 = p/q where p and q are integers and q ≠ 0.
+3) This implies the square root of a rational number is also rational.
+4) Thus, it follows x must be readable as a fraction of integers.
+5) This completes the contraposition, affirming the initial claim.

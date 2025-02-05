@@ -1,0 +1,6 @@
+- The goal is to use contraposition to prove: if x is rational, then x^2 is rational.
+1) Suppose x^2 is rational.
+2) This means there exist integers m and n such that x^2 = m/n.
+3) This suggests x = sqrt(m)/sqrt(n), or some simplified form.
+4) If x is expressed this way, it's rational.
+5) This completes the contrapositive, hence proving the statement.

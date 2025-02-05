@@ -1,0 +1,6 @@
+1. Proving by contraposition means proving the reverse implication.
+2. Therefore, if x is rational, then x^2 is rational.
+3. If x can be written as a fraction, let's say x = m/n.
+4. Then x^2 = (m^2)/(n^2), which is also a fraction of integers.
+5. Thus, x^2 is rational whenever x is rational.
+6. Hence, if x^2 is irrational, then x must be irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let's assume x^2 is rational.  
+Suppose x is rational and can be written as x = p/q with integers p and q.  
+Then x^2 = p^2/q^2, which is also a fraction, so x^2 is rational if x is rational.  
+Thus, if we have x^2 irrational, we have contradiction, which means x must be irrational.  
+Conclusion: x = irrational when x^2 = irrational.

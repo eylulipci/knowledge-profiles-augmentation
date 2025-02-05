@@ -1,0 +1,6 @@
+The goal is to show the contrapositive: If x is rational, then x^2 is rational.
+
+1. Begin with the logic of contraposition(PROMPT): If x^2 is irrational, then x must be irrational.
+2. The contraposition is then addressed as: Assuming x is rational, we must show x^2 is rational.
+
+I'm trying to figure out how to support this result after the assumptions, but I'm not sure how to move forward correctly with this structure.

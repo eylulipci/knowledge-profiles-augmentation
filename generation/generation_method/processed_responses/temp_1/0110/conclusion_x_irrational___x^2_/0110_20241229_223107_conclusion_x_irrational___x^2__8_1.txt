@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is rational [Assumption]  
+2) Therefore, x can be expressed as m/n, where m and n are integers and n ≠ 0 [Definition of rational numbers]  
+3) This implies x^2 = (m/n)^2 = m^2/n^2 [Squaring both sides]  
+4) m^2 and n^2 are integers, so m^2/n^2 is rational [Integer property]  
+5) Therefore, x^2 is rational [Conclusion from 4]  
+6) If x is irrational, then x^2 is irrational [Conclusion]

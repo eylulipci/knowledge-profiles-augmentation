@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+Prove by contraposition that if x is rational, then x^2 is rational.  
+1. Assume x is irrational. [Premise]  
+2. Since x is irrational, it cannot be in the form a/b. [Definition]  
+3. If it cannot be in form a/b then there's an issue with x* itself.  
+4. Hence, back to x rational, x^2 could be rational.

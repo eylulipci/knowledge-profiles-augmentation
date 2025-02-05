@@ -1,0 +1,1 @@
+2. Logical equivalence: Show that if x can be expressed as a ratio of two integers, x^2 can also be expressed in this form.

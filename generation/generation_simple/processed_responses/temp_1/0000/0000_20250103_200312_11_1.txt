@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x^2 is irrational to prove x is rational
+   1) x is irrational -> x^2 is rational
+   2) x = m/n, m, n integers, n ≠ 0
+   3) Then x^2 = m^2/n^2
+   4) Therefore, x^2 is rational
+   5) Conclude by contraposition that if x is irrational, x^2 is irrational

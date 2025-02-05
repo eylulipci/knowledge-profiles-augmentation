@@ -1,0 +1,5 @@
+We assume that x is rational and x^2 is irrational and apply contraposition.  
+1) Let x be rational, written as x = a/b, where a and b are integers with b ≠ 0.  
+2) Squaring both sides gives x^2 = (a/b)^2 = a^2/b^2.  
+3) If x^2 remains irrational, it cannot equal an integer ratio, leading to a contradiction with our assumption.  
+4) This implies x being rational cannot result in x^2 being irrational.

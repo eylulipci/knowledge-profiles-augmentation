@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   p: x^2 is irrational, q: x is irrational
+   To prove p -> q, we assume the contrapositive NOT q -> NOT p.
+   Assume x is NOT in Q, then NOT q
+   This implies x^2 cannot be in Q either, hence NOT p.
+   Therefore, the original statement holds true.

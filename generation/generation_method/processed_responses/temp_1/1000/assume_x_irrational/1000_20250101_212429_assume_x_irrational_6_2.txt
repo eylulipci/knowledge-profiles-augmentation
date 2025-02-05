@@ -1,0 +1,4 @@
+1. For proving by contraposition: Assume (if x is rational, then x^2 is rational).  
+2. Assume x is irrational.  
+3. So x cannot be represented as p/q where p and q are integers.  
+4. Hence, x^2 doesn't fit the expected rational form under this incorrect assumption, which misses what a contraposition proof should establish.

@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION
+  We want to prove the statement "if x^2 is irrational, then x is irrational" using contraposition.
+  Let P: x^2 is irrational, Q: x is irrational. We show NOT P from NOT Q.
+  1) Assume P -> Q [Premise]
+  2) Assume NOT Q, which says x is rational [Premise]
+  3) From these, get NOT P [Modus Tollens]
+  Using contraposition, it shows P -> Q: if x^2 is irrational, then x is irrational.

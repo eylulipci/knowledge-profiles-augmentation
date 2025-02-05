@@ -1,0 +1,4 @@
+Show that by using the contrapositive, we can demonstrate (not q: x is rational) and (p -> q: if x^2 is irrational, then x is irrational) leads to not p:  
+1) Assume p: x^2 is irrational -> q: x is irrational [Premise]  
+2) Assume not q: x is rational [Premise]  
+3) Then by modus tollens, not p must be true based on the premises set. [Conclusion]

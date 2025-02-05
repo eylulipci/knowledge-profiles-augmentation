@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Using proof by contraposition: demonstrate if x is rational, then x^2 must also be rational.
+
+1) Let's assume x is irrational [Assumption]  
+2) Since x cannot be expressed as a/b, where a and b are integers and b ≠ 0, it cannot affect the rationality of x^2  
+3)

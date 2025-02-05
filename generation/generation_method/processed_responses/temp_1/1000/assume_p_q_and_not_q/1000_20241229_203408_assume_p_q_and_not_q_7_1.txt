@@ -1,0 +1,10 @@
+1. CONTRAPOSITION
+We need to prove: if x is rational, then x^2 is rational.
+Assume that x is rational.
+1) Let P be: x^2 is irrational, and Q be: x is irrational.
+2) P -> Q [Statement]
+3) Assume NOT Q (x is rational) [Premise]
+4) From P and the assumption, we must prove NOT P.
+5) Since NOT P is derived from NOT Q and P -> Q, this shows P -> Q is true.
+
+Therefore, if x^2 is irrational, then x is irrational.

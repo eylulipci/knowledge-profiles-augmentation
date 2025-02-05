@@ -1,0 +1,6 @@
+-CONTRAPOSITION  
+Assume P is x is rational, and Q is x^2 is rational.  
+To show the contraposition, if x is rational then x^2 is rational.  
+So assume x is rational, then x = a/b for integers a and b.  
+With squared, as a^2/b^2, this must mean x^2 is rational too.  
+Then the contrapositive proves if x is irrational, so is x^2.

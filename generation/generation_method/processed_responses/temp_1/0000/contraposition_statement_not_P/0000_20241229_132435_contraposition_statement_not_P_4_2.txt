@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   If x^2 is not irrational, then x is not irrational. Let's consider x^2 rational, and this means x is rational.  
+   1) Assume that x^2 is rational, so x^2 can be written as p/q where p and q are integers, and q ≠ 0.  
+   2) Thus, x = (p/q)^(1/2) can be simplified to a form of r/s where r and s have no common factors.  
+   3) This will show x is a ratio of two integers.  
+   4) So, if x^2 is not irrational, then x cannot be irrational, proving contrapositive.

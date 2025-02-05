@@ -1,0 +1,6 @@
+By contraposition, we will prove that if x^2 is irrational, then x is irrational.
+
+1. Begin with the assumption that x is irrational and show that x^2 is irrational.
+2. Since x cannot be expressed as the quotient of two integers, it follows that x^2 also cannot be expressed as the quotient of two integers.
+3. Thus, the premise leads to the conclusion through simplification.
+4. Therefore, the original statement is affirmed by proving the contrapositive.

@@ -1,0 +1,4 @@
+1. Approach with contraposition idea.
+2. Assume x^2 is rational.
+3. x can take a form that affects x^2.
+4. Realize that if x fits into some pattern, x^2 shifts.

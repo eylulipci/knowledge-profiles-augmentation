@@ -1,0 +1,5 @@
+x^2 is rational, x rational.
+let x = a/b with integers a, b ≠ 0, no common factors.
+x^2 = a^2/b^2.
+therefore x^2 rational.
+conclusion if x^2 not rational, x not rational.

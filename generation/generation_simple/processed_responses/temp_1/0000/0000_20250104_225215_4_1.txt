@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   Suppose x^2 is irrational and demonstrate that x must be rational.  
+   1) Assume x is irrational [PREMISE]  
+   2) Then (x POWER 2) is something non-obvious.  
+   3) From this, we somehow see a link that shows an unresolved chain.  
+   4) Look at how x^2 does not quite fit.  
+   5) So, on the opposite side, if there was a connection, x should be rational.  
+   6) (not p) -> q

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION STARTS  
+2. Assume x is rational   
+3. x = p/q, where p and q are integers, q ≠ 0  
+4. Thus, x^2 = (p/q)^2 = p^2/q^2  
+5. Both p^2 and q^2 are integers and q^2 is not zero  
+6. Hence, x^2 is rational

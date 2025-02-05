@@ -1,0 +1,5 @@
+Let P(x) be the statement "x^2 is irrational" and Q(x) be the statement "x is irrational". We need to show that P(x) -> Q(x) using contraposition.
+1) Assume NOT Q(x), which means x is rational.
+2) We need to conclude NOT P(x), meaning x^2 is rational, but since we started with x is rational, this is assumed true.
+3) Therefore, if x is rational, x^2 remains rational.
+4) The contrapositive of our original statement is seen from step 3.

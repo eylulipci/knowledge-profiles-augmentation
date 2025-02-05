@@ -1,0 +1,5 @@
+1. Let x be a number that can be expressed as a/b, where a and b are integers, and b ≠ 0. [Assumption]
+2. Since x = a/b, then x is rational. [Definition of rational number]
+3. Therefore, when we square x, we get x^2 = (a/b)^2 = a^2/b^2. [Squaring both sides]
+4. Here, a^2 and b^2 are integers, and b^2 ≠ 0, so x^2 is rational. [Definition of rational number]
+5. By showing that if x is rational, x^2 is rational, we address the initial concern regarding x^2.

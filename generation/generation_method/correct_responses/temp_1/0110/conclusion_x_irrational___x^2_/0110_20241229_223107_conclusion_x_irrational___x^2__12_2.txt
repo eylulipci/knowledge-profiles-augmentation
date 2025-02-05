@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Let us assume that x is a rational number [assumption]  
+2) Then x can be expressed as r/s, where r and s are integers, s ≠ 0 [definition of rational]  
+3) Consequently, x^2 = (r/s)^2 = r^2/s^2 [square of x]  
+4) As r^2 and s^2 are integers, x^2 is clearly r^2/s^2, meaning it's rational [rational number characteristic]  
+5) Accordingly, by contraposition, if x is irrational, x^2 must also be irrational 

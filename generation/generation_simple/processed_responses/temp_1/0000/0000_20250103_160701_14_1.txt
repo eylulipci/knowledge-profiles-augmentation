@@ -1,0 +1,5 @@
+Assume (x^2) is irrational and x is rational for a contradiction.  
+1. x = a/b, where a and b are integers with b ≠ 0.  
+2. Then, (x^2) = (a^2)/(b^2).  
+3. State that this makes x^2 rational because it can be expressed as a fraction of integers. This contradicts the irrationality of (x^2).  
+4. Conclude the proof.

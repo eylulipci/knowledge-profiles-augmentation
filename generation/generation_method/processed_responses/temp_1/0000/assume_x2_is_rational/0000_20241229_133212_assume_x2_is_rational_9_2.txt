@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+    1) Assume x^2 is rational.  
+    2) This means x^2 = p/q for integers p and q with q ≠ 0.  
+    3) Therefore, x = sqrt(p/q).  
+    4) Since not all a square root of p/q is rational, it implies nothing directly about x.  
+    5) Thus, x^2 rational means x can also appear rational.

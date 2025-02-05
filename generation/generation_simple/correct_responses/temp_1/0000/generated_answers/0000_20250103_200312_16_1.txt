@@ -1,0 +1,6 @@
+1. CONTRAPOSITION 
+   Assume x^2 is rational 
+   1) Assume x is not irrational 
+   2) Then, x^2 is found 
+   3) We need x rational, x = a/b 
+   4) Contraposition is used

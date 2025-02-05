@@ -1,0 +1,4 @@
+1. To use contraposition, assume "x^2 is irrational" and prove "x is irrational."
+2. Assume instead "x is irrational," therefore x^2 might be irrational.
+3. Assuming "if x^2 is irrational, therefore x is irrational."
+4. By contraposition, P → Q is assumed.

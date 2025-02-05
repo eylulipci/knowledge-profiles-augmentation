@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Define P(x) as "x^2 is irrational" and Q(x) as "x is irrational".  
+1) Start with P(x) -> Q(x) as our premise for the proof.  
+2) Assume NOT Q(x), meaning x is rational. [Premise]  
+3) Using the premises, we apply modus tollens to derive that NOT P(x). [Reasoning step]  
+By showing that NOT P(x) can be concluded from NOT Q(x), we validate P(x) -> Q(x) through the strategy of contraposition. Therefore, if x^2 is irrational, then x is irrational.

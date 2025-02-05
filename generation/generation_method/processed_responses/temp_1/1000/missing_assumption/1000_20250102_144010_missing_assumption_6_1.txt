@@ -1,0 +1,7 @@
+I need to show: if x^2 is irrational, then x is irrational by contraposition.  
+
+- Let's prove by contraposition: if x is rational, then x^2 is rational.
+- Consider x such that we want to analyze its behavior with respect to squaring.  
+- Since we need x^2 as rational, we must know its expression when x follows certain numerical forms.  
+- Without assuming anything directly for x, conclude about x^2 being structured in any rational form isn't immediate.  
+- Therefore, attempting to engage on x and x^2 directly without pre-conditions leaves the proof without further conclusion.

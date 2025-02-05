@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Assume x is rational.  
+3. Then x = c/d, where c and d are integers, and d ≠ 0.  
+4. Therefore, x^2 = (c POWER 2)/(d POWER 2).  
+5. Hence, x^2 is rational since c^2 and d^2 are integers.

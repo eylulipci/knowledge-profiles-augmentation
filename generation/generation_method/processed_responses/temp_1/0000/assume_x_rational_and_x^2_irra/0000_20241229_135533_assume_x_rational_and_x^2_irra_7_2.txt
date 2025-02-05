@@ -1,0 +1,7 @@
+1. Assume x^2 is irrational but x is rational.  
+2. Let x = a/b where a and b are integers with b ≠ 0, showing x is rational.  
+3. By squaring, x^2 = (a^2)/(b^2).  
+4. x^2 needs to stay irrational, yet the form from 3 is rational.  
+5. This contrasts with the assumption of x^2 being irrational.  
+6. Hence, when x is rational, so is x^2.  
+7. x^2 being irrational leads us to imply x is irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We aim to prove if x is rational, then x squared is rational.  
+1) Let x be a rational number.  
+2) Then x = m/n, with m and n integers, where n is not zero and m, n have no common divisors.  
+3) It follows that x^2 = m^2/n^2.  
+4) Consequently, x^2 is rational.

@@ -1,0 +1,5 @@
+1) I will demonstrate through contraposition.  
+2) Assume x is rational.  
+3) Then x = a/b (this defines x).  
+4) Thus, x POWER 2 = (a POW 2)/(b POW 2).  
+5) Therefore, x^2 is rational.

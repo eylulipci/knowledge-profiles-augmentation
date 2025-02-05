@@ -1,0 +1,13 @@
+1) Assume that x is rational
+
+2) So x = a/b, where a and b are integers, and b ≠ 0
+
+3) Squaring both sides, we have x^2 = (a POWER 2)/(b POWER 2)
+
+4) Now define a^2 as k and b^2 as m, where k and m are integers
+
+5) So, x^2 can be written as k/m
+
+6) Therefore, x^2 is rational
+
+7) This is the conclusion

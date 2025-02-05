@@ -1,0 +1,7 @@
+1. For contraposition, show that if x is rational, then x^2 is rational.
+1. We start with the assumption that x is irrational. [Assumption]
+2. An irrational number x means it can't be written as a fraction p/q.
+3. Thus, x^2 results in some value that is irrational as well.
+&
+1000
+&

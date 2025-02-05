@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+  Start with (x POWER 2) will be irrational
+  X could be said as potentially irrational as well
+  Let's assume we have the relation not q and (p -> q) to derive p itself
+  1) Resulting in q and (p -> q) [Premise]
+  2) We do simplification to see q
+  3) My next step is to interpret (p -> q)
+  4) Finally, we get to p in conclusion with possibly modus ponens

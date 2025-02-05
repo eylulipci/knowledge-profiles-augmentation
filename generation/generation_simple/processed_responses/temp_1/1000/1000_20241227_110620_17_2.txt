@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+   The statement to prove: If x is rational, then x^2 is rational.
+   1) Suppose x is a number like a fraction.
+   2) We want to establish x^2 is still in a fraction form.
+   3) x being rational implies something about squares.
+   4) Linking x and x^2 through a mathematical pathway.
+   5) In contrapositive terms, the rational leads to rational.

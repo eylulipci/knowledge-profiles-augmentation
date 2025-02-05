@@ -1,0 +1,5 @@
+1. We need to show that if x is rational, then x^2 is rational for the contraposition.
+2. I assume that maybe working with expressions like p/q might help with the relation.
+3. Somehow, squaring these forms creates something specific that ties to x^2.
+4. This seems to relate to how x^2 behaves under these circumstances.
+5. The proof conclusion seems less clear without that initial step.

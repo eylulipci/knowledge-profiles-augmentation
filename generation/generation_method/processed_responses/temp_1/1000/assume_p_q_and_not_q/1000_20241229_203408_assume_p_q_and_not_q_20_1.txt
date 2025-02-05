@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+Let P(x) mean "x^2 is irrational" and Q(x) mean "x is irrational". We need to prove the statement P(x) -> Q(x) by contraposition.
+
+1) Assume P(x) -> Q(x) is true. [Premise]
+2) Assume NOT Q(x) is true, meaning x is rational. [Premise]
+3) By modus tollens from 1), conclude NOT P(x). [Inference]
+4) This shows that P(x) -> Q(x) is true.

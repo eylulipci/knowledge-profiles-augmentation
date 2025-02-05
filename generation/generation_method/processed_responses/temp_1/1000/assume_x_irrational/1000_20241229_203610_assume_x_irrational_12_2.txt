@@ -1,0 +1,5 @@
+1. To use CONTRAPOSITION: Show that if x is rational, then x^2 is rational.
+2. Assume x is irrational. [Assumption]
+3. By definition, x cannot be expressed as a fraction p/q.
+4. Hence, x^2 would not fit into any fraction as well.
+5. This leads to a conclusion.

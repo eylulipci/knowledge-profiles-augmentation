@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Assume the opposite: if x^2 is rational, then x is rational.  
+2. Let x^2 = p/q, p and q are integers with q != 0.  
+3. Then x must also be such that x = r/s, with r and s integers.  
+4. Thus, x^2 being rational leads to x being rational. Hence, if x^2 is irrational, x cannot be rational.

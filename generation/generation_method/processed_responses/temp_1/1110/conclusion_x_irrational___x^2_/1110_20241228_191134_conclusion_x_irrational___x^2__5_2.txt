@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+Let's show that assuming x is rational will lead to x^2 being rational:
+1) Assume x is rational, therefore x = c/d where c and d are integers and d ≠ 0.
+2) Then x^2 = (c/d) POWER 2 = c^2/d^2.
+3) Since c^2 and d^2 are integers, it means x^2 is rational.
+4) Conclude with contraposition, if x is irrational, then x^2 is irrational.

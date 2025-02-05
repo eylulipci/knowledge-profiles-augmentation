@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+The contraposition of the statement is: If x is rational, then x^2 is rational.  
+1) Suppose x is rational; then x can be expressed as x = m/n, with m and n being integers and n not zero. [Assumption]  
+2) So, x^2 = (m/n)^2 = (m^2)/(n^2). [Mathematical derivation]  
+3) Integers m and n imply integers m^2 and n^2, making x^2 a fraction of integers. [Properties of squaring integers]  
+4) Thus, by definition, x^2 is rational. [Definition conclusion]

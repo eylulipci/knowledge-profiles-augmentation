@@ -1,0 +1,4 @@
+The statement to prove is that if x^2 is irrational, then x is irrational, which can be proven by showing that its contraposition, if x is rational, then x^2 is rational, holds true.
+1) Begin with the statement and its contrapositive identification.
+2) Describe what it means for x to be rational in this context.
+3) Without specific assumptions, consider conditions where x^2 would reflect x’s nature.

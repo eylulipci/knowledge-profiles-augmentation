@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x is rational  
+x can be expressed as x = m/n for integers m and n, n ≠ 0  
+Then calculate x^2 = (m POWER 2)/(n POWER 2)  
+This expression is rational as both numerator and denominator are non-zero integers

@@ -1,0 +1,8 @@
+1. We will use contraposition to prove that if x is rational, then x^2 is rational.
+2. Assume x is a rational number.
+3. P(x) is defined as x^2 being irrational, and Q(x) as x being irrational.
+4. From ¬Q(x), we suppose x is rational and can be written as a/b, with integers a and b.
+5. Thus, x^2 = (a POWER 2)/(b POWER 2).
+6. Attempt to conclude ¬P(x), showing x^2 is rational.
+7. Based on the assumption, ¬P(x) should hold if ¬Q(x).
+8. Therefore, if x is rational, then x^2 should be rational using contraposition.

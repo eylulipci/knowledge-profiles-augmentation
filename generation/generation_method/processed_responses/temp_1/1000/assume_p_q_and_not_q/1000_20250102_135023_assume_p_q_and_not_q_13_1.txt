@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+- Let p(x) = x^2 is irrational and q(x) = x is irrational.  
+- We are tasked to show that if x^2 is irrational, then x is irrational by contraposition.  
+- From the contraposition, not q(x) means x is rational.  
+- Assume p(x) is true: p(x) -> q(x). [Premise]  
+- Assume not q(x): x is rational. [Premise]  
+- From the logical equivalences, not q leads to not p by modus tollens.  
+- Therefore, using these steps, p(x) -> q(x) is affirmed, meaning both x^2 and x must be irrational.

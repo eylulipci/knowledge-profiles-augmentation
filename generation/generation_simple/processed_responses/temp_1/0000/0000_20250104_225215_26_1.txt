@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Assume we start with x being a number that satisfies the condition.  
+1) Let's take (x POWER 2) as a concept involving irrational values.  
+2) Considering the premise that involves q as a condition.  
+3) If x can transform into (x POWER 2), set these ideas into motion.  
+4) Therefore discuss possibilities where q isn't a constraint.  
+5) Explore this process focusing on the conceptual relationship between x and x^2.  
+6) Thus, implications of q being associated with irrational x^2.  
+7) Investigate this alignment under constraints proposed.

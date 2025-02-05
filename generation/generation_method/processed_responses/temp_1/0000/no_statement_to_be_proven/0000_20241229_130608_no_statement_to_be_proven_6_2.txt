@@ -1,0 +1,4 @@
+Assume x^2 is a rational number
+1. x^2 = c/d; with c, d ∈ ℤ, and d ≠ 0 [Using rational definition]
+2. x = square root of (c/d) [Simplification]
+3. If x is irrational, then x^2 can be irrational. [Confusing statement]

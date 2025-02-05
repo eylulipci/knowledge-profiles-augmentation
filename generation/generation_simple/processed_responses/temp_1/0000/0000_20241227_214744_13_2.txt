@@ -1,0 +1,1 @@
+x is irrational if x^2 is irrational.

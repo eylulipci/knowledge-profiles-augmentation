@@ -1,0 +1,4 @@
+1) In a proof by contraposition, the goal is to establish that if x is rational, then x^2 must also be rational.
+2) Trying to relate these aspects requires further detail on how x translates to x^2, emphasizing their connections.
+3) The formulation can follow from proving how rationality transfers with power changes.
+4) The absence of stating specific conditions makes finishing the proof difficult.

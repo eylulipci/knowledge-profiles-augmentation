@@ -1,0 +1,4 @@
+1. Use contraposition: Transform initial statement to assess from rational x to rational x^2.  
+2. Break down what being rational implies for x, and trace implications for x^2.  
+3. Thus, if x has properties of being written as integer division, apply this to entire expression x^2.   
+4. The logic flows from ability of integer representation, exploring how this impacts or doesn't x^2.

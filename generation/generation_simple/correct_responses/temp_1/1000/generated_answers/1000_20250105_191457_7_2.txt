@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+
+Consider P(x) = "x^2 is irrational" and Q(x) = "x is irrational". To demonstrate by contraposition, we need to establish that if x is rational, then x^2 is rational.
+
+1) Suppose x is rational.
+2) The conclusion we need to reach is that x^2 must be rational.
+
+Hence, by the principle of contraposition, if x^2 is irrational, then x must be irrational.

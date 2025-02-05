@@ -1,0 +1,5 @@
+1. We need to prove by contraposition: if x is rational, then x^2 is rational.
+2. Assume x is irrational. [Assumption]
+3. Since x cannot be expressed as a/b where a and b are integers, x^2 should also be looked into.
+4. So, we need to discuss x^2 under the assumption that x is irrational. However, without a rational assumption, it's difficult to draw a clear relation for x^2 using rational terms.
+5. Therefore, rationality of x^2 might not follow from this setup.

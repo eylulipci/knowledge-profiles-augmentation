@@ -1,0 +1,5 @@
+1. In a proof by contraposition, we need to show that if x is rational, then x^2 is rational. 
+2. However, let's determine what happens with x^2 first. Assume x^2 can be expressed as a/c, where a and c are integers, with c not zero.
+3. So x^2 = a/c. 
+4. I am unsure how to proceed from this point since I started with x^2 being rational.
+5. Normally, I would continue, but this confuses my approach.

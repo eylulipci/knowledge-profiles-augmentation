@@ -1,0 +1,12 @@
+1. CONTRAPOSITION  
+Let P(x) = x^2 is irrational and Q(x) = x is irrational.  
+The statement to be proven is P(x) -> Q(x).  
+
+Assume:  
+1) P(x) -> Q(x) [Premise]  
+2) NOT Q(x) [Assumption: x is rational]  
+
+From 1 and 2, conclude:  
+3) NOT P(x) [Modus Tollens]  
+
+Thus, if we know NOT Q(x), then NOT P(x) follows, and by logical equivalence, P(x) -> Q(x) holds.

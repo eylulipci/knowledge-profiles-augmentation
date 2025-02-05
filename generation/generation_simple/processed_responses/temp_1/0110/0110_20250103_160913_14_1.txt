@@ -1,0 +1,6 @@
+For this proof, we need to assume the opposite of what we want to prove, so let's start with x being rational and show that x^2 is also rational.  
+1) Assume x is rational.  
+2) Then x = a/b, where a and b are integers, and b ≠ 0.  
+3) Therefore, x^2 = (a/b) POWER 2 = a^2/b^2.  
+4) Since a^2 and b^2 are the squares of integers, x^2 is rational.  
+5) Based on these steps, we verified that if x is rational, then x^2 must also be rational.

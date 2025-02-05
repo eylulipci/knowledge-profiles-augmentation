@@ -1,0 +1,6 @@
+The task is to demonstrate by contraposition that if x is rational, then x^2 is rational.
+
+1. Assume x is in the form of an integer fraction.
+2. If x = m/n, where m and n are integers, then by squaring, x*x = (m/n)*(m/n).
+3. Hence, x^2 is equal to m^2/n^2.
+4. Concluding, x^2 appears to be rational when x itself is expressed as a fraction.

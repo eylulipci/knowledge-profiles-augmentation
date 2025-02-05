@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) x is assumed to be rational  
+2) Therefore, x can be represented as a/b, where a and b are integers not equal to zero  
+3) Then x POWER 2 = (a^2)/(b^2)  
+4) This means x^2 is rational  
+5) By proving the contrapositive, it follows that if x^2 is irrational, then x must also be irrational

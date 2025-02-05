@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Begin with x is rational  
+3. Assume x = m/n, with integers m and n, n ≠ 0  
+4. This means x^2 = (m POWER 2)/(n POWER 2)  
+5. Both m^2 and n^2 are integers, so x^2 is rational

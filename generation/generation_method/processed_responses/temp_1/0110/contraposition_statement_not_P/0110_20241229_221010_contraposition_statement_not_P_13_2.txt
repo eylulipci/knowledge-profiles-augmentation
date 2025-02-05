@@ -1,0 +1,6 @@
+1) If x^2 is rational, then x is rational (contrapositive form)  
+2) Consider x as a rational number  
+3) x = p/q, with p and q integers, q ≠ 0  
+4) x^2 = (p^2)/(q^2)  
+5) Hence, x^2 is rational by the property of rational numbers  
+6) This verifies that if x^2 is irrational, then x is irrational

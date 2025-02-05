@@ -1,0 +1,5 @@
+Let P(x) = "x^2 is irrational" and Q(x) = "x is irrational." We need to show P(x) implies Q(x) using contraposition. Contraposition states: if Q(x) is not true, then P(x) is not true.
+1) Suppose Q(x) is false.
+2) P(x) has to be false.
+3) We have that "not Q(x)" implies "not P(x)." 
+This means that "if x is rational, then x^2 is rational," maintaining a true statement.

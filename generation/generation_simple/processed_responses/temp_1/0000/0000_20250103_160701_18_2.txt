@@ -1,0 +1,5 @@
+Using contraposition:
+1) Assume x is irrational initially [Hypothesis]
+2) Suppose x can be written as a*b, for irrational a and b
+3) (x POWER 2) is still irrational because irrational times irrational is irrational
+4) To conclude, (x POWER 2) is irrational, hence.

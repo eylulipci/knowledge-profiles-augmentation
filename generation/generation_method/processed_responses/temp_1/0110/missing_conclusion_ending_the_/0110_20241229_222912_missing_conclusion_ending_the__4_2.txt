@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Let x be a rational number.  
+3. Express x as p/q, where p and q are integers, q ≠ 0, and p and q have no common factors.  
+4. Then x^2 = (p^2)/(q^2).  
+5. Therefore, x^2 can be expressed as a quotient of integers, so it is rational.  
+6. This completes the reasoning.

@@ -1,0 +1,7 @@
+The problem is to prove by contraposition the statement:  
+1) Suppose p -> q says with p: (x POW 2) is irrational and q is (x is irrational).  
+2) We begin with NOT q as x is rational, then p -> q.  
+3) The logic is to consider if p -> q is true, what results from NOT q?  
+4) Assumed that NOT q implies that (p -> q) means assume q is false.  
+5) Based on modus tollens, NOT p should follow.  
+6) If x rational, then x^2 is rational.

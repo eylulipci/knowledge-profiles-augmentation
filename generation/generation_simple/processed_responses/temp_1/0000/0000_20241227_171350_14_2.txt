@@ -1,0 +1,1 @@
+- Start with contraposition. If x^2 is irrational, x can be irrational or rational. Let's say x = a/b for rationals. Then x^2 must equal (a^2)/(b^2). But I guess this isn't right when x is irrational. So I guess this doesn't work somehow. Will try something different next.

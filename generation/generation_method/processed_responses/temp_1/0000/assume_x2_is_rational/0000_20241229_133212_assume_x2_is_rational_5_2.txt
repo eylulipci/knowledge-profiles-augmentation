@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   1. Assume x^2 is rational.  
+   2. Then x^2 = m/n, with m and n being integers and n ≠ 0.  
+   3. Solving for x gives us x = sqrt(m/n).  
+   4. Since this simplifies poorly in the case of numerator or denominator not being perfect squares, there is ambiguity.  
+   5. If x^2 is rational, we'd expect clear rational outcomes for x but must consider x can also manifest irrationally.  
+   6. If proving contraposition holds, further steps seem odd, as rational squared remains rational, impacting x.  
+   7. So, assume vice versa lacks necessity; inconsistencies arise.

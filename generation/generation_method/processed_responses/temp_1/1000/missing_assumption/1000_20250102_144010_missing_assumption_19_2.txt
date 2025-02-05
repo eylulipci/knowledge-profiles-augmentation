@@ -1,0 +1,5 @@
+1) Use contraposition, which means instead of proving p -> q, we prove NOT q -> NOT p.
+2) To use contraposition, we must prove if x is rational, then x squared is rational.
+3) Begin proof with x being some form of expression with integers, but didn't put the specific ones needed.
+4) Get stuck deriving any result or conclusion from my thought process.
+It seems like that should fit.

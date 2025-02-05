@@ -1,0 +1,5 @@
+To prove by contraposition, it means showing that if x is rational, then x^2 is rational. We take the opposite situation to demonstrate: if x^2 is irrational, then x is irrational.
+
+1) Start by defining the scenario for proportional case if x is rational, then x^2 becomes rational.
+2) Rational numbers maintain rationals when squared due to multiplication rules.
+3) Evaluate assumptions regarding x in this context using definitions.

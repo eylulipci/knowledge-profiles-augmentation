@@ -1,0 +1,11 @@
+To show the contraposition, we go through this process:
+
+1. Assume x is a rational number.
+
+2. So, x = m/n for integers m and n.
+
+3. Squaring both sides, we get x^2 = (m^2)/(n^2).
+
+4. Since m^2 and n^2 are integers, x^2 is therefore also rational.
+
+5. Hence, by contraposition, this proves if x^2 is irrational, then x is also irrational.

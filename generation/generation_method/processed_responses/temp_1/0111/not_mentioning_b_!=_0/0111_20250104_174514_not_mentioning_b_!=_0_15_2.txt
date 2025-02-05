@@ -1,0 +1,5 @@
+1. To use contraposition, start with the assumption that x is rational. 
+2. This means x = a/b for integers a and b.
+3. Squaring x, we have x^2 = (a^2)/(b^2).
+4. Since both a^2 and b^2 are integers, x^2 is rational.
+5. Thus, by contraposition, if x^2 is irrational, then x is irrational.

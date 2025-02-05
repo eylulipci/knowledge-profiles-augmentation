@@ -1,0 +1,11 @@
+1. Contraposition: if x is irrational, then x^2 is irrational.
+
+2. Assume that x is irrational.  
+   
+3. We know that irrational numbers cannot be expressed as the ratio of two integers.
+
+4. Therefore, x^2 would also be irrational.
+
+5. Since if x is irrational x^2 is also irrational, the statement by contraposition implies the original statement's truth.  
+
+Conclusion: x irrational implies x^2 irrational supports the premise.

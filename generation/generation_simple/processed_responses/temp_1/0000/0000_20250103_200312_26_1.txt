@@ -1,0 +1,8 @@
+Let x be a real number. Show that if x^2 is irrational, then x is irrational using a proof by contraposition:
+
+1. CONTRAPOSITION  
+   Assume x^2 is rational.  
+   x^2 = a/b, where a and b are integers.  
+2. Since x = a/(b POWER 1/2),  
+   Therefore, x might not be rational but the value is not same.  
+3. We assume in this proof that rational square equals some rational form.

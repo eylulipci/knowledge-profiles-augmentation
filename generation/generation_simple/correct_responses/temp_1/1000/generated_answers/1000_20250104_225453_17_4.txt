@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   In contraposition, establishing that if x is rational, then x^2 becomes rational.  
+   Premise: p - x is rational  
+   Outcome: q - x^2 is rational  
+   Counter equivalent: If not q, then not p

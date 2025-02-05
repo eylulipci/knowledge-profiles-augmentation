@@ -1,0 +1,5 @@
+1. Suppose we want to prove the statement using contraposition.
+2. We need to show if x^2 is rational, then x is rational.
+3. Assume x^2 = a/b where a and b are integers with b ≠ 0.
+4. This suggests we should consider a way to express x in terms of a/b.
+5. I'm struggling to see how this implies x is rational.

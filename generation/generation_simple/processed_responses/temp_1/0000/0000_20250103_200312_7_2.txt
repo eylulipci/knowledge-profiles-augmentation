@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Let’s consider x^2 is rational to investigate.  
+2. Maybe having x^2 rational means x is something specific.  
+3. What if x is not a fraction of integers?  
+4. That might show something about x^2 but it isn't clear.

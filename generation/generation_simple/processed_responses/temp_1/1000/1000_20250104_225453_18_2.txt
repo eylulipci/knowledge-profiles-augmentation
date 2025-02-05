@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Prove: If x is rational, then x^2 is rational.  
+1) Assume x is rational, meaning x = a/b for integers a, b [Rational Number].  
+2) By assuming rationality, reason that (NOT x irrational -> NOT x^2 irrational).  
+3) Then conclude: x^2 must also follow rational properties.

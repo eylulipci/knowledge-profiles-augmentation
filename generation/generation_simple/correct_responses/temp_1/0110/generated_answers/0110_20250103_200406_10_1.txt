@@ -1,0 +1,5 @@
+1. CONTRAPOSITION: Let us assume x is rational.
+1) x is expressible as a/b where a and b are integers, and b≠0.
+2) Squaring x, we get x POWER 2 = (a^2)/(b^2).
+3) Since a^2 and b^2 are integers, x^2 is the quotient of integers.
+4) Thus, x^2 is rational based on the definition of rational numbers.

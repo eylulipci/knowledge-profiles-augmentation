@@ -1,0 +1,2 @@
+Let x be a real number. I will prove that if x^2 is irrational, then x is irrational using contraposition:
+1. We need to show the opposite: If x is rational, then x^2 is rational.

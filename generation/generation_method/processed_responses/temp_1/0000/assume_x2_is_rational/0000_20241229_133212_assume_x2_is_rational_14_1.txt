@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Assume x^2 is rational.  
+Let x^2 = m/n, where m and n are integers with no common factors.  
+Therefore, x = sqrt(m/n).  
+Since m/n is a rational number, sqrt(m/n) can be rational if m is a perfect square and n is a perfect square.  
+Thus, for specific cases, when both m and n fulfill this, x could also be expressed as p/q.  
+Therefore, if x^2 is assumed rational in those cases, x might be rational.

@@ -1,0 +1,5 @@
+1. Assume x is a rational number.  
+2. It must be that x = a/b for some integers a and b, where b ≠ 0.  
+3. Squaring both sides gives x^2 = (a^2)/(b^2).  
+4. Since a^2 and b^2 are integers, x^2 is a rational number.  
+5. By contraposition, if x^2 is irrational, then x must be irrational.

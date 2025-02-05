@@ -1,0 +1,5 @@
+1. Contraposition assumption: x is a rational number.
+2. Therefore, x can be expressed as x = p/q, where p and q are integers with q ≠ 0.
+3. Then, calculate x^2 = (p POWER 2) / (q POWER 2).
+4. Since p^2 and q^2 are integers, x^2 = a/b with a and b as integers.
+5. This shows that x^2 is rational.

@@ -1,0 +1,7 @@
+- To demonstrate the contrapositive, I should prove that if x is rational, then x^2 becomes rational.
+
+1) Start with x, which can be represented in terms of integers, such as a fraction.
+2) Consider the characteristics that arise when squared.
+
+I am not sure how to complete the process without missing a key assumption about x and its squared nature. &
+1110&

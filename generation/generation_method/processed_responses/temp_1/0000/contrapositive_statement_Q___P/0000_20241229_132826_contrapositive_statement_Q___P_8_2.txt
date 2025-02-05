@@ -1,0 +1,9 @@
+- **Student 2**:
+  Using contrapositive reasoning:
+  Let P(x) be the statement that x is irrational.
+  Thus, P(x^2) -> P(x) in the contrapositive.
+  1) Assume x is irrational.
+  2) Then, x^2 = a^2/b^2, as x = a/b is not possible since x is not rational.
+  3) a^2 and b^2 are not perfect squares.
+  4) Conclude that x^2 must be irrational.
+  Therefore, if x is irrational, then x^2 is irrational according to contrapositive argument.

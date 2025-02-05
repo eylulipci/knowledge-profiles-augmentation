@@ -1,0 +1,3 @@
+- 1. Statement: We need to prove the contraposition of the statement: "If x^2 is irrational, then x is irrational."
+2. Assume that "If x is irrational, then x^2 is irrational" is already true.
+3. Conclusion: Therefore, if x^2 is irrational, it means x must be irrational by this assumption.

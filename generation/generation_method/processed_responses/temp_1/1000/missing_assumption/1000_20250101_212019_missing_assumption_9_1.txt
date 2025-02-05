@@ -1,0 +1,9 @@
+Show that if x^2 is irrational, then x is irrational, using contraposition:
+1. Prove that if x is rational then x^2 is rational
+2. Assume x = a/b where a and b are integers, b ≠ 0
+3. (a/b) POWER 2 = a^2/b^2 
+4. Rational numbers remain rational when squared 
+5. Then, conclude through contraposition for the original statement
+&
+1000
+&

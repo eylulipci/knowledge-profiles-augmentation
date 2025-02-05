@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION
+  Assume x is rational.
+  Then x = a/b, where a and b are integers [Definition of rational].
+  If x = a/b, then x^2 = (a POWER 2) / (b POWER 2) is also rational because (a POWER 2) and (b POWER 2) are integers.
+  Therefore, x^2 must be rational.

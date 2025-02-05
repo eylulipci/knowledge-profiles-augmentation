@@ -1,0 +1,9 @@
+1. Using contraposition, we aim to show that if x is rational, then x^2 is rational.
+2. Assume q(x) is true, meaning x is irrational.
+3. From q(x), we have x cannot be expressed as a/b.
+4. Consider r(x) as a statement where x*2 isn't able to be expressed as m/n.
+5. From the definition, a rational number would be a quotient.
+6. Therefore, by contraposition, when x*q is unable to represent, neither can x.
+&
+1000
+&

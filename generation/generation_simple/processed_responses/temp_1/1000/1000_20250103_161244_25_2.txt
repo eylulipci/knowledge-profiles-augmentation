@@ -1,0 +1,8 @@
+1. CONTRAPOSITION: prove if x is rational, then x^2 is rational.
+2. Assume x can be written as a/b, where a and b are integers.
+3. Let Q represent "x is irrational" and P for "x^2 is irrational".
+4. To show ¬Q implies ¬P, assert x is rational (¬Q).
+5. Calculate: x^2 = (a POWER 2)/(b POWER 2).
+6. Conclude ¬P: x^2 is expressible as a rational number.
+7. Establish that ¬Q leading to ¬P infers the original statement via contraposition.
+8. Ultimately, prove x^2 is rational if x is rational.

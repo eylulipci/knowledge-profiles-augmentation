@@ -1,0 +1,4 @@
+- We should demonstrate using contraposition that if x^2 is irrational, then x is irrational. This flips the statement to: if x is a rational number, it follows that x^2 is rational as well. The structure should be as follows:
+  1. Assume x is a rational type of number, meaning it is formatted as p/q. 
+  2. We logically square x, leading to a conclusion about x^2 being rational by definition. 
+  3. This shows correctly that when x is rational, x^2 likewise has to be rational itself, maintaining consistency.

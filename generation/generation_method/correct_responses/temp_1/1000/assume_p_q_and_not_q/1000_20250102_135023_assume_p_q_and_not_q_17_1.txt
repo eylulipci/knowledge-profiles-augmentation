@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Let A = x^2 is irrational and B = x is irrational.  
+To prove the statement "if A, then B", we need to show the contraposition "if not B, then not A".  
+
+1) Assume A -> B [Premise]  
+2) Not B [Assume x is rational]  
+3) Therefore, not A [Modus Tollens]  
+
+This shows that not B implies not A, so A -> B holds.

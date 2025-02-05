@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is irrational and x is rational.  
+3. x can be written as a/b where a and b are integers and b ≠ 0.  
+4. Then x^2 = (a/b)^2 = a^2/b^2.  
+5. Thus, x^2 should be rational because a^2 and b^2 are integers. 
+6. Contradiction arises as x^2 is also irrational.  
+7. Therefore, assuming x^2 irrational and x rational doesn't work.  
+8. So by contraposition, if x is rational, x^2 is rational.

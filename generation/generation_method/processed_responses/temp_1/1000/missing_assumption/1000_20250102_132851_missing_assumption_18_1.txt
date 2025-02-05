@@ -1,0 +1,6 @@
+To prove by contraposition, we need to show that if x is rational, then x^2 is rational:
+1. Assume x^2 is rational, which we need to prove via contraposition.
+2. Let's consider what it means for x to be expressed in a simple form.
+3. We want to establish that this implies x must also conform to a similar form.
+4. Therefore, we see how the initial assumption connects both aspects.
+5. This should lead us to understand how the rational nature affects x.

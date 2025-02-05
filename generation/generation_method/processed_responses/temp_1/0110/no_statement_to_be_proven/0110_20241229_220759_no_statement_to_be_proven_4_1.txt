@@ -1,0 +1,6 @@
+1) Assume x is rational.   
+2) Then x can be written as a/b, where a and b are integers and b ≠ 0. [Definition of a rational number]  
+3) Consider x^2, which equals (a/b)^2. [Squaring both sides]  
+4) This results in x^2 = a^2/b^2. [Property of exponents]  
+5) Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is expressed as a quotient of two integers.  
+6) Thus, x^2 is rational.

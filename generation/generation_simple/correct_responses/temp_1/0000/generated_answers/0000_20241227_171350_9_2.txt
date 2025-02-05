@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume the opposite: x^2 is rational.  
+   Then x must be x = e/f with integers e and f.  
+   x^2 is then e^2/f^2 which should be irrational.  
+   But e^2/f^2 is rational because e and f are integers.  
+   So x cannot be rational.  
+   Need x irrational for x^2 irrational.

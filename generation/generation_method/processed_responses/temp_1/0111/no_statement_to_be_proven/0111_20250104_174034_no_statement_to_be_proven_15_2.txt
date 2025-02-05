@@ -1,0 +1,5 @@
+CONTRAPOSITION  
+We start assuming x is rational:  
+x = c/d, where c and d are integers with d ≠ 0.  
+Then x^2 = (c/d)^2 = c^2/d^2, indicating x^2 is rational.  
+Thus, by contraposition, if x^2 is irrational then x is irrational.

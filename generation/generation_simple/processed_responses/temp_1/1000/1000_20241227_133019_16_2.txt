@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+   We start by showing the contrapositive statement.  
+   Assume x is rational: x = a/b where a and b are integers.  
+   Let p: x^2 is irrational and q: x is irrational.  
+   The contrapositive is ~q implies ~p, and we need to show this.  
+   We rearrange terms to determine if ~q holds true for ~p.  
+   This method confirms the logical structure of contrapositive.

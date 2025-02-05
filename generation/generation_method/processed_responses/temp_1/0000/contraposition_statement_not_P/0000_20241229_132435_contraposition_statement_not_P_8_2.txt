@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Suppose that if x^2 is rational, then x is rational.  
+   Begin with x^2 rational, written as a/b where a, b are integers.  
+   Thus, x = (a^2)^(1/2)/(b^2)^(1/2), which implies x is rational.  
+   So, if x^2 is irrational, then x must also be irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Let x be an irrational number: x cannot be expressed as a fraction, a/b.  
+3. Therefore, x^2 is not rational.  
+4. Consider x to be irrational, it's clear x^2 cannot equal m/n with m and n as integers.  
+5. The logic confirms that where x is irrational, x^2 is irrational too.  
+6. From this, our premise holds.

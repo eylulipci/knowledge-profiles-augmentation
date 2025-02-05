@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+   We have to prove that if x is rational, then x^2 is rational.
+2. Assume x is an irrational number.
+3. Let's say x = p/q and p and q are integers that do not have any common factors.
+4. This means that it is not possible to express x as p/q.
+5. Thus if x is irrational, not possible to conclude about x^2.

@@ -1,0 +1,5 @@
+1. Using contraposition, we demonstrate that if x is rational, then x^2 is rational.  
+a. Let x be any real number that is rational.  
+b. The contrapositive statement becomes "if x^2 is irrational, then x is irrational."  
+c. We need to show the equivalent statement by contraposition.  
+d. To advance, let's consider the logic that directly follows from x being rational; however, further steps aren't detailed.

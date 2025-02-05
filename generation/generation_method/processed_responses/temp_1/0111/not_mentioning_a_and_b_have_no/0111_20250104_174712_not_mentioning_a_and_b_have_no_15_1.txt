@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is rational  
+2) Then, x = a/b where a and b are integers and b ≠ 0  
+3) x^2 = (a^2)/(b^2) based on squaring both sides  
+4) x^2 is rational because a^2 and b^2 are integers  
+5) So, since the contrapositive is shown, if x^2 is irrational, then x is irrational

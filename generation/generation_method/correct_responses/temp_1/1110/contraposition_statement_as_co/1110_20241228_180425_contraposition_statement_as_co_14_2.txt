@@ -1,0 +1,8 @@
+To prove if x^2 is irrational, then x is irrational.
+
+By contraposition, if x is rational, then x^2 must be rational.
+1) Assume x is rational.
+2) By definition, x can be expressed as x = a/b, where a and b are integers, b ≠ 0.
+3) Squaring both sides, x^2 = (a/b)^2 = a^2/b^2.
+4) Since a^2 and b^2 are integers, x^2 is rational.
+Therefore, if x is rational, then x^2 is rational.

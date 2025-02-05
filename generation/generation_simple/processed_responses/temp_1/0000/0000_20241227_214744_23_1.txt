@@ -1,0 +1,8 @@
+1. Start with assuming x^2 is rational.  
+2. This means x^2 = a/b, where a and b are integers.  
+3. Assume x is irrational and not in the form of m/n.  
+4. If x^2 is a rational number, then x should also be rational.  
+5. Doesn't this assume x is rational already, which is only an assumption?  
+6. Conclusion suggests x is rational because x^2 is rational.  
+7. Isn't that contradicting what is assumed at the start?  
+8. Therefore, contrapositive should imply if x^2 is irrational, x might be rational rather than uninferred.

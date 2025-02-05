@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume x is rational.  
+   2) Therefore, x can be expressed as x = c/d where c and d are integers with no common divisors, and d ≠ 0.  
+   3) Squaring gives x^2 = (c POWER 2)/(d POWER 2).  
+   4) This means x^2 is rational, as c^2 and d^2 are integers.  
+   5) Hence, by contraposition, if x^2 is irrational, then x is irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION:  
+Begin with showing that if x^2 is irrational, x must also be irrational through contraposition by proving if x is rational, then x^2 is rational.  
+1) Suppose x is irrational [Incorrect assumption]  
+2) Since x is irrational, x cannot be fully expressed as p/q [Correct for irrational but irrelevant for holding the contraposition]  
+3) Look at x^2 without valid reasoning for it being rational or irrational [Unclear and incomplete attempt]  
+4) Final statement does not follow proof logic [Weak conclusion]

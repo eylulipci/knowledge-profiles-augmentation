@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x^2 is irrational.   
+Suppose x is rational.  
+Then x = a/b, where a and b are integers.  
+x^2 is irrational by contradiction.

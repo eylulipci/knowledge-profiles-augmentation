@@ -1,0 +1,10 @@
+To prove the statement by contraposition, we start by assuming that x^2 is rational and show that x must be rational. 
+
+1. ASSUMPTION
+   Suppose x^2 is a rational number.
+   
+2. By definition of a rational number, x^2 can be expressed as a/c where both a and c are integers, with c ≠ 0 and they have no common factors.
+   
+3. Consider x = sqrt(a/c)
+
+4. Further steps unknown or incomplete.

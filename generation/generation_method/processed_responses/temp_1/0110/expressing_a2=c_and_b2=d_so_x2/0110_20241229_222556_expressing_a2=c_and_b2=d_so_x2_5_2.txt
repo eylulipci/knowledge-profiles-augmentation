@@ -1,0 +1,7 @@
+1. Assume x is a rational number.  
+2. Therefore, x can be written as x = a/b, where a and b are integers, b ≠ 0, and a and b have no common factors.  
+3. Then x^2 = (a POWER 2)/(b POWER 2) = a^2/b^2.  
+4. Define q = a^2 and r = b^2, which gives x^2 = q/r.  
+5. q and r are integers with r ≠ 0 since b ≠ 0.  
+6. This shows that x^2 is a rational number.  
+7. [Skip the step of concluding by contraposition]

@@ -1,0 +1,12 @@
+Given: if x^2 is irrational, then x is irrational.
+
+To show using contraposition:
+- Define: p is (x^2 is irrational)
+- Define: q is (x is irrational)
+
+1) Assume (not q) meaning x is rational.
+2) Assume (p -> q).
+3) x can be written as a/b, where a and b are integers.
+4) x^2 = a^2/b^2 [definition of rational]
+
+From (p -> q) and (not q), conclude (not p).

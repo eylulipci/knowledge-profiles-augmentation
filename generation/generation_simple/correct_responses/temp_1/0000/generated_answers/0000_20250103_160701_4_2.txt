@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+1) Begin with x^2 is rational [Premise]
+2) Assume x is irrational [Assumption]
+3) x = a/b, a representation as irrational
+4) Hence x^2 is also irrational by substitution

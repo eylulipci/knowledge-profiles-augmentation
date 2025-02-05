@@ -1,0 +1,5 @@
+1. To prove "if x^2 is irrational, then x is irrational," we consider the contrapositive: "if x^2 is rational, then x is rational."  
+2. Assume x^2 is rational.  
+3. This means x^2 can be expressed as c/d, where c and d are integers, d ≠ 0, with no common divisors. [Definition of rational]  
+4. It must follow that x is also rational since the square root of a rational number is rational.  
+5. Consequently, this shows the contrapositive holds, implying the original assertion.

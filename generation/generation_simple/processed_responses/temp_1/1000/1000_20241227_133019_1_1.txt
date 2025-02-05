@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We need to prove that if x is rational, then x^2 is rational.  
+1) Assume x= a/b, where a and b are integers.  
+2) Consider the expression for x^2.  
+3) Let x^2 be written in some form.  
+4) From this, reason about its nature.  
+5) Based on this analysis, show how the initial statement is related.

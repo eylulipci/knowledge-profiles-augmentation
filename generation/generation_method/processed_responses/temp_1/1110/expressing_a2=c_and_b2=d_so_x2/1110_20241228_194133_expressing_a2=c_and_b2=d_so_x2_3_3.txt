@@ -1,0 +1,7 @@
+1. By contraposition, we aim to demonstrate if x is rational then x^2 is rational.  
+2. Suppose x is rational.  
+3. Thus, x can be expressed as x = p/q, where p and q are integers, q ≠ 0.  
+4. Squaring both sides, we get x^2 = (p/q)^2 = p^2/q^2.  
+5. Let's redefine p^2 as m and q^2 as n, making m and n integers.  
+6. Therefore, x^2 = m/n.  
+7. Consequently, x^2 is rational.

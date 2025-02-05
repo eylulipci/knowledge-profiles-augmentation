@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+1) Assume x^2 is rational.
+2) Then x^2 = a/b, where a and b are integers and have no common factors.
+3) This implies that x = sqrt(a/b).
+4) However, since a/b is not always a perfect square, x can be irrational.
+5) This suggests that if x^2 can be written as p/q, x could still be irrational.
+6) Hence, if x^2 is rational, it implies x might be rational or irrational, but generally leads to x being rational in perceived cases.
+7) I conclude that x^2 being rational means x is somehow rational too.

@@ -1,0 +1,6 @@
+- If we assume x is rational, it means x can be written as a/b, where a and b are integers. 
+1) Let's assume x is rational.  
+2) Therefore, x = a/b, where a and b are integers. [Definition of rational]
+3) Then x^2 = (a/b) POWER 2 = a^2/b^2. [Squaring both sides]
+4) Since a^2 and b^2 are integers, x^2 is a rational number. [Definition of rational]
+5) From our assumption, we can deduce that if x is rational, then x^2 is rational.

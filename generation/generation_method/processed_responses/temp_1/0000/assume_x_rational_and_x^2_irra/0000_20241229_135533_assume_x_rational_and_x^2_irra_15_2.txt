@@ -1,0 +1,6 @@
+1. Assume x^2 is irrational, while x is rational.  
+2. Then x can be written in the form a/b where a and b are integers, with b ≠ 0.  
+3. Therefore, x^2 = (a^2)/(b^2) which makes x^2 rational.  
+4. Thus, if x^2 is irrational, x is also irrational.  
+5. This shows x rational would imply x^2 is rational, contradicting x^2 as irrational.  
+6. Therefore, by contraposition, we can claim something about x and x^2's rationality/irrationality.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+Start by assuming that x^2 is irrational
+Then, x cannot be expressed as m/n where m and n are integers, n ≠ 0
+Assume x is rational, which means x^2 should also be rational
+But if we let x^2 be irrational, x must also be irrational
+Therefore, by contraposition, if x is irrational, then x^2 is irrational

@@ -1,0 +1,6 @@
+1. Proof by contraposition:
+   Let P be "x^2 is irrational" and Q be "x is irrational."
+   Assume that P -> Q holds.
+   1) If x^2 is irrational, then x is irrational. [Premise]
+   2) Therefore, we can use contraposition to state that if x is rational, then x^2 is rational.
+   3) Contraposition confirms the given statement.

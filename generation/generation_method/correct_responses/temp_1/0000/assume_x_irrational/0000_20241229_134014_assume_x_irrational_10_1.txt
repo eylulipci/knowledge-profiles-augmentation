@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Assume that x is irrational.  
+2) If x is not P/Q, where P and Q are integers, then neither is x^2.  
+3) Therefore, x^2 must be irrational because it cannot be expressed as any fraction of two integers.  
+4) This supports the statement: if x is irrational, then x^2 is irrational.

@@ -1,0 +1,5 @@
+- For proof by contraposition in this case, demonstrate the following: if x is rational, then its square, x^2, is also rational.
+  1) Suppose x is rational.
+  2) Express x in terms of integers as x = m/n, for integers m, n with n≠0.
+  3) Evaluating x^2 might relate back to x's nature.
+  4) This leads to if x^2 is irrational, x itself must be irrational.

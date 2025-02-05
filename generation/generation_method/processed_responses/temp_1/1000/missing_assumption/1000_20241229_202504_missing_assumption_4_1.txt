@@ -1,0 +1,5 @@
+1. To use contraposition, we need to prove that if x is rational, then x^2 is rational.
+2. Start by considering x being expressed in a certain form. 
+3. Somehow show that x^2 fits into a similar form as x but using multipliers.
+4. From this, maybe x^2 comes out to be rational.
+5. Using contraposition, conclude on the initial statement about x^2 being irrational leading to x being irrational.

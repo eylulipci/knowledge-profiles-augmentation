@@ -1,0 +1,5 @@
+Prove the statement using contraposition:  
+1) By contraposition, we assume x^2 is rational.  
+2) Suppose x^2 = c/d, with integers c, d having no common factors.  
+3) Consider if x can be shown as a quotient of integers.  
+4) End up stuck without steps to finalize as intended proof.

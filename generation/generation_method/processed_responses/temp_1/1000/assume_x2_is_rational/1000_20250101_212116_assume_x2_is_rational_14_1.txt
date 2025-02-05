@@ -1,0 +1,6 @@
+Show the implication using contraposition:  
+1) To prove "If x^2 is irrational, then x is irrational," we will use contraposition: "If x is rational, then x^2 is rational."  
+2) Assume x^2 is rational. [Assumption]  
+3) Then, x^2 = m/n, where m and n are integers with no common factors. [Definition of rational number]  
+4) Therefore, x = sqrt(m/n) may or may not be rational.    
+5) The contrapositive step: not clear how this leads to a conclusion.

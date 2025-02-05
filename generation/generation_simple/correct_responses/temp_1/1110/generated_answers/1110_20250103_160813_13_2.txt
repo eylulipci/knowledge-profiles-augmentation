@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION METHOD
+  We prove that: if x is rational, then x squared is rational.
+  1) Suppose x is rational. [Assumption]
+  2) Then, x can be expressed as p/q, with integers p and q, and q ≠ 0. [Rational definition]
+  3) Therefore, x^2 = (p/q)^2 = p^2/q^2. [Calculation]
+  4) Both p^2 and q^2 are integers; hence, p^2/q^2 is a rational expression. [Properties of integers]
+  5) Thus, x^2 must be rational. [Rationality]

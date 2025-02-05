@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Start by assuming that x^2 is rational.  
+x^2 equals some fraction p/q, where p and q are integers.  
+Let x be an example like pi.  
+Pi squared is pi^2 which cannot be written exactly as p/q.  
+This suggests that if x is irrational, x^2 could also be irrational.  
+There is no way to ensure x^2 as rational if x itself is irrational.  
+x is irrational as long as it doesn't easily fit into p/q form.

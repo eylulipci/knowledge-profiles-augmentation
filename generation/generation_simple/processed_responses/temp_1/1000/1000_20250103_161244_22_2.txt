@@ -1,0 +1,10 @@
+To prove the statement by contraposition, we show: If x is rational, then x^2 is rational.  
+
+1. Assume x^2 is irrational. [Assumption]  
+2. Therefore, x^2 cannot be expressed as the quotient of two integers.  
+3. Now, assume x is of form m/n, where m and n are integers with n ≠ 0.  
+4. Then x^2 = (m^2)/(n^2).  
+5. m^2 and n^2 are integers, implying x^2 can be written as a ratio of integers.  
+6. This implies x^2 is rational, contradicting our assumption.  
+7. Consequently, x must be irrational.  
+8. Hence, by contraposition, we conclude the statement.

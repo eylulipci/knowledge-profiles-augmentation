@@ -1,0 +1,7 @@
+1. Consider x as any real number.  
+2. Assume x^2 is rational implies x must be rational.  
+3. Let's take x = 1, a rational number.  
+4. Then x^2 = 1 as well, which is rational.  
+5. If x is sqrt(2), an irrational number, then x^2 = 2, which is rational.  
+6. x can be irrational resulting in a rational square, hence contradicting the assumption.  
+7. x being irrational means x^2 could be rational, too.

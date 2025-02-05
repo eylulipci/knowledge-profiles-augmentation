@@ -1,0 +1,4 @@
+1) Contrapose the statement.  
+2) Suppose x is rational, so x = a/b (rational definition).  
+3) x^2 = (a^2)/(b^2) by squaring both sides.  
+4) x^2 must then be rational.

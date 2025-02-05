@@ -1,0 +1,11 @@
+1. Intended proof
+  Reasoning to be accomplished using contraposition:
+
+2. Begin assumption: Let's assume x is rational.
+   Translate x to a=b where a and b are integers, and b is not equal to 0.
+
+3. Calculation: Therefore, (a POWER 2)/(b POWER 2) results in x^2.
+
+4. Determine status: h as integers suggest x^2 is rational. Rationality implies the quotient.
+
+5.

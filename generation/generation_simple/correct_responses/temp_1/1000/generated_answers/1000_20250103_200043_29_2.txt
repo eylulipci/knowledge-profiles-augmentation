@@ -1,0 +1,5 @@
+- We will prove the contrapositive: If x is a rational number, then x^2 is also rational.
+1) Assume x is irrational [Initial assumption]
+2) Therefore, x ≠ p/q for integers p and q [Definition]
+3) Without knowing x's exact form, x^2 is reliant on x being irrational
+4) Conclude that this impacts the rationality of x^2

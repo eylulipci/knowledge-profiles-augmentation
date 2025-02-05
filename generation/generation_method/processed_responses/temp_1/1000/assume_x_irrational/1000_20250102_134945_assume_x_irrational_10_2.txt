@@ -1,0 +1,5 @@
+- Using contraposition, we must show that if x is a rational number, then x^2 is also rational.  
+1. Suppose x is irrational.  
+2. Then x cannot equal p/q, where p and q are integers.  
+3. Therefore, x^2 will also be irrational.  
+4. Hence, the contrapositive is valid.

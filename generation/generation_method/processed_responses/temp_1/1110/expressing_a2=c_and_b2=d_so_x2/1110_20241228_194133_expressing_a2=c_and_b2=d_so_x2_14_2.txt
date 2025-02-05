@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   Suppose we need to prove that if x is rational, then x^2 is rational by using contraposition.  
+   1. Assume x is rational.  
+   2. Then x can be expressed as x = k/j, where k and j are integers and j ≠ 0.  
+   3. By squaring, we have x^2 = (k^2)/(j^2).  
+   4. We introduce integers g = k^2 and h = j^2.  
+   5. So, x^2 = g/h.  
+   6. Therefore, x^2 must be rational.

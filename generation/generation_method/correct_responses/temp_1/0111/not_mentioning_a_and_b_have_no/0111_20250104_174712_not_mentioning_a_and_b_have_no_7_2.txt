@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Suppose x is a rational number  
+2) x = c/d, where c and d are integers with d ≠ 0  
+3) Then x^2 = (c POWER 2)/(d POWER 2)  
+4) Hence, x^2 is also a rational number  
+5) Therefore, the contraposition tells us if x^2 is irrational, x must be irrational

@@ -1,0 +1,5 @@
+1. Start with contraposition to prove this statement.
+2. Suppose x is not rational initially.
+3. If we have x^2, then assume it is also not rational.
+4. Without clear reasoning to connect these, consider other options.
+5. As x progresses, observe relations to integers.

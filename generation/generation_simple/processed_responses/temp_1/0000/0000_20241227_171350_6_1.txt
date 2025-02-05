@@ -1,0 +1,23 @@
+1. CONTRAPOSITION
+
+2. Consider x to be a real number.
+
+3. We assume x is irrational.
+
+4. Then, x^2 should naturally follow as irrational too.
+
+5. For example, let's choose a number like sqrt(3) for x.
+
+6. So, x = sqrt(3), which is known to be irrational.
+
+7. By squaring x, we get x^2.
+
+8. Then x^2 = 3, which is rational.
+
+9. This is a contradiction, so if x^2 is irrational, perhaps x can sometimes be rational.
+
+10. Thus, the initial assumption might not hold as expected.
+
+11. Therefore, through this approach, we arrive at questioning whether if x^2 is irrational, then x necessarily has to be irrational.
+
+12. We are led to explore more cases and scenarios where this could or could not apply fully.

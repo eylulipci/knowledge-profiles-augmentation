@@ -1,0 +1,5 @@
+- 1. Begin with an assumption about x being a ratio form.
+2. x = a/b means x is a ratio value
+3. When we compute for x squared, it becomes (a^2)/(b^2)
+4. This implies that x^2 turns out to be in a ratio form, thus, like x, rational by nature
+5. Thus, if x^2 were to fail to be rational, neither would x be applicable as a ratio instance.

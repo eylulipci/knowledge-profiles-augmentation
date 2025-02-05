@@ -1,0 +1,6 @@
+1. For contraposition, consider x^2 irrational.
+2. Assume x is rational.
+3. Let x = p/q, where p, q are integers.
+4. Then x^2 becomes (p^2)/(q^2).
+5. This would make x^2 rational.
+6. Since x^2 is irrational, our assumption might be false.

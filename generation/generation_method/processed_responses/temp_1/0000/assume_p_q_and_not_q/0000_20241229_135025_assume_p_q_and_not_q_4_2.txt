@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Define p: "x^2 is irrational" and q: "x is irrational".  
+To prove: From not q and p -> q, infer not p.  
+1) p -> q [Basis]  
+2) not q, which means x is rational [Assumption]  
+3) Therefore, not p follows by modus tollens from above.

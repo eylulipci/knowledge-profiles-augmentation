@@ -1,0 +1,6 @@
+1. Let's set p as "x^2 is irrational" and q as "x is irrational".
+2. The statement we aim to prove is: p -> q. [Premise]
+3. For contraposition, we assume NOT q, which means x is rational. [Assumption]
+4. We also use p -> q as a true statement. [Premise]
+5. From NOT q and the premise p -> q, we derive NOT p. [Modus Tollens]
+6. Since NOT q -> NOT p is equivalent to p -> q, this demonstrates our statement. [Logical Equivalence]

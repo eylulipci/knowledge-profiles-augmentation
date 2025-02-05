@@ -1,0 +1,7 @@
+1. Let x be a real number.  
+2. We need to show that if x is rational, x^2 is also rational.  
+3. Suppose x is any real number.  
+4. Let x be equal to sqrt(2), which is irrational.  
+5. Then x^2 equals 2, which seems rational.  
+6. This means there are cases when both x^2 is rational and x is irrational.  
+7. Therefore, x can be either rational or irrational regardless of x^2.

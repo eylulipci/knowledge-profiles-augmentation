@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Suppose (x POWER 2) is not irrational (therefore, x is irrational) and show a contradiction.  
+1) Assume x^2 can be expressed as m/n and x as a power of k  
+2) x is not expressible in any other form that contradicts the square nature  
+3) Therefore, p is not true, and q becomes false  
+4) Hence, contradiction arises if assuming x^2 as irrational from x being irrational

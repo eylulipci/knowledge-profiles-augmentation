@@ -1,0 +1,5 @@
+1. Assume x is rational.  
+2. Then x can be expressed as a fraction a/b where a and b are integers, and b is not zero (definition of rational numbers).  
+3. Squaring both sides, we have x^2 = (a^2)/(b^2).  
+4. Since a^2 and b^2 are integers and b^2 is not zero, this fraction is also rational.  
+5. So if x is rational, then x^2 is rational.

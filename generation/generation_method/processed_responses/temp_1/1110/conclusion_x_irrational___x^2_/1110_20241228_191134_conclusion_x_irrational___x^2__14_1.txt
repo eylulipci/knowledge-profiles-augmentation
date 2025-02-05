@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We start with the contrapositive: If x is rational, then x^2 is rational.  
+1) Assume x is rational, so x = a/b, with a and b as integers with no common factors and b ≠ 0.  
+2) x POWER 2 = (a/b) POWER 2 = a^2/b^2.  
+3) Since a^2 and b^2 are both integers, a^2/b^2 is the ratio of two integers, thus x^2 is rational.  
+4) Therefore, if x is rational, then x^2 is rational.  
+5) By contraposition, we conclude if x is irrational, then x^2 is irrational.

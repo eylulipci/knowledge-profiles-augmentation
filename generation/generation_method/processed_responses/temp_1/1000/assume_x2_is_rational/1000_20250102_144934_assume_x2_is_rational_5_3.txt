@@ -1,0 +1,3 @@
+- We need to prove the statement by contraposition, so we show that if x is rational, then x^2 is rational.
+1. Suppose x^2 is rational such that x^2 = a/b, where a and b are integers with b ≠ 0.
+2. Since x = sqrt(a/b), I'm not sure how to continue with this to find that x is rational.

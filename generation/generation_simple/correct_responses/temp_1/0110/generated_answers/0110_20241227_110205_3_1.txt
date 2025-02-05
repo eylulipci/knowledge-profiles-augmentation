@@ -1,0 +1,5 @@
+1. Contraposition: Assume x is rational.  
+2. x = a/b where a and b are integers, and b ≠ 0, with no common factors.  
+3. x^2 = a^2/b^2.  
+4. This implies x^2 is also rational.  
+5. The requirement is if x^2 is rational then x is proven rational.

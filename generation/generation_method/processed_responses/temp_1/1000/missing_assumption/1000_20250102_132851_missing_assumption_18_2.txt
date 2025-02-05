@@ -1,0 +1,5 @@
+Start with the statement we are working on. We need to demonstrate that if x is rational, then x^2 is rational:
+1. Begin with understanding that we want the outcome of x^2 being rational.
+2. We identify what characteristics are shared when x fits into such a description.
+3. Next, examine the repercussions this has on x's own structure.
+4. Finally, connect these steps to highlight the initial link between the forms of rational numbers.

@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION  
+   We aim to show that if x is rational, then x^2 must be rational as well.  
+   1. Begin by assuming x is irrational.  
+   2. Since irrational numbers cannot be written as p/q, then x^2 must also be irrational.  
+   3. Therefore, we conclude that if x is rational, then x^2 should be rational.

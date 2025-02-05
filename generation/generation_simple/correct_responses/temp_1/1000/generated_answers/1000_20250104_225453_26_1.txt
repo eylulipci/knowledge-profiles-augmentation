@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+   Let P: x^2 is irrational  
+   Let Q: x is irrational  
+   Then we have NOT Q -> NOT P

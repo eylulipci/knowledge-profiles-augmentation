@@ -1,0 +1,6 @@
+Show that if x^2 is irrational, then x is irrational:
+
+1) Using contraposition: Assume if x is rational, then x^2 is rational.
+2) If we take x = p/q with p and q being integers, where q ≠ 0, we have x^2 = (p/q)^2.
+3) Therefore, x^2 = p^2/q^2 is rational.
+4) If x^2 is irrational, then it must be that x is irrational.

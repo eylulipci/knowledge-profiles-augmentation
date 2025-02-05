@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Let's say x is an irrational number.  
+2) Since x cannot be expressed as a fraction of integers, let’s consider its square, x^2.  
+3) Similar to x, x^2 cannot be expressed as a simple ratio of integers like a^2/b^2.  
+4) In conclusion, if x is irrational, then x^2 is necessarily irrational.

@@ -1,0 +1,6 @@
+1. Using contraposition for the proof.
+2. Assume x is rational.
+3. Let x = a/b with no mention that a and b are integers.
+4. Then, x^2 = (a^2)/(b^2).
+5. Thus, x^2 is rational.
+6. However, the final conclusion about x^2 being irrational is not addressed.

@@ -1,0 +1,5 @@
+Using contrapositive, prove if x is rational, then x^2 is rational:
+1) Proof by contraposition structure: if p, then q becomes if not q, then not p.
+2) Assume we're looking at x, and consider possible forms:
+3) x analyzed under standard operations could yield certain results.
+4) Evaluate further through implications of value types.

@@ -1,0 +1,7 @@
+CONTRAPOSITION  
+1) Assume x is anything but irrational.  
+2) If x^2 can only be expressed as a√b,  
+3) Since x can become as real as 2x,  
+4) It's possible to say that x is rationally squared.  
+5) Hence, if x^2 is not a rational number,  
+6) Then we flawlessly see that x has flaws.

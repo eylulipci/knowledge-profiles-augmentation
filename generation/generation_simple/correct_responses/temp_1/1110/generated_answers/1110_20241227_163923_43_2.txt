@@ -1,0 +1,6 @@
+1. CONTRAPOSITION   
+To prove the implication by contraposition, show that if x is rational, then x^2 is rational.
+1) Suppose x is a rational number. [Assumption]
+2) Thus, x = c/d, where c and d are integers with d ≠ 0. [Express x in terms of integers]
+3) Then, x^2 = (c/d)^2 = c^2/d^2. [Calculate x squared]
+4) Since c^2 and d^2 are also integers, and d^2 ≠ 0, x^2 is rational. [Rational number definition]

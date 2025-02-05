@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   We need to show that if (x POWER 2) is irrational, then x is irrational.  
+   1) Assume x is irrational, and x = n/m where n and m are integers.  
+   2) (x POWER 2) can be written as n^2/m^2.  
+   3) Therefore, (x POWER 2) should be rational because it is a ratio of two integers.  
+   4) Conclude that x is still irrational.

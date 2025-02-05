@@ -1,0 +1,5 @@
+1) Assuming x is a rational number  
+2) x = a/b, where a and b ≠ 0 are integers with no common factors  
+3) Then, x² = (a^2)/(b^2) by squaring   
+4) Therefore, x² is a rational number since a^2 and b^2 are integers  
+5) By contraposition, if x² is irrational, then x is irrational

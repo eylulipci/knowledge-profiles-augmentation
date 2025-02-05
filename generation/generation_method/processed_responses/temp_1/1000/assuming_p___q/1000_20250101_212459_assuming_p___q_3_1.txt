@@ -1,0 +1,6 @@
+1. For proving a statement by contraposition, we start with the premise as ¬b to ¬a.
+2. Assume x^2 is rational, then by definition, x must also be rational under the statement.
+3. Let x = a/b for integers a, b where b ≠ 0.
+4. Then x^2 = (a^2)/(b^2), meaning x^2 is rational if x is rational.
+5. This proof shows that if x is rational then x^2 must be rational, given the statements.
+6. Thus, the statement ¬a implies ¬b is what we have shown.

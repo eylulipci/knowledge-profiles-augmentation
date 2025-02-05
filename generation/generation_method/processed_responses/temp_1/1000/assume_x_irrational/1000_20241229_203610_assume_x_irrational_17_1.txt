@@ -1,0 +1,5 @@
+1. We should prove that if x is rational, then x^2 is rational using contraposition.  
+2. Assume x is irrational. [Premise]  
+3. Then x cannot be written as a ratio of two integers. [Definition]  
+4. Trying to find a connection between x being irrational and x^2, but not sure how it works here.  
+5.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We need to prove: if x is rational, then x^2 is rational.  
+1) Assume x is irrational [Premise]  
+2) From this, if we consider the opposite of rational as irrational, then x cannot be expressed as a fraction of integers p/q [Definition]  
+3) Rephrasing, implies that if x is rational, x could be a/b, where a and b are integers.  
+4) x^2 rearranges the structure, indicating x^2 is still a fraction, thus considering a real num.  
+5) By contrapositive logic, connecting the two results, we derive the rationality chain.

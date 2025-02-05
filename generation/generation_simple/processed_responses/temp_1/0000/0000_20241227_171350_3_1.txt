@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let's start with opposite propositions. Suppose x^2 is rational and x is rational.
+Assume x^2 = a^2/b^2, where a and b are integers.
+Now if x = p/q where p and q are integers, then x is rational.
+1) We have x^2 = (p^2)/(q^2)
+2) Therefore, x = square root of a rational number.
+That means x has a rational result, so assume this makes x irrational, but this assumption isn't right.
+This indicates some disconnect, maybe in handling rationals and irrationals.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is a rational number  
+2) Express x as a/b, where a and b are integers, b ≠ 0  
+3) Computing x POWER 2 gives us (a/b) POWER 2  
+4) So, x^2 = a^2/b^2, indicating it's rational  
+5) Thus, if x is rational, then x^2 is indeed rational  
+6) This follows the principle of contraposition discussed earlier.

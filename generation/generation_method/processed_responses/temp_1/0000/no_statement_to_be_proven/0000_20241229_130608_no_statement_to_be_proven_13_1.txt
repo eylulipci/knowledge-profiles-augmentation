@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x POWER 2 is rational, then show that x is rational  
+   1) x^2 = m/n, where m and n are integers [Definition of rational]  
+   2) Assume x could be irrational for contradiction [Assumption]  
+   3) Use that x^2 is expressible in rational form  
+   4) Derive the form for x which isn't clear  
+   5) x remains unclear if rational or irrational

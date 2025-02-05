@@ -1,0 +1,4 @@
+1. TO SHOW: (IF X IS RATIONAL THEN X^2 IS RATIONAL)
+1. Let's start by assuming x is irrational. [Assumption]
+2. That means x cannot be expressed as p/q, where p and q are integers. [Definition of irrationality]
+3. This implies x^2 should also not be in the form of r/s, with integers r and s. [Consequences for x^2]

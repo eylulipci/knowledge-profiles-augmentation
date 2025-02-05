@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Assume x^2 is irrational  
+   If x^2 is irrational, try to show x is irrational  
+   1) x^2 ≠ p/q  
+   2) Assume x = a/b where a and b are integers (but ending here due to mistakes)

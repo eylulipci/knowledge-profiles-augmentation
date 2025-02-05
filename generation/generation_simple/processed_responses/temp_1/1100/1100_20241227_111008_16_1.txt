@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+To prove: If x^2 is irrational, then x is irrational via contraposition  
+1) Assume x is rational  
+2) Then x = p/q, where p and q are integers, q ≠ 0  
+3) Therefore, x*x = p/q * p/q  
+4) Calculate that: x^2 = (p POWER 2) / (q POWER 2)  
+5) Claim: x being rational implies x^2 is rational

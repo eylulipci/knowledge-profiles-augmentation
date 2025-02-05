@@ -1,0 +1,4 @@
+1. Suppose x is rational, meaning x can be expressed as x = a/b with integers a and b.  
+2. Therefore, x^2 = (a^2)/(b^2) which is still in the form of a ratio of two integers.  
+3. This confirms that x^2 is rational.  
+4. Consequently, using contraposition, if x^2 is irrational, x must be irrational too.

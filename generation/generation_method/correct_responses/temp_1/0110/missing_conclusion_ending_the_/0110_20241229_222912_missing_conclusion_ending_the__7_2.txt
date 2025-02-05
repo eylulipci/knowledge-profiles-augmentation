@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x is rational.  
+Then x can be written in the form a/b, where a and b are integers, and gcd(a, b) = 1 and b ≠ 0.  
+Therefore, x^2 = (a/b)^2 = a^2/b^2.  
+This means x^2 is rational.

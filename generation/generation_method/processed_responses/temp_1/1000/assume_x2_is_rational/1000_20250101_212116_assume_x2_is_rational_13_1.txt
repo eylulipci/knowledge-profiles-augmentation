@@ -1,0 +1,6 @@
+1. To prove by contraposition, we need to prove:  
+   If x^2 is rational, then x is rational.  
+2. Assume x^2 is rational.  
+3. Then there exist integers a and b, with b ≠ 0, such that x^2 = a/b.  
+4. I need to convert this into a form that shows x being rational but I'm not sure.  
+5. I think x might be something like sqrt(a/b) but I don't know how to proceed or verify this.

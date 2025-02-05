@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+Prove that: If x is rational, then x^2 is rational.  
+1) Assume x is irrational.  
+2) Then x cannot be represented as a/b, where a, b are integers, b ≠ 0 [Definition]  
+3) If x becomes rationalized through squaring, question the process.  
+4) Attempt to derive rationality characteristics based on known number properties.  
+5) Conclude using the idea of contraposition that connects the two.  
+&
+1000
+&

@@ -1,0 +1,11 @@
+To use proof by contraposition, we must show that if x is rational, then x^2 is rational. 
+
+1. The aim is to prove: If x is a rational number, then x^2 should also not be irrational, hence making it rational.
+
+Without assuming that x is a rational number explicitly:
+
+2. Let's move towards working on the algebraic representation of x becoming a rational after transforming it a bit.
+
+3. I'll try different scenarios for x without assuming its nature at first, to see if it connects x^2 to rationality.
+
+The ending should verify the connection between the assumptions we have and x being irrational if x^2 is irrational.

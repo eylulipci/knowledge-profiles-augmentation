@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to demonstrate that if x is rational, then x^2 is rational:  
+1. Assume x is a real number and rational.  
+2. Let x = a/b, where a and b are integers with b ≠ 0.  
+3. Therefore, x^2 is represented as (a POWER 2)/(b POWER 2).  
+4. Hence, x^2 can also be written as a quotient of two integers.

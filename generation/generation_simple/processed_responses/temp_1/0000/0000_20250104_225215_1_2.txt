@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+   1) Assume x is rational.  
+   2) Then x *is* in the form a/b for integers a and b.  
+   3) If (x POWER 2) is irrational, then x must not be irrational.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   IF X IS RATIONAL THEN X^2 IS RATIONAL TO PROVE   
+   1. Assume x is irrational [Assumption]  
+   2. By irrational definition, x cannot be p/q [Definition]  
+   3. Not relevant for this

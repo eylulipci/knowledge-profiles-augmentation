@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+Take x^2 is some rational value a/b where a is divisible by b.  
+With this setup, √(a/b) should naturally make x.  
+Now, whether x is seen as rational depends entirely on the division of factors for both the numerator and denominator.  
+With consideration, x becomes approximately rational or simply simplified for the proof, rendering any assumption.  
+The end decision, when starting with x as a rational projection, will justify any defined number.

@@ -1,0 +1,7 @@
+We need to show: If x is rational, then x^2 is rational.
+
+1. Let's assume x is irrational. [Initial step]
+2. From irrationality, x ≠ p/q for any integers p, q.
+3. I thought squaring an irrational gives an irrational.
+4. That should imply something about rationality, but I can't see it.
+5. The proof isn't clear on resulting in a rational x^2.

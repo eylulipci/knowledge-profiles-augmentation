@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is irrational  
+2) Then x = sqrt(m/n), where m and n are integers  
+3) (x POWER 2) becomes irrational, confirming x^2 is irrational  
+4) Therefore, our initial assumption that x is irrational leads to x^2 being irrational  
+5) This method demonstrates the contrapositive: If x^2 is irrational, then x is irrational

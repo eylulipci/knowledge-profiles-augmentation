@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+Let's consider the statement: if x is rational, then x^2 is rational.  
+1) Let P(x) represent "x^2 is irrational" and Q(x) represent "x is irrational."  
+2) We want to prove P(x) -> Q(x) by contraposition, which involves proving NOT Q(x) -> NOT P(x).  
+3) Assume NOT Q(x) is true, meaning x is rational.  
+4) Using this assumption, x can be expressed as a/b where a and b are integers.  
+5) From x = a/b, compute x^2 = (a^2)/(b^2).  
+6) Since a^2 and b^2 are integers, x^2 is rational.  
+7) Thus, NOT P(x) holds true in this case.  
+By contrapositive, this would show P(x) -> Q(x) holds as well.

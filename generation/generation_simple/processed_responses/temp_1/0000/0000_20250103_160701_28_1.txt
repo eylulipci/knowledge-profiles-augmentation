@@ -1,0 +1,1 @@
+Assume x is rational. We need to show (x POWER 2) is irrational. Let's assume x can be written as p/q with both integers. When we square this, we get (p^2)/(q^2), which should be irrational. A contradiction shows up since it looks irrational, which means our assumption might be too. Therefore, (not q) -> (not p), or x should be irrational if squared is irrational or not.

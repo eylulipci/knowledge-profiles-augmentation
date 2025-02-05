@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let P(x) be "x^2 is irrational" and Q(x) be "x is irrational".  
+1) Start with P(x) -> Q(x) [Premise]  
+2) Assume NOT Q(x) is true, so x is rational. [Premise]  
+3) Given P(x) -> Q(x), use NOT Q(x) can lead to NOT P(x) by logical equivalence  
+4) This would mean x^2 is rational, but we started with x^2 as irrational.  
+5) NOT Q(x) leads to contradictions, implying P(x) -> Q(x) is valid.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x POWER 2 is expressed as a rational number a/b where a and b are integers with no common factors and b != 0.  
+Then x POWER 2 = a^2/b^2.  
+Thus, x can be rewritten as a/b.  
+Therefore, if x can be written as a/b, x is rational.

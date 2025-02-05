@@ -1,0 +1,6 @@
+1. Given that we want to prove by contraposition, we consider what happens if x^2 is rational.
+2. Assume x is a real number, such as x = sqrt(2).
+3. Now let's explore the scenario: x^2 = (sqrt(2))^2 = 2.
+4. Here, x^2 being 2 suggests x is irrational, since sqrt(2) is not a fraction of integers.
+5. Therefore, if x is irrational, x^2 leads to an interesting conclusion.  
+6. We have to reconsider what happens when x and x^2 relate to ir/rationality.

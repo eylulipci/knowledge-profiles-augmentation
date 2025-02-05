@@ -1,0 +1,5 @@
+2. CONTRAPOSITION  
+Suppose x is rational, where something about a/b applies  
+If squared, x changes to a^2 / b^2  
+Check the connection between x and x^2  
+Maybe, if x^2 acts in a certain way, x will be a similar form

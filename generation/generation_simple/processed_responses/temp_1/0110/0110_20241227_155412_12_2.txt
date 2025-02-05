@@ -1,0 +1,4 @@
+1. Start with the assumption that x is a rational number.
+2. Express x as x = c/d, where c and d are coprime integers, d ≠ 0.
+3. This makes x POWER 2 = (c POWER 2)/(d POWER 2), confirming both ((c POWER 2) and (d POWER 2)) are integers.
+4. Therefore, x^2 is a rational number.

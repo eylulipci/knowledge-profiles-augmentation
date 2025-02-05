@@ -1,0 +1,4 @@
+1. Suppose that x is rational.
+2. Then it must be possible to express x as a/b, with a and b as integers, and b ≠ 0.
+3. Squaring yields x^2 = (a^2)/(b^2).
+4. Since both a^2 and b^2 are integers, x^2 must be rational if expressed as a^2/b^2.

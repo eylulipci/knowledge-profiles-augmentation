@@ -1,0 +1,8 @@
+To prove the statement by contraposition, we need to show that if x is rational, then x^2 is rational. Here is the reasoning step-by-step:
+
+1. Assume we need to show: if x is rational, then x^2 is rational.
+2. Start by considering rational numbers and how they behave when squared.
+3. Define rational numbers and attempt to express them in a form suitable for squaring.
+4. Attempt to show resulting properties of x^2 based on typical rational expressions.
+
+The essential points shouldn't rely on stating x assumes a rational form initially, and the approach here may wander without grounding in clear assumptions.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+  1) Assume x is irrational  
+  2) Let x = a/b, where a and b are integers with no common factors and b ≠ 0  
+  3) Then x^2 = a^2/b^2  
+  4) Assume x^2 is irrational  
+  5) Therefore, x must be irrational  
+
+q

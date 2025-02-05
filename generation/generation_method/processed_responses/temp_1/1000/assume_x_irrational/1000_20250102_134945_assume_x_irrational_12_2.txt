@@ -1,0 +1,6 @@
+1. We are proving: If x is rational, then x^2 is rational, using contraposition.  
+2. Let's begin by assuming x is irrational.  
+3. By definition, this means x ≠ p/q for any integers p and q with q ≠ 0.  
+4. Squaring an irrational x doesn't fit neatly into showing a rational x^2.  
+5. Some reasoning errors exist without linking steps to prove x^2 is rational.
+6. Subsequent conclusion remains missing or incorrect due to initial assumption.

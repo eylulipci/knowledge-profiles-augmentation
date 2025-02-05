@@ -1,0 +1,6 @@
+- Start with the contraposition approach:
+  1. To show 'if not Q then not P', we begin with 'if x^2 is rational, then x is rational'.
+  2. Assume x^2 is represented as a/b, where a and b are integers with no common factor. This means x^2 is rational.
+  3. Since x = √(a/b), try checking if x can be expressed in terms of integers.
+  4. Not sure how to conclude from here, but this was the starting point.
+  5. Left with uncertainties, need more steps for clearer understanding.

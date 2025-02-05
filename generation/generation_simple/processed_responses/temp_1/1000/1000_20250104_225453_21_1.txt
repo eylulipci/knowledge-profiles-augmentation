@@ -1,0 +1,5 @@
+1. Let P be "x^2 is irrational" and Q be "x is irrational."
+2. We want to show the contrapositive: if x is rational, then x^2 is rational.
+3. Assume x is rational.
+4. This implies x^2 is not irrational.
+5. Therefore, we have NOT Q -> NOT P.

@@ -1,0 +1,6 @@
+Show by using contraposition:  
+1) Attempt to prove "If x^2 is irrational, then x is irrational" via "If x is rational, then x^2 is rational."  
+2) Suppose x^2 is rational. [Assumption]  
+3) That implies x^2 = c/d where c and d are integers and coprime.  
+4) x = sqrt(c/d) does not give clear results for rationality.  
+5) Cannot complete contraposition after this.

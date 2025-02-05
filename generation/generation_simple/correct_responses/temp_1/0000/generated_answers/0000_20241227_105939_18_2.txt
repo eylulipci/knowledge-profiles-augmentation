@@ -1,0 +1,5 @@
+Let x be a real number and assume we need to use contraposition:
+1) Suppose x is irrational.  
+2) An irrational number cannot be written as the quotient of two integers.  
+3) If x equals m/n, then x^2 equals m^2/n^2, making x^2 rational.  
+4) Therefore, if x^2 is irrational, x has to be irrational too.

@@ -1,0 +1,5 @@
+For proving through contraposition, our goal is to demonstrate that if x is rational, then x^2 becomes rational.
+1. We begin by considering the negative statement; if x^2 is proved rational from a rational x, we can handle the contraposition by logical steps.
+2. Without assuming x first, the challenge is to see how the implication reversal holds independently of contradicting details.
+3. So, to link the ratios mathematically, x rational implies x squared follows a similar rational form.
+4. Therefore, concluding from this reverse setup, we have if x^2 is irrational then x becomes irrational.

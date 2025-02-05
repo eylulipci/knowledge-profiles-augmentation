@@ -1,0 +1,6 @@
+1. Let's examine this using the idea of contraposition.
+2. Assume x is a rational number that can be expressed as m/n where m and n are integers.
+3. Then, we have x^2 = m^2/n^2.
+4. Suppose x^2 was irrational, then it wouldn't be in the form of m/n, contradicting that x^2 is rational.
+5. Hence, if x^2 is irrational, x must be irrational as well.
+6. This completes the proof by contraposition.

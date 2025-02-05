@@ -1,0 +1,5 @@
+1. We start by looking at contraposition.
+2. Assume x is irrational.
+3. Consider x^2 = k as our statement.
+4. Since x is irrational, somehow modify x^2 to understand k.
+5. Based on this, prove that x is related to irrational nature.

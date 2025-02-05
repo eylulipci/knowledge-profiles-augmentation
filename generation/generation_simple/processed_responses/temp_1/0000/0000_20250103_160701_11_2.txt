@@ -1,0 +1,6 @@
+1. Let's use contraposition  
+   Assume p(x) is irrationality of x^2 
+   Assume q(x) is irrationality of x 
+   We need to show that (not q) follows.  
+   1) p and not q  
+   2) Therefore, not p

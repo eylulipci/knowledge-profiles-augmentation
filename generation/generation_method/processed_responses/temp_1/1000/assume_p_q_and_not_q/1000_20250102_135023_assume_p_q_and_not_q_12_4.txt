@@ -1,0 +1,10 @@
+1. CONTRAPOSITION
+
+Define p as x^2 is irrational and q as x is irrational. We aim to show p implies q using contraposition.
+
+1) p -> q is the statement to prove. [Check]
+2) We assume NOT q, meaning x is rational. [Assumption]
+3) Given that p -> q and NOT q, conclude that NOT p must follow. [Logical Result]
+4) Hence, we affirm the contrapositive q -> p is equivalent to p -> q. [Reasoning]
+
+This completes the proof using contraposition. &

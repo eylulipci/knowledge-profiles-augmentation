@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Prove x rational implies x squared is rational.  
+1) Consider x as a rational number.  
+2) This lets us write x = r/s, where r and s are integers and s is non-zero.  
+3) Calculating x^2 gives x^2 = (r^2)/(s^2).  
+4) Hence, x^2 is rational.

@@ -1,0 +1,5 @@
+1. Assuming x is a rational number  
+2. We can express x as a/b where a and b are integers with no common factors, and b ≠ 0  
+3. Thus, x^2 = (a/b)^2 = a^2/b^2  
+4. Hence, x^2 is rational since it's the ratio of two integers  
+5. Therefore, using contraposition, if x^2 is irrational, then x must be irrational

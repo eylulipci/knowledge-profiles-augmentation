@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+To approach the proof using contraposition, we need to verify: if x is rational, then x^2 is rational.  
+1) Assume a rational number x, so we assume P(x): x is rational.  
+2) The initial statement P(x) -> Q(x) holds, where Q(x): x^2 is rational.  
+3) Using x = m/n, where m and n are integers and n ≠ 0,  
+4) We find x^2 = (m^2)/(n^2) which is a rational form.  
+5) Consequently, Q(x) follows from P(x), hence P(x) -> Q(x) is true.  
+6) In constructing the contraposition, this verifies the statement if x^2 is irrational, then x is irrational.

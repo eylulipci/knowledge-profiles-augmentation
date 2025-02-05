@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Assume x^2 is a rational number.  
+2. Let x^2 be represented as (m/n) where m and n are integers, and n is not zero.
+3. It gives us x = sqrt(m/n) which may not always result in a rational number.
+4. When x = sqrt(m)/sqrt(n), the expression could be either rational or irrational.
+5. The outcome doesn't necessarily imply what x must strictly be.
+6. So, x^2 being rational leads to uncertainty about the nature of x.
+7. Conclusion doesn't directly tie x to being purely rational.

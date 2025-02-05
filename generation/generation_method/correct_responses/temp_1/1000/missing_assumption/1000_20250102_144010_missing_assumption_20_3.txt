@@ -1,0 +1,1 @@
+To demonstrate this theorem by contraposition, we will establish that assuming x is a rational number will result in x^2 being a rational number.

@@ -1,0 +1,6 @@
+- Suppose the contrapositive is 'if x^2 is rational, then x is rational.' 
+1) Assume x is rational.
+2) Then x can be written as x = a/b, with a and b being integers and b ≠ 0.
+3) Squaring both sides, (x POWER 2) = (a/b) POWER 2 = a^2/b^2.
+4) This representation of x^2 shows it is rational.
+5) Given the contrapositive, 'if x^2 is rational, then x is rational.'

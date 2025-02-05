@@ -1,0 +1,4 @@
+1. Using contraposition, we want to show if x is rational, then x^2 is rational.
+2. Rational numbers can be expressed as p/q with integers p and q, q ≠ 0.
+3. Without directly assuming what x is, struggle arises to correlate rational nature.
+4. Returning to the definition of rational, x^2 needs further demonstration.

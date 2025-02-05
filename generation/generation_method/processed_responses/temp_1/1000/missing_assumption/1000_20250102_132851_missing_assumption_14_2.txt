@@ -1,0 +1,5 @@
+- The statement we have involves contraposition, so we must demonstrate: If x is rational, then x^2 is rational.
+1. Using the contrapositive approach, what needs to be shown is a relationship between x when it is rational and x^2 being rational.
+2. Examining the relationship between a number and its power often reveals key properties.
+3. There is a need to connect x, a real number, to a squared term.
+4. The logical implication involves seeing if x rationally affects the nature of x^2.

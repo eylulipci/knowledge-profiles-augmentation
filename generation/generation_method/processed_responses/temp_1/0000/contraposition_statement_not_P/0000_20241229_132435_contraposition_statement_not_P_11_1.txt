@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   (x^2 is irrational) implies (x is irrational)  
+   Assume (x^2 is rational), then x must be rational  
+   1) x = a/b, where a and b are integers, b≠0 [rational number definition]  
+   2) x^2 = (a POWER 2)/(b POWER 2) [squaring]  
+   This means x^2 is rational  
+   Therefore, if x^2 is irrational, then x must also be irrational

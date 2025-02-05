@@ -1,0 +1,4 @@
+- We need to prove by contraposition that when x^2 is irrational, it implies x is irrational. In other words, we aim to show that if x is rational, then x^2 will be rational. Here’s the general guideline: 
+  1. Let us state that if a real number x can be expressed in the form p/q, it implies that x^2 can also be expressed similarly. 
+  2. Start with expressing x as a fraction made of integers to proceed with x^2. 
+  3. Therefore, based on this expression, x^2 must equally be a fraction of integers.

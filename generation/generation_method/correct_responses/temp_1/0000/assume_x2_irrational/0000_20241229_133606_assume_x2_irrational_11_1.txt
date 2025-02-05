@@ -1,0 +1,5 @@
+Assume that x^2 is irrational and let's prove by contraposition that x is irrational.
+1) x^2 is not a rational number.
+2) Assume x^2 != p/q for x^2, where p and q are integers.
+3) Therefore, if x is not expressible as a ratio of integers, x is not rational.
+4) Show: x^2 being irrational means x is also irrational.

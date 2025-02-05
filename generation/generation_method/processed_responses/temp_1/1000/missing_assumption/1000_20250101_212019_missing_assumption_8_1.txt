@@ -1,0 +1,5 @@
+1. In the statement I need to show: If x^2 is irrational, then x is irrational. 
+2. In contraposition form, this means showing: If x is rational, then x^2 is rational.
+3. For a number to be rational, it can be expressed as p/q.
+4. I'm not sure how to demonstrate x^2 as rational from here. 
+5. The proof hinges on the validity of the rational expression, but I'm unclear about the steps to finalize it.

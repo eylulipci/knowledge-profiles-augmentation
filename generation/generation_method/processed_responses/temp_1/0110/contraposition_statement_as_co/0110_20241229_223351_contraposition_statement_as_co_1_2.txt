@@ -1,0 +1,5 @@
+1. SUPPOSE x is a rational number  
+2. x = a/b for some integers a and b, with b ≠ 0  
+3. Therefore, x^2 = a^2/b^2  
+4. A square of integers is again an integer, so x^2 is a rational number  
+5. Therefore, if x is rational, x^2 is rational

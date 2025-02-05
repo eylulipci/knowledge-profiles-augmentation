@@ -1,0 +1,4 @@
+1. Using contraposition, we need to show the reverse situation.
+2. So, if x^2 is a rational number, then x should be a rational number too.
+3. Assume x^2 can be expressed as a/b where a and b are integers.
+4. Attempt to find x as a quotient of integers, but I'm unsure how to proceed.

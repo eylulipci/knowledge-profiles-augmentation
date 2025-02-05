@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Consider P: "x^2 is irrational" and Q: "x is irrational."  
+Utilize the logic of contraposition to establish that P -> Q holds.  
+1) Assume P(x) -> Q(x) [Initial premise]  
+2) Suppose NOT Q (x is rational) as a presumption.  
+3) Infer NOT P by utilizing NOT Q and established P(x) -> Q(x) [Reasoning by modus tollens]  
+4) Therefore, concluded NOT Q -> NOT P, thus showing P -> Q.  
+In this way, the original statement "if x^2 is irrational, then x is irrational" has been addressed.

@@ -1,0 +1,6 @@
+1. Suppose x^2 is rational.
+2. Then x^2 = a/b for integer a and b.
+3. Assume x = sqrt(a/b).
+4. If x^2 = (p^2)/(q^2) for integers p and q, x is supposed to be rational.
+5. This suggests x = p/q, leading back to x being rational when x^2 is rational.
+6. Conclude that if x^2 is rational then x should rationalize too, but something doesn't connect correctly.

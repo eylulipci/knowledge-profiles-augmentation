@@ -1,0 +1,10 @@
+1. PROOF BY CONTRAPOSITION  
+
+We need to establish this contrapositive: if x is rational, then x^2 is rational.
+
+1) Assume x is a rational real number.
+2) Write x as a/b, where a and b are integers and gcd(a, b) = 1 and b ≠ 0. [Definition]
+3) Then x^2 = (a/b) POWER 2 = a^2/b^2. [Squaring]
+4) Since a^2 and b^2 are integers, x^2 can be represented as a^2/b^2, which makes x^2 rational.
+
+Conclude: "If x is rational, then x^2 is rational."

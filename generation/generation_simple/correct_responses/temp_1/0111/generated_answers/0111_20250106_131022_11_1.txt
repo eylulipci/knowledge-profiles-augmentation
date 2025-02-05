@@ -1,0 +1,6 @@
+1. Consider using contraposition  
+2. Assume x is rational  
+3. Write x as a/b where a and b are integers with no common denominators  
+4. This means x^2 = (a^2)/(b^2)  
+5. Hence, x^2 is also rational  
+6. By contraposition, if x^2 is irrational, then x is irrational

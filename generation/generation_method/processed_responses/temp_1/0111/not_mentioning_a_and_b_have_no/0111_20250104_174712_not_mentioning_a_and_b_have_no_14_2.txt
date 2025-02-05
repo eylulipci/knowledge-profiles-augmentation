@@ -1,0 +1,5 @@
+1) Assume x is rational  
+2) Thus, x can be expressed as x = a/b with both a and b as integers and b not zero  
+3) Squaring gives x^2 = a^2/b^2  
+4) So x^2 is rational  
+5) If x^2 is proven to be irrational, then it follows x must be irrational

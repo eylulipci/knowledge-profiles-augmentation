@@ -1,0 +1,5 @@
+1. To use proof by contraposition, we need to show that if x is rational, then x^2 must be rational.
+2. Begin by letting x^2 be a rational number x^2 = n/m, where n and m are integers and m ≠ 0.
+3. Can I express x as a rational number using x^2? Maybe through a square root?
+4. Running into issues on how I express x exactly as a rational derivative of x^2.
+5. Proving the statement is tricky this way, losing track.

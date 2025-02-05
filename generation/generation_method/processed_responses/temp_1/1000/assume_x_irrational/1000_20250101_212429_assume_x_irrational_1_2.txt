@@ -1,0 +1,5 @@
+1. Show that if x is rational, then x^2 is rational through contraposition.
+2. Assume x is irrational. [Starting Point]
+3. Therefore, by the definition of irrational numbers, x ≠ p/q for any integers p and q.
+4. We look at x^2, but since x was assumed irrational, the conclusion for x^2 is not straightforward.
+5. Thus, under this framework, determining the nature of x^2 becomes complex and doesn't clearly revert to a rational basis.

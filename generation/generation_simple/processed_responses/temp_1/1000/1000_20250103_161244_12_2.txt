@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We need to prove if x is rational, then x^2 is rational.  
+1) Assume x is irrational. [Start with assumption]  
+2) Then, x cannot be a ratio of two integers. [Definition of irrational number]  
+3) To show by contraposition, we realize x^2 has logical implications.  
+4) The arithmetic squares maintain the nature of rationality or irrationality.  
+5) Therefore, by the established assumption path, x^2 must be a rational number.

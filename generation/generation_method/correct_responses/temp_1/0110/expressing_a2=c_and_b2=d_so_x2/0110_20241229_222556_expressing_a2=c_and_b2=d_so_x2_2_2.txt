@@ -1,0 +1,4 @@
+1. Start by supposing x is a rational number, so it can be represented as a/b, where a and b are integers and b ≠ 0.
+2. Square x to obtain x^2, resulting in (a^2)/(b^2).
+3. Label a^2 as m and b^2 as n, both integers, to express x^2 as m/n.
+4. Therefore, x^2 is a rational number by definition of rationals.

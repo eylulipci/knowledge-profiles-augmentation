@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume that x is a rational number  
+   1) Thus, x = c/d, where c and d are integers, and d ≠ 0  
+   2) Therefore, x^2 = (c/d) POWER 2 = c^2/d^2  
+   3) c^2/d^2 is in the form of a rational number [Definition of rational numbers]  
+   4) Therefore, if x is irrational, x^2 is irrational by contraposition

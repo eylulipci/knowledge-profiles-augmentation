@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+If x^2 is rational, let’s assume this can be demonstrated as a rational number.  
+1. Assume x^2 = a/b where a and b are integers. [Definition]  
+2. Then we can say x = c/d for integers c and d.  
+3. Here, x^2 = (c^2)/(d^2) doesn’t clarify if x^2 was actually rational.  
+4. The fact remains, if x was rational, then x^2 follows the rational property, proven through opposite cases.

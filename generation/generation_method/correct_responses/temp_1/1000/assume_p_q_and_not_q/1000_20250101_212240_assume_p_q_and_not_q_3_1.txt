@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let P(x) be "x^2 is irrational" and Q(x) be "x is irrational".  
+To prove by contraposition, we need to show (NOT Q(x)) -> (NOT P(x)).  
+1) Assume P(x) is true. [Given premise]  
+2) Assume P(x) -> Q(x) is true.  
+3) Use modus ponens to conclude Q(x).  
+4) Since Q(x) is true, we have proven P(x) -> Q(x).  
+Thus, if x^2 is irrational, then x is irrational by contraposition.

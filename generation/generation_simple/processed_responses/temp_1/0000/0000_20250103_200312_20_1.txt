@@ -1,0 +1,6 @@
+1. Contraposition  
+   Assume x^2 is rational  
+   Let x = c/d where c and d are integers  
+   Then x^2 = c^2/d^2  
+   Hence x is rational  
+   We conclude that x^2 being irrational implies x is irrational

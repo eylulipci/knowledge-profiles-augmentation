@@ -1,0 +1,5 @@
+1. Applying contraposition, prove that if x is rational, x^2 must be rational.  
+a. Consider a real number x assumed to be rational.  
+b. The contrapositive form states: if x^2 is irrational, x needs to be irrational.  
+c. Therefore, the proof hinges on the logical equivalence.  
+d. Details of the next logical steps remain unstated here.

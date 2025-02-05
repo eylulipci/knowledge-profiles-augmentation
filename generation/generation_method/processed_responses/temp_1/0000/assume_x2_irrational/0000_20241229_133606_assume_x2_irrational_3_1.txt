@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x^2 is irrational and show x is irrational.  
+   1) x^2 =/= p/q  
+   2) Assume x = m/n, where m and n are integers.  
+   3) x^2 = (m POWER 2)/(n POWER 2)  
+   4) x^2 would be rational contradicting assumption  
+   5) Therefore x must be irrational

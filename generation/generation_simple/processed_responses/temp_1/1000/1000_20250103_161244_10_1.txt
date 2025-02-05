@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+We need to prove: If x is rational, then x^2 is rational.  
+1) Assume x is irrational.  
+2) Then x cannot be written as a/b, where a and b are integers with b not zero.  
+3) If x = a/b is not possible, then what about x^2?  
+4) Attempting to square an irrational may give further leads.  
+5) Explore x^2 for rational expressions, not directly clear from assumptions.  
+6) The conclusion of x leads to exploring irreversibility, but might not yield direct proof.

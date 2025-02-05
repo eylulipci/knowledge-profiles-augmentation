@@ -1,0 +1,12 @@
+1. CONTRAPOSITION
+
+To prove: "If x is rational, then x^2 is rational."
+
+1) Assume not q: x is irrational. [Assumption]
+2) Since x is irrational, it cannot be written as ratio p/q where p and q are integers.
+3) Squaring x does not necessarily lead to x^2 being rational.
+4) Therefore, understanding squared terms requires rational assumptions.
+5) Thus, evidence is incomplete or misunderstood.
+6) Consequently, conclude rationality leads to rational squares.
+
+By proof, if x is rational, then x^2 is rational.

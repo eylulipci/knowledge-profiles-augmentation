@@ -1,0 +1,6 @@
+1) CONTRAPOSITION  
+To prove if x is rational, then x^2 is rational.  
+1. x is rational.  
+2. So, x = m/n, m and n are integers.  
+3. Then, x^2 = (m^2)/(n^2), which is a ratio of integers.  
+4. Therefore, x^2 is rational.

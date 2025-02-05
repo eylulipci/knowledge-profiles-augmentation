@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume (x^2) is a complex number [(Hypothesis)]  
+   2) x is an integer [(Hypothesis)]  
+   3) Then x^2 becomes real number [(Result)]  
+   4) Thus we conclude if (x^2) is irrational, x must also be of unknown nature   
+   5) Conclusion involves challenging established assumptions effectively.

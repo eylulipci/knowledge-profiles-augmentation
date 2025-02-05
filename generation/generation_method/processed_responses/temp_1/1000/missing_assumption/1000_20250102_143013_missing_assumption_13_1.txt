@@ -1,0 +1,7 @@
+To prove "if x^2 is irrational, then x is irrational" using contraposition, we start by reversing the statement to: if x is rational, then x^2 is rational. 
+
+1. We need to show that for a number x, if it is a rational number, its square x^2 will also lead us to identify its nature. 
+
+2. Now let's consider that any real number squared should maintain certain properties in terms of rationality.
+
+3. From here, we conclude that the irrationality of x^2 aligns with the non-rational nature of x, observing that any rational input results in a rational output due to inherent mathematical properties.

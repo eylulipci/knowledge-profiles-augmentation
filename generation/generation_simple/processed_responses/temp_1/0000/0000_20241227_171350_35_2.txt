@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let's start by assuming the outcome is true: x is irrational.  
+If x^2 is a rational number, then the square root of this number should be rational.  
+Work with examples like x = sqrt(2).  
+Therefore, if x is not a quotient of integers then x^2 can have some rational outcome.  
+But it's possible x^2 is not rational because we started from a rational number assumption.  
+This implies x needs to be irrational for all conditions to hold.

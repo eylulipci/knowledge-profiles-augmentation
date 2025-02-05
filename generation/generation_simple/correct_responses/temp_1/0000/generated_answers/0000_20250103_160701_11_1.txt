@@ -1,0 +1,5 @@
+1. PROOF BY CONTRAPOSITION  
+   1) Assume that x^2 is irrational 
+   2) Assume also that x is irrational 
+   3) Therefore, x^2 being irrational follows because x is irrational  
+   4) Conclude that x -> x^2

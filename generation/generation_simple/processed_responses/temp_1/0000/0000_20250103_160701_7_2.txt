@@ -1,0 +1,8 @@
+Start by assuming x is irrational.
+
+1. Assume x^2 is a rational number.
+2. x can be expressed as a/b with a and b as integers.
+3. When x is squared, (a^2)/(b^2) should be rational too.
+4. This contradicts the fact that x^2 was assumed rational if x is irrational.
+
+Therefore, we can't have the initial condition.

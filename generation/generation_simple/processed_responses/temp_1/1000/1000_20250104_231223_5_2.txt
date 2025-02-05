@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+   To prove by contraposition that: if x is rational, x^2 is rational.
+   1. Assume x is something but not specifically rational. [Incorrect assumption]
+   2. Without linking x and x^2 rationally, suppose x^2 has rational outcomes. [Lack of reasoning]
+   3. Belief that x^2 shows such rationality due to vague reasons, 
+   4. Conclusion remains unproven between x when treated rationally versus x^2.

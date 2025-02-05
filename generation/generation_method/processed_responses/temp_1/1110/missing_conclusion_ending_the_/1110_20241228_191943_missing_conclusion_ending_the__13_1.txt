@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Suppose that if x is rational then x^2 is rational.  
+2. x is rational [Assumption]  
+3. x = u/v, where u and v are integers and v ≠ 0 [Definition of rational]  
+4. x^2 = (u^2) / (v^2) [Algebraic manipulation]  
+5. By this, x^2 is rational.

@@ -1,0 +1,6 @@
+1. Let's assume x is rational.  
+2. With this, x can be expressed as p/q, where p and q are integers with no common factors, and q ≠ 0. [definition of rational number]  
+3. By squaring both sides, we get x^2 = (p^2)/(q^2).
+4. Since p^2 and q^2 are integers, x^2 can be written as a/b, where a = p^2 and b = q^2, both integers.
+5. So, x^2 is rational.
+6. Therefore, if x^2 is irrational, then x is irrational.

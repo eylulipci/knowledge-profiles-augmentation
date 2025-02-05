@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+   1) Start with x being irrational  
+   2) Then, to prove x^2 is irrational  
+   3) Assume x cannot be written as a/q, with a and q integers  
+   4) Then we compute (x POWER 2)  
+   5) If x^2 is not a/b with a and b non-zero integers, x is irrational  
+   By contraposition, we establish the original statement as true.

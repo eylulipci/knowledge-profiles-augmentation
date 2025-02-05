@@ -1,0 +1,4 @@
+1. We need to show that x^2 being irrational implies x is irrational using contraposition.  
+2. Assume x^2 is irrational.  
+3. If x is p/q, then x^2 should be (p/q) POWER 2, which is irrational, but this is the assumed state.  
+4. This leads to x being irrational as well.

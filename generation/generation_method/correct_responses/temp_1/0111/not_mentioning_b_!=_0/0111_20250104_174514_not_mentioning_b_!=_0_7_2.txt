@@ -1,0 +1,6 @@
+1. Assume x is a rational number.
+2. Therefore, x can be written as x = a/b for integers a and b in simplest form.
+3. Squaring both sides, we have x^2 = (a^2)/(b^2).
+4. Since a^2 and b^2 are integers, x^2 is expressible as a ratio of two integers.
+5. This indicates that x^2 is rational.
+6. By contraposition, therefore, if x^2 is not rational, then x is also not rational.

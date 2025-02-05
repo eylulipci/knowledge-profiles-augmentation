@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To start, let's assume x^2 is rational, implying x is rational.  
+Defining x^2 = m/n, where m and n are integers and n is not zero,  
+it follows that x can be written as (m POWER 1/2)/(n POWER 1/2),  
+which maintains a form of a ratio, so x is a rational number.  
+Therefore, if x^2 is rational, x must be rational, leading us to conclude if x^2 is irrational, then x is irrational.

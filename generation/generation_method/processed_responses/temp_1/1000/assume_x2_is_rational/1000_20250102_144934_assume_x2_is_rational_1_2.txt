@@ -1,0 +1,4 @@
+1. We start with proving by contraposition: proving if x is rational, then x^2 is rational.  
+2. Assume x^2 is rational, so x^2 = a/b for integers a and b.  
+3. Then x = sqrt(a/b) would logically be a rational number.  
+4. By this logic, if x^2 is irrational, it proves x is irrational too.

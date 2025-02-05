@@ -1,0 +1,1 @@
+Utilizing this approach aligns with the logic required for proof by contraposition, thereby supporting the original implication.

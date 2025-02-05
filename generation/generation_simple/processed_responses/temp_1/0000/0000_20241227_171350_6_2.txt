@@ -1,0 +1,21 @@
+1. CONTRAPOSITION
+
+2. We try to check if x^2 is rational.
+
+3. Supposing x^2 can be expressed as p/q for integers p and q.
+
+4. Let's consider x = pi.
+
+5. Then, when we calculate x^2, it becomes not easily expressible as a fraction.
+
+6. Assume x^2 is irrational in one instance as pi^2 is.
+
+7. We explore when x ends up rational or irrational.
+
+8. Looking at rational pairs like x = a/b leads to x^2 being a square form.
+
+9. But x^2 not always rational can make x seem rational at first sight.
+
+10. Start from a different approach that generally deals with opposite implications of x nature.
+
+11. Conclude that analyzing further creates more understanding.

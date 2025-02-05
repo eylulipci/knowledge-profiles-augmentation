@@ -1,0 +1,9 @@
+To prove the statement by contraposition, we need to show that if x is rational, then x^2 is rational. 
+
+The contraposition statement is an indication that if we have some property, its opposite should also hold. 
+
+This means that we need to convert the implication into its contrapositive form. 
+
+For example, if we have the statement p -> q, then its contrapositive would be NOT q -> NOT p. 
+
+Hence, we need to prove that if x is rational, then x^2 is rational.

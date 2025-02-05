@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+The task is to prove that if x^2 is irrational, then x is irrational.  
+By contraposition, we need to show the following:  
+If x is rational, then x^2 is rational.  
+Let’s assume x is a fraction (rational), maybe something like a/b.  
+x^2, in this stance, must end up being some composite of fractional forms like c/d too.  
+The setup shows that under this form of thought, x^2 indeed remains tied to that rational domain.  
+So, the contrapositive stance solidifies that if x^2 were irrational, x couldn't rightly claim his position as a fraction.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Start with x^2 rational to show x is irrational.  
+   1) Assume x irrational.  
+   2) Then express x^2 = a/b, where a and b are integers.  
+   3) So, x must also be expressible as a fraction.  
+   4) x^2 becomes rational, proving assumption.  
+   5) Conclude by contraposition, if x^2 is irrational, x is rational.

@@ -1,0 +1,4 @@
+For a proof by contraposition of the statement:
+1. We must show: If x is rational, then x^2 is rational.
+2. Assume x is irrational for the proof.
+3. With x being irrational, x^2 is not expressible as m/n, leading to x^2 being irrational.

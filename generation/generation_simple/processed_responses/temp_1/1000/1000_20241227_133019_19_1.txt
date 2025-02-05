@@ -1,0 +1,4 @@
+1. Proving the statement by contraposition means we must prove if x is rational then x^2 is rational.
+2. Let x^2 be a rational number. We suppose x can be expressed as x = a/b, where a and b are integers.
+3. Therefore, x multiplied by x equals x^2.
+4. We conclude that the contrapositive holds, making the original statement true.

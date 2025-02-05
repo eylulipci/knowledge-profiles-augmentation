@@ -1,0 +1,5 @@
+1. Assume x is rational.
+2. Then x can be written as a/b. [Assumption]
+3. So x POWER 2 = (a POWER 2)/(b POWER 2).
+4. This means x^2 is a ratio of two whole numbers, which makes x^2 rational.
+5. By contraposition, if x^2 is irrational, then x is irrational.

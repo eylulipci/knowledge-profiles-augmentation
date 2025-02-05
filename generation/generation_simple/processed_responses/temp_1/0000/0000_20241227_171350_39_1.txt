@@ -1,0 +1,11 @@
+1. CONTRAPOSITION  
+   - We assume x^2 is a number.  
+   - If x is rational, then let's take an example.  
+   - x can be 1/2, which is a rational number.  
+   - If x is irrational, we can consider x = √2.  
+   - Suppose x^2 is still 2.  
+   - If we assume different values, x and x^2 will change.  
+   - x being irrational could make x^2 sometimes irrational.  
+   - x does not have to relate to x^2 directly with rationality or irrationality.  
+   - Contradiction can appear because x^2 being rational doesn't always have an impact on x's nature.  
+   - By assuming x^2 rational initially, different examples show varied results.

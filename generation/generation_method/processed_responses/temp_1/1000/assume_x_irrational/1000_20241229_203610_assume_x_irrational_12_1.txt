@@ -1,0 +1,5 @@
+1. CONTRAPOSITION. WE HAVE TO PROVE THAT IF X IS RATIONAL THEN X^2 IS ALSO RATIONAL.
+2. Suppose x is irrational. [Assumption]
+3. Then, by definition, x cannot be written as p/q where p and q are integers.
+4. Therefore, x^2 is not equal to a rational expression. 
+5. This shows something about x and x^2.

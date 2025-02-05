@@ -1,0 +1,5 @@
+1) Assume that x is rational  
+2) Thus, x = r/s, where both r and s are integers and s ≠ 0  
+3) Then x^2 = (r^2)/(s^2), confirming they are integers  
+4) As a result, x^2 is rational  
+5) Using contraposition, if x^2 is irrational, then x is irrational

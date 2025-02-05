@@ -1,0 +1,6 @@
+1. Begin by a proof by contraposition: Assume x^2 is not rational to show x is not rational.  
+2. Let x^2 not be able to be expressed as some p/q.  
+3. Suppose x could be written as a/b with a, b integers.   
+4. Then, x^2 would equal (a POWER 2)/(b POWER 2).  
+5. Since x^2 is given as not rational, this creates a contradiction.  
+6. Hence, x is not rational if x^2 is not rational.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+   Let p be the statement "x^2 is irrational."
+   Let q be the statement "x is irrational."
+   Show that from (p -> q) and (not q), we can conclude (not p).
+   1) Assume (p -> q) [Premise]
+   2) Assume (not q) [Premise]
+   3) Conclude (not p) [Modus tollens from 1. and 2.]

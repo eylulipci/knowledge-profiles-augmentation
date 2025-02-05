@@ -1,0 +1,5 @@
+1. To prove by contraposition: If x is rational then x^2 is rational
+2. Assume x is irrational [Assumption]
+3. Then x cannot be written as a fraction a/b where a and b are integers
+4. x^2 remains irrational by this logic since it is derived from an irrational x
+5. This shows the relationship under contraposition

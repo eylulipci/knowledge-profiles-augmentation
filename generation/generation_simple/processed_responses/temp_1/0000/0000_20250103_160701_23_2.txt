@@ -1,0 +1,7 @@
+Proof by contraposition seeks to show if x is not rational, then x^2 isn't rational.
+
+1. Start with the premise that x^2 is irrational.
+2. Assume x is an irrational number.
+3. If x is irrational, then it can't be written in the form a/b where a and b are integers.
+4. Therefore, x^2 becomes rational.
+5. This implies that x squares to become irrational.

@@ -1,0 +1,4 @@
+1. Assuming x is rational,  
+2. Then there exist integers p and q such that x = p/q and q ≠ 0.  
+3. Hence, x^2 = (p^2)/(q^2).  
+4. So, x^2 is rational because p^2 and q^2 are integers.

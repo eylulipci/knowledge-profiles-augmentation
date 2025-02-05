@@ -1,0 +1,8 @@
+Assume that x^2 is irrational and prove that x is also irrational using contraposition.
+
+1. Let P be the statement "x^2 is irrational" and Q be "x is irrational."
+2. Assume P is true (x^2 is irrational). [Premise]
+3. Conclude Q is true (x is irrational). [Conclusion from assumption]
+4. Using contraposition, if x were rational, x^2 would be rational.
+
+Therefore, the proposition holds by contraposition if x^2 is irrational, then x is irrational.

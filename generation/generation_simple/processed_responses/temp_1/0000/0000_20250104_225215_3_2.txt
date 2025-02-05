@@ -1,0 +1,8 @@
+1. Contraposition  
+   1) Assume that x is irrational and (x POWER 2) is rational  
+   2) We need to prove that x is rational too  
+   3) If x can be represented in some form P/Q  
+   4) Then (P/Q)^2 would result in the form of integers  
+   5) This shows that (x^2) should also be expressed as rational  
+   6) Therefore contradicts, x^2 really is not rational  
+   7) x must therefore be rational

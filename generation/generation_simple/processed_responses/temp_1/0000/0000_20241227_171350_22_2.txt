@@ -1,0 +1,6 @@
+- 1. Begin with contrapositive logic statement.
+   Assume x is an integer.
+   Then x^2 can be expressed as c/d where c and d are real numbers.
+   Since x is a number, x^2 might also become irrational if the square results in a non-integer.
+   Furthermore, consider that x could be 3.141, making it seem irrational.
+   Thus, if x^2 can look rational then x is always irrational.

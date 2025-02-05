@@ -1,0 +1,5 @@
+1. Formulating contraposition, we determine if x is irrational, then x^2 is irrational.
+2. Assume x is irrational. Therefore, x^2 must also be irrational.
+3. By following the contraposition, the irrationality carries over from x to x^2.
+4. Ensure that this logical step confirms their irrational relationship.
+5. Thus, if an x is irrational, x^2 must be irrational.

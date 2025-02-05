@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let's consider the statement: if x^2 is irrational, then x is irrational.  
+2. Assuming x^2 is rational implies there exists a rational number x that fits this condition.  
+3. If we take x^2 = p/q where p and q are integers, then x can be written as p/q as well, invoking the rational property of roots.  
+4. This implies that if x^2 is rational, x is rational, confirming the contrapositive statement.  
+5. Thus, it follows by contraposition that if x^2 is irrational, x must be irrational.

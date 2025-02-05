@@ -1,0 +1,6 @@
+1. We want to prove using contraposition that if x^2 is irrational, then x is irrational.
+2. Assume that x^2 is rational. 
+3. Since x^2 is rational, it can be written as x^2 = m/n, where m and n are integers with no common factors.
+4. Then x = √(m/n), suggesting we need more steps to determine x's nature. 
+5. The logical structure seems incomplete; need more elaboration.
+6. We get stuck concluding the nature of x.

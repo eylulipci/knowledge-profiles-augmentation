@@ -1,0 +1,8 @@
+1. Using Contraposition  
+Define p: (x POWER 2) is irrational  
+Define q: x is irrational  
+Demonstrate that from (NOT q) and (p -> q) we derive (NOT p).  
+1) (NOT q) and (p -> q) [Start Point]  
+2) Derive (NOT q) [Using Step 1]  
+3) Derive (p -> q) [Using Step 1]  
+4) Conclude (NOT p) [Using Modus Tollens]

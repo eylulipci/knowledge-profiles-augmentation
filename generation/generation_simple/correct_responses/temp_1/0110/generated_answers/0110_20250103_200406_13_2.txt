@@ -1,0 +1,5 @@
+- CONTRAPOSITION
+1) Assume x is a rational number.
+2) We can express x as a/b where both a and b are integers, b ≠ 0.
+3) Square x: x^2 = (a/b)^2 = a^2/b^2.
+4) Since a^2 and b^2 are integers, x^2 must be rational.

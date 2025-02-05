@@ -1,0 +1,6 @@
+- We want to prove by contraposition.
+1) Assume x is rational
+2) x can be expressed as a/b [a and b with no common factors]
+3) x^2 = (a POWER 2)/(b POWER 2)
+4) So, x^2 is rational
+5) Therefore, by contraposition, if x^2 is irrational, then x is irrational

@@ -1,0 +1,13 @@
+We start by defining the statement "if x^2 is irrational, then x is irrational" using p and q:
+
+1) Define P(x): x^2 is irrational
+2) Define Q(x): x is irrational
+
+To prove P(x) -> Q(x) by contraposition, we consider the following:
+
+1) Assume P(x) -> Q(x) is true
+2) Assume NOT Q(x) is true, i.e., x is rational
+3) From statements 1 and 2, conclude NOT P(x)
+4) Therefore, if x is rational, x^2 is rational
+
+This shows that the assumption of NOT Q(x) supports the conclusion of NOT P(x), thus confirming P(x) -> Q(x).

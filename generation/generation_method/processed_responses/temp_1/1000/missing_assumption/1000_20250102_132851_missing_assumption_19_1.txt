@@ -1,0 +1,6 @@
+- I will prove this statement using contraposition. According to contraposition, we show that if x is rational, then x^2 is rational. 
+1. Assume x is such that x^2 is irrational. 
+2. x must be rationalized, therefore expressible in the form a/b. 
+3. There needs to be a valid reason x^2 cannot be made rational.
+4. There's a mismatch in the process. 
+So, the conclusion does not follow.

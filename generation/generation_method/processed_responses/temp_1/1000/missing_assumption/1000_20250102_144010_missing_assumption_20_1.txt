@@ -1,0 +1,1 @@
+To prove "if x^2 is irrational, then x is irrational" using proof by contraposition, we need to show that if x is rational, then x^2 is rational.

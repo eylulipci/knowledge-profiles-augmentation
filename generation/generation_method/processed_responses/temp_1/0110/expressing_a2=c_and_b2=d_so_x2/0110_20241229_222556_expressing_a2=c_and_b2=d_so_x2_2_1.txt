@@ -1,0 +1,4 @@
+1. Assuming x is a rational number, we can express it as a/b where a and b are integers with no common factors and b ≠ 0.
+2. Then, compute (x POWER 2) to get (a POWER 2)/(b POWER 2).
+3. At this point, redefine (a POWER 2) as c and (b POWER 2) as d, noting that both c and d are integers.
+4. We can thus rewrite x^2 as c/d, confirming that x^2 is a rational number based on the definition.

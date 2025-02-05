@@ -1,0 +1,6 @@
+1) To prove by contraposition.
+2) Suppose x is rational
+3) Express x as a/b 
+4) Compute x^2 = a^2/b^2
+5) x^2 is rational
+6) Thus, if x^2 is irrational, by contraposition, x is irrational

@@ -1,0 +1,6 @@
+1) To prove by contraposition, show that if x is rational, then x^2 is rational.  
+2) Begin with the situation x has a fractional form.  
+3) Without an assumption, deduce that x^2 fits into rationality.  
+4) This means x^2 should follow rational properties.  
+  
+Proof needs x^2's sample for rational.

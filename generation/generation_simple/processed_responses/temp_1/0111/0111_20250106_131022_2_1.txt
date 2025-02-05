@@ -1,0 +1,6 @@
+1. Assuming that x is a rational number  
+2. x = m/n where m and n are integers with n ≠ 0, and m/n is in its simplest form [By definition of rational numbers]  
+3. Squaring gives us: x^2 = (m/n)^2 = (m^2)/(n^2)  
+4. As m^2 and n^2 remain integers, (m^2)/(n^2) is a rational number [property of integer squares]  
+5. Thus, if x is rational then x^2 is also rational.  
+6. By contraposition, if x^2 is irrational then x must be irrational.

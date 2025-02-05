@@ -1,0 +1,4 @@
+1. We apply CONTRAPOSITION.
+2. Assume x is rational, expressed as x = a / b where a and b are integers and b ≠ 0.
+3. Squaring, we have x^2 = (a^2) / (b^2).
+4. Thus, x^2 can be written as the ratio of a^2/b^2, which means x^2 is rational.

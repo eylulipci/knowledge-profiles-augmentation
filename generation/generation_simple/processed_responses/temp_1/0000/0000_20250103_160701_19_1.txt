@@ -1,0 +1,8 @@
+Assume x is rational, then x can be represented as a quotient of two integers, meaning x = p/q for some integers p and q.
+
+1. Suppose x is irrational. 
+2. Let's define that x^2 is expressed as m/n where m and n are integers.
+3. x^2 should be irrational because of the assumption.
+4. We go back to the idea that rational fractions have integer results, so when squared, x^2 is supposed to express regularly.
+
+Therefore, since x is rational and can be represented as a quotient of integers, this contradicts the irrational assumption for x^2. This assumes the understanding of an irrational number is any number that cannot be expressed or remains unfounded divided by two integers distinctly. By this reasoning, we see x must be of regular standing contrary to x^2.

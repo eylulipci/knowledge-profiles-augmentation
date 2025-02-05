@@ -1,0 +1,1 @@
+3. Expansion: Consider if x = a/b, where a and b are integers.

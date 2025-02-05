@@ -1,0 +1,5 @@
+1) Suppose that x^2 is irrational so to prove by this that x is irrational.  
+2) Therefore, x^2 does not equal p/q for integers p and q, since it is not a rational number.  
+3) From this, if x were rational, x must equal a/b with integers a and b.  
+4) However, since x^2 = (a^2)/(b^2), x^2 should be rational if x is rational.  
+5) But since x^2 is irrational, conclude that x must also be irrational.

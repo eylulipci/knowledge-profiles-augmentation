@@ -1,0 +1,7 @@
+Assume x^2 is irrational and x is rational.  
+1) x can be expressed as a/b, where a and b are integers, and b ≠ 0.  
+2) Therefore, (x POWER 2) = (a^2)/(b^2).  
+3) Since a^2 and b^2 are integers, (x POWER 2) can be written as the ratio of two integers, meaning x^2 is rational.  
+4) This contradicts the assumption that x^2 is irrational.  
+5) Thus, if x is rational, x^2 must be rational.  
+6) Hence by contraposition, x^2 irrational implies x irrational.

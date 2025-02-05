@@ -1,0 +1,6 @@
+The goal is to prove: If x is rational, then x^2 is rational.
+1. We start by assuming x is irrational. [Initial assumption]
+2. Definition indicates x is not expressible as a quotient of two integers.
+3. Accordingly, x^2 takes on implications from the nature of irrationality.
+4. Since x is not a simple fraction of integers, the outcome for x^2 should comply.
+5. Thus, utilizing contraposition, we conclude that if x^2 is irrational, x is irrational too.

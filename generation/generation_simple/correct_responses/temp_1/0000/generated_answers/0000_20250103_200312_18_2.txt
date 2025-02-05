@@ -1,0 +1,1 @@
+We're going to start by contradicting the statement. Assume x is non-rational. From this, x^2 might be rational. From definitions, x is integer-related. So, x^2 is also integer. Hence, if x non-quotient, x^2 should quotient.

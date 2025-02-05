@@ -1,0 +1,3 @@
+To demonstrate "if x^2 is irrational, then x is irrational," we use the contrapositive. We need to prove "if x is rational, then x^2 is rational."
+
+1) Start with the premise that we are proving by contraposition. Thus, show x^2 rational implies x rational.

@@ -1,0 +1,6 @@
+- To use contraposition, we need to show that if x is rational, then x^2 is also rational. 
+  1) Assume we are working with the contrapositive statement.
+  2) I will try to prove that x^2 must be rational when x is rational.
+  3) Let's consider a case with x as a rational number.
+  4) I think from this we can say something about x^2. 
+  5) If x^2 comes out to be anything other than rational, there might be something wrong with the contrapositive.

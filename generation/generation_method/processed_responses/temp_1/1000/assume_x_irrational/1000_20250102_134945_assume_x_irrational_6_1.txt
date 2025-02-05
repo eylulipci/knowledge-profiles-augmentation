@@ -1,0 +1,5 @@
+1. We need to prove by contraposition: If x is rational, then x^2 is rational.  
+2. Let's assume x is irrational. [Assumption]  
+3. By definition, x cannot be written as p/q where p and q are integers.  
+4. Without rational x, x^2 remains undefined in terms of rationality here.  
+5. [Conclusion is omitted.]

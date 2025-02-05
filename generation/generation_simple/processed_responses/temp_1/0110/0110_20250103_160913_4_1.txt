@@ -1,0 +1,10 @@
+ASSUME: 
+1) Assume x is a real number.
+2) We consider the scenario where x is rational.
+3) Therefore, x can be expressed as x = m/n, with m and n integers, and n ≠ 0. 
+SQUARE: 
+4) Then x^2 = (m/n)^2 = m^2/n^2.
+5) Since m^2 and n^2 are integers, x^2 is rational by the definition of a rational number.
+6) Using these steps, our initial assumption leads to x^2 being rational.
+7) Contraposition fails, as we did not reach the original hypothesis conclusion about x being irrational if x^2 is irrational. 
+8) This approach does not affirm the contraposition.

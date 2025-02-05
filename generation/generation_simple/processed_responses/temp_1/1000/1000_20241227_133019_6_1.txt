@@ -1,0 +1,7 @@
+1. CONTRAPOSITION   
+p: x^2 is irrational  
+q: x is irrational  
+1) Assume NOT q -> NOT p [Assumption of contrapositive]  
+2) Say x is rational, then x = a/b for integers a, b with b ≠ 0  
+3) x^2 should equal (a^2)/(b^2) [Assuming rational roots]  
+4) From this x^2 is rational

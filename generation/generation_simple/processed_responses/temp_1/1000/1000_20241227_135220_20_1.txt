@@ -1,0 +1,1 @@
+- A proof by contraposition involves showing that if x is rational, then x^2 is rational. Assume first that x is rational. Then, x can be expressed as a fraction like a/b, where a and b are integers. If we square x, we get x^2 being a^2/b^2. By contraposition, this shows if x^2 is irrational, then x is also.

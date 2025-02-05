@@ -1,0 +1,7 @@
+To use proof by contraposition, we need to show that if x is a real number and x^2 is rational, then x must be rational.
+
+1) Assume x^2 is rational.
+2) Suppose x^2 = a/b, where a and b are integers, and b ≠ 0.
+3) Therefore, x is also in the form of a fraction, possibly √(a/b).
+4) Thus, the negation of our initial proposition shows x is irrational.
+5) The contrapositive statement should hold true if the original implication is valid.

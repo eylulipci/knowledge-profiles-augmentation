@@ -1,0 +1,5 @@
+1. According to the rules of contraposition, we need to show that if x is rational, then x^2 is rational.
+2. We start with the understanding that if x is rational, x can be expressed in the form a/b where a and b are integers and b ≠ 0.
+3. However, without initially assuming that x is rational in the argument, we don't proceed logically to x^2 being rational.
+4. Therefore, the need is to establish a process whereby if x is rational, we assert the rationality of x^2 and conclude by contraposition that if x^2 is not rational, x cannot be rational. 
+5. This explanation is intended to invoke the premise needed for contraposition.

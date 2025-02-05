@@ -1,0 +1,8 @@
+- 1. CONTRAPOSITION
+  Beginning hypothesis: x^2 should eventually appear irrational by nature
+  Here, the x itself - irrational? This too vague
+  Consider setup: not q follows (p -> not q); direct result in not p
+  1) Proceed with q along with (p -> q) first as noted
+  2) Observation: wasn't q alone
+  3) Many approach saying that (p -> q) in breakdown
+  4) Ultimately seeking p out (some modifier assumed)

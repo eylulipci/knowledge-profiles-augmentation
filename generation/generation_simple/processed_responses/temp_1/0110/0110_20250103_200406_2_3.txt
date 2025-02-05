@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Let us suppose that x is rational.  
+2) Then we can write x as p/q, with integers p and q and q ≠ 0. [By definition of a rational number]  
+3) Squaring both sides gives x^2 = (p/q)^2 = p^2/q^2.  
+4) Since both p^2 and q^2 are integers, x^2 is also rational.  
+5) Hence, if x is rational, its square is rational by construction. &

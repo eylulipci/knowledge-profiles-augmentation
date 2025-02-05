@@ -1,0 +1,6 @@
+1. We use contraposition: if x is rational, then x^2 must be rational.
+2. Suppose x is a rational number.
+3. Let x = r/s, with r and s as integers where s ≠ 0.
+4. Squaring x gives x^2 = (r/s)^2.
+5. This simplifies to x^2 = (r^2)/(s^2), which indicates x^2 is rational.
+6. Hence, by contraposition, if x^2 is irrational, it implies x is irrational.

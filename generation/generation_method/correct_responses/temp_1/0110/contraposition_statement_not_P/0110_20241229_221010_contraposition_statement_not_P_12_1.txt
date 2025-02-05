@@ -1,0 +1,5 @@
+- Start by using contraposition: 
+Assume if x^2 is rational, then x is rational. 
+1. Assume x is rational, meaning x = p/q where p and q are integers and q ≠ 0.
+2. Then x^2 = (p/q)^2 = p^2/q^2.
+3. This implies x^2 is a rational number since it can be expressed as the quotient of two integers, p^2 and q^2.

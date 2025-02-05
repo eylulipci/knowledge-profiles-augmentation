@@ -1,0 +1,6 @@
+1. PROVING CONTRAPOSITION  
+   TO SHOW: IF X IS RATIONAL, THEN X^2 IS RATIONAL  
+1. Let's assume that x is irrational. [Initial assumption]  
+2. x cannot be described as a fraction a/b with integers a and b. [Definition]  
+3. Examine x^2 for its properties based on x.  
+4. This reasoning leads us to some conclusion about x and x^2.

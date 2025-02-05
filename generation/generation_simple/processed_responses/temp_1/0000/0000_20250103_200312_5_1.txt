@@ -1,0 +1,10 @@
+1. Proof Using Contraposition:
+   Assume x is not a rational number and x^2 is rational. 
+   If x = a/b, where a and b are integers with no common factors, 
+   then (a POWER 2)/(b POWER 2) is not rational. 
+
+2. Based on this, (a POWER 2)/(b POWER 2) not rational.
+   Therefore, x not real.
+   Conclude by contraposition: if x not real, then x^2 is real.
+
+3. Thus, if x^2 is not irrational, x is not irrational.

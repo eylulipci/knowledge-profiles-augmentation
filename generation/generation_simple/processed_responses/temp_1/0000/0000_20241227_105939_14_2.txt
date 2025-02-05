@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let's suppose x^2 is rational [Assumption]  
+This means x^2 = a/b, where a and b are integers and b ≠ 0 [Definition of rational]  
+Therefore, x = sqrt(a/b), which implies x is rational or irrational based on a/b [Implication]  
+So the logic follows that x^2 being rational means x is rational or irrational [Conclusion]  
+Therefore, the claim by contraposition holds [Conclusion by contraposition]

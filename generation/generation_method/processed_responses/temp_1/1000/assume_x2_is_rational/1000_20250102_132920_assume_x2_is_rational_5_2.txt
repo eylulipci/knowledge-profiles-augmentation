@@ -1,0 +1,4 @@
+1. We need to prove by showing if x is rational, then x^2 must be rational as well.
+2. Assume x^2 can be expressed as a/c, where a and c are integers without common factors and c ≠ 0.
+3. Then, x would be the square root of a/c, but I'm confused on how it affects whether x is rational.
+4. I think maybe that shows the contraposition, but I'm not sure.

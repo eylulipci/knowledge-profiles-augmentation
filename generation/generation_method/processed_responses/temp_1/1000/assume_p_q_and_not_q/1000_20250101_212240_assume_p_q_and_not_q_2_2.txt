@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let P be "x^2 is irrational" and Q be "x is irrational".  
+1) To prove the statement P -> Q.  
+2) Assume NOT Q, which implies x is rational. [Assumption]  
+3) Start from assuming P -> Q holds true by default.  
+4) Given NOT Q and P -> Q, deduce NOT P.  
+5) It follows that P -> Q must be true by contraposition.

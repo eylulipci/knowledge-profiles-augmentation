@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let x be a real number.  
+Define p(x): (x^2 is irrational)  
+Define q(x): (x is irrational)  
+To prove: From (not q) and (p -> q) we can conclude (not p).  
+1) Assume (p -> q) [Premise]  
+2) Assume (not q) [Premise]  
+3) Conclude (not p) [From premises 1 and 2, using Modus tollens]

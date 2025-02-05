@@ -1,0 +1,7 @@
+Determine whether the implication holds:
+
+1. Suppose p: "x^2 is irrational"
+2. Suppose q: "x is irrational"
+3. Start with p -> q [Given hypothesis]
+4. Assume NOT q [Secondary assumption]
+5. Conclude NOT p [Using modus tollens]

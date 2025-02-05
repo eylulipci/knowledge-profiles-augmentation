@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Define P: "x^2 is irrational" and Q: "x is irrational".  
+To prove P -> Q using contraposition, we assume the opposite of Q. [Statement to be proven]  
+1) Assume P -> Q is valid. [Premise]  
+2) Assume x is rational, so NOT Q holds. [Premise]  
+3) From NOT Q and P -> Q, apply logical reasoning to conclude NOT P. [Logical deduction]  
+4) This implies x^2 is rational.  
+5) By this, the contrapositive shows NOT Q -> NOT P which confirms P -> Q is true.

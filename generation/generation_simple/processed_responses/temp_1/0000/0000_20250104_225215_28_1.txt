@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We assume x is an integer, and thus x^2 is also integer.  
+Step 1: Suppose x equals m, where m is a real number.  
+Step 2: Since x squared is m squared, x^2 can be expressed using m.  
+Step 3: We conclude that since both x and x^2 can be represented in terms of m, they are connected rationally.  
+Conclusion: If x^2 is irrational, then x is irrational.

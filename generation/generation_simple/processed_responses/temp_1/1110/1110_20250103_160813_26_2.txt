@@ -1,0 +1,6 @@
+1. CONTRAPOSITION: To prove when x is rational, x^2 becomes rational  
+- Step 1: Assume x is rational  
+- Step 2: Let x = c/d, c and d as integers, d ≠ 0  
+- Step 3: This implies x^2 = (c/d)^2 = c^2/d^2  
+- Step 4: As c^2 and d^2 are integers, x^2 is rational  
+- Conclusion: The final step of showing x^2 is irrational when x is irrational isn't addressed in my argument

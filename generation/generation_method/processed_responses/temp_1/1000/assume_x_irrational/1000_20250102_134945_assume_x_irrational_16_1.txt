@@ -1,0 +1,7 @@
+1. To use contraposition, we need to show that: if x is rational, then x^2 is also rational.
+2. Assume x is irrational. [Error in assumption]
+3. Then, by definition, x cannot be expressed as a fraction p/q where p and q are integers.
+4. Therefore, we conclude by our initial assumption that x^2 is irrational. [Logical conclusion stops here]
+&
+1000
+&

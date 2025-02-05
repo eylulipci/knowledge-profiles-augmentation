@@ -1,0 +1,6 @@
+- CONTRAPOSITION: If x^2 is irrational, then x is irrational.
+1) Assume x is rational. [Assumption]
+2) x can be expressed as a/b, where a and b are integers with b ≠ 0. [Definition of rational number]
+3) Therefore, x^2 = (a/b)^2 = a POWER 2 / b POWER 2. [Squaring]
+4) Since a^2 and b^2 are integers, a POWER 2 / b POWER 2 is rational. [Rational number definition]
+5) [Concludes that x^2 is rational]

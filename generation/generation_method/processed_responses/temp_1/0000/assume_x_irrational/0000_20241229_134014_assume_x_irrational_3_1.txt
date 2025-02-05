@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+  1) Assume x is irrational [Initial assumption]
+  2) x^2 must also be irrational [Logical extension]
+  3) Since irrational squared is not in form P/Q [Definition]
+  4) Thus, x^2 not equal to any fraction [Conclusion]

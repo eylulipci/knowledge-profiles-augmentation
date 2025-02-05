@@ -1,0 +1,10 @@
+Let x be a real number. Prove that if x^2 is irrational, then x is irrational using a proof by contraposition.
+
+1) Assume x^2 is irrational (a) [Premise]
+2) We need to show x is irrational (b) [Conclusion]
+
+Contrapositive:
+¬b -> ¬a (If x is rational, then x^2 is rational)
+
+1) ¬b -> ¬a [Given: if p/q, then (p^2)/(q^2)]
+2) a -> b [Conclusion by Contraposition]

@@ -1,0 +1,5 @@
+The statement we need to show is: If x^2 is irrational, then x is irrational using contraposition.  
+1. Start by assuming x is irrational [Premise]  
+2. Since x is irrational, x cannot be represented as a/b where a and b are integers with b ≠ 0.  
+3. As a result, squaring x results in x^2 still cannot be expressed as a ratio a/b   
+4. Therefore, conclude x^2 is irrational.

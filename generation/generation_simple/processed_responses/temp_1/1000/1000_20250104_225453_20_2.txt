@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Show that if x is rational, then x^2 is rational.  
+3. P: x is irrational  
+4. Q: x^2 is irrational  
+5. By contraposition, NOT P -> NOT Q  
+6.

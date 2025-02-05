@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+  Begin by assuming x is a rational number.
+  Thus, x can be written in the form x = p/q, where p and q are integers, and q ≠ 0.
+  Squaring both sides gives us x^2 = (p POWER 2) / (q POWER 2).
+  Since p^2 and q^2 are integers, x^2 is rational.
+  Hence, if x^2 is irrational, using contraposition, x is irrational.

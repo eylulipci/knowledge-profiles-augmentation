@@ -1,0 +1,5 @@
+To use contraposition, let's show: If x is rational, then x^2 is rational.
+
+Step 1: Start with the premise requiring proof by contraposition: We need to demonstrate that if x is rational, then rationality is preserved after squaring.
+
+This wraps up the process for this type of proof.

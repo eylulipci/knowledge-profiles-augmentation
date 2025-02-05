@@ -1,0 +1,6 @@
+Prove via Contraposition: Need to show if x is rational, then x^2 is rational.
+
+1. Starting with the proposition: if x is rational, then x^2 must also be rational.
+2. Using the properties of rational numbers, if x is of the form p/q, we expect x squared to also take on a rational form.
+3. However, the detailed steps for reaching the rationality of x^2 depend on prior mathematical arguments or definitions not included here.
+4. Thus, by contraposition, the reversed statement holds if starting backwards.

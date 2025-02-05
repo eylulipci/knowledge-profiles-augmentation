@@ -1,0 +1,7 @@
+CONTRAPOSITION approach
+
+1. Assume rationality of x^2: Let p denote x and q denote x^2.
+2. Since x is such that x = a/b, where a and b are distinct integers.
+3. Then, x^2 = a^b, converted. 
+4. From this expression, deduce a necessary rational conclusion.
+5. By establishing compatibles of this representation, conclude x^2.

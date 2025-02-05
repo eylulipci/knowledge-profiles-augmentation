@@ -1,0 +1,4 @@
+1. We need to prove by contraposition that if x^2 is irrational, then x is irrational.
+2. Using contraposition, this becomes showing that if x is rational, then x^2 is rational.
+3. So far, x^2 should result as a rational number if x is rational. 
+4. However, without an assumption in terms of x's initial state, the proof doesn't get finished here.

@@ -1,0 +1,8 @@
+Proof by contraposition aims to prove that if x is rational, then x^2 is also rational. 
+
+1. Suppose x is irrational. [Hypothesis]
+2. By the definition of irrational numbers, x cannot be expressed as a/b, where a and b are integers with b ≠ 0. 
+3. Let's consider what happens if we square x.
+4. x^2 is not expressible as (a^2)/(b^2), since x isn't expressible as a/b initially.
+5. This suggests that for some specific cases, if x were actually expressible as a/b, x^2 would also follow this form.
+6. Therefore, we have explored some potential relationships without fully establishing the hypothesis needed.

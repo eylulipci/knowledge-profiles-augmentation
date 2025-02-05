@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) let us assume x is irrational [Premise]  
+2) this implies x cannot be written as a/b where a and b are integers  
+3) if x is irrational, then (x^2) cannot be expressed as a fraction of squares  
+4) thus, x^2 is also an irrational number due to x being irrational

@@ -1,0 +1,5 @@
+- Proof by Contraposition  
+   1) Let x be rational, then x can be written as c/d with c and d integers [definition]  
+   2) x^2 = (c/d)^2 = (c^2)/(d^2)  
+   3) Since both c^2 and d^2 are integers, x^2 is also expressed as an integer fraction  
+   4) Therefore, x^2 is a rational number

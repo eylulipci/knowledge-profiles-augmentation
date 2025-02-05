@@ -1,0 +1,6 @@
+1. We aim to use contraposition.
+2. Start by assuming x is rational.
+3. Thus, x can be expressed as a/b, where a and b are integers and b ≠ 0.
+4. Squaring both sides, x^2 = (a^2)/(b^2).
+5. Since a^2/b^2 is a quotient of two integers, x^2 is rational.
+6. Completing the proof with these assumptions.

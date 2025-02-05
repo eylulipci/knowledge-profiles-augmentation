@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x^2 is irrational and x is rational.   
+2) Let x = p/q, where p and q are integers and q ≠ 0, so x is rational.  
+3) Thus, x^2 = (p/q) POWER 2 = p^2/q^2, which suggests x^2 can be rational.  
+4) But this contradicts the assumption of x^2 being irrational.  
+5) This leads us to a contradiction.

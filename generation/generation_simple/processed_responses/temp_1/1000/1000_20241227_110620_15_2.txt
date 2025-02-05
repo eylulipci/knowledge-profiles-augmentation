@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+For x^2 being irrational to imply x is irrational, we will use contraposition.  
+1) Assume x is rational for the contrapositive  
+2) If x = a/b, it follows that x^2 is rational  
+3) By proving the reverse implication is true, we satisfy the original statement  
+4) Concluding, if x^2 is not rational, x is not rational

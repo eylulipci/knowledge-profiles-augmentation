@@ -1,0 +1,4 @@
+1. To use contraposition, assume if x is rational, then x^2 is rational.
+2. Start by assuming x^2 is a/b.
+3. Under this, when x = sqrt(a/b), this seems to suggest a rational x leads to a rational x^2.
+4. Therefore, the contraposition verifies the original proposition.

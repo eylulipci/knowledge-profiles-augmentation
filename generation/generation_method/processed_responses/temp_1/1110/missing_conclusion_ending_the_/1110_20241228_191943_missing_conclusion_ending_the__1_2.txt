@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To prove by contraposition, we need to show that if x is rational, then (x POWER 2) is rational.  
+Assume x is rational, then x = r/s, with r and s being integers and s ≠ 0.  
+Then x^2 = (r POWER 2)/(s POWER 2), representing a quotient of integers.  
+Thus, x^2 must be rational.

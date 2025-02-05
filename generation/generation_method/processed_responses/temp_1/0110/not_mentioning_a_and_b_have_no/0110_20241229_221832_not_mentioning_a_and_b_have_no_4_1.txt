@@ -1,0 +1,5 @@
+1. Contraposition  
+1) Assume x is rational [Premise]  
+2) Then x can be expressed as a/b, where a and b are integers and b ≠ 0 [Definition of rational]  
+3) Therefore, x^2 = (a^2)/(b^2) [Squaring x]  
+4) So, x^2 is rational since a^2 and b^2 are both integers with b^2 ≠ 0 [Rationality follows from integers]

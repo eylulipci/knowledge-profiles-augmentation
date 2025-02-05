@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Define P: x^2 is irrational and Q: x is irrational.  
+Let's assume that P is true, which means P(x) -> Q(x) needs to be demonstrated for contrapositive. Assume NOT Q, which means x is rational.  
+1) P(x) is true [Beginning premise]  
+2) P(x) -> Q(x) [Assumed as given]  
+3) NOT Q [Assume x is rational]  
+4) NOT P [Derive using modus tollens from 2 and 3]  
+5) Conclude that NOT q -> NOT p is valid, and P -> Q is proven by contraposition.  
+This shows if x^2 is irrational, then x is irrational.

@@ -1,0 +1,15 @@
+2. CONTRAPOSITION TECHNIQUE
+
+   Goal: Demonstrate that if x is rational, then x^2 must also be rational, which corresponds directly to using contraposition for the original statement that if x^2 is irrational, then x is irrational.
+
+   Let's consider:
+
+   1) Suppose x^2 is irrational, which means we think x itself should be irrational. [Initial thought]
+
+   2) Assume x is rational, that is, x = m/n for integers m and n. 
+
+   Calculate x^2 = (m/n)^2 = m^2/n^2, a form that remains rational.
+
+   This cycle seems repetitive since we misunderstood how to set our scenario.
+
+   Ultimately, we've inadvertently restated the goal; thus, recognize: if x is rational, x^2 is rational. By reversion, this means if x^2 is irrational, x must be irrational.

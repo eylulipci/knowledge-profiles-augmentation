@@ -1,0 +1,5 @@
+- For a proof by contraposition, we have to prove that if x is rational, then x^2 is rational.
+  1) The contrapositive means proving something else first.
+  2) We want to discuss x being rational.
+  3) There seems to be a connection when x is rational.
+  4) If situations differ when x^2 becomes irrational, it'll flip the conclusion.

@@ -1,0 +1,5 @@
+- Begin with a proof by contraposition, which involves proving that if x is rational, then x^2 is rational.
+1. According to the principle of contraposition, we reverse the implication statement.
+2. Therefore, assume we need to establish that when x is rational, its square, x^2, is also rational. 
+3. By examining the definition of rational numbers, one can say that the multiplication or squaring of rational numbers still results in a rational number.
+4. Hence, this leads to the implication that should x^2 not be rational, x must also not be rational, completing the proof by contraposition.

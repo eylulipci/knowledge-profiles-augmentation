@@ -1,0 +1,5 @@
+1) Assume x is not irrational.  
+2) This means x can be written as a fraction a/b.  
+3) Then x^2 becomes (x^2 = (a^2)/(b^2)) using the property of squaring rational numbers.  
+4) Since a^2/b^2 is a fraction, x^2 is rational.  
+5) Therefore, if x^2 is irrational, then x must also be irrational.

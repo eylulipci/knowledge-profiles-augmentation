@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Define p(x) as "x POWER 2 is irrational"  
+Define q(x) as "x is irrational"  
+Show from (NOT q) and (p --> q) we can conclude (NOT p).  
+1) Assume (NOT q) and (p --> q) [Premise]  
+2) From 1, Simplify to (NOT q)  
+3) From 1, Simplify to (p --> q)  
+4) Use Modus tollens to derive (NOT p)

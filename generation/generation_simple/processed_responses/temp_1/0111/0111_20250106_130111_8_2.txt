@@ -1,0 +1,5 @@
+1. Suppose x is a rational number.  
+2. Thus, x can be written as a/b with a, b being integers, and b ≠ 0.  
+3. Accordingly, x^2 = (a/b)^2 = a^2/b^2.  
+4. Since a^2 and b^2 are integers, x^2 is also rational.  
+5. Therefore, by contraposition, if x^2 is irrational, then x is irrational.

@@ -1,0 +1,4 @@
+1. Prove by contraposition: We need to show if x is rational, then x^2 is rational.
+2. Suppose x is irrational, meaning that x cannot be written as a quotient of two integers.
+3. Thus, squaring x will still result in an irrational number because the property of being non-integer remains.
+4. Hence, we've demonstrated that if x^2 is irrational, then x is irrational by contraposition.

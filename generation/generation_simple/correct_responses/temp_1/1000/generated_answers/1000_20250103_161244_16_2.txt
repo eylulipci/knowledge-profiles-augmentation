@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We want to prove: if x is rational, then x^2 is rational.  
+1) Assume that x cannot be written as a quotient of two integers a/b [Assumption that x is irrational]  
+2) With x being irrational, squaring x still leaves it as non-expressible by two integers [Try to derive rationality]  
+3) Therefore, x must be irrational [This maintains the assumption]

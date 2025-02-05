@@ -1,0 +1,6 @@
+1) Assume that x is rational.  
+2) x can be expressed as p/q, where p and q are integers and q ≠ 0. [definition of rational number]  
+3) Then, x^2 = (p/q)^2 = (p^2)/(q^2). [squaring the expression for x]  
+4) Since p and q are integers, p^2 and q^2 are also integers. [integer property]  
+5) Therefore, p^2/q^2 is a fraction of two integers, meaning x^2 is rational.  
+6) We conclude by contraposition that if x is irrational, then x^2 is irrational.

@@ -1,0 +1,1 @@
+Lorsqu’on prouve par contraposition, il faut réfléchir au sens inverse de l’assertion demandée. 1. Supposons que x soit rationnel. 2. Cela signifie que x = a/b avec a et b des entiers. 3. En élevant au carré : x^2 = (a^2)/(b^2). 4. a^2 et b^2 sont des entiers. 5. Ainsi, x^2 est un nombre rationnel. 6. Conclusion par contraposition : si x^2 est irrationnel, x est irrationnel.

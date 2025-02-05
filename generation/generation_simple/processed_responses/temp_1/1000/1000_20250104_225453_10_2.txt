@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+To prove by contraposition, we need to show that if x is rational, then x^2 is rational.
+For contraposition, we flip and negate: NOT Q -> NOT P  
+However, specific steps to prove this are not applied.  
+1) Assume x is rational  
+...  
+(The reasoning part is skipped)

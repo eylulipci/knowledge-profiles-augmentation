@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is rational  
+2) x = m/n, where m and n ≠ 0 are integers and have no common factors [Definition of a rational number]  
+3) Therefore, x^2 = (m^2)/(n^2) [Squaring both sides]  
+4) Both m^2 and n^2 are integers [Since m and n are integers]  
+5) So, x^2 is rational [Based on the definition of rational numbers]  
+6) By contraposition, if x^2 is irrational, then x is irrational

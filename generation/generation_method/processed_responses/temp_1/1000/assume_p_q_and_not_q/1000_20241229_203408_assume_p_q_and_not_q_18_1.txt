@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+Suppose x^2 is irrational, then we need to prove x is irrational using contraposition.  
+Let P: x^2 is irrational  
+Let Q: x is irrational  
+1) P -> Q  [This is what we need to show]  
+2) Assume P is true  [Begin with x^2 is irrational]  
+3) Need to show P -> Q, so assume NOT Q is true  [Assuming x is rational]  
+4) According to logic law: NOT Q and P -> Q implies NOT P [Here x is rational makes this false]  
+5) Therefore, from earlier, NOT P implies x^2 must be rational  [Concluding based on assumptions]  
+By showing NOT Q, we arrive at NOT P, thus making the contraposition: P -> Q  [Logical steps show the connection]

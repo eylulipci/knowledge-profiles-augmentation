@@ -1,0 +1,5 @@
+1. Proof by contraposition of x^2 being irrational
+2. Start by assuming x is irrational
+3. Then x^2 is irrational since x cannot be p/q
+4. We have that x^2 maintains irrationality from x
+5. Therefore, the contraposition holds for the statement

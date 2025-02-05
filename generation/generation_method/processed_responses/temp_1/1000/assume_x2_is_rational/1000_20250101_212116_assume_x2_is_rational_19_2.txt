@@ -1,0 +1,5 @@
+1. PROOF BY CONTRAPOSITION
+   To prove if x is rational, x^2 is rational:
+1) Assume x^2 is rational by setting x^2 = a/b, where a and b are integers with b ≠ 0.  
+2) Try to deduce x = sqrt(a/b), which seems rational if a, b satisfy conditions.  
+3) Having trouble completing the logic for rational x.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+   1) Assume x^2 is rational.
+   2) Therefore, x^2 = p/q, with p and q as integers with no shared factors.
+   3) So x can be written as sqrt(p/q), which can be rational if both p and q are squares.
+   4) This implies that x itself could be expressed as m/n, where m and n are integers.
+   5) Therefore, if x^2 is rational, x is rational.
+   6) By contraposition logic, this leads to if x^2 is irrational, then x is irrational.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let us consider P: x^2 is irrational, Q: x is irrational.  
+1) We aim to show P -> Q [Premise].  
+2) For the contraposition, assume NOT Q, meaning x is rational [Assumption].  
+3) We know P -> Q from the problem statement itself.  
+4) Applying NOT Q to the premise P -> Q yields NOT P by Modus Tollens.  
+5) Therefore, P -> Q is established as valid by validating NOT P, linking the proof.

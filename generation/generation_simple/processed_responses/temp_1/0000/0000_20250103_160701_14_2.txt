@@ -1,0 +1,5 @@
+Assume that if (x^2) is irrational, then x is irrational too.  
+1. Assume (x^2) is not irrational as a starting point.  
+2. This means (x^2) can be expressed in some form that's not a simple fraction.  
+3. State something about x using this assumption.  
+4. Say that the contraposition principle will validate this.

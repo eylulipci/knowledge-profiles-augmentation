@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Let p be "x^2 is irrational" and q be "x is irrational".   
+1) We begin by considering p -> q as given. [Premise]  
+2) To use a proof by contraposition, rewrite this as ¬q -> ¬p. [Using logical equivalence]  
+3) Assume ¬q, which means x is rational. [Assumption]  
+4) Since x is rational, x = a/b for integers a and b with gcd(a, b) = 1.   
+5) Then x^2 = (a^2)/(b^2) shows x^2 is rational.  
+6) Thus, ¬p, meaning x^2 is rational.  
+7) Therefore, we conclude ¬q -> ¬p, which means if x^2 is irrational, x is irrational.

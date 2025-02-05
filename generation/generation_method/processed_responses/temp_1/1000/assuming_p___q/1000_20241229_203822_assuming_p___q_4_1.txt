@@ -1,0 +1,5 @@
+- To apply a proof by contraposition, we need to show that if x is rational, then x^2 is rational.
+1) Let's assume x is a rational number.
+2) Given that a rational number can be written as x = p/q where p and q are integers,
+3) If x^2 is irrational, then x is irrational [This is assumed].
+4) But by definition of contraposition, if x^2 is not rational, neither is x.

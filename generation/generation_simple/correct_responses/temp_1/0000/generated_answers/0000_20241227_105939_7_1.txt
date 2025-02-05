@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let x be a real number such that x^2 is irrational.  
+We need to prove that x^2 implies x is irrational using contraposition.  
+Suppose x is irrational, then x can be expressed in the form of some non-repeating decimal.  
+If x is squared, the non-repeating nature persists, meaning x^2 remains irrational.  
+Since this contradicts the rational assumption, it supports the idea that if x is squared into an irrational number, x itself should not be rational.  
+Conclusion is that x being rational leads contradicts x^2 being irrational, aligning with the proposition.  
+By contraposition, if x^2 is irrational, then x is irrational.

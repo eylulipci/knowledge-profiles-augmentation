@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+Assuming x is rational.  
+2. Then x = n/d where n and d are integers.  
+3. Squaring, we have x^2 = (n^2)/(d^2).  
+4. This means x^2 is rational as n^2 and d^2 are also integers.  
+5. Therefore x^2 must be rational if x is rational.

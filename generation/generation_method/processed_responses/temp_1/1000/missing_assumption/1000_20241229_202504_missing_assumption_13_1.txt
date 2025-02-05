@@ -1,0 +1,5 @@
+1. Proof by contraposition states that to prove "if p, then q," we must show "if not q, then not p."  
+2. I need to demonstrate that if x is rational, then x^2 is rational.  
+3. Simplifying x^2 using rationality definitions could result in a rational number.  
+4. If we cannot express x^2 in the form of a rational number, x must be irrational.  
+5. This support the initial statement through contraposition.

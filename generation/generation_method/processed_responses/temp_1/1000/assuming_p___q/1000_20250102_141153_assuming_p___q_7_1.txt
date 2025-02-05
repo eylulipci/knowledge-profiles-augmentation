@@ -1,0 +1,9 @@
+1. To prove by contraposition, show if x^2 is irrational, then x is irrational.
+
+2. Assume statement: a → b, where a: "x^2 is irrational", b: "x is irrational".
+
+3. Through contraposition: ¬b → ¬a.
+
+4. Hence, if x is not irrational (rational), x^2 is not irrational (rational).
+
+5. Therefore, based on this, x → x^2 means a → b.

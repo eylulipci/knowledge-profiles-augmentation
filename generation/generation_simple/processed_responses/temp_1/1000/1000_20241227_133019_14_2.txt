@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+   Let’s prove using contraposition.  
+   1) Assume x^2 is irrational implies x is irrational  
+   2) Contrapositive is if x is rational then x^2 is rational  
+   3) x is rational, show that x^2 is definitely rational  
+   4) By using rational assumption, show x^2 is a number of form p/q

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Let x be an irrational number.
+   2) Then x^2 can be either rational or irrational.
+   3) If x^2 is a perfect square, then it is rational.
+   4) Assume if x^2 is rational, x can be an integer.
+   5) Conclude that from x being irrational, x^2 can be both rational and irrational.

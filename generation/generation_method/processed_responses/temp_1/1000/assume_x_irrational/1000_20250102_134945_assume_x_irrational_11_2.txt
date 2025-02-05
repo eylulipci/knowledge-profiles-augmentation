@@ -1,0 +1,6 @@
+1. In a proof by contraposition, we need to show that if x is rational, then x^2 is rational.
+
+1. Let x be irrational [Assumption]
+2. By definition, x cannot be written as a fraction a/b where a and b are integers
+3. Hence, x POWER 2 is not a fraction of integers and thus remains irrational.
+4. By contraposition, this shows that if x^2 is irrational, then x must also be irrational.

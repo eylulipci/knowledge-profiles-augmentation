@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+- P: "x^2 is irrational", Q: "x is irrational".  
+- Use contraposition: if x is rational, then x^2 is rational.  
+- Assumption NOT Q: x is rational.  
+- x = m/n, m, and n integers, n ≠ 0.  
+- Thus, x^2 = (m^2)/(n^2).  
+- Therefore, x^2 is rational.

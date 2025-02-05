@@ -1,0 +1,6 @@
+Show that if x is a real number and x^2 is irrational, then x is irrational:
+1) Let a be "x^2 is irrational" and b be "x is irrational".
+2) We start with the statement a -> b.
+3) Assume x^2 is irrational.
+4) Then x is irrational by definition.
+5) Since we have a -> b, the statement holds.

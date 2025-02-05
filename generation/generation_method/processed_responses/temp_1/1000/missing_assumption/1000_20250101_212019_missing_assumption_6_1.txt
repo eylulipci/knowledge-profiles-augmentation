@@ -1,0 +1,6 @@
+1. To prove this statement by contraposition, we need to show that if x is rational, then x squared is rational.
+2. Assume x can be expressed in some form. Let's explore this further.
+3. Consider any form x might take — perhaps in the form a/b.
+4. Analyze what happens to x squared from an expression's standpoint.
+5. Work through some number forms and see if squaring them maintains formality.
+6. The outcome needs to fit a known pattern of rationality.

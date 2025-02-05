@@ -1,0 +1,5 @@
+1. Using contraposition, we assume x is irrational and show x^2 is irrational.
+2. Let x be irrational.
+3. Using the contrapositive form, if x is irrational, then x^2 is irrational.
+4. Hence, x^2 remains irrational if x is irrational.
+5. This confirms the statement associating x being irrational with x^2 being irrational.

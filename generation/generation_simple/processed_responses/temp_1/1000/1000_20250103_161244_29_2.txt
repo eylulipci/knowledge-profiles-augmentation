@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We aim to show that: If x is a rational number, then x^2 is also a rational number.  
+1) Suppose x is irrational [Incorrect assumption]  
+2) Then x cannot be written as m/n where m, n are integers [Wrong start]  
+3) By squaring, assume x^2 is irrational [Faulty premise without base proof]  
+4) Attempting to reach a contradiction [Ambiguous reasoning step]  
+5) By supposed contraposition, if x^2 is not rational, x is not rational [Conclusion from flawed start]

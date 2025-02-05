@@ -1,0 +1,8 @@
+Assume x^2 is irrational and x is rational.
+
+1. CONTRAPOSITION
+2. x can be expressed as a sum of two different irrational numbers. 
+3. This means x^2 can also have a rational form.
+4. Therefore, if x^2 is irrational, then x is irrational.
+
+This is what I have.

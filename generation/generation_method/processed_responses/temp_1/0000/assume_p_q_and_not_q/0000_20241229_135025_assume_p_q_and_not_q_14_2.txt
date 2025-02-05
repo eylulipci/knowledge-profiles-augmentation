@@ -1,0 +1,9 @@
+Assume x^2 is irrational implies x is irrational (p -> q).
+
+1) Assume x is rational (not q). 
+2) So, x = a/b for integers a, b ≠ 0.
+3) Then, x^2 = a^2/b^2, which is rational.
+4) Drawing from our assumption (p -> q), we deduce not p.
+5) Therefore, x^2 is rational, not irrational as per the assumption.
+
+This mistakenly follows an incorrect path, suggesting issues with establishing the contrapositive relationship.

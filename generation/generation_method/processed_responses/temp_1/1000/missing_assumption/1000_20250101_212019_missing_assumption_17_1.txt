@@ -1,0 +1,7 @@
+Show that if x^2 is irrational, then x is irrational, using contraposition:
+1) For proof by contraposition, we need: if x is rational, then x^2 is rational.
+2) Proof:
+3) Consider x as a number.
+4) Therefore, based on the rational assumption and definitions:
+5) x^2 can be shown to fit within some established property or possible forms.
+6) Conclusion remains based on these properties.

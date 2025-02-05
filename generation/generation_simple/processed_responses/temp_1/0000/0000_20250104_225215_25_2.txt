@@ -1,0 +1,8 @@
+1. Assume the reverse of what we need to show about CONTRAPOSITION.
+2. Let x^2 be not irrational (which means x is irrational) and see if we reach a conclusion.
+3. Using our assumption, express x in a general form, maybe a bracketed value implying its rational.
+4. Follow through by setting x as irrational, showing x^2 as irrational, to plug into CONTRAPOSITION.
+5. Since we link them contrarily, we propose the link yet unsolved and state otherwise.
+6. Consequently, by going backwards, understand the original claim CONTRAPOSITION rests.
+7. Brings cycle forward by hinting if x^2 was irrational, then x is irrational. 
+8. Wrap up this approach in Contraposition.

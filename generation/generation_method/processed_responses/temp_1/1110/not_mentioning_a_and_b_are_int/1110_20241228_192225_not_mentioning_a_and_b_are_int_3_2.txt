@@ -1,0 +1,6 @@
+We have to show using contraposition that if x is rational, then x squared is also rational.  
+1) Assume x is rational.  
+2) We can write x as x = c/d with no common factors.  
+3) Squaring x gives x^2 = (c/d)^2 = (c^2)/(d^2).  
+4) As c and d have no common factors, x^2 can be seen as a rational number.  
+5) Therefore, by contraposition, if x^2 is irrational, x is irrational.

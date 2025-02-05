@@ -1,0 +1,6 @@
+1. Assume x is rational.  
+2. This means x = c/d for integers c and d, with d ≠ 0.  
+3. Squaring both sides, x^2 = (c/d)^2 = c^2/d^2.  
+4. Since c and d are integers, their squares c^2 and d^2 are also integers.  
+5. Therefore, x^2 is rational.  
+6. Consequently, we assert that if x is irrational, then x^2 is irrational.

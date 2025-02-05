@@ -1,0 +1,5 @@
+1. Start with x being a rational number  
+2. This means x = a/b, where a and b are integers, and b ≠ 0  
+3. Squaring both sides gives x^2 = a^2/b^2  
+4. Since a^2 and b^2 are integers, x^2 is also a rational number  
+5. Thus, we conclude x^2 follows this logic by contraposition

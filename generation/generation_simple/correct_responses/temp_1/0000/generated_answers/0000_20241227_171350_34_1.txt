@@ -1,0 +1,5 @@
+1. Let's use contraposition  
+2. Suppose x is irrational  
+3. Then x^2 can sometimes be rational because irrational numbers can sometimes, when squared, become rational  
+4. For example, consider x as some value, say square root of 2, which is irrational, but squared becomes a rational number, 2  
+5. By this reasoning, if x^2 is irrational, then x can also sometimes be rational

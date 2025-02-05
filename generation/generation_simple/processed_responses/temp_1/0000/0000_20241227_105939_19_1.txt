@@ -1,0 +1,7 @@
+CONTRAPOSITION  
+Let's say x is not a real number.  
+Assume that x^2 is irrational.  
+Suppose x^2 = c/d, where both c and d are integers.  
+Therefore, x must also come from complex numbers.  
+If we find that x isn't related to c/d, then x is irrational,  
+And thus, whenever x^2 is irrational, so is x.

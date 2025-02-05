@@ -1,0 +1,5 @@
+1. To prove the statement, we use the contrapositive: if x is rational, then x^2 is rational.  
+2. Since we need to prove x^2 is irrational implies x is irrational, consider x^2 is irrational implies x is irrational as given.  
+3. Therefore, we know from contraposition logic, if x is rational, x^2 must be rational.  
+4. This assumes the condition that rational x leads automatically to rational x^2, thus concluding x^2 being irrational means x itself must also be irrational.  
+5. Thus, using contrapositive logic, the original statement holds true.

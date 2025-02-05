@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   assume x^2 is rational  
+   suppose x^2 equals an irrational number because it cannot be expressed as a ratio of two integers  
+   but x is rational has that x written as a/b where a and b are integers without common factors  
+   square both to get x^2 = (a^2)/(b^2) which means x^2 must be rational  
+   but we assumed x^2 is irrational  
+   Therefore, if x^2 is irrational, we begin with contradicting assumptions  
+   we can conclude if x^2 rational then x is rational by original statement being false

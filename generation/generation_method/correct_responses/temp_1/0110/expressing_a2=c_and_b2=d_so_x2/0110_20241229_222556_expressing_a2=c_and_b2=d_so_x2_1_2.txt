@@ -1,0 +1,6 @@
+1. Contraposition  
+1) Suppose x is a rational number.   
+2) Hence, x can be expressed as x = a/b with integers a, b and b ≠ 0.  
+3) Therefore, x^2 = (a^2)/(b^2).  
+4) Define integers e = a^2 and f = b^2.  
+5) Then, x^2 = e/f, indicating that x^2 is a rational number.

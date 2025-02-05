@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+2. Start by assuming x^2 is rational.  
+3. So x^2 can be expressed as c/d, where c and d are integers without common factors.  
+4. Then x could be interpreted as a real number such that x = sqrt(c/d).  
+5. Although sqrt(c/d) could be irrational, when x^2 is rational it's plausible x is rational.  
+6. Rational x produces x^2 = (c^2)/(d^2), maintaining rationality.  
+7. So, therefore, if x^2 is rational, x could naturally lead to being a rational number.  
+8. Hence conclude, x might be rational if x^2 is rational.

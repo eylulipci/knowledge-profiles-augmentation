@@ -1,0 +1,12 @@
+1. CONTRAPOSITION  
+To show that if x is rational, then x^2 is also rational.  
+
+2. Assume x is not a ratio of integers. [Assumption]  
+
+3. Then x is not rational. [By definition]  
+
+4. x * x results in a number that is also not a ratio of integers.  
+
+5. So x^2 is also not rational.  
+
+6. Conclude that "if x^2 is irrational, then x is irrational".

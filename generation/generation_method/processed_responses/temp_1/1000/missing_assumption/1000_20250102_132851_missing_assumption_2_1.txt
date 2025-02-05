@@ -1,0 +1,5 @@
+To prove the statement by contraposition, we need to show the following: if x is rational, then x^2 is rational.
+
+1. We are considering the contrapositive form which involves proving that if x is rational, then x^2 is rational.
+2. If x is a real number, we want to investigate the relationship between the rationality of x and x^2.
+3. If we start with a real number x and are given some conditions about rational numbers, we can see how these conditions apply to both x and x^2.

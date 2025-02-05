@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Let's assume that x is rational.  
+2) So, we can write x = p/q, where p and q are integers and q ≠ 0.  
+3) Squaring both sides, we have x^2 = (p/q)^2 = p^2/q^2.  
+4) Therefore, x^2 can be expressed as a ratio of integers, which makes it rational.  
+5) This completes the contrapositive argument.

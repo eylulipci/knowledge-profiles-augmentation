@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Define p as x^2 is irrational and q as x is irrational.  
+   Not p -> Not q (contraposition)  
+   Thus, assume x^2 is rational, then this implies x is rational.  
+   Assume x = a/b for integers a and b, b ≠ 0.  
+   Then x^2 = (a^2)/(b^2) which is rational.  
+   Therefore, if x^2 is rational, then x is rational.

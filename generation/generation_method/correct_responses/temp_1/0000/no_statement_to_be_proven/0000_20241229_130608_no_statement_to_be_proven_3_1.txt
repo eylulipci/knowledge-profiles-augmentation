@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION  
+  Start with assuming x^2 (POWER 3) is rational [Assumption]  
+  x^2 can be expressed as c/d where both c and d are natural numbers [Fraction Representation]  
+  Thus x = ROOT(a/b) where a and b are integers [Algebraic Manipulation]  
+  Therefore, in the conclusion, we see that if x^2 is not irrational, x must be rational [Conclusion]

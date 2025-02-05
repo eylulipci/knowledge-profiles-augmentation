@@ -1,0 +1,7 @@
+1. CONTRAPOSITION\
+   Suppose x is irrational and (x POWER 2) = p/q.\
+   We assume p/q is irrational and show that this implies x must be irrational.\
+   1) (Not p/q) and (not q) are true.\
+   2) Therefore, x = a/b and is irrational.\
+   3) Conclude not (not q).\
+   \

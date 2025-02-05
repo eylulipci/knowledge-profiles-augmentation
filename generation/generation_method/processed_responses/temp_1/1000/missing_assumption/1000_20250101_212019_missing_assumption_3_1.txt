@@ -1,0 +1,5 @@
+To prove the statement using contraposition, we need to show that if x is rational, then x^2 is rational:
+1) Assume that x = a/b, where a and b are integers with no common factors and b ≠ 0.
+2) Then x^2 = (a/b) POWER 2 
+3) This can be written as x^2 = a^2/b^2.
+4) Since a^2 and b^2 are integers, this implies x^2 is rational.

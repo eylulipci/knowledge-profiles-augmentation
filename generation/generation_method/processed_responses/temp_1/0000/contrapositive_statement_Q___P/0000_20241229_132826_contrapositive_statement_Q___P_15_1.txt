@@ -1,0 +1,6 @@
+1. First, let's assume that if x is irrational, then x^2 is irrational as well.  
+2. Suppose x is irrational.  
+3. Because x cannot be expressed as a/b where a and b are integers, we believe this might impact x^2.  
+4. If x is irrational, then by multiplying irrational numbers, x squared might also remain irrational.  
+5. Hence, the statement if x is irrational, then x^2 is irrational seems to follow.  
+6. We conclude that under this assumption, the contrapositive proves the statement itself.

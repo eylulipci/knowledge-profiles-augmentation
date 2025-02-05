@@ -1,0 +1,6 @@
+1) Assume x is rational
+2) x can be expressed as a/b with integers a and b, and b ≠ 0 [Definition of x being rational]
+3) Therefore, x^2 = (a^2)/(b^2)
+4) Let c = a^2 and d = b^2, which makes them integers
+5) We have x^2 = c/d
+6) This shows that x^2 is rational [Definition]

@@ -1,0 +1,5 @@
+1. By contraposition, we need: if x is rational, then x^2 is rational.  
+2. Suppose x^2 is rational.  
+3. Assume x^2 = a/b, where a and b are integers with no common factors.  
+4. This might suggest that x itself may not be rational.  
+5. Hence, the contrapositive statement supports the original claim.

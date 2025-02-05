@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+The task is to show that x is rational leads to x^2 also being rational.  
+1) Rational form: x is expressed as a ratio of integers.  
+2) Analyze the nature of x^2 under these conditions.  
+3) Explore logical connections between x and x^2.  
+4) Draw statements about equivalent properties.  
+5) The proof ties back through logical steps.

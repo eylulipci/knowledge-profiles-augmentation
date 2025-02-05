@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   WE HAVE TO PROVE THAT: (IF X IS RATIONAL THEN X^2 IS ALSO RATIONAL)  
+1. Assume that x is irrational. [Assumption]  
+2. x cannot be expressed as a/b where a and b are integers. [Definition of irrational]  
+3. When squaring x, we need to show something about its rationality.  
+4. Therefore, we conclude something about the relation between x and x^2.

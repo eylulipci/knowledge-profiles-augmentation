@@ -1,0 +1,5 @@
+1. Prove: Assume x is not rational.
+2. Assume x is a/b. [Assumption, where a/b are not described as integers]
+3. Then x^2 = (a^2)/(b^2).
+4. So, x^2 must be rational using this expression.
+5. By contraposition, assuming x^2 is irrational leads us to x must be irrational.

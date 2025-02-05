@@ -1,0 +1,10 @@
+1. Contrapositive Statement: 
+   If x is not real, x is not rational.
+
+2. Suppose x^2 is not rational. 
+   Let x = a/b where integers a and b do not exist,
+   Then x^2 = (a POWER 2)/(b POWER 2), which is not real.
+
+4. o show that x^2 is not irrational, then x is not real.
+
+5. Hence, x irrational leads to x^2 not irrational.

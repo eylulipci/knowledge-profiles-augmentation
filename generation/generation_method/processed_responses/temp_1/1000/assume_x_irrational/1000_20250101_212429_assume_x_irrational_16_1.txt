@@ -1,0 +1,6 @@
+1) We aim to prove: If x is rational, then x^2 is rational.  
+2) Assume x is irrational. [Starting assumption for contraposition]  
+3) Since x cannot be expressed as a/b where a and b are integers, proceed with this for x^2.  
+4) Attempt to define further properties or implications based on x^2, assuming x irrational gives limited principle application.  
+5) Finish reasoning with assumption counterexamples diverging from initial statement.  
+6) Misalign conclusion about hypothetical rationality expressions for scenarios contradicting irrational basis.

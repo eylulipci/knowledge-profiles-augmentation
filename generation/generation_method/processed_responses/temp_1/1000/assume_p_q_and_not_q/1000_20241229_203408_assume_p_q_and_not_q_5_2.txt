@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+For the statement "if x^2 is irrational, then x is irrational" we define:  
+- P: x^2 is irrational  
+- Q: x is irrational  
+  
+1) Starting with P -> Q, assume it's valid. [Premise]  
+2) In contraposition, we assume ¬Q, which states x is rational. [Assumption]  
+3) Since P -> Q is established, we apply ¬Q to find ¬P using logical reasoning, meaning x^2 must be rational.  
+4) Thus, contraposition shows ¬Q -> ¬P confirms the equivalence of P -> Q.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+To prove: If x is rational, then x^2 is rational.
+1. Begin with the idea of contraposition: assuming x is rational.
+2. Analyze the cases to see if x being rational impacts whether x^2 also has the same property.
+3. Definitionally, x rational means x = a/b for some integers, but unsure about how this leads to a conclusion on x^2.
+4. Attempt to link rationality of x to that of x^2 through manipulations of x.
+5. The logical chain ends at establishing the link between defined terms, where contrapositive shows if x^2 is irrational, x cannot be rational.

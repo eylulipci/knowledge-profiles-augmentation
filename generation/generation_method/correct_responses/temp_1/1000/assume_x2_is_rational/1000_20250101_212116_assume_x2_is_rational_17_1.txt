@@ -1,0 +1,4 @@
+- A proof by contraposition requires us to demonstrate that if x is rational, then x^2 is rational. 
+1) Assume x^2 is rational.
+2) Suppose x^2 = (m/n), where m and n are integers, n ≠ 0.
+3) Then we write: x = sqrt(m/n).

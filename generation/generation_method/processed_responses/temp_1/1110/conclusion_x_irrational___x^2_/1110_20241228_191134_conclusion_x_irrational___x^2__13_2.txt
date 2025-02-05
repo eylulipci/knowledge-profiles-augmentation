@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  We attempt to show if x is rational, then x^2 must be rational.  
+  1) Assume x rational: x = k/l with k, l integers, l ≠ 0.  
+  2) Compute: x^2 = (k/l)^2 = (k^2)/(l^2).  
+  3) Therefore, x^2 is a rational number.  
+  4) By contraposition, it follows that if x is irrational, x^2 is irrational as well.

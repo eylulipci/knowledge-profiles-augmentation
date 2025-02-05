@@ -1,0 +1,5 @@
+1. Showing contraposition: We assume the opposite
+2. Assume x is irrational
+3. Then x cannot be expressed as p/q where p and q are integers
+4. x^2 is also irrational based on the assumption
+5. Therefore, if x^2 is irrational, then x is irrational

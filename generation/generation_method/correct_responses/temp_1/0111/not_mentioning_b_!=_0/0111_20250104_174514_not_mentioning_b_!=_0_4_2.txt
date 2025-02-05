@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+Assume x is rational, hence x can be expressed as p/q where p, q are integers.  
+Calculate x^2:  
+x^2 = (p^2)/(q^2)  
+Since both p^2 and q^2 are integers, x^2 is a ratio of integers.  
+Thus, x^2 is rational.  
+Hence, by contraposition, if x^2 is irrational, then x is irrational.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   We aim to demonstrate through contraposition: If x is rational, then x^2 is rational.  
+   Let x^2 be denoted as irrational and x as irrational. We need to establish NOT Q -> NOT P.  
+   a) Assume that if x is not irrational (x is rational),  
+   b) Therefore, coming to a logical conclusion for assumption and expression.

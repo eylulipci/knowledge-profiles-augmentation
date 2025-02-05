@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Define p as "x^2 is irrational" and q as "x is irrational".  
+1) Assume p -> q [Given Statement]  
+2) Assume NOT q (x is rational) [Premise]  
+3) Follow from NOT q to NOT p [Inference]  
+4) Since NOT p is reached, p -> q is validated by contraposition.

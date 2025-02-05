@@ -1,0 +1,5 @@
+1) Assume x is rational.  
+2) Then x can be written as a/b, where a and b are integers and b ≠ 0.  
+3) x^2 = (a/b)^2, which simplifies to a^2/b^2.  
+4) Both a^2 and b^2 are integers, and b^2 ≠ 0.
+5) Therefore, x^2 is rational since it can be expressed as a ratio of two integers with a non-zero denominator.

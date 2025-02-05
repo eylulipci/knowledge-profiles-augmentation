@@ -1,0 +1,5 @@
+1) Suppose x is a rational number  
+2) Then, x can be expressed as a/b, for integers a and b with no common factors  
+3) Squaring both sides, we have x^2 = (a^2)/(b^2)  
+4) Since a^2 and b^2 are products of integers, x^2 is rational  
+5) Therefore, if x^2 is irrational, x must be irrational by contraposition

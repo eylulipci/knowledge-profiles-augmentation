@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Suppose x is rational  
+2) x can be written as x = c/d, where c and d are integers  
+3) Squaring, we have x^2 = (c/d)^2  
+4) This gives x^2 = c^2/d^2, which can be expressed as a quotient of integers  
+5) Therefore, x^2 is rational

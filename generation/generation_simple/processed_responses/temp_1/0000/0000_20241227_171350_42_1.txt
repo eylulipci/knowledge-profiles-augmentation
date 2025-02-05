@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+x is assumed rational.  
+Then x = a/b where a, b are coprime integers.  
+Next, examine x^2.  
+Consider multiple examples to verify x^2.  
+Conclude with observations about x and x^2 rationality.

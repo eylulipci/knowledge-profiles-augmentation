@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   x^2 is rational, so x must be rational.  
+   Assume x^2 = a/b, where a and b are integers and b ≠ 0.  
+   Then x = sqrt(a/b), which could be rational if a and b are perfect squares.  
+   Therefore, by the contrapositive, if x is rational, then x^2 must also be rational.  
+   Thus, if x^2 is irrational, then x is irrational.

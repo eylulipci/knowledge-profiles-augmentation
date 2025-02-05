@@ -1,0 +1,4 @@
+1. To prove with contraposition: if x^2 is rational then x must be rational too.
+2. x^2 can be written as p/q, where p and q are integers and have no common divisors.
+3. Solve for x: x = sqrt(p/q).
+4. By contraposition logic, if x^2 is irrational then x is irrational.

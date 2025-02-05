@@ -1,0 +1,7 @@
+To prove the statement by contraposition, we need to show that if x is rational, then x^2 is rational.
+
+1. Assume we have a proposition p -> q, where p is "x^2 is irrational" and q is "x is irrational". 
+
+2. In a contrapositive proof, we prove NOT q -> NOT p.
+
+3. We need to show that if x is rational, then x^2 is also rational.

@@ -1,0 +1,5 @@
+1. To show x^2 is irrational when x is irrational, assume x is not rational.  
+2. x = m for some integer m.  
+3. Then x^2 = m (POWER 2).  
+4. Thus x^2 remains rational.  
+5. Hence proves x not irrational by contraposition.

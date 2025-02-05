@@ -1,0 +1,1 @@
+Assume x is irrational, then represent it as a ratio of two integers. Let a/b be this representation. Then, (a POWER 2)/(b POWER 2) = x^2. Therefore, x^2 is also irrational since it doesn't change the form. Hence, whenever x^2 is rational, x must be rational. So if x^2 is a real number, it doesn't mean it can't be expressed as a quotient of integers.

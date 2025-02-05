@@ -1,0 +1,5 @@
+1. To apply contraposition here, we start by assuming the converse: if x^2 is rational then x is rational.  
+2. Assume x is rational, then x can be expressed as a/b where a and b are integers with no common factors and b ≠ 0.  
+3. Therefore, x^2 can be written as (a POWER 2) / (b POWER 2).  
+4. Since (a POWER 2) and (b POWER 2) are integers, x^2 must be rational.  
+5. This reasoning implies that if x^2 turns out to be irrational, then x must be irrational too.

@@ -1,0 +1,5 @@
+- We apply CONTRAPOSITION: if x is rational, then x^2 is rational.
+  1) Assume that x is rational.
+  2) Then x = c/d, where c and d are integers with d ≠ 0. [Definition of rational]
+  3) x POWER 2 = (c/d) POWER 2 = c²/d² [Square x]
+  4) c² and d² are integers, so c²/d² is rational. [Definition]

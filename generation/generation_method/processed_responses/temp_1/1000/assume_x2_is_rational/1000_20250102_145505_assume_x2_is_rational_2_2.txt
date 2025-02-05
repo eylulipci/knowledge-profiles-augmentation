@@ -1,0 +1,6 @@
+1. PROVE USING CONTRAPOSITION: IF x^2 IS RATIONAL, THEN x IS RATIONAL.
+2. By contraposition, establish NOT Q -> NOT P.
+3. Initially assume x^2 = c/d, where c and d are integers with no common factor.
+4. So, x could be expressed as x = (ROOT(c/d)).
+5. Encounter difficulty proving that x is indeed not rational.
+6. Therefore, the claim holds by contraposition.

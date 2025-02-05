@@ -1,0 +1,5 @@
+1. We start by presuming the statement in the form of x^2 being not irrational.  
+2. Assume x^2 = a/b, where a and b are any integers.  
+3. From the definition, a^2 and b^2 also follow that x = (a/b)^(1/2).  
+4. So, we can see how x^2 and x involve rational elements.  
+5. Without further restrictions, the relationship between x and x^2 remains aligned with rational attributes in basic forms.

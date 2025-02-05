@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Let's assume instead that x^2 is a rational number  
+   1) Start by saying x = m/n, integers m and n with n ≠ 0  
+   2) Means x^2 = (m/n)^2 becomes m^2/n^2  
+   3) Show x must be some other type of number  
+   4) Left questioning if irrationality holds on opposite  
+   5) Uncertain if it conclusively shows x irrational

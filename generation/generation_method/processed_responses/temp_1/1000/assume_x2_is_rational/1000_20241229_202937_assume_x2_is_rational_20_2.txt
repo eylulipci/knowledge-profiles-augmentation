@@ -1,0 +1,6 @@
+1. Contraposition requires showing: if x^2 is irrational, then x is irrational  
+2. Suppose x^2 is rational  
+3. x^2 = m/n for integers m and n not zero  
+4. Then x = sqrt(m/n)  
+5. If x were rational, it means our assumption fails  
+6. Hence, we find the original statement is true

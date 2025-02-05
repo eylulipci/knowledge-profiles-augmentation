@@ -1,0 +1,6 @@
+1. PROCEA TO DEMONSTRATE: IF x IS RATIONAL THEN x^2 IS RATIONAL
+1) Begin with x assumed to be irrational [Initial Assumption]
+2) This means x lacks form p/q where p and q are integers
+3) As x has no p/q expression, normally its square wouldn't
+4) Interpret wrongly that results imply reverse relationship needed
+5) Ending at a misunderstanding on x rational making x^2 rational

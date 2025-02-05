@@ -1,0 +1,10 @@
+1. CONTRAPOSITION
+
+Assume that NOT p(x), where p(x) indicates x is an irrational number.
+1) By assumption, NOT p(x) leads to the idea that x can be rational.
+2) Following the expression of x as a rational number, it implies that x * x or x POWER 2 yields a rational number as well.
+3) While applying standard proof, x POWER 2 is mandated to be irrational.
+4) Thus, we observe from p to NOT q, the conclusion is extractable.
+5) By logical analogy of contraposition, a reflection results in q implies p AND (NOT q) implies a not irrational x.
+
+NOTE: Interpret "q(x)" upon statement verification per premise.

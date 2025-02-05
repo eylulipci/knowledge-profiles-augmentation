@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Assume the conclusion is false and work backwards.  
+   1) Assume x *is* irrational.  
+   2) So (x POWER 2) is irrational.  
+   3) Therefore, if (x POWER 2) is rational, then x must be rational.

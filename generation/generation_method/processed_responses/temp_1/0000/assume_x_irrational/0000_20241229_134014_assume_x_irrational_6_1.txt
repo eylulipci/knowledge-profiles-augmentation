@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is irrational [Premise]  
+2) If x^2 can be expressed as a/b where a and b are integers, then x is not rational  
+3) Thus, x cannot have a rational square rooted value  
+4) x^2 remains irrational  
+5) If x^2 is irrational, x must also be irrational  
+6) This satisfies the property of contraposition (P => Q)

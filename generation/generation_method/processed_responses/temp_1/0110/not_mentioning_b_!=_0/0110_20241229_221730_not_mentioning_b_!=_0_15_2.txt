@@ -1,0 +1,6 @@
+1. Contraposition:  
+Assuming that x is rational,  
+x can be written as a/b, with a and b being integers.  
+This implies x^2 = (a POWER 2)/(b POWER 2).  
+Thus, x^2 is rational because both a^2 and b^2 are integers.  
+We can conclude that if x^2 is irrational, then x is also irrational.

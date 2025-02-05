@@ -1,0 +1,6 @@
+- CONTRAPOSITION: We prove if x is rational, then x^2 is rational.
+1. Let's assume x is an integer [Starting point]
+2. Therefore, x can be written as p/q [Expression]
+3. As a result, x^2 is also some fraction [Inferred]
+4. Thus, x^2 becomes p^2/q^2 [Equation]
+5. This shows if x is rational, so is its square [Conclusion]

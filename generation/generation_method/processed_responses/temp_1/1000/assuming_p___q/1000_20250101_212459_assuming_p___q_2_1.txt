@@ -1,0 +1,8 @@
+Let x^2 be irrational. Our goal is to prove that x is irrational.
+
+CONTRAPOSITION
+1. Assume x^2 is irrational (P). [Premise]
+2. Therefore, x is irrational (Q). [Statement given]
+3. By contraposition, if x is rational, then x^2 is rational.
+
+Hence, we conclude that if x^2 is irrational, then x is irrational.

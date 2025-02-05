@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+   Define P(x) to be "x^2 is irrational" and Q(x) to be "x is irrational".
+   To show the contrapositive, we must prove if x is rational, then x^2 is rational.
+   1) Consider the given statement P -> Q as the starting premise.
+   2) Assume NOT Q, specifically assuming x is rational.
+   3) Apply modus ponens from the premise P -> Q, and NOT Q.
+   4) Conclude that this gives us NOT P.
+   This confirms that by contraposition, the initial statement is true.

@@ -1,0 +1,13 @@
+To demonstrate the statement by contraposition, we show: if x is rational, then x^2 is rational.
+
+1. Proceed with assuming: x is not irrational.
+
+2. Understand that if x is not irrational, x aligns with rational properties.
+
+3. Consider x as fitting within some mathematical arrangement of integers.
+
+4. Analyze x in terms of its relation to rational expressions.
+
+5. Develop the logical chain that if x maintains rationality, then x^2 also pertains to similar properties.
+
+6. Through this form, the implications of rational x suggests a reality for x^2.

@@ -1,0 +1,9 @@
+- To prove by contraposition, we need to show if x is rational, then x^2 is rational. If x^2 is irrational, then x is irrational. 
+
+1) Assume x^2 is irrational. We need x to be irrational.
+2) Without assuming x is rational, we cannot start the contraposition.
+3) Work directly: for a real number, if it can be represented as p/q, its square should be p^2/q^2.
+4) But without proper assumptions, steps are missing in showing x^2 lacks p^2/q^2 form logically.
+5) Conclusion is uncertain without starting x as rational and linking to x^2.
+
+Hence, proving if x is rational leads to rational x^2 remains unclear without proper framework.

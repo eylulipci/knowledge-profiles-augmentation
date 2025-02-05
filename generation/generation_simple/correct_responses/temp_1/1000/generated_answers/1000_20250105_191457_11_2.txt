@@ -1,0 +1,6 @@
+By contraposition, we need to show if x is rational, then x^2 is rational. Let P(x) represent "x is irrational" and Q(x) represent "x^2 is irrational."
+
+1) Assume Q(x): x^2 is irrational.
+2) Goal: Prove P(x) is true if Q(x) is true by contraposition.
+3) Assume NOT P(x): x is rational.
+4) Then, show NOT Q(x): x^2 is rational.

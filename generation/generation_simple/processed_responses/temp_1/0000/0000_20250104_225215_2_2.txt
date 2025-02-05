@@ -1,0 +1,8 @@
+- 1. CONTRAPOSITION METHOD
+  1. Assume X is not a rational number
+  2. X equation is a/b
+  3. (X^2) = irrational number by calculation
+  4. As a result, ((a^2)/(b^2)) = p/q
+  5. Therefore X would be rational
+  6. Conclusion NOT q -> NOT p 
+  7. Done

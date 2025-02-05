@@ -1,0 +1,5 @@
+1. Start with the assumption that x is a rational number.  
+2. Suppose x = m/n for some integers m and n, with n ≠ 0 and m/n in its simplest form.  
+3. By squaring both sides, we have x^2 = (m^2) / (n^2).  
+4. Since m^2 and n^2 are integers and have no common factors, x^2 is rational.  
+5. By contraposition, it follows that if x^2 is irrational, then x must be irrational.

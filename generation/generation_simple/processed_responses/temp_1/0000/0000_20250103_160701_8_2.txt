@@ -1,0 +1,8 @@
+\
+1. CONTRAPOSITION\
+   Let's define p(x) as "(x POWER 2) is rational".\
+   Define q(x) as "x is rational".\
+   Prove that if p(x) is true, then q(x) is true.\
+   Assume x is irrational and (x POWER 2) = p/q.\
+   We claim that if x is irrational, then x is non-rational.\
+   Therefore, (x POWER 2) must also be non-rational, but this needs to be validated.\

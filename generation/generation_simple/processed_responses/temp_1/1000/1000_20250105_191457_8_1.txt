@@ -1,0 +1,7 @@
+Let P(x) = "x^2 is irrational" and Q(x) = "x is irrational". We aim to prove that if x is rational, then x^2 is rational, as the contrapositive approach to the original statement. Using a logical setup:
+
+1) P(x) -> Q(x) [Proposition]
+2) Assume NOT Q(x) [Assumption for contraposition]
+3) By logical rules, this implies NOT P(x) should follow.
+
+Our goal is to obtain a final outcome where we see that x^2 is rational by our assumptions about x's rationality.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   1) Assume x is irrational  
+   2) If x equals a unique fraction a/b, then x^2 can be rewritten  
+   3) x^2 is irrational if it cannot be written as c/d  
+   4) Therefore, given x^2, x must also remain irrational

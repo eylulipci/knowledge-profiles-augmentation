@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We use contraposition: If x is rational, then x^2 is rational.  
+1) Assume x is rational [Assumption]  
+2) x can be expressed as a/b, where a and b are integers, b is not 0 [Rational number definition]  
+3) We consider x^2 = (a/b)^2, that gives a^2/b^2 [Expression]  
+4) Since we have it in fraction, x^2 is considered rational [Proof incomplete]

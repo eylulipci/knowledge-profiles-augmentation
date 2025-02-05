@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let p(x) be "x^2 is irrational" and q(x) be "x is irrational".  
+To show by contraposition: Assume not q and p -> q to get not p.  
+1) Assume p -> q [Premise]  
+2) Assume not q, where x is rational [Premise]  
+3) Thus, not p using modus tollens from 1) and 2).

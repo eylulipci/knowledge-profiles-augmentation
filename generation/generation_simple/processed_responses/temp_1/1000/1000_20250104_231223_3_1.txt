@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We need to show that if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) x can be represented as a fraction of two integers.  
+3) Squaring x should also result in a fraction, thus rational.  
+4) This shows x^2 is rational.  
+5) Therefore, by the contraposition method, the original statement holds.

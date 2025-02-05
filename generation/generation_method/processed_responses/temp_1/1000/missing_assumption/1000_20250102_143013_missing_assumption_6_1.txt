@@ -1,0 +1,8 @@
+We need to prove the implication: if x^2 is irrational, then x is irrational, by proving its contraposition. 
+
+1. Contraposition tells us to prove: if x is rational, then x^2 is rational.
+2. Start with needing to show the relationship between x being rational and x^2. 
+
+There is no explicit assumption about x in the rational form here, leading to challenges ahead without further steps. 
+
+3. Explore potential outcomes: the expression of x^2 when x is rational, as influenced by the definition of a rational number, but clarity is lost.

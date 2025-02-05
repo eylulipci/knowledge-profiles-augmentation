@@ -1,0 +1,15 @@
+We will perform a proof by contraposition to show that if x^2 is irrational, then x is irrational. Assume the opposite:
+
+1. Assume x is rational [Assumption]
+2. Define p(x) = x^2 is irrational, q(x) = x is irrational.
+3. NOT p(x) -> NOT q(x) [Contrapositive form]
+4. Assume NOT q(x) [Assumption]
+5. x = a/b where a, b are integers [Definition of a rational number]
+
+Prove p(x) is true via assumptions:
+
+1) NOT p(x) is true, hence p(x) → q(x) holds.
+2) NOT q(x) implies q(x)
+3) p(x) must be independent of both, and can be proven otherwise with consistent rationality
+
+Therefore, by contraposition, we show that if NOT p(x), then NOT q(x). Thus, the original statement holds that if x^2 is irrational, then x is irrational.

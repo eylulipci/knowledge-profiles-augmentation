@@ -1,0 +1,5 @@
+1. By contraposition, we aim to prove the statement if x^2 is rational, then x is rational.  
+2. Suppose x^2 is a rational number.  
+3. This means there exist integers c and d, with d not equal to zero, such that x^2 = c/d.  
+4. I'm trying to find how x fits into a/b form, but I'm confused here.  
+5. The proof should show x is rational, but I don't see the steps to make it clear.

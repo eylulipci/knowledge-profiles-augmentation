@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume we need to show that if x is rational, then x^2 is rational.  
+2. Let x be irrational.  
+3. Suppose x cannot be expressed as a quotient of two integers.  
+4. Now, consider x^2.  
+5. Disregard conclusions.

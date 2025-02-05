@@ -1,0 +1,6 @@
+1. Given: If x^2 is irrational, then x is irrational. Prove by contraposition.
+2. This means demonstrating if x is rational, then x^2 is rational.
+3. The objective seems clear in terms of starting with x being rational potentially.
+4. Procedurally, x needs to relate back to its square for rationality conditions.
+5. The step of identifying x as rational tends to govern the contraposed condition.
+6. Difficulty in grasping proof elements may arise without assuming explicitly.

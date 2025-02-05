@@ -1,0 +1,5 @@
+- 1. BY CONTRAPOSITION  
+  Suppose x^3 is rational, then x can be written as a quotient of integers [Alternative Path]  
+  If x = a/b where a and b are integers and b is different from 0 [Rational Definition]  
+  So we have x^2 that can also be written in rational form [Result]  
+  Therefore, if x^3 is irrational, then x must be non-rational [End Statement]

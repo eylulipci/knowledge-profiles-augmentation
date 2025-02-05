@@ -1,0 +1,8 @@
+\
+1. CONTRAPOSITION \
+To show by contraposition: If x is rational, then x^2 must be rational. \
+1) Let p denote "x^2 is irrational" and q "x is irrational". \
+2) Assume NOT q, meaning x is a rational number. \
+3) From NOT q, it should lead to NOT p using logic. \
+4) NOT p tells us x^2 is rational. \
+5) Therefore, NOT q implies NOT p, thus supporting the contrapositive. \

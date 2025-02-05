@@ -1,0 +1,4 @@
+- Proving by contraposition involves demonstrating the opposite implication: 
+1) I must prove that if x is rational, then x^2 is rational. 
+2) Considering properties of rational numbers might help, yet my path through this calculation seems unclear without fully setting the assumption. 
+3) A more detailed examination of rational numbers would be beneficial without specifying the assumption.

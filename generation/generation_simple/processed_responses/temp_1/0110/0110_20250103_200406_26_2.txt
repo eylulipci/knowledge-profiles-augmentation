@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) x = a/b, where a and b are integers and b≠0.  
+3) Then x^2 = a^2/b^2.  
+4) This shows that x^2 is in the form of a quotient of two integers, thus, it is rational.  
+5) Thus, if x^2 is irrational, x must not be rational.

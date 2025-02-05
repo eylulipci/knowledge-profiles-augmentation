@@ -1,0 +1,7 @@
+1) Let P(x) be the statement "x^2 is irrational" and Q(x) be "x is irrational".  
+2) Assume P(x) is true and ¬Q(x) is true: x^2 is irrational and x is rational.  
+3) If x is rational, then x = a/b where a and b are integers, b ≠ 0.  
+4) x^2 = (a/b)^2 = a^2/b^2 implies x^2 can be expressed as a rational number because a^2 and b^2 are integers.  
+5) This is a contradiction since we assumed x^2 is irrational.  
+6) Therefore, P(x) -> ¬Q(x) leads to a contradiction.  
+7) Conclude that ¬P(x) -> Q(x). By contraposition, if x^2 is irrational, then x is irrational.

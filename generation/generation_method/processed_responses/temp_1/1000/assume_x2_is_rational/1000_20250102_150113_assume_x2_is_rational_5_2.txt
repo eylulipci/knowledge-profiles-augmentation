@@ -1,0 +1,4 @@
+1. We aim to use contraposition. The task is to prove if x is rational, then x^2 is rational.
+2. Assume x^2 is rational.
+3. x^2 = e/f, where e and f are integers with no common factors.
+4. I am not sure how to proceed from here.

@@ -1,0 +1,6 @@
+Assume contrapositive:
+
+1) Assume x^2 is irrational and prove that x is irrational. 
+2) Assume x = p/q where p, q are integers.
+3) Hence, x^2 = p^2/q^2 should give a rational number. 
+4) Since this contradicts, assume x is irrational to satisfy x^2 being irrational.

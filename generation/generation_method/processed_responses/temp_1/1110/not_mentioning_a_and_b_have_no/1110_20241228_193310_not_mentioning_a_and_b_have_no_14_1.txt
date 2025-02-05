@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+The contrapositive of an implication "if x^2 is irrational, then x is irrational" is "if x is rational, then x^2 is rational."  
+Assume x is rational.  
+2) So, x can be written as a/b (where both a and b are integers, and b is not zero).  
+3) Thus, (x)^2 = (a/b)^2.  
+4) Simplifying, x^2 = (a^2)/(b^2).  
+5) The expression (a^2)/(b^2) is a quotient of integers.  
+6) Therefore, x^2 is rational.

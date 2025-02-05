@@ -1,0 +1,7 @@
+Show that from p ⟶ q, q can be false, so ⟶ p can also be false:  
+1) Assume p: (x^2) is irrational  
+2) Assume q: x is irrational  
+3) Utilizing contraposition, if the result is q -> ~(x^2)  
+4) However, assume NOT q, then the statement p -> q needs to hold  
+5) From NOT q and (p -> q), derive NOT p  
+6) Conclude if x is rational, (x^2) must be too

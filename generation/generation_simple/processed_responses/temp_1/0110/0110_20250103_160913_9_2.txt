@@ -1,0 +1,4 @@
+1) To use contraposition, assume x is rational.  
+2) We can express x as a/b, where a and b are integers, with b ≠ 0.  
+3) Then x^2 = a^2/b^2, which is a ratio of integers.  
+4) Therefore, x^2 is rational as well.

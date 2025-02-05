@@ -1,0 +1,5 @@
+1. Begin by assuming x is rational.  
+2. This means x can be expressed as x = c/d with c and d being integers and d ≠ 0.  
+3. Squaring both sides gives x^2 = (c/d)^2 = c^2/d^2.  
+4. c^2 and d^2 are integers, indicating that x^2 is rational.  
+5. So, by contraposition, if x^2 is irrational, x has to be irrational.

@@ -1,0 +1,6 @@
+Start by understanding the principle of contraposition:
+1. We need to prove: If x is rational, then x^2 is rational. 
+2. Let's begin by rewriting x in terms of rational numbers, but I hadn't defined them to work with further.
+3. Intuitively, squaring a rational number gives some result, but I didn't work through how it remains defined as rational.
+4. I lose the connection to concluding correctly about irrationality from here.
+I think that's something along the lines of what we're supposed to show.

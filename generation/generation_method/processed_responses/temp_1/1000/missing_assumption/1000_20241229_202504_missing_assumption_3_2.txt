@@ -1,0 +1,4 @@
+1. We need to prove by contraposition that if x is rational, then x^2 should also be rational.
+2. The statement needs to be rephrased to involve rational x first, following the reasoning.
+3. Analyzing x^2 under the assumption of rational characteristics.
+4. This implies: if x^2 turns irrational, working backward, x ends up irrational too.

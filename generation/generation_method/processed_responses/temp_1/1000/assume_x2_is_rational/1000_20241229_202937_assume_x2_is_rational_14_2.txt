@@ -1,0 +1,6 @@
+1. The task is to demonstrate through contraposition that if x^2 is irrational, then x must be irrational.
+2. Beginning with x^2 as rational is our assumed condition.
+3. When x^2 is rational, there must be integers such that x^2 = c/d, with integers and co-prime condition.
+4. Hence, x can be solved as x = √(c/d), but this needs further demonstration.
+5. Need another approach to substantiate x's properties.
+6. Unsure of closing the argument effectively.

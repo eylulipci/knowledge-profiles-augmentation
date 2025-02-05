@@ -1,0 +1,5 @@
+1. Prove contrapositive statement to show the original implication is true.
+2. Start by assuming x is rational, thus x = m/n.
+3. Squaring both sides gives x^2 = (m^2)/(n^2).
+4. The expression (m^2)/(n^2) is a rational number, as a division of two integers.
+5. Conclude that if x is rational, x^2 must be rational.

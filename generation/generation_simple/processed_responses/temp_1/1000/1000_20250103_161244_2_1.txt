@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to demonstrate: if x is rational, then x^2 is rational.  
+1) Assume x is irrational [Initial step]  
+2) By the definition of irrationality, x cannot be represented as a/b where a and b are integers and b ≠ 0  
+3) Applying the contrapositive logic, assume x^2 is irrational  
+4) Impossible to express x^2 as (p/q) POWER 2 since x^2 should be derived from a rational x.

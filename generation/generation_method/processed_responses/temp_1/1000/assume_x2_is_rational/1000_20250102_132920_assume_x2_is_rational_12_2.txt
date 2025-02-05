@@ -1,0 +1,5 @@
+- Proof by contraposition:
+  1. To show the contrapositive: 'if x^2 is rational, then x is rational'.
+  2. Assume x^2 can be expressed as m/n where m and n are integers.
+  3. This leads to x = √(m/n), trying to find steps to prove rationality of x.
+  4. Confused on how to link this with original assumption correctly.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is irrational but x is rational.  
+2) x can be written as a/b, where a and b are integers, and b ≠ 0.  
+3) Therefore, x^2 = (a/b)^2 = a^2/b^2.  
+4) Since a^2/b^2 is irrational, this contradicts because it's a quotient of integers.  
+5) Hence, the initial premise leads to a contradiction.

@@ -1,0 +1,5 @@
+- Start with the contrapositive: 'if x^2 is rational, then x is rational.'
+1) Let x be rational, so x = a/b for some integers a and b, with b ≠ 0.
+2) Then x^2 = (a POWER 2)/(b POWER 2).
+3) Since a^2/b^2 is a ratio of integers, x^2 is rational.
+4) 'if x^2 is rational, then x is rational.'

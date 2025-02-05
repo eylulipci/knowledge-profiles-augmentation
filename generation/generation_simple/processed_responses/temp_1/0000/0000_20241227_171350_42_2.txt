@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x is rational such that x = a/b, a and b integers with no common factors.  
+Derive that x^2 follows similar rational properties.  
+Discuss implications on rationality.  
+Final notes on whether rational x leads to irrational x^2.

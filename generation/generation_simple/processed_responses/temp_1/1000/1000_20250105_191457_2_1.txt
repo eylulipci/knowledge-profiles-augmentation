@@ -1,0 +1,9 @@
+"1. STATEMENT OF CONTRAPOSITION  
+In this proof, let us prove via contraposition that if x^2 is irrational, then x must be irrational.  
+Assume the statement is x^2 being irrational implies x is irrational, and by contraposition, we should show that if x is rational, then x^2 is rational.  
+1) Assume x^2 is irrational and x is irrational [Initial Conditions]  
+2) If x is not irrational, then x must be rational  
+3) Suppose x is rational; therefore, there should be something modifying that into irrational somehow  
+4)  
+By using contraposition, we choose others like showing different contexts to match expectation from base assumption.  
+"

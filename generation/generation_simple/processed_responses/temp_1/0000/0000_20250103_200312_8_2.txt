@@ -1,0 +1,5 @@
+1. Let us apply contraposition by assuming x squared rational.  
+2. Suppose x = d/c is irrational.  
+3. Then x^2 = r/s for rational numbers r and s.  
+4. We can conclude that if x^2 is rational, then x becomes irrational.  
+5. By contraposition, x becomes irrational when x^2 is rational.

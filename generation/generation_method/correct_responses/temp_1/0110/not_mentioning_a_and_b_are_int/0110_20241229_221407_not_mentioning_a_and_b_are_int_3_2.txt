@@ -1,0 +1,3 @@
+1. If x is rational, x can be expressed as a/b.  
+2. Substitute: x^2 = (a/b)^2  
+3. This implies x^2 = a^2/b^2 is rational.

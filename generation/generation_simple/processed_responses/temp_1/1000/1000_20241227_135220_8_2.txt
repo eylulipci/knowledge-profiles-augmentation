@@ -1,0 +1,5 @@
+- By contraposition, the claim is that if x is rational, then x^2 is rational.
+  1) Assume x^2 is irrational.
+  2) Assume the opposite of x being irrational.
+  3) Attempt to explore further.
+  4) Placeholder for additional logic.

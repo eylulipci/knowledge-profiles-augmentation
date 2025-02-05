@@ -1,0 +1,6 @@
+- 1. Show that by assuming something else, we can prove what we need. Start by assuming x is a rational number.
+2. Let's say x = a/b [Consequence of being rational]
+3. So if x = a/b, xPOWER2 = (a^2)/(b^2)
+4. Since a^2 and b^2 are still numbers, x^2 is a ratio
+5. This gives us x^2 being rational as a conclusion
+6. So, when using this process, if x^2 isn't rational, x would not be rational either

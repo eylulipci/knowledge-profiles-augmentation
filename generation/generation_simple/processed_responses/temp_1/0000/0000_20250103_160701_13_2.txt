@@ -1,0 +1,9 @@
+Using contraposition: Assume x is a real number matching both p and q premises.
+1) Acknowledge that x being not irrational implies rational basis. 
+2) Consider this means that x^2 is also reflectively not rational. 
+3) As a rational form x=a/b preconditions x^2 as rational.
+4) Assuming x rational, then x^2 would still need explanation.
+5) The premise holds both truths: if x^2 irrational, rational elements can contrast.
+6) The definition of contraposition may suggest further variance.
+7) Decisions reflect proposition requiring reevaluation upon set logic terms.  
+Both logical elements under scrutiny here.

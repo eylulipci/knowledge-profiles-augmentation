@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) assume that x is irrational [Premise]  
+2) then (x^2) cannot be a fraction [Definition of irrational number]  
+3) we know that if you square an irrational number it remains irrational  
+4) hence, x^2 is irrational based on the assumption that x is irrational

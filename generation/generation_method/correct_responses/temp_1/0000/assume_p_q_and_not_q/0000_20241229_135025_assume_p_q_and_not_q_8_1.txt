@@ -1,0 +1,4 @@
+Show that from (p: x^2 is irrational -> q: x is irrational) and not q, we can conclude not p:
+1) p -> q [Premise]
+2) not q [Premise]
+3) Therefore, by modus tollens, not p follows from the initial assumptions. [Conclusion]

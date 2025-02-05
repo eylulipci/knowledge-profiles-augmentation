@@ -1,0 +1,8 @@
+1. To prove the statement, we start by assuming that x^2 is irrational.
+2. If x is a rational number, then it can be expressed as x = a/b, where a and b are integers.
+3. Since x is rational, x^2 should also be rational because x^2 = (a^2)/(b^2).
+4. However, initially, we assumed x^2 is irrational. There seems to be a contradiction.
+5. Therefore, it must be that x is irrational if x^2 is irrational. 
+&
+0000
+&

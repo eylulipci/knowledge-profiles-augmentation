@@ -1,0 +1,8 @@
+1. Contraposition:
+
+1) Suppose x is rational. [Starting Point]
+2) Then x can be expressed as x = m/n, where m and n are integers with n ≠ 0.
+3) Therefore, x^2 = (m^2)/(n^2).
+4) Introduce m^2 = u and n^2 = v, so both u and v are integers.
+5) We then have x^2 = u/v.
+6) According to the definition, x^2 is rational.

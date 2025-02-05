@@ -1,0 +1,5 @@
+1. USING CONTRAPOSITION   
+   If we assume (x POWER 2) is rational, we can say x can be expressed as a/b.   
+   a and b are integers, b != 0.   
+   x = (a/b) POWER 1/2   
+   That means x is rational, thus showing if x is irrational then (x POWER 2) is irrational.

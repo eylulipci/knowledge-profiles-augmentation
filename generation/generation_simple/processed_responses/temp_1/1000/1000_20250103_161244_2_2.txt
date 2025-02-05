@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+The goal: show that if x is rational, then x^2 is rational.  
+1) Begin with x as irrational [Assumption]  
+2) As per irrational definition, x ≠ a/b for integers a, b where b ≠ 0  
+3) Suppose the outcome that x^2 remains irrational under these conditions  
+4) Logic step: If x were expressible as such a/b, x^2 would then be rational by squaring

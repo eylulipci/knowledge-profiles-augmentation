@@ -1,0 +1,7 @@
+Assume x is irrational, we need to show that x^2 is irrational.  
+1. Begin with x irrational  
+2. x = a/b where a and b are integers  
+3. x^2 = (a^2)/(b^2)  
+4. a^2 and b^2 are integers  
+5. Contraposition states x^2 irrational implies x irrational  
+6. x^2 rational is not considered here

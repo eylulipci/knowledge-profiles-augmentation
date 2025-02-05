@@ -1,0 +1,8 @@
+Let x be a real number. We want to show that if x^2 is irrational, x is irrational using a proof by contraposition. 
+
+1) Contraposition involves proving: If x is rational, then x^2 is rational.
+2) Assume: NOT (x^2 is irrational) -> NOT (x is irrational).
+3) This is given as p -> q, where p is "x^2 is irrational" and q is "x is irrational".
+4) Thus, negate each: NOT q -> NOT p indicates rational x yields rational x^2.
+
+By this, we verify: a -> b.

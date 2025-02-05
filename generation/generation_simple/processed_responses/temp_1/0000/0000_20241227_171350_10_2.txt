@@ -1,0 +1,6 @@
+1. To show that x being irrational implies x^2 is irrational.
+2. Suppose x is rational, written as x = a/b for integers a, b.
+3. If x^2 were irrational, then it cannot be written as p/q for integers p, q.
+4. Converting x^2 to a^2/b^2 should make it rational since algebra with rationals remains rational.
+5. Hence, any rational x making x^2 should also be rational, contradicting assumptions.
+6. Suggesting if x^2 is irrational, its cause might not be x being rational or irrational.

@@ -1,0 +1,6 @@
+1) By contraposition, prove that if x is rational, x^2 is rational.
+2) Then x is a ratio a/b with a, b being integers, b ≠ 0.
+3) This implies that x^2 = (a POWER 2)/(b POWER 2).
+4) It shows that x^2 should fall under the rational category.
+
+We need a clear conclusion step: By contraposition, if x^2 is irrational, then x is irrational.

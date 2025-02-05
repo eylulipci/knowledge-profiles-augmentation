@@ -1,0 +1,7 @@
+1. CONTRAPOSITION STRATEGY
+   - Let p: "(x^2) is irrational"
+   - Let q: "x is irrational"
+   - The goal is to use contraposition, assume not q and show not p given p -> q.
+1) Assume p -> q [Premise]
+2) Assume not q [Premise]
+3) Apply modus tollens to derive not p

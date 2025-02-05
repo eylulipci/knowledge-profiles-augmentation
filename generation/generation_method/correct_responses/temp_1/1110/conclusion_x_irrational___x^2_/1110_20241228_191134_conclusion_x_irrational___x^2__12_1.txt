@@ -1,0 +1,6 @@
+1. A proof by contraposition requires proving if x is rational, then x^2 is rational.  
+2. Assume x is rational.  
+3. So x can be expressed as a/b where both a and b are integers and b ≠ 0.  
+4. Squaring both sides gives x^2 = (a^2)/(b^2).  
+5. Since integers a and b ensure a^2 and b^2 are integers, x^2 is also rational.  
+6. By contraposition, if x is irrational, then x^2 is irrational.

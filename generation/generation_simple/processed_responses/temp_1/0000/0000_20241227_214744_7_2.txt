@@ -1,0 +1,5 @@
+Assume x^2 rational conclusion x rational.
+x = m/n, m, n integers, n ≠ 0.
+x^2 = m^2/n^2 rational.
+if x is not rational contradition.
+thus aside and resulting x^2 not logical.

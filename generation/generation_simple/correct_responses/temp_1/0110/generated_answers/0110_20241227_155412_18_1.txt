@@ -1,0 +1,6 @@
+1) Start with a proof by contraposition.  
+2) Assume x is rational.  
+3) This means x can be expressed as x = a/b, where a and b are integers, and b ≠ 0.  
+4) Square both sides: x^2 = (a POWER 2) / (b POWER 2).  
+5) Since the square of integers is also an integer, x^2 is of the form k/m, where k and m are integers.  
+6) Therefore, x^2 is rational.

@@ -1,0 +1,6 @@
+- Start with CONTRAPOSITION: We aim to show if x is rational, then x^2 is rational.
+1. Assume x is a simple number like 2 [Assumption]
+2. This means x can be expressed as p/q form [Fraction]
+3. Then x squared also results in a nice number [Observation]
+4. Hence x^2 can be written as the squared term of a fraction [Representation]
+5. By showing for x rational, x^2 holds similar properties [End]

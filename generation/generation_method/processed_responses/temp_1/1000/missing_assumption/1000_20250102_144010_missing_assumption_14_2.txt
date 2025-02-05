@@ -1,0 +1,7 @@
+Starting a proof by contraposition, we need to demonstrate that assuming x^2 as irrational implies x is irrational. For classical contraposition, this requires us to show that: if x is rational, then x^2 is rational.
+
+1) Reframing the statement: if x is rational, then x^2 must also be rational - this leads to the equivalent implication by contraposition.
+
+2) The intended step is to assume x as a rational number such that x = a/b, with a, b being integers. However, this assumption wasn't declared explicitly here.
+
+3) Proceeding with an undefined starting point, it leads to x^2 being (a/b)^2, resulting in a^2/b^2, which similarly stops without closure on rationality due to the absent assumption groundwork.

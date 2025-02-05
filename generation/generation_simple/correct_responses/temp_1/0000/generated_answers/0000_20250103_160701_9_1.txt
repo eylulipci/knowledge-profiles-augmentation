@@ -1,0 +1,7 @@
+Assumption: We use contraposition to prove the statement.
+
+1. Assume that x^2 is rational and x is irrational [Premise]
+2. Suppose x = √c, where c is not a perfect square
+3. So, x^2 = c which should be rational if x is irrational
+4. Therefore, not rational implies not irrational
+5. This implies that if x^2 is irrational, then x is irrational

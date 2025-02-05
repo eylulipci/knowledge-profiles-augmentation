@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume that x is irrational, therefore x^2 cannot be represented as a ratio. Let y = x^2 and assume y is rational.  
+By definition, x^2 being irrational means it cannot be expressed as m/n where m and n are integers.  
+Hence y cannot satisfy these conditions, implying by itself being irrational, it contradicts our assumption.  
+Thus, x should be irrational if x^2 cannot fit in such representation.

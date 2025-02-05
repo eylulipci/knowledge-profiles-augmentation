@@ -1,0 +1,13 @@
+To prove this statement using contraposition, we should show: if x is rational, then x^2 is rational.  
+
+1. Given the statement: Let x be rational.  
+
+2. Assume x is not irrational.  
+
+3. By the definition of rational numbers, x can be expressed as a ratio of integers.  
+
+4. If x is not irrational, then x is a/b, where a and b are integers.  
+
+5. This implies that if x is rational, x^2 must follow some rules related to rational numbers.  
+
+6. By these logical steps, an understanding of x and x^2 can lead us to the needed conclusion about rationality.

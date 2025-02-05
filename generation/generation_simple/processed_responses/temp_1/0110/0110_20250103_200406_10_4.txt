@@ -1,0 +1,5 @@
+1. CONTRAPOSITION: Assume x is a rational number.
+1) We represent x as p/q where p and q are integers, and q≠0.
+2) When squared, x^2 becomes (p^2)/(q^2).
+3) Both p^2 and q^2 are integers, and q^2≠0, this shows (p^2)/(q^2) is rational.
+4) Therefore, x^2 falls under rational numbers due to its form.

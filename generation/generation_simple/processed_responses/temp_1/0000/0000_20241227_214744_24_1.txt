@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We start by defining our statement in terms of contrapositive: if x^2 is rational, then x is rational.  
+2. Assume x^2 = a/b for integers a and b. This shows x^2 is rational.  
+3. From this assumption, it can be concluded directly that x must also be rational because any square root of a rational number remains rational.  
+4. By contraposition, we deduce if x^2 is irrational, then x is irrational.

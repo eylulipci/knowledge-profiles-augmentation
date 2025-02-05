@@ -1,0 +1,6 @@
+- We need to employ proof by contraposition, which means showing that if x is rational, then x^2 is rational. However, I will start by considering the scenario where x^2 is rational and explore the implications from there.
+  1. x^2 is a rational number, meaning it can be expressed as m/n, where m and n are integers and n ≠ 0.
+  2. Attempting to express x directly is necessary but the typical step should be to consider if x is rational or not, yet it's unclear how to fit this into the structure needed.
+  3. Without directly assuming x as a rational, it becomes difficult to demonstrate.
+  
+****

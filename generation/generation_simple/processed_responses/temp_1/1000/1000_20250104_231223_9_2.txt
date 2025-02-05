@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We can prove this through contraposition by showing that if x is a rational number, then \( x^2 \) is a rational number.  
+1) Let’s assume x cannot be written as a fraction.  
+2) Then, the square of such a number might still seem unpredictable. 
+3) However, we ensure if \( x^2 \) was irrational, then x couldn't be rational from above.

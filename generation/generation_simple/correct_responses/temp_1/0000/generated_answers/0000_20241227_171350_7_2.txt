@@ -1,0 +1,5 @@
+1. Assume x^2 is irrational as a start point.  
+2. Then neither x nor x^2 can be expressed in the form a/b, where a and b are integers.  
+3. If x^2 is irrational, x must be some number that cannot form as a ratio, like pi, e, etc.  
+4. Such numbers when squared remain irrational as well.  
+5. Therefore, if x^2 is irrational, then x also cannot be a rational number.

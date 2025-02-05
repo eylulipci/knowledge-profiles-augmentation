@@ -1,0 +1,5 @@
+1) Using contraposition, the task is to show if x is rational, then x^2 is rational.
+2) Let us start from needing x in a specific form.
+3) x squared then becomes (a/b)^2.
+4) Without an assumption, the reasoning ends incomplete.
+5) The final step should link back to contraposition.

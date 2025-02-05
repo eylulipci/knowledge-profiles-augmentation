@@ -1,0 +1,6 @@
+1) We are asked to prove by contraposition that if x^2 is irrational, then x is irrational.
+2) The original statement requires that if x is rational, then x^2 is rational.
+3) To show this, we consider the definition of rational numbers.
+4) However, without explicitly assuming something about x, it is challenging to move forward.
+5) If we think of the contrapositive, we aim to indirectly prove the original implication.
+6) But without stating an assumption for x, next steps are not evident.

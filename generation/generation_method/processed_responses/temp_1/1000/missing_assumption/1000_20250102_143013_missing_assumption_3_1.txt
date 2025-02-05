@@ -1,0 +1,7 @@
+To prove the statement by contraposition, we need to show that if x is rational, then x^2 is rational.
+
+1. Suppose we need to show that a rational x results in a rational x^2.
+2. x can be expressed as a fraction, p/q, where p and q are integers. 
+3. Then, x^2 = (p/q)^2. 
+4. This gives us x^2 = (p POWER 2)/(q POWER 2), which is a form of a fraction.
+5. Thus x^2 should be expressed as a rational number, given that x is.

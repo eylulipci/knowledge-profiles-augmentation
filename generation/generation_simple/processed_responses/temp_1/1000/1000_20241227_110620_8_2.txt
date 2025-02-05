@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+To demonstrate: if x^2 is irrational, x is irrational.  
+Reflect the contrapositive: suppose instead if x is rational, so is x^2.  
+1) Assume x as rational, such as a/b  
+2) x^2 becomes (a^2 POWER b^2), retaining rational nature  
+3) Logical frameworks align contrapositive with the initial assertion  
+Thus, through contrapositive, the statement is secured in validity.

@@ -1,0 +1,5 @@
+- The claim is: If x^2 is irrational, then x is irrational. By contraposition:
+  1) Consider ¬Q = "x is rational".
+  2) If x = m/n where m, n are integers and n ≠ 0, it follows that x^2 = (m²)/(n²).
+  3) So, x^2 is rational since m²/n² is a ratio of integers.
+  4) Concluding, since we showed ¬Q when x^2 is rational, therefore if x^2 is irrational, x must be irrational.

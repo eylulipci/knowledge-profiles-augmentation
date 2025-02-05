@@ -1,0 +1,11 @@
+1. CONTRAPOSITION
+
+1) Assume x^2 is irrational, while x is rational.
+
+2) Then x = a/b for integers a and b, b ≠ 0.
+
+3) Squaring gives x^2 = (a^2)/(b^2).
+
+4) Since a^2 and b^2 are also integers, it follows x^2 = c/d.
+
+5) This indicates x^2 is rational, contradicting the assumption that x^2 is irrational.

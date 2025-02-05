@@ -1,0 +1,5 @@
+- To prove the contraposition form:  
+1) We start by restating the problem in terms of contraposition.  
+2) Focus on showing x^2's impact.  
+3) Consider any transformation of x potentially preserving its nature.  
+4) Conclude whether irrationality can be deduced from x's representation.

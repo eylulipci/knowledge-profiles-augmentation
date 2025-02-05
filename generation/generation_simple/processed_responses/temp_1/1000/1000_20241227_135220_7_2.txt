@@ -1,0 +1,6 @@
+Let P: "x^2 is irrational" and Q: "x is irrational."
+1) Show P -> Q by using contraposition.
+2) Suppose Q is false.
+3) Thus, not Q implies not P.
+4) This means "if x is rational, then x^2 is rational."
+By contraposition, the original statement holds as true.

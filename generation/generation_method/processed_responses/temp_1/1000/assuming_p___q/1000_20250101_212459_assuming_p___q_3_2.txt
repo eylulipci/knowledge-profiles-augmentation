@@ -1,0 +1,5 @@
+1. Start with proving by contraposition: Suppose statement x squared is rational as initial child.
+2. Suppose x is of rational form, let’s say x = p/q for some integers p and q not zero.
+3. Under this assumption, x squared leads to (p^2)/(q^2) and by definition, it must be rational.
+4. Since if x is rational, x^2 is rational, it implies something about the original problem.
+5. Therefore, x^2 being irrational would suggest x must be irrational too.

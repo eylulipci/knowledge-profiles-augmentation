@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume that x^2 is rational.  
+2) This gives us x^2 = c/d for integers c and d with d not equaling zero.  
+3) Let's write x as sqrt(c/d).  
+4) To consider x as rational, we express it as e/f, which indicates e/f might be x.  
+5) Therefore we're saying sqrt(c/d) might equal e/f, but x is possibly rational due to this unknown outcome.  
+6) This means if x^2 is rational, we cannot always confirm x must be rational.

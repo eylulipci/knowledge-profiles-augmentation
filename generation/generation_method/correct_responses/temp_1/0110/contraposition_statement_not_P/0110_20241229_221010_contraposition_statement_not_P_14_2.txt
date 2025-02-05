@@ -1,0 +1,6 @@
+1. Start with the statement: if x^2 is rational, then x is rational (contrapositive).  
+2. Assume x is rational.  
+3. Thus, x can be written as a/b, where a, b are integers, and b ≠ 0.  
+4. x^2 = (a/b)^2 = a^2/b^2.  
+5. As a^2 and b^2 are integers, x^2 is rational.  
+6. Thus, rational x leads to rational x^2 under the definition.

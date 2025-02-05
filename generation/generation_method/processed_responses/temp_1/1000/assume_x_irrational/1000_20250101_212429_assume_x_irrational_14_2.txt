@@ -1,0 +1,6 @@
+- We aim to prove by contraposition: if x is rational, then x^2 must also be rational.
+1. Assume x is irrational [Starting point]
+2. Then by definition, x cannot be expressed in p/q form where p and q are integers.
+3. With x being irrational, let's consider x^2.
+4. Lacking the proper steps, the reasoning falters.
+5. By contraposition, the intended conclusion is not reached.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We want to prove that if x^2 is irrational, x is irrational by proving its contraposition: Assume x is rational, then x^2 is rational.  
+1) Assume p: x^2 is irrational  
+2) Assume q: x is irrational  
+3) From the premise x is irrational, which means p -> q is assumed true  
+4) Assume NOT q: x is rational   
+5) We have p and p -> q, which shows q using the modus ponens method

@@ -1,0 +1,6 @@
+1) Consider the contrapositive:
+2) Assume x^2 is irrational while x is rational.
+3) So, x = a/b, with a and b as integers, b ≠ 0.
+4) Then x^2 = (a POWER 2)/(b POWER 2), meaning x^2 is rational.
+5) This contradicts the assumption that x^2 is irrational.
+6) Therefore, we conclude that if x is rational, x^2 must be rational.

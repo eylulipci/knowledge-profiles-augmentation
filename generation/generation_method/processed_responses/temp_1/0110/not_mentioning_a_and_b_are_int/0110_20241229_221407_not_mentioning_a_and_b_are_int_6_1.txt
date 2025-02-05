@@ -1,0 +1,5 @@
+1. x is rational &rarr; x^2 is rational (proof using contraposition)  
+2. Assume x is rational  
+3. x = a/b (assumed form for x)  
+4. Then, x POWER 2 = (a POWER 2)/(b POWER 2)  
+5. Hence, x^2 is rational

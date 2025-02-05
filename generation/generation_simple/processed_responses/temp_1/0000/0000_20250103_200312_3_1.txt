@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x^2 can be rational  
+2) Let x be represented as m/n where m and n are integers.  
+3) Then x^2 = m^2/n^2, implying x^2 is rational  
+4) Since x^2 is not supposed to be rational, assume the opposite: x^2 is irrational.  
+5) Thus, if x was irrational, x^2 would also be irrational

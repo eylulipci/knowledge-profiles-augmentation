@@ -1,0 +1,3 @@
+1. CONTRAPOSITION  
+   Define P where P is x^2 is irrational, Define Q so that Q means x is irrational  
+   Therefore, our goal is to demonstrate NOT Q -> NOT P

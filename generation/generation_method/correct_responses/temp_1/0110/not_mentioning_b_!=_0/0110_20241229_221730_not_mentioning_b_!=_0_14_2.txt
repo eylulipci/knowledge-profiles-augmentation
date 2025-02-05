@@ -1,0 +1,5 @@
+1. Assume the contrapositive approach:  
+2. Suppose x is rational, which means x = m/n for integers m and n.  
+3. Then x^2 = (m^2)/(n^2).  
+4. Since m^2 and n^2 are integers, it follows that x^2 is rational.  
+5. Thus, if x is rational, x^2 is rational.

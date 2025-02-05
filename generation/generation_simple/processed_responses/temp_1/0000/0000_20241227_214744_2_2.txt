@@ -1,0 +1,4 @@
+1. Start with x^2 is rational.
+2. Let x^2 = r/s where r and s are integers and s ≠ 0.
+3. Therefore, x = r/sqrt(s), which should be rational.
+4. So, if x is rational, x^2 is rational.

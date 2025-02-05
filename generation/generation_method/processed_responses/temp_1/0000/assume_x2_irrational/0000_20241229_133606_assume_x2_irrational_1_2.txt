@@ -1,0 +1,4 @@
+1) Assume counterpoint where x^2 not a rational number.  
+2) Then show x must be not rational, so x not equal to any a/b form.  
+3) If x^2 isn't p/q with integers p, q, x can't equal a/b where x^2 rationalization fails.  
+4) Thus, the assumption x^2 irrational meaning x is irrational also.

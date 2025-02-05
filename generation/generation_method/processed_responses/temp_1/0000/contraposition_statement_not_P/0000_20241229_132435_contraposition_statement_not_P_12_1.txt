@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Consider x^2 rational implies x rational:  
+2. Assume x^2 is rational, so x^2 = m/n with m, n integers, and n ≠ 0.  
+3. This implies x is rational.  
+4. Therefore, in contraposition, if x^2 is irrational, x must be irrational.

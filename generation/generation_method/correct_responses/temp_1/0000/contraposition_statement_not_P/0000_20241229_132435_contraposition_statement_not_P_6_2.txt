@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume that x^2 is rational, hence x should be rational.  
+We know x^2 = a/b for integers a and b with b ≠ 0.  
+It implies x = sqrt(a)/sqrt(b) is also rational.  
+This way, if x^2 is rational, then x must be rational.

@@ -1,0 +1,6 @@
+1. Suppose x is a real number, and let's consider that if x^2 is known to be irrational, x must be irrational.  
+2. Assume for contradiction that x is rational, expressed as a/b with a and b as integers.  
+3. Then x^2 = (a/b) POWER 2 = a^2/b^2, which shows x^2 is rational.  
+4. Since we assumed x^2 is irrational, a contradiction arises.  
+5. Conclude that if x^2 is irrational, x must also be irrational by contraposition.  
+6. Contradiction resolved based on initial assumptions.

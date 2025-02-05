@@ -1,0 +1,6 @@
+1. Assume x is a rational number.  
+2. Then, x = a/b, where a and b are integers with b ≠ 0, and there are no common factors between a and b.  
+3. Calculate x^2, which results in (a/b)^2.  
+4. Let a^2 = c and b^2 = d, where c and d are integers.  
+5. Hence, we have x^2 = c/d.  
+6. Since c and d are integers and d ≠ 0, x^2 is rational according to its definition.

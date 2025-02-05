@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+To prove the statement by contraposition, we need to prove: if x is rational, then x^2 is rational.  
+1. Suppose x is irrational [Premise]  
+2. Suppose that x cannot be written as a/b where a and b are integers  
+3. Our goal is to reach a conclusion about x^2, given that x was irrational  
+
+Continuing with this approach, we want to show:  
+4. To negate the result, suppose rationality is not applied to x in any form [assumed]  
+5. Reconsider the properties of squaring irrational numbers [attempting to apply ideas of squaring]  
+6. By definition, reaching another understanding of rationality or irrationality [conclusion attempt]

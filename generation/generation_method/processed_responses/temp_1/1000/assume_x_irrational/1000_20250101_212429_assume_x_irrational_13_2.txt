@@ -1,0 +1,5 @@
+1. To prove by contraposition: if x is rational, then x^2 is rational.
+2. Let's start by assuming x is irrational. [Assumption]
+3. With x being irrational, x is not equal to any integer over another integer.
+4. This assumption implies certain properties of x^2, but it does not explicitly state x^2's nature with respect to rationality.
+5. Conclusion is not derived correctly from this setup.

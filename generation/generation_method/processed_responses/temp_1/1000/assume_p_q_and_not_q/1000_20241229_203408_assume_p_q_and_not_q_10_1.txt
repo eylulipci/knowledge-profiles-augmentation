@@ -1,0 +1,10 @@
+Sure! Here are the generated student answers based on the provided instructions:
+
+1. CONTRAPOSITION
+   Let P(x) denote "x^2 is irrational" and Q(x) denote "x is irrational".
+   We want to show using contraposition that if x^2 is irrational, then x is irrational.
+   1) Start by considering the statement P -> Q as our premise.
+   2) Assume NOT Q is true, meaning x is rational.
+   3) Applying modus tollens on our premise and assumption, we find NOT P.
+   4) This means NOT Q -> NOT P, which supports P -> Q.
+   With this, we have shown the statement holds using contrapositive reasoning.

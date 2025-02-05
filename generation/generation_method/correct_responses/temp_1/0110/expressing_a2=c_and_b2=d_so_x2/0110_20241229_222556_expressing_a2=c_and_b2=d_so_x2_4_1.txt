@@ -1,0 +1,8 @@
+1. Proof by Contraposition:
+
+1) Start with x is a rational number. [Assumption]
+2) By definition of rational, x can be written as x = a/b, where a and b are integers and b ≠ 0.
+3) Squaring both sides, we get x^2 = (a^2)/(b^2).
+4) Assign a^2 = c and b^2 = d, where c and d are integers.
+5) Thus, we can write x^2 = c/d.
+6) This shows that x^2 is a rational number by the definition.

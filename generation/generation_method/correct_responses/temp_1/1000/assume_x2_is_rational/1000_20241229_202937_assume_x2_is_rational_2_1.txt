@@ -1,0 +1,5 @@
+1. Using contraposition, we need to prove: if x is rational, then (x POWER 2) is rational.
+2. For contraposition: assume (x^2) can be written as m/n, where m and n are integers and have no common factors. [Begin by stating (x^2) is rational].
+3. Since (x^2) = m/n, then x could be expressed as the square root of (m/n).
+4. Conclude that based on this assumption, if x^2 is in Q, x should not be in Q. 
+5. Hence, this supports our statement by contraposition: if x is irrational, then x^2 must be irrational.

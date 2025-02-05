@@ -1,0 +1,4 @@
+1. The goal is to show: if x is rational, then x^2 is rational.  
+2. Suppose x is irrational [Initial assumption]  
+3. This means x does not equal p/q for integers p, q and q ≠ 0 [Definition of irrational numbers]  
+4. Thus, x^2 is also not in the form of m/n for integers m, n and n ≠ 0 [Irrational number squared]

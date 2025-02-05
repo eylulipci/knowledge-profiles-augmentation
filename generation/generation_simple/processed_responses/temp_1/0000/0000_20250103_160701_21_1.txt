@@ -1,0 +1,8 @@
+Assume that x^2 is irrational and x is rational.
+
+1. CONTRAPOSITION
+2. Let x be such that x^2 = a/b for some integers a and b. 
+3. If x is irrational, it cannot be expressed as a/b where a and b are integers.
+4. This means x^2 is irrational when x is irrational.
+
+End of proof.

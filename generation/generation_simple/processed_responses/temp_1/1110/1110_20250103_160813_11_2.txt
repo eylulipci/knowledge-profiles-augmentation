@@ -1,0 +1,7 @@
+- CONTRAPOSITION METHOD:
+  The statement of contraposition is: if x is rational, then x^2 must also be rational. [setup]
+  1) Let x be a rational number. [assumption]
+  2) Then x = r/s where r and s are integers, and s is non-zero. [definition]
+  3) When you square x to get x^2, it equals (r/s)^2 = r^2/s^2. [squaring]
+  4) Since r^2 and s^2 are integers, r^2/s^2 remains rational. [rationality]
+  5) Thus, by contraposition, this implies if x^2 is irrational, then x is irrational.

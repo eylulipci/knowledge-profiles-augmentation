@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume x is irrational  
+   2) x cannot be expressed as a/b, with integers a and b ≠ 0  
+   3) Therefore, (x POWER 2) is not rational  
+   4) x^2 cannot be written as m/n, where m and n are both integers and n ≠ 0  
+   5) We have (NOT q) -> (NOT p), implying (p -> q)

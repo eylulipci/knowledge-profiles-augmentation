@@ -1,0 +1,8 @@
+Assuming we are using contraposition:
+
+1. Start by assuming x^2 is irrational, need to prove x is irrational.
+2. Define proof by showing if x^2 rational, then x rational, but assume x^2 rational instead.
+3. Should demonstrate x = w/t where w and t are integers, contradiction for x being irrational.
+4. This approach isn’t leading to any firm conclusion on x^2 leading to x.
+
+By misunderstanding contraposition proof structure, these claims don't support a strong basis for x being irrational.

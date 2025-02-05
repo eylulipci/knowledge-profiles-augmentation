@@ -1,0 +1,5 @@
+- CONTRAPOSITION  
+1) If x is rational  
+2) We can write x as a/b for integers a, b  
+3) Then, x^2 = (a^2)/(b^2) is rational  
+4) So x^2 is rational by definition

@@ -1,0 +1,10 @@
+To prove the statement using contraposition, we need to show that assuming x^2 is rational leads to x being rational.
+
+1. STATEMENT
+   Assume x^2 is rational.
+   
+2. By definition, x^2 = (m/n) where m and n are integers with n ≠ 0.
+   
+3. We can express x = sqrt(m/n)
+
+4. Stuck on the next steps.

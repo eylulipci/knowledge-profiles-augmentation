@@ -1,0 +1,5 @@
+The objective is to demonstrate the contrapositive: if x is rational, then x^2 must be rational.
+
+1. Assume: We need to prove that if x is written as a simple fraction, then x^2 can also be expressed similarly.
+
+Starting here, I've identified what needs to be achieved through the idea of contraposition, but I miss the full logical steps or assumptions.

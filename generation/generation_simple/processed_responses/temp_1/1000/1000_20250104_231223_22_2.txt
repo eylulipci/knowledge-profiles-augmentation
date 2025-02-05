@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+The goal is to prove: If x is rational, then x^2 is rational.  
+1. Assume x is not a real number.  
+2. [continue without reaching a meaningful conclusion]

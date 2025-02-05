@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let p be "x^2 is irrational" and q be "x is irrational".  
+1) We want to show p implies q [Statement of what should be proven]  
+2) Assume NOT q (x is rational) [Incorrect assumption]  
+3) Premise p -> q (if x^2 is irrational, then x is irrational) is used here [Misunderstanding of contraposition approach]  
+4) NOT p is then shown [Conclusion without proper reasoning]  
+Therefore, by the logic of contraposition, p -> q is shown to be true.

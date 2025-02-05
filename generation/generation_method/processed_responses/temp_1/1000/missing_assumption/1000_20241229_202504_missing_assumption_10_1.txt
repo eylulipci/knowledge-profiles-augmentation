@@ -1,0 +1,6 @@
+Student 1:
+
+To use proof by contraposition, I need to show that if x is rational, then x^2 must be rational:
+1. A proof by contraposition involves proving the opposite case of the original statement.
+2. For this exercise, it translates to proving: if x is rational, then x^2 is rational.
+3. Since we are doing proof by contraposition, this is the starting point.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   We need to prove that if x is rational, then x^2 is rational.  
+   Let's consider x as any real number.  
+   1) Assume x is not a simple rational number to work with.  
+   2) If x can be divided into parts a and b, x = a/b.  
+   3) This isn't always easy, especially if x is large or small.  
+   4) The square of x, x^2, should also be divided easily, since (a POWER 2)/(b POWER 2) simplifies the fraction.  
+   5) So if x^2 becomes easy to divide, it's indeed a rational fraction too, but it's a complex way to show it.

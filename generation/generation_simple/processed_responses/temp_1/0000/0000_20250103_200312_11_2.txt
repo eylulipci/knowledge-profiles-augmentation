@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Let x be a rational number  
+   1) Assume x^2 is rational  
+   2) Conclude x is rational  
+   3) x = c/d, c and d integers, d ≠ 0  
+   4) Thus, x^2 = c^2/d^2  
+   5) Truth of statement shown

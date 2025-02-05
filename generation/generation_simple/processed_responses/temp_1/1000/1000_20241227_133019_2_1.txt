@@ -1,0 +1,5 @@
+1. CONTRAPOSITION:
+   - Want to prove: If x is rational, then x^2 is rational.
+   - Assume x is a fraction a/b, where a and b are integers with no common factors.
+   - To show: This will lead to x^2 being in the form of a rational fraction.
+   - This way, by showing this implication holds true, we could consider the original statement as being logically equivalent by contraposition and thereby true.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION   
+Goal: Demonstrate that if x is rational, then x^2 must also be rational.  
+Let P: "x is rational" and Q: "x^2 is rational."  
+1) Assume x is irrational [Premise]  
+2) x is not a fraction of any a/b [Rationality negation]  
+3) Hence, x is irrational by definition [Restated definition]  
+4) Therefore, x^2 does not result from a²/b² where a and b are integers [Observation]  
+5) Shows if x is rational, x^2 must be rational [Step of putting back the contrapositive]

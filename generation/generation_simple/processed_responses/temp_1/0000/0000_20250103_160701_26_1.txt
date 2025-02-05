@@ -1,0 +1,7 @@
+Contraposition:
+
+1) Assume that x^2 is irrational. 
+2) We need to show that this implies x is irrational. 
+3) If x = a/b, then x^2 = a^2/b^2.
+4) Therefore, x^2 should be rational.
+5) Hence, x must be irrational for x^2 to be irrational, as assumed.

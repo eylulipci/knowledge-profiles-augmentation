@@ -1,0 +1,1 @@
+Assume according to contraposition that if x^2 becomes irrational, essentially implying x remains rational, a contradiction due to properties limiting x values. Therefore, proving contrarily helps establish if x^2 is irrational, x remains irrational.

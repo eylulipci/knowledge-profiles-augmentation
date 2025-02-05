@@ -1,0 +1,5 @@
+1. We will use contraposition, so if x^2 is rational, then x is rational.   
+2. Assume x^2 = m/n, where m and n are integers, n ≠ 0, and in simplest form.   
+3. Let x be a real number such that x = sqrt(m/n).  
+4. Since x is expressed as sqrt(m/n), if m/n is a perfect square, then x is rational. Otherwise, x could still be rational.  
+5. I think this completes the contrapositive.

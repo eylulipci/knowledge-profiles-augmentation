@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove: If x^2 is irrational, then x is irrational.  
+Consider the contrapositive: If x is rational, then x^2 is rational.  
+1) Let x be rational and expressible as a/b, where both are integers.  
+2) Then x^2 = a^2/b^2, which implies x^2 is a rational number.  
+3) NOT q implies NOT p based on the above reasoning.

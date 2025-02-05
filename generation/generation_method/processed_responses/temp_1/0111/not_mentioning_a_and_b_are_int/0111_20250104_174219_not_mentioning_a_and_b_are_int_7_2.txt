@@ -1,0 +1,4 @@
+1. To prove by contraposition, begin by letting x be a rational number, written as x = c/d.
+2. Squaring both sides yields x^2 = (c^2) / (d^2).
+3. This implies x^2 is in the form of a quotient, indicating it is rational.
+4. Thus, in contraposition, if x^2 is irrational, then x should be irrational.

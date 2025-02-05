@@ -1,0 +1,5 @@
+- To prove the implication using contraposition, we need to show that if x is rational, then x^2 must be rational.
+1) Assume x^2 is rational.
+2) This means x^2 = (c/d), with c and d being integers.
+3) Then x = sqrt(c/d).
+4) Unsure how to apply this to our problem.

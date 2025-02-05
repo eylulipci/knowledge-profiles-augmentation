@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Suppose we start with x^2 being rational.  
+Assume that x = p/q. Therefore, x^2 would automatically become p^2/q^2, pointing towards rationality again.  
+The breakdown intertwines the expressions in such a manner that seems to strive towards redefining x as having a rational character itself.  
+Yet the implication assurance is absent in sealing this understanding.

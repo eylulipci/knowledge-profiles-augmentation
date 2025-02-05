@@ -1,0 +1,8 @@
+Student Answer 2:  
+"Start with contraposition assumption.
+
+1) Assume x is a rational number.  
+2) x can be written as a/b, where a and b are integers and b ≠ 0.  
+3) So, x^2 = (a/b)^2 = a^2/b^2.  
+4) Therefore, a^2/b^2 is rational.  
+5) Thus, if x is rational, x^2 is rational."

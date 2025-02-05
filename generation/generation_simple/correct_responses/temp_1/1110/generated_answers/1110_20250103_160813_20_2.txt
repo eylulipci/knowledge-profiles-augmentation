@@ -1,0 +1,6 @@
+CONTRAPOSITION APPROACH:
+Suppose x is rational, we must show that under this condition, x^2 is also rational.
+1) Assume x is of the form p/q, where p and q are integers, q ≠ 0. [Premise]
+2) This implies x^2 = (p/q)^2 = p^2/q^2. [Squaring]
+3) Here, p^2 and q^2 are integers, ensuring that the expression is a ratio of integers. [Integer properties]
+4) Therefore, x^2 is rational because it can be written as a ratio of integers. [Conclusion]

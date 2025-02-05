@@ -1,0 +1,4 @@
+- 1. Let assume x is rational.
+  2. Then x can be expressed as a/b, where a and b are integers with b != 0.
+  3. When we square x, we have x^2 = (a^2)/(b^2).
+  4. The expression (a^2)/(b^2) is in the form of a fraction with integers, so x^2 is rational.

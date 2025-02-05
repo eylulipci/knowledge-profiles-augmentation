@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   To show that if x^2 is irrational, then x is irrational, we prove the opposite, if x is rational then x^2 is rational.  
+2. Assume x is a real number.   
+   Since we are using contraposition, replace q with "x^2 is rational" to conclude.  
+3. Therefore, the relationship between x being rational and the squaring operation can be analyzed through this method.  
+4. Finally, since we uphold the logical equivalence of the contrapositive, x^2 is irrational then x is irrational.

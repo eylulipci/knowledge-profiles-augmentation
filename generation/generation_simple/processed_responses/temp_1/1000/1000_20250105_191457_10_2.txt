@@ -1,0 +1,4 @@
+Let P be "x is irrational" and Q be "x^2 is irrational".  
+1. Assume NOT Q as part of contraposition proof strategy.  
+2. Original assertion is P -> Q.  
+3. We look for NOT P through logical operations...

@@ -1,0 +1,5 @@
+1. Applying contraposition here, assume x^2 is rational.  
+2. We need x^2 to be equal to a/b, where a and b are integers, and b is not zero.  
+3. This means x could be expressed some other way that might relate to a/b differently.  
+4. We find x = something based on the a and b relation, but unsure how to form it.  
+5. If x could fit into this rationality, there seems a need for clearer factoring of x^2.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Start with p: x^2 is irrational and q: x is irrational.  
+   By contraposition, not p implies not q.  
+   If x^2 is rational, then x is rational.  
+   Assume x = a/b, which are coprime integers.  
+   This gives x^2 = (a^2)/(b^2), where integers a and b make x^2 rational.  
+   So, if x^2 is rational, then x is also rational.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION 
+2. Assume x^2 is irrational and x is rational.
+3. Let x = a/b, where a and b are integers, and b ≠ 0.
+4. Squaring both sides gives x^2 = (a POWER 2)/(b POWER 2).
+5. Since a^2 and b^2 are integers, x^2 can be written as a fraction (a POWER 2)/(b POWER 2).
+6. Clearly, x^2 is therefore rational.
+7. But this is a contradiction because x^2 is irrational.
+8. Conclude that it follows that if x is rational, then x^2 can be rational, contradicting our initial premise slightly.

@@ -1,0 +1,1 @@
+- To prove the statement using contraposition, we need to show that if x is rational, then x^2 is rational.

@@ -1,0 +1,4 @@
+CONTRAPOSITION  
+Assume x is rational, so x can be expressed as x = p/q, where p and q are integers and q ≠ 0.  
+Then, when x is squared, x^2 = (p/q)^2 = p^2/q^2.  
+Here, p^2 and q^2 are both integers, so x^2 is rational by definition.

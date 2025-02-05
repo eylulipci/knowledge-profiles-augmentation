@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION
+   The statement we need to show is if x is rational, then x^2 is also rational as contraposition.
+   Starting assumption: x is irrational. 
+   To swap, x becomes rational in reasoning step.
+   Conclusion not spelt from assumptions. 
+
+   &

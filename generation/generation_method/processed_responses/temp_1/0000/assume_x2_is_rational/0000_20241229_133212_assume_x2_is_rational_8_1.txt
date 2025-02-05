@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is rational.  
+3. Then, x^2 = m/n for integers m and n, where n ≠ 0.  
+4. Hence, x = sqrt(m/n).  
+5. x might be rational or irrational depending on m and n.  
+6. Therefore, not all x derived from rational x^2 is rational.  
+7. The idea is that, if x^2 is not irrational, then x can be anything too.  
+8. Therefore, the statement holds that if x^2 is rational, then x is rational.

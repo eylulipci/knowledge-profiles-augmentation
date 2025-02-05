@@ -1,0 +1,5 @@
+1. We aim to prove by contraposition that if x^2 is irrational, then x is irrational. The contraposition statement is: if x is rational, then x^2 is rational. 
+2. Assume we know that NOT Q(x), i.e., that x is not irrational. 
+3. At this stage, I imagine that x is a number like a/b, where a and b do not result in integers.
+4. From this assumption of a rational x, somehow NOT P(x) should follow. However, I cannot see the link and finish the proof.
+5. Therefore, I tried assuming NOT q leads to conclusion of NOT p.

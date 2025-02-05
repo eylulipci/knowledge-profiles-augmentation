@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To show: If x is rational, then x^2 is rational.  
+Let’s assume x is rational.  
+2. If we try x = p/q, then some form of manipulation or reasoning should lead x^2 to be understood better.  
+3. Based on assumptions, x^2 has qualities that connect to rational somehow, though specifics are missing.  
+4. Concluding the proof successfully seems elusive, but the hypothesis is intriguing.

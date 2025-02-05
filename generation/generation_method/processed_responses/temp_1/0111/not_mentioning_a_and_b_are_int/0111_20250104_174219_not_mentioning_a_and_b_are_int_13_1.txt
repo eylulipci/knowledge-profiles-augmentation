@@ -1,0 +1,5 @@
+1) Assume that if x is not irrational, then x is rational.
+2) Assume x = a/b, where a and b are in simplest form.
+3) x^2 = (a POWER 2) / (b POWER 2).
+4) This shows x^2 is not irrational.
+5) Thus, by contraposition, if x^2 is irrational, then x is irrational.

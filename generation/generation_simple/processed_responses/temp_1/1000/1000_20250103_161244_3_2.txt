@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Our goal is to prove: if x is rational, then x^2 must also be rational:  
+1. Take x to be rational.  
+2. Express this as x = c/d, with integers c, d and d ≠ 0.  
+3. Then, x^2 = (c^2)/(d^2).  
+4. This means x^2 is a fraction of integers.

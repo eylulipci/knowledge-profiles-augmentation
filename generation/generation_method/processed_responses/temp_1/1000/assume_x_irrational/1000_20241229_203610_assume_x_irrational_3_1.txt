@@ -1,0 +1,6 @@
+1) We need to show that if x is rational, then x^2 is rational.  
+2) Assume x is irrational. [Assumption]  
+3) Therefore, x cannot be expressed as a fraction p/q where p and q are integers, q ≠ 0.  
+4) Multiplying irrational numbers does not follow a clear rationale here without additional reasoning.  
+5) Thus, I can't conclude x^2 is rational from step 3.  
+6) Ending here, lacking further steps needed.

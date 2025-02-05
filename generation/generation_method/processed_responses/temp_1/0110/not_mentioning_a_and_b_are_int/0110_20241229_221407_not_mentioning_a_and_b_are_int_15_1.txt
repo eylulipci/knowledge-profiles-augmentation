@@ -1,0 +1,4 @@
+1. Consider the contraposition: if x is rational, then x^2 is rational.  
+2. Assume x is rational, so x = m/n, with m and n integers.  
+3. Squaring both sides, we get x^2 = (m POWER 2) / (n POWER 2).  
+4. This shows that x^2 is a rational number.

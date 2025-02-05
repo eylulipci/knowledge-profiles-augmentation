@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+The objective is to demonstrate that if x is rational, x^2 is rational using contraposition.  
+1) Consider x as rational  
+2) Express x in form a/b, with a and b as integers having no common factors  
+3) Then x^2 = (a^2)/(b^2) [square both]  
+4) The form (a^2)/(b^2) appears rational  
+5) This suggests that rational x leads to rational x^2

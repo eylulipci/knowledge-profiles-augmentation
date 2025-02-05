@@ -1,0 +1,7 @@
+1. Prove the contrapositive: If x is rational, then x^2 is rational.
+
+2. (x^2 is irrational) -> (x is irrational) [Given Statement]
+
+3. x^2 is irrational [Assumption]
+
+4. Therefore, x is irrational by the contrapositive relationship.

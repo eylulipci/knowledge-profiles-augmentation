@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x^2 is rational, then there exist integers p and q with q != 0 such that x^2 = p/q.  
+Then x could be expressed in terms of p and q.  
+If x is a result of this, then x is rational.  
+Hence, if x is irrational, then the statement implies x^2 must be irrational.

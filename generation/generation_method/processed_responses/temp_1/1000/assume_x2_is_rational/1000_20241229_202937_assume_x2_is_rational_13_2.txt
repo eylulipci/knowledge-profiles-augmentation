@@ -1,0 +1,5 @@
+1. Using proof by contraposition, we need to establish if x^2 is rational, then x is rational.  
+2. Assume x^2 = a/b, where a and b are integers, no common factors, b ≠ 0.  
+3. Therefore, x can be expressed as sqrt(a/b).  
+4. This implies a/b must be a perfect square.  
+5. Thus, by contraposition, if x^2 is rational, then x is rational.

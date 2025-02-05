@@ -1,0 +1,7 @@
+1. We begin by assuming that x^2 is rational.
+2. This means x^2 = a/b, where a and b are integers and b ≠ 0.
+3. Let's consider x = (sqrt(a))/(sqrt(b)), which might not always be possible.
+4. If a or b is not a perfect square, then x might not be rational.
+5. But if x is rational, x = p/q, then x^2 = (p^2)/(q^2).
+6. This means x^2 should also be rational, leading to a contradiction.
+7. Thus, assuming x^2 is rational doesn't imply x is rational.

@@ -1,0 +1,5 @@
+1. PROOF BY CONTRAPOSITION  
+Assume that x^2 is a rational number.  
+If x^2 = a/b, where a and b are integers and b ≠ 0, then x must be of the form p/q, with p and q being integers with q ≠ 0.  
+Thus, x is rational since x could be written as the square root of a rational number a/b.  
+Therefore, it follows that if x^2 is rational, x is rational.

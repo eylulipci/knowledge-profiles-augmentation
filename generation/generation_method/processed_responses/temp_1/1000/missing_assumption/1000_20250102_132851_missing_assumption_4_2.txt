@@ -1,0 +1,4 @@
+1. We need to show that if x^2 is irrational, it means x is irrational using contraposition logic.
+2. For this, we ought to consider if x is rational, then perhaps x^2 is rational as well.
+3. Establishing this backward step helps prove what is originally intended.
+4.

@@ -1,0 +1,6 @@
+1. Using contraposition, we want to demonstrate: if x is rational, then x squared becomes rational.
+2. I'll start with x in some understandable expression.
+3. Transform x logically and think of how x wraps into x^2.
+4. Focus on algebraic manipulation, possibly keeping with integer expressions.
+5. How can the nature of x reflect upon x squared?
+6. Expected result: see if x squared fits into desired expressions.

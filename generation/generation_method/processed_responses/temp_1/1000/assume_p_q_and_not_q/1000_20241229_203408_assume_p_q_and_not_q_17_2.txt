@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Define P: x^2 is irrational and Q: x is irrational.  
+1) Goal: Show P -> Q is logically valid. [Statement to be proven]  
+2) Assume P -> Q. [Premise]  
+3) Assume NOT Q, meaning x is rational. [Premise]  
+4) By NOT Q and P -> Q, we can infer NOT P. [Modus Tollens]  
+5) NOT P implies NOT Q -> NOT P, thus confirming P -> Q. [Equivalence Conclusion]

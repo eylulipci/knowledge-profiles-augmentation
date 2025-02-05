@@ -1,0 +1,1 @@
+To demonstrate the statement, we need to establish the contrapositive, that is if x is rational, then x^2 must also be rational. Nothing more complex than stating that if x can be written as p/q, with integers p and q, then inevitably, the square of that fraction, x^2 = (p/q)^2, must also fit the definition of a rational number.

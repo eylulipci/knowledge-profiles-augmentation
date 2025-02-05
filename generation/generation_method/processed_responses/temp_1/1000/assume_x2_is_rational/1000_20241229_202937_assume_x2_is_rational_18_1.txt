@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   To prove P -> Q, we prove ¬Q -> ¬P.  
+   Let's define P: x^2 is irrational, Q: x is irrational.  
+   Assume ¬P, meaning x^2 is rational.  
+   Thus, x^2 = a/b, where a and b are integers with no common factors.  
+   So, x is √(a/b), which is irrational.  
+   So, the contrapositive is true, hence the statement holds.

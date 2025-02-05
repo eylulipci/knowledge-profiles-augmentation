@@ -1,0 +1,3 @@
+1. By contraposition, we must demonstrate that if x is rational, then x^2 is rational.
+2. In general, the idea is to express x in terms of fractions since it's rational and connect this to x^2.
+3. Without identifying rational x initially, advancing further here isn't feasible.

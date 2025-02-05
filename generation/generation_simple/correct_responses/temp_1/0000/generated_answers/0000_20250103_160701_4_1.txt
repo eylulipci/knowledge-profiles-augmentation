@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+1) Assume that (x POWER 2) is irrational [Premise]
+2) Let x^2 = a/b, where a and b are integers [Assuming rational form]
+3) Therefore, x must be irrational
+4) If x is irrational, then this shows a contradiction

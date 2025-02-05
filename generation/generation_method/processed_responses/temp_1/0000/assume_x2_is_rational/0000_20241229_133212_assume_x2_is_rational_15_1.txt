@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. We assume that x^2 is rational.  
+3. Then x^2 = p/q where p and q are integers and q != 0.  
+4. From this, x = sqrt(p/q).  
+5. However, the square root of p/q can be irrational, for example, sqrt(2). Therefore, x can be irrational.  
+6. Since we started with x^2 assumed rational but derived irrational x, the two are connected.

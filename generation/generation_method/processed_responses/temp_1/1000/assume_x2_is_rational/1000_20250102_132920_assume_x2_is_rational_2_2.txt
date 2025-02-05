@@ -1,0 +1,3 @@
+1. We aim to prove the contrapositive: "if x is rational, then x^2 is rational".
+2. Instead, suppose x^2 is a rational number; that is, x^2 = c/d, with c and d being integers and d ≠ 0.
+3. This doesn't align with the idea of proving anything about x being rational itself, and I'm unsure how this assumption helps.

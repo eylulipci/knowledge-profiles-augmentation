@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To demonstrate that if x is rational, then x^2 becomes rational.  
+1) Assume x^2 is irrational and x can be written as a fraction of integers.  
+2) We use x = a/b, where a and b are integers.  
+3) Hence, we might say a^2/b^2 seems irrational

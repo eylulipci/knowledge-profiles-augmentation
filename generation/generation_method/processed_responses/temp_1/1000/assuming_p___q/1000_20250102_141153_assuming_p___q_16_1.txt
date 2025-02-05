@@ -1,0 +1,7 @@
+1. x^2 is irrational -> x is irrational  
+2. Let the contrapositive be "if x is rational, then x^2 is rational"  
+3. Assume x is rational  
+4. So x = m/n, where m, n are integers  
+5. x^2 = m^2/n^2, which is also an expression of integers  
+6. Therefore, x^2 is rational  
+7. We assumed the statement if x^2 is irrational, then x is irrational is true

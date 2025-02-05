@@ -1,0 +1,9 @@
+1) We start by assuming the statement we're trying to prove is if x^2 is irrational, then x is irrational. In contraposition, this would mean proving that if x is rational, then x^2 is rational.  
+
+2) Assume x is an integer. If this is the case, then x^2 can be anything.  
+  
+3) Let us state that if x is an integer, x could be rational or irrational. Let's say x = 5, then x^2 = 25. Here both are integers.  
+
+4) If x is an integer, we can say that x is irrational. We can conclude that the assumption made was inconsistent.  
+  
+5) Therefore, the original statement must be true that if x^2 is irrational, then x is irrational.

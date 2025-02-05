@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Start with contraposition: if x is rational, x^2 is rational.  
+1) Assume x is rational, x = p/q with integers p and q, q ≠ 0. [Assumption]  
+2) Compute x^2 = (p/q)^2 = p^2/q^2. [Squaring]  
+3) Since p^2 and q^2 are integers and q^2 ≠ 0, x^2 is rational. [Definition]

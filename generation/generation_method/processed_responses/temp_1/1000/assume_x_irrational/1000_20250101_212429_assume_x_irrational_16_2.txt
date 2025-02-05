@@ -1,0 +1,6 @@
+1) Goal: Establish if x is rational, then x^2 must be rational.  
+2) Begin by assuming x is irrational, assuming no rational equivalent a/b.  
+3) Examine x^2 with limited definition from the irrational starting point.  
+4) Contrast needs for solving rationally grounded only from irrational parts.  
+5) Conclude with remaining conditions potentially countering rational constructs via irrational postulate.  
+6) Conceptualize end as rational/rational implies rational results only in non-symmetric framework.

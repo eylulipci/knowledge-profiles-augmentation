@@ -1,0 +1,5 @@
+1. Contraposition  
+1) Let x be a rational number [Initial assumption]  
+2) Hence, x can be represented as p/q, with both p and q as integers and q ≠ 0 [Rational definition]  
+3) Consequently, x^2 = (p^2)/(q^2) [Squaring both sides]  
+4) Thus, x^2 is rational since p^2 and q^2 are again integers, with q^2 ≠ 0 [Rational form]

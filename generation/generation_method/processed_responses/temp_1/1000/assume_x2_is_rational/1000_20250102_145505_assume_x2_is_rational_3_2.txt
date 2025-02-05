@@ -1,0 +1,4 @@
+1. Use contraposition: If x is rational, then x^2 must also be rational.  
+2. Suppose x^2 = c/d, where c and d are integers, d ≠ 0.  
+3. Then x = sqrt(c/d).  
+4. Need help proceeding further.

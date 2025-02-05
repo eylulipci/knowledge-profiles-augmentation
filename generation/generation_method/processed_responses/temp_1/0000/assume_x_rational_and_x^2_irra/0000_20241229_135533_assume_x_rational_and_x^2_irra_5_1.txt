@@ -1,0 +1,7 @@
+1) Assume x^2 is irrational and x is rational (contraposition assumption).  
+2) Since x is rational, x can be written as a/b with integers a and b (b ≠ 0).  
+3) This implies x^2 = (a/b)^2 = a^2/b^2.  
+4) Both a^2 and b^2 are integers, so x^2 can be expressed as the ratio of two integers: a^2/b^2.  
+5) This contradicts the assumption that x^2 is irrational, since we found x^2 to be rational.  
+6) Therefore, our assumption leads to a contradiction.  
+7) Conclude that if x^2 is irrational, then x is irrational.

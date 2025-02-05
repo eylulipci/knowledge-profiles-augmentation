@@ -1,0 +1,6 @@
+1. Start with what needs to be proven in contraposition  
+   1) Suppose x^2 is irrational  
+   2) Attempt to show that x must be irrational by definition  
+   3) Use known characteristics of rational and irrational numbers  
+   4) Formulate an argument based on assumptions and definitions  
+   5) Conclude using logical implications

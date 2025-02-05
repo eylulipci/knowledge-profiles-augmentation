@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Let P represent "x^2 is irrational" and Q represent "x is irrational."  
+We want to show P -> Q:  
+1) P -> Q is assumed to be our premise.  
+2) Assume NOT Q is true (assume x is rational).  
+3) Using this assumption, derive NOT P (x^2 becomes rational).  
+4) NOT Q together with P -> Q leads us to NOT P by logical inference.  
+  
+Thus, P -> Q is proven through contraposition.

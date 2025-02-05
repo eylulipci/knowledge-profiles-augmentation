@@ -1,0 +1,1 @@
+- To prove this by contraposition, establish that if x is rational, then x^2 is rational too. Suppose x = p/q where p and q are integers. Then x^2 = (p/q)^2, which equals p^2/q^2 and is rational. Hence, using contraposition, if x^2 is irrational, it implies x must be irrational.

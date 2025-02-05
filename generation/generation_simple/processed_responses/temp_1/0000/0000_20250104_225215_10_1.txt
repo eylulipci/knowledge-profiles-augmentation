@@ -1,0 +1,4 @@
+1. Assume that if x is real, it can be expressed as (x POWER 2) is irrational.
+2. Let x be a real number such that x is real and not irrational.
+3. If x is rational, then x^2 is rational, but only if (x POWER 2) is irrational.
+4. Therefore, assume (x POWER 2) is not irrational; this proves x is real.

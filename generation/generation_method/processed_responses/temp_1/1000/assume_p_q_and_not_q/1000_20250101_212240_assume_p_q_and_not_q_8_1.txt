@@ -1,0 +1,13 @@
+1. CONTRAPOSITION  
+Considering the statement "if x^2 is irrational, then x is irrational," let's denote:  
+p: x^2 is irrational   
+q: x is irrational  
+
+The statement to be proven is p -> q. [Statement to be proven]  
+For contraposition, we assume NOT q is true, implying x is a rational number. [Assumption]  
+1) NOT q  
+2) We consider p -> q as given. [Premise]  
+Therefore, we want to see how these lead to NOT p. [Goal]  
+3) From NOT q and p -> q, we see NOT p must follow. [Modus Tollens]  
+
+Thus, we have demonstrated that NOT q implies NOT p, giving us p -> q.

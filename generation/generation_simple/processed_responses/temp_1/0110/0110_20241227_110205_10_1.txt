@@ -1,0 +1,5 @@
+1. Assuming CONTRAPOSITION needs us to start with x being rational.  
+2. Assume x is rational: x = a/b where a, b are integers with no common factors.  
+3. Then x^2 = (a/b)^2.  
+4. So, x^2 = a^2/b^2 can be expressed as the ratio of two integers.  
+5. x^2 is therefore rational.

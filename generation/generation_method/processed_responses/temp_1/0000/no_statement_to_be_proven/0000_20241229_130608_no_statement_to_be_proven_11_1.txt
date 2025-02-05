@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x POWER 2 = a/b and is not irrational [premise]  
+x is a number that satisfies a rational square  
+b and a are whole numbers, b is not zero  
+Then, something can be shown about x

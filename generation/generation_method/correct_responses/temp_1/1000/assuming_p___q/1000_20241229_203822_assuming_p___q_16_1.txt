@@ -1,0 +1,6 @@
+1. Let "a" be "x is irrational" and "b" be "x^2 is irrational".  
+2. The proof requires showing ¬a -> ¬b (if x is rational then x^2 is rational).  
+3. Given a -> b (if x^2 is irrational, then x is irrational) as a premise.  
+4. Therefore, we have ¬a -> ¬b and its contrapositive, ¬b -> ¬a, affirming a -> b.  
+5. Thus, we have shown a -> b.  
+6. Since a -> b was assumed, it implies x^2 irrational → x irrational.

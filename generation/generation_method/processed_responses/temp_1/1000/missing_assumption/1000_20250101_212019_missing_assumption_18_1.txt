@@ -1,0 +1,18 @@
+Let x be a real number. We want to prove by contraposition that if x^2 is irrational, then x is irrational. In a proof by contraposition, we should show that if x is rational, then x^2 is also rational. 
+
+We begin by considering a general proof by contraposition:  
+1) p -> q (original statement)
+2) ¬q -> ¬p (contrapositive statement)  
+
+Applying this idea to our problem, we should aim to show if x is rational, then x^2 is rational as well.  
+However, to proceed with the proof, let's assume that x is rational and see what follows:
+
+Let's consider x = p/q for integers p and q with q ≠ 0.  
+
+Then, x^2 would become (p^2/q^2), which we know is a rational number since p^2 and q^2 are integers.  
+
+This proves that if x is rational, then x^2 is rational. 
+
+Therefore, from contraposition, if x^2 is irrational, then x must be irrational.  
+
+This method doesn't show clearly the assumption needed for the contrapositive approach and doesn't complete the proof appropriately.

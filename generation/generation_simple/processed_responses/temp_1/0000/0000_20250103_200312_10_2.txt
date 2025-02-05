@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   suppose x^2 is irrational  
+   let x be a decimal number which can't end or repeat  
+   if x were rational, square would remain such  
+   due to a rational resulting in a repeating decimal pattern or terminating  
+   x^2 cannot hold the properties of a reflection or repetition, remaining always different  
+   we translate as x would not end up rational when processes involve multiple variables of irrational square non-solution statement x^2

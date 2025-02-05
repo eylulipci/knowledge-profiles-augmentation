@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x is a complex number.  
+1) if x is imaginary then x^2 is irrational  
+2) assume x^2 is real number  
+3) conclude by contraposition x is real if x^2 is real

@@ -1,0 +1,6 @@
+1. Proof by Contraposition  
+2. Let's assume x is rational.  
+3. Thus, x = p/q, with p and q integers, q not equal to 0.  
+4. Therefore, x^2 = (p/q)^2 = p^2/q^2.  
+5. Since both p^2 and q^2 are integers, x^2 is rational.  
+6. So, if x is rational, then x^2 is rational.

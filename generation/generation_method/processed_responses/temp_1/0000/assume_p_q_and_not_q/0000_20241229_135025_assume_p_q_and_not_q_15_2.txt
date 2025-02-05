@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   Suppose p: x^2 is irrational  
+   Suppose q: x is irrational    
+   From the proposition p -> q, assume its truth.  
+   Also, assume NOT q.  
+   Through the logical rules, we proceed:  
+   1) p -> q [Assumed]  
+   2) NOT q [Assumed]  
+   3) With modus tollens, derive: NOT p

@@ -1,0 +1,5 @@
+1. Suppose that x is a rational number.
+2. This means x can be written as x = c/d, where c and d are integers and d is not zero.
+3. Then when squared, x^2 = (c/d)^2 = c^2/d^2.
+4. Since c^2 and d^2 are also integers, c^2/d^2 is a rational number.
+5. Therefore, x^2 is rational.

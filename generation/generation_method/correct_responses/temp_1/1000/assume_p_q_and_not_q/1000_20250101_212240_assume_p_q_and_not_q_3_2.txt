@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let P(x) represent "x^2 is irrational" and Q(x) represent "x is irrational".  
+We need to show (NOT Q(x)) -> (NOT P(x)) by contraposition.  
+1) Assume for a given x, P(x) is true. [This is our premise]  
+2) Consider P(x) -> Q(x) is known to be true.  
+3) Since P(x) holds, infer Q(x). [Modus Ponens]  
+4) Therefore, the statement P(x) -> Q(x) is true.  
+By showing this, we demonstrate x^2 irrational implies x irrational.

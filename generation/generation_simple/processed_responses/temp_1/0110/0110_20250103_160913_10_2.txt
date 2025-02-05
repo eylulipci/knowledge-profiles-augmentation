@@ -1,0 +1,5 @@
+1. Let's consider a contra-position approach by starting from the assumption that x is rational.
+2. That means x can be expressed as p/q where p and q are integers, q ≠ 0.
+3. If we square both sides, we obtain x^2 = p^2/q^2.
+4. Since p² and q² are integers, x^2 = p^2/q^2 is also a rational number.
+5. This relationship implies x being rational makes x^2 rational.

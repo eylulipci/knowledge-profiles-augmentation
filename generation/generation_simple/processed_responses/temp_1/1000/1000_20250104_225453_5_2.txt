@@ -1,0 +1,6 @@
+1. Using contraposition logic technique, show: If x is rational, then x^2 is rational.  
+    a) Start with x as a rational number representation: (x can be written as a fraction)  
+    b) x^2 will remain within rational bounds   
+    c) The logical equivalence is maintained in contraposition  
+    d) From the opposite, x^2 irrational leads to x irrational  
+e) The proof is shown through contraposition method.

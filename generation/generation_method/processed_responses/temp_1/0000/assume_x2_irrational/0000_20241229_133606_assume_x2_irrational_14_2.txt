@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+  Let's prove if x² is not rational, then x must be not rational
+  1) Begin with x² is not rational.
+  2) Assume x can be written as p/q, where p and q are integers and q ≠ 0
+  3) Then x² = (p/q)(p/q) = (p^2/q^2)
+  4) Conclude by saying x² being rational leads to a contradiction, proving x must not be a rational number

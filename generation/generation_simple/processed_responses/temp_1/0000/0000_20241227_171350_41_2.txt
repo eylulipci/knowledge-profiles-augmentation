@@ -1,0 +1,4 @@
+1. To prove by contraposition, we assume that x^2 is not rational.
+2. Assume x is rational. This means x can be written as p/q, where p and q are integers.
+3. If x = p/q, then x^2 would be (p/q)^2 = p^2/q^2, which is a ratio of integers, so x^2 is rational.
+4. Since having x rational implies x^2 rational, this contradicts the assumption.

@@ -1,0 +1,6 @@
+Let's prove by contraposition that if x^2 is irrational, then x is irrational. We show the reverse: if x is rational, then x^2 must be rational.
+
+1. Let x be a rational number. [Assumption]
+2. Hence, x = m/n where m and n are integers and n ≠ 0. [Definition]
+3. Then we have x^2 = (m^2)/(n^2) by squaring both sides. [Squaring]
+4. Because m^2 and n^2 are still integers, (m^2)/(n^2) is a rational number. [Rational Numbers]

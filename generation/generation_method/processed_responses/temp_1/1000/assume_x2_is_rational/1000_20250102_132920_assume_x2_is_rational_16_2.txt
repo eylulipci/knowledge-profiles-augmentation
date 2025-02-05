@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION  
+To demonstrate the statement by contraposition:  
+1) We assume x^2 is a rational number.  
+2) Suppose x^2 = c/d, with c and d as integers that have no common factors and d ≠ 0.  
+3) Then, x = sqrt(c/d), something not immediately clear if it's rational.  
+4) Need additional exploration for conclusion.

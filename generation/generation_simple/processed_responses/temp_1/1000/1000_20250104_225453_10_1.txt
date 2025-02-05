@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let x be a real number. We need to prove that if x is rational, then x^2 is rational.
+Start with the contrapositive approach:  
+NOT Q -> NOT P  
+This means if x is irrational, then x^2 is irrational.  
+1) Assume x is rational  
+2) We should conclude with x^2 rational, but the next steps are missing.

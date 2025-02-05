@@ -1,0 +1,4 @@
+1. Start with the assumption: x can be any number, even irrational.  
+2. x^2 might be any number, rational or not.  
+3. If x^2 is a complicated number, so might be x.  
+4. Square the number doesn't change if it's a fraction or not.

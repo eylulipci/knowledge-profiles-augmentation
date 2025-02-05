@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   1. We assume x^2 is rational.  
+   2. This means x^2 = p/q, where p and q are integers with no common factors and q ≠ 0.  
+   3. Therefore, x = sqrt(p/q).  
+   4. However, the square root of a rational number is not necessarily rational.  
+   5. Yet, x must retain the form of rationality, suggesting x could still be of the form a/b.  
+   6. If x^2 is irrational, this does not necessarily imply any particular behavior for x.  
+   7. So, x can be either rational or irrational, contrary to our intentions.

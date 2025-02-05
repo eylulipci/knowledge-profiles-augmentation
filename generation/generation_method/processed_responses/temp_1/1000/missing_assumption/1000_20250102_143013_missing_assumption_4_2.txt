@@ -1,0 +1,6 @@
+In a proof by contraposition, we need to prove that if x is rational, then x^2 is rational.
+
+1. Starting by stating what should be shown: x rationalness leading to x^2 rationalness.
+2. Introduce some steps but do not explicitly assume x as rational.
+3. Work through reasoning hypothetically involving squared values.
+4. End by restating how the logic connects.

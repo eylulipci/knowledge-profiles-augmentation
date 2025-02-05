@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION
+1) Start by assuming x is not a rational number.
+2) Therefore, x cannot be expressed as a/b, where a and b are integers.
+3) Assume that x is irrational and let x^2 be some expression that follows from this assumption.
+4) Since x is not rational, x^2 cannot be rational.
+5) This shows the relation between x and x^2 when x is not rational.

@@ -1,0 +1,1 @@
+Assume x^2 is rational. Then x can be written as a/b, where a and b are integers. Therefore, a^2/b^2 is also rational. Since a^2 is divisible by b, x^2 must be irrational. By contraposition, if x is irrational, x^2 is irrational.

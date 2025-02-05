@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume x is not rational [Premise]  
+   2) Then x ≠ a/b, with a and b as integers  
+   3) So x^2 ≠ (a POWER 2)/(b POWER 2) [Square]  
+   4) This means x^2 is not rational  
+   5) We have (NOT q) -> (NOT p), which implies p -> q

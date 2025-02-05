@@ -1,0 +1,6 @@
+2. Setting up Contraposition  
+   Suppose x is not irrational  
+   Then x^2 must also follow same form  
+   If x^2 = p/q, where p, q are integers  
+   Then x is a rational number as well  
+   Therefore x being irrational follows

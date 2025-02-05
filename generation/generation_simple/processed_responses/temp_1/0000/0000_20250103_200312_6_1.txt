@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume that x^2 is a real number that is not irrational. You want to show that this leads to x being not irrational.  
+2. Suppose that x^2 = n/m, where n and m are rational numbers.  
+3. Then, x can also be expressed in the form of x = p/q, assuming p and q are integers.  
+4. Under this scenario, it must be shown directly how these numbers relate to provide rationality.  
+5. Conclude by stating if x^2 being rational has been demonstrated, so x is also rational.

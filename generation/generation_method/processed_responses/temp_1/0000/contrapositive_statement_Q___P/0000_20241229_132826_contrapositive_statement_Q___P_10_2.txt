@@ -1,0 +1,5 @@
+1. By contraposition, let's consider if x is irrational, then x^2 is irrational.
+2. Assume x is an irrational number which means no ratio of integers can express it.
+3. Then, x^2 = (some irrational)^2, and there's no way to express x^2 as some a^2/b^2 without irrational factors.
+4. x² must be irrational because it can't be simplified to a rational number.
+5. Therefore, it concludes that if x is irrational, x^2 must also be irrational.

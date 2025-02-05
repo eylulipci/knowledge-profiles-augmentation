@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+   Start by asserting that if x is rational, then x squared must be rational.
+   Assume x as rational, meaning x = m/n, with m and n as integers having gcd(m, n) = 1 and n ≠ 0.
+   Therefore, x^2 = (m POWER 2)/(n POWER 2)
+   So, x^2 results in a rational number.

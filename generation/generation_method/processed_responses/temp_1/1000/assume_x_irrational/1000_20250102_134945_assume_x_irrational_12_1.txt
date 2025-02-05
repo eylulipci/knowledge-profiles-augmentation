@@ -1,0 +1,6 @@
+1. By contraposition, our goal is to prove: If x is rational, then x^2 is rational.  
+2. Assume x is irrational.  
+3. Since x is irrational, it cannot be expressed as p/q, where p and q are integers.  
+4. Try squaring x, but since we started with x being irrational, the logic gets off track.  
+5. Some steps are missing to connect the argument correctly.
+6. Original statement conclusion doesn't appear—since assumption on x was incorrect.

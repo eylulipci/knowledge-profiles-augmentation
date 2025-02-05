@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We need to show that if x is rational, then x^2 is also rational.  
+1) Suppose x^2 is irrational and x is rational.  
+2) This should mean x^2 = (a/b)*(a/b), where a and b are integers.  
+3) We get a^2/b^2 must be irrational.

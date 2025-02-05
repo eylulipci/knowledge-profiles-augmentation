@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Initial statement: if x is irrational then x^2 is irrational  
+1) Assume x^2 = a/b, where a, b are real numbers  
+2) x becomes a new number different from p/q  
+3) Hence, x^2 remains rational when x itself is not p/q format  
+4) By simplification, x^2 cannot be defined fully as a fraction

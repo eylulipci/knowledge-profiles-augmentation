@@ -1,0 +1,5 @@
+1) Our goal is to use contraposition to show that if x^2 is irrational, then x is irrational.
+2) The approach requires considering the situation where x is rational might lead to x^2 being rational.
+3) Understanding contraposition involves altering the original statement's perspective.
+4) Despite preparing to prove the contrapositive, additional steps need a basis.
+5) Not having an initial basis for rational x limits the demonstration.

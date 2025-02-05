@@ -1,0 +1,7 @@
+We need to prove by contraposition: If x is rational, then x^2 is rational. 
+
+1. Assume that x is irrational. [Initial assumption]
+2. This means x is not of the form c/d where c and d are integers. [Irrational definition]
+3. Finding x^2 in terms of rationality isn't straightforward from here.
+4. It aims to show if x^2 is irrational, x could be rational.
+5. The ending statement for the contraposition lacks.

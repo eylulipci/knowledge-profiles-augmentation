@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is irrational [Assumption]  
+If x^2 = p/q, where p and q (integers), then x could be irrational [Definition of x]  
+Thus, x becomes irrational because x^2 = root(p/q) [Simplification]  
+If the above holds, then x will also be irrational [Conclusion]  
+But when we assume x is irrational, it does not lead to a contradiction [Verification]

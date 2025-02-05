@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to demonstrate that if x is rational, then x^2 is rational.  
+1. Assume x is irrational.  
+2. This means x cannot be expressed as a ratio of integers.  
+3. When we square x, we get x^2 which needs to be evaluated.  
+4. Apply logic to determine whether x^2 maintains a similar property.

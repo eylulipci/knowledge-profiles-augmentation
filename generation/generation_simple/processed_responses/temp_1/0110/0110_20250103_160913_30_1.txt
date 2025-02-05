@@ -1,0 +1,6 @@
+- Assuming the contraposition.
+  1) Let’s consider that not q is the case where x is rational.
+  2) x = p/q, where p and q are integers and q ≠ 0.
+  3) Then, x^2 = (p/q)^2 = p^2/q^2.
+  4) Therefore, x^2 is rational because p^2 and q^2 are integers and q^2 ≠ 0.
+  5) The goal of contraposition is to find that  if x^2 is irrational.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   - Consider the situation.  
+   - Assume if x^2 is rational, then it can be expressed in forms like x^2 = m/n.  
+   - If x takes the form 3.14 (like π), x^2 becomes less understandable with m/n logic.  
+   - Let's test with simpler numbers where x and x^2 can both sometimes seem like regular numbers.  
+   - When x = √3, an example gives x^2 possibly an interesting pattern like x^2 = 3.  
+   - It's more about the way to see what impacts the real x and its square.  
+   - For numbers that are not whole, relation shifts as x and x^2 form diverse characteristics.

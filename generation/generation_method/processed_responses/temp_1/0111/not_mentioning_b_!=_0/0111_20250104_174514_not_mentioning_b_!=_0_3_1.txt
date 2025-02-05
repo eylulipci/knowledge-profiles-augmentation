@@ -1,0 +1,6 @@
+Let’s assume that x is rational.  
+1. Therefore, we can write x as a/b where both a and b are integers.  
+2. Then x^2 can be written as (a^2)/(b^2) by squaring both sides.  
+3. We know that a^2 and b^2 are integers.  
+4. So we have x^2 = (a POWER 2)/(b POWER 2), which means x^2 is rational because it can be expressed as a fraction of two integers.  
+5. Thus, By contraposition, if x^2 is irrational, then x is irrational.

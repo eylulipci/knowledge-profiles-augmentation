@@ -1,0 +1,6 @@
+To prove the statement by contraposition, assume the opposite.
+
+1. Assume that x is irrational [Premise].
+2. Then, x^2 = n [Substitution].
+3. It follows that n cannot be expressed as a fraction of integers, indicating irrationality.
+4. Thus, we confirm the relationship between the assumed conditions.

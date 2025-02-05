@@ -1,0 +1,5 @@
+1. Use contraposition: Assume if x^2 is not rational, then x is not rational.  
+2. Begin with x^2 being not equal to a/b where a, b are integers.  
+3. If x was equal to m/n, we have x^2 as (m POWER 2)/(n POWER 2).  
+4. But with x^2 as non-rational, it contradicts.  
+5. Therefore, x must not be rational under this condition.

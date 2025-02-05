@@ -1,0 +1,11 @@
+1. Use contraposition for clarity. Assume x^2 is irrational.
+
+2. The opposite of what we want is to show if x is irrational, then x^2 should be irrational, which could clarify the reasoning.
+
+3. Attempting to show x^2 as rational instead by letting x be real and irrational, like π, and x = p/q.
+
+4. As such, x becomes expressed through rational numbers as p/q, where p and q are integers, yet it isn't quite right.
+
+5. Trying to square this relation, x^2 = (p^2)/(q^2), reveals the attempt to rationalize it doesn't connect strongly, then possibly removing the basis.
+
+6. The connection isn't drawn between assumptions and conclusions, and the proposition of irrationality versus rationality doesn't fully confirm.

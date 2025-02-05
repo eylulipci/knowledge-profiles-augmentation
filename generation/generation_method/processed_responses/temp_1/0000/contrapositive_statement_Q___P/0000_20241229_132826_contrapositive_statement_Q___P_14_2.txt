@@ -1,0 +1,6 @@
+1) To prove this by contraposition, start with: if x is irrational, it follows x^2 is irrational.
+2) If x is irrational, it can't be expressed as a fraction a/b.
+3) Therefore, since x cannot be a/b, we assume x^2 is also irrational.
+4) If x^2 is rational, it implies some properties about x being rational too, which contradicts.
+5) Thus with assumption, x rational implies x^2 rational, which relates to our claim.
+6) We conclude that x irrational leads to x^2 irrational.

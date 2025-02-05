@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Let x be irrational.  
+3. Assume x cannot be expressed as a/b, where a and b are integers, then x^2 is not a rational number.  
+4. Since x is irrational, it must not allow x^2 to equal to c/d where c and d are integers.  
+5. Thus, we see x^2 remains irrational.  
+6. Therefore, the assumption holds if x is irrational, then x^2 is also irrational.

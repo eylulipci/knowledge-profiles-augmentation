@@ -1,0 +1,12 @@
+1. CONTRAPOSITION  
+Let's consider the form of this contraposition:  
+1) If x is an integer, then (x POWER 2) is also an integer.  
+2) We assume x is not an integer.  
+3) We need to show (x POWER 2) is not irrational using this assumption.  
+
+We take:  
+- (x = m/n) where m and n are integers.  
+- So, (x POWER 2) = (m^2)/(n^2).  
+- This implies it is also an integer, contradicting the irrational assumption.  
+
+Therefore, if x^2 is not rational, x is also not an integer.

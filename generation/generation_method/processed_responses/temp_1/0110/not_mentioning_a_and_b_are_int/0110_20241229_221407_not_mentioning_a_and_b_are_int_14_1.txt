@@ -1,0 +1,4 @@
+1. Assume x is rational: x = a/b
+2. Squaring both sides gives x^2 = (a^2)/(b^2)
+3. Since a^2 and b^2 are whole numbers, x^2 is rational
+4. This means that if x is rational, x^2 is also rational

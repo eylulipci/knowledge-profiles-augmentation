@@ -1,0 +1,6 @@
+1. Define p as: x^2 is irrational, and q as: x is irrational.
+2. The statement to prove is: if x^2 is irrational then x is irrational, or p -> q. [Statement]
+3. Using contraposition, assume that NOT q is true, meaning x is rational. [Assumption]
+4. We take the statement p -> q as a starting premise. [Premise]
+5. Using NOT q and the premise p -> q, conclude that NOT p follows. [Modus Tollens]
+6. Therefore, by showing NOT q -> NOT p, which corresponds to p -> q, the original statement is validated. [Equivalence]

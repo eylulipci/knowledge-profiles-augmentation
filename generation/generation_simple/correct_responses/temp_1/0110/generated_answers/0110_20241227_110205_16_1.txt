@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  Assume x is rational  
+  x can be written as a/b, where a and b are integers with b ≠ 0  
+  So, x POWER 2 = a^2/b^2  
+  This is a rational number since a^2 and b^2 are integers and b^2 ≠ 0  
+  Hence, x^2 is rational

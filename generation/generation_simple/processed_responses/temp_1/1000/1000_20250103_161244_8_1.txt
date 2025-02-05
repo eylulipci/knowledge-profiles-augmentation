@@ -1,0 +1,9 @@
+To use proof by contraposition, we need to prove that if x is rational, then x^2 is rational. 
+
+1. Assume x is irrational [Premise]
+2. Let x = a/b, where a and b are integers with b ≠ 0 and x is not in simplest form. [Reformulation]
+3. If x = a/b and a^2/b^2 is in simplest form, then x^2 should meet the initial conditions. However, consider scenarios where this doesn't hold with irrational numbers leading to simplification of their square. [Hypothetical Contradiction]
+4. x^2 becomes non-terminating and non-repeating, pointing to its irrational nature. [Conjecture]
+5. By contraposition, showing x rational would imply x^2 rational. [Goal to demonstrate the desired statement]
+
+This allows us to conclude that if x^2 is irrational, then x is irrational.

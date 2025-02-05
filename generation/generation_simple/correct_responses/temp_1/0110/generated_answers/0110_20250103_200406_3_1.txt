@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION  
+Suppose x is rational.  
+1) x = m/n, where m, n are integers and n ≠ 0.  
+2) x POWER 2 = (m POWER 2)/(n POWER 2).  
+3) (m POWER 2)/(n POWER 2) is rational because it's a fraction of two integers.  
+4) Therefore, x^2 is a rational number.

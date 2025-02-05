@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+The goal is to show that if x is rational, then x^2 is rational:
+1) We start with the statement: if x^2 is irrational, then x is irrational.
+2) By using contraposition, this implies: if x is rational, then x^2 is rational.
+3) This follows because under contraposition, a true implication results in the contrapositive also being true.

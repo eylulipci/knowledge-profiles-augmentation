@@ -1,0 +1,4 @@
+1. Assume x is some number with properties.  
+2. If x is irrational, x^2 must have some specific property too.  
+3. Since x^2 is an expression, analyse its status.  
+4. The process of squaring x determines its overall nature.

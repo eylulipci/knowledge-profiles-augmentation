@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+Statement to prove: Assume x is rational, then show x^2 is rational.  
+Let p be "x is rational," q be "x^2 is rational."  
+Thus, NOT q -> NOT p.

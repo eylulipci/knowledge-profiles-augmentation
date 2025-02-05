@@ -1,0 +1,3 @@
+1. To prove the implication, we need to use contraposition. Given: If x^2 is irrational, then x is irrational.
+2. For the contraposition, we assume that if x is rational, then x^2 is rational.
+3. Therefore, from contraposition, the original statement is shown to be true because the contrapositive is true.

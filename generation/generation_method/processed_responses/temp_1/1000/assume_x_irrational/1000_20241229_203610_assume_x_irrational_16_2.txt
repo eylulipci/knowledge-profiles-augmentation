@@ -1,0 +1,5 @@
+1. Goal: Prove via contraposition that: If x is rational, then x^2 is rational.
+   1. Let's start by assuming x is irrational [Premise]
+   2. Therefore, x cannot be written as a/b where a and b are integers [Definition of irrational number]
+   3. With this, x^2 would continue to evade rational representation [Misstep]
+   4. Conclusion about x^2 cannot be firmly established.

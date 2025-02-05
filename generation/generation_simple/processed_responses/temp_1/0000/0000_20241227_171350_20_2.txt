@@ -1,0 +1,6 @@
+1. Use a proof by contraposition. 
+2. Start with assumption that x is irrational, x cannot be expressed as p/q.
+3. Consider x^2 = (a/b)^2, where both are integers.
+4. If x^2 can equal something rational, maybe x can be too?
+5. Perhaps rationality of x^2 makes x rational in some scenarios. 
+6. If this reasoning holds, opposite must be explored between x and x^2.

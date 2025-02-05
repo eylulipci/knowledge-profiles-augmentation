@@ -1,0 +1,6 @@
+To establish the proof by contraposition:  
+
+1. Suppose x^2 is an integer.  
+2. If (x POWER 2) becomes irrational, it contradicts the idea that x is not irrational.  
+3. x must be an integer to make (x^2) not irrational.  
+4. Conclusion: The alternative to (x POWER 2) being irrational establishes x^2 being not irrational, thus x isn't irrational.

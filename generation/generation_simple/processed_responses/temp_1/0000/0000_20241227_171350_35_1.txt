@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Consider that x is an integer, for instance, let x = 2.  
+Then x^2 can be expressed as a whole number, like 4.  
+Now, assume x^2 is irrational.  
+When x^2 is irrational, x is not simply a fraction.  
+This shows x is a real number that doesn’t square neatly into a rational number.  
+Therefore proving x^2 as rational also makes x rational.

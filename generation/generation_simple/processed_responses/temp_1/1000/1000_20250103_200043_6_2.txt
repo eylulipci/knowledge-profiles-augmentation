@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We aim to show: if x is rational, then x^2 is rational.  
+1) Assume ¬(x is rational), i.e., x is irrational [Initial assumption]  
+2) Suppose x^2 can be brought into some rational form by manipulation  
+3) Show how rational transformations affect x^2  
+4) Conclude with linking steps to rationality

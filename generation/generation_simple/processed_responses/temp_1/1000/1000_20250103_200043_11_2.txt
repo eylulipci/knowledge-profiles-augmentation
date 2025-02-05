@@ -1,0 +1,6 @@
+Using contraposition, we establish that if x^2 is irrational, then x is irrational. Here's how:
+1. Suppose x is rational [Base condition]
+2. We can write x as a/b, where a and b are integers with b ≠ 0 [Rational definition]
+3. The relationship would swap rational expressions with 'b' leading it to another form
+4. Connections can be drafter here leading to cases either confirmed or its opposite
+5. Ultimately deduce back contrapositive concept with noted results

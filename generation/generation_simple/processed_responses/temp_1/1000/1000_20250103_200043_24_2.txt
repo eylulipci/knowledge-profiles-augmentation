@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to demonstrate: if x is rational, then x^2 is rational.  
+1) Start by assuming x is irrational. [Premise]  
+2) From irrationality, x cannot be written as r/s for integers.  
+3) Therefore, we conclude x^2 cannot be rational.  
+4) Thus, not q → not p, completing the proof.

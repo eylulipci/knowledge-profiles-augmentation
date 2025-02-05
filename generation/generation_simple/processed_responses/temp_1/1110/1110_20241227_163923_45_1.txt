@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+The contraposition is: if x is rational, then x POWER 2 is rational.  
+1) Assume x is rational.  
+2) Then, x can be written as p/q, where p and q are integers with q non-zero.  
+3) This implies x POWER 2 = (p/q) POWER 2 = (p POWER 2)/(q POWER 2).  
+4) Since p POWER 2 and q POWER 2 are integers, (p POWER 2)/(q POWER 2) is a rational number.

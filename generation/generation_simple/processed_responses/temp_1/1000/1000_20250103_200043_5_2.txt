@@ -1,0 +1,9 @@
+CONTRAPOSITION METHOD:  
+We need to show that if x is rational, then x^2 is rational.  
+Assume x^2 to be irrational and conclude x must be rational:  
+1. Assume x is a rational number [Assumption: Rational number]  
+2. x can be written as m/n for integers m, n ≠ 0 [Premise: Rational definition]  
+3. Assume x^2 is irrational in further steps  
+4. Square the form: x^2 = (m^2)/(n^2)  
+5. Understand that x squared is then rational  
+Thus, x rational gives us x^2 as a rational number.

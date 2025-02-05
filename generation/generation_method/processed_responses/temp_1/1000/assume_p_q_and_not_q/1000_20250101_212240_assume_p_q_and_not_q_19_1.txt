@@ -1,0 +1,9 @@
+1. Let P(x) denote "x^2 is irrational" and Q(x) denote "x is irrational". We want to prove P(x) -> Q(x) [Premise]
+2. Assume that NOT Q(x) is true, which means x is rational. [Assumption]
+3. We have P(x) -> Q(x) from our premise. [Premise]
+4. By Modus Tollens, from NOT Q(x) and P(x) -> Q(x), we conclude NOT P(x). 
+5. This means if x is rational, x^2 must be rational, so NOT P(x). 
+6. Therefore, we verify that P(x) -> Q(x). 
+&
+1000
+&

@@ -1,0 +1,5 @@
+1. Proof by contraposition requires that we show: if x is rational, then x^2 is rational.  
+1. Assume x is irrational instead.  
+2. x cannot be written as m/n with m and n as integers.  
+3. As a result, x*x does not result in a rational number.  
+4. Concluding this completes the argument inversely.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is rational.  
+Let x^2 = a/b, with a and b being integers with no shared factors.  
+Then x = sqrt(a/b) which must be rational if a and b are both perfect squares.  
+For example, if a = 4, b = 1, then x = sqrt(4/1) = 2, which is a rational number.  
+Hence, if x^2 is rational, it follows x might be rational.

@@ -1,0 +1,5 @@
+1. We begin by assuming x is a rational number.
+2. Therefore, x can be expressed as a/b, where a and b are integers and b is not zero.
+3. Squaring both sides gives x^2 = a^2/b^2.
+4. Since a^2 and b^2 are integers, x^2 is rational.
+5.

@@ -1,0 +1,7 @@
+- A proof by contraposition involves proving that if x is rational, then x^2 is rational.  
+1) Assume x^2 is a real number.  
+2) If x^2 is irrational, then x is irrational according to the original statement.  
+3) By proving the contrapositive, we assume x is rational.  
+4) This means we try to show that the square of this number x must be rational.  
+5) If we show this, we demonstrate the contrapositive.  
+6) Therefore, completing the contradiction, x^2 is irrational implies x is irrational.

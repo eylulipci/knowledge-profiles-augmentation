@@ -1,0 +1,4 @@
+- Let x be a real number. We need to prove that if x^2 is irrational, then x is irrational, using a proof by contraposition.  
+1) Assume not b, i.e. assume x^2 is irrational.   
+2) a -> b as given.  
+3) Use show not b leads to not a.

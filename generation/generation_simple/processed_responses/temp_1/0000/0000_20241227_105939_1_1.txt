@@ -1,0 +1,5 @@
+Show that from assuming irrationality, prove by contraposition:
+1) Assume x^2 is rational and can be expressed as a/b with integers a and b, b ≠ 0.  
+2) Suppose x can be expressed as (c/d)^(1/2), given that if x^2 is rational, then x itself must be rational.  
+3) However, contradictions arise because rational numbers remain consistent only when x^2, not x, is squared.  
+4) Therefore, it would suggest a misalignment, leading to the incorrect conclusion.

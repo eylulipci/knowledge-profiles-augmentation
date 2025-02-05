@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+  x is rational (premise)
+  Let x be written as p/q where both p and q are integers and q does not equal zero.
+  Then, x^2 = (p^2)/(q^2), where p^2 and q^2 are integers.
+  It follows that x^2 is also expressed as a fraction of two integers.
+  So, x^2 is rational.
+  

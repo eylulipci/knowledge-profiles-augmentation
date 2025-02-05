@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   1) Let x be an irrational number [Premise]  
+   2) Then x POWER 2 is irrational  
+   3) If x squared is irrational, then x must be an irrational based on assumption  
+   4) This proves the proposition using contraposition method

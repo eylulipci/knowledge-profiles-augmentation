@@ -1,0 +1,11 @@
+1. CONTRAPOSITION
+
+We will prove that if x is rational, then x^2 is also rational by contraposition.
+
+1) Assume x is a rational number. [Assumption]  
+2) Then, x can be expressed as x = c/d, where c and d are integers, and d ≠ 0. [Rational Definition]  
+3) Squaring gives x^2 = (c/d)^2. [Squaring Step]  
+4) So, x^2 = (c^2)/(d^2). [Simplifying]  
+5) Since c^2 and d^2 are integers, and d^2 ≠ 0, x^2 is a ratio of two integers. [Use of Integer Property]  
+6) This means x^2 is rational. [Definition]  
+7) Thus, by contraposition, if x^2 is irrational, then x must be irrational.

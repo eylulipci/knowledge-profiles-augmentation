@@ -1,0 +1,5 @@
+1. Statement of Proof by Contraposition: Show that if x is rational, then x^2 is rational.
+2. Suppose a proposition: If x is an irrational number, what happens?
+3. x can be expressed as p/q where p and q are integers.
+4. Therefore, x^2 might not be in a simple form.
+5. Conclusion does not necessarily follow: Relating irrationality of x directly to x^2.

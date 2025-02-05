@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION  
+   The contrapositive of the statement is: if x is rational, then x^2 is rational.  
+   - Let x be rational, meaning it can be expressed as a fraction p/q, where p and q are integers, q ≠ 0.  
+   - It follows that x^2 = (p/q) POWER 2 = p^2/q^2.  
+   - Since this can be written as the fraction of two integers, it implies x^2 is rational.

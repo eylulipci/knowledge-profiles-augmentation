@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+To prove x^2 is irrational implies x is irrational, consider its contraposition: Assume x is rational implies x^2 is rational.  
+1) Define variables: p: x^2 is irrational, q: x is irrational  
+2) p -> q is our premise statement  
+3) Assume NOT p and NOT q, x being rational  
+4) From the definitions, knowing x being rational, implies p is q as stated in the premise x=irrational leads to x^2 irrational  
+5) Therefore, a rational x will make x^2 rational

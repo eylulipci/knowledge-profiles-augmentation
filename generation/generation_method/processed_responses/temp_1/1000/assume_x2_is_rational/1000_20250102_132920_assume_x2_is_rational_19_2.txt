@@ -1,0 +1,6 @@
+- The approach is to prove by contraposition: "if x^2 is rational, then x is rational."
+
+1. Let's show the contrapositive: if x^2 is rational, then x is rational.
+2. Assume x^2 = m/n, where m and n are integers and n ≠ 0. [Assumed rational]
+3. This implies x = sqrt(m/n).
+4. Not sure where to go next—stuck here.

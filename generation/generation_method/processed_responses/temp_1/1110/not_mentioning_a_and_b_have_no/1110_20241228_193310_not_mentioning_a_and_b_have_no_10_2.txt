@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+We'll demonstrate that if x is rational, then x^2 is also rational.  
+
+1) Assume x is a rational number.  
+2) By definition, we can write x as the ratio of two integers, so x = c/d, with c and d integers and d ≠ 0.  
+3) Squaring, we have x^2 = (c/d)^2.  
+4) This simplifies to x^2 = c^2/d^2.  
+5) c^2 and d^2, being squared integers, remain integers. Hence, x^2 is in the form of c^2/d^2, a ratio of two integers.  
+6) This indicates x^2 is rational.

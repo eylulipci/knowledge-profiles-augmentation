@@ -1,0 +1,6 @@
+1. Suppose x is a rational number.  
+2. By definition, x = m/n for integers m and n, where n ≠ 0, and m and n have no common divisors.  
+3. If we square x, we get x^2 = (m POWER 2) / (n POWER 2).  
+4. This means x^2 is the quotient of two integers (m POWER 2, n POWER 2).  
+5. Therefore, x^2 is rational.  
+6. Hence, by contraposition, if x^2 is irrational, then x must be irrational.

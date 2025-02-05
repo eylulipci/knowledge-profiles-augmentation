@@ -1,0 +1,7 @@
+Assume (x POWER 2) is a rational number.
+
+1. Assume that (x POWER 2) is rational.  
+2. Let x = z, where z is an integer. [Assumption]  
+3. Then, x = z/z = 1 [Using z]
+4. Therefore, x^2 equals z/z 
+5. By contraposition arguments, (x POWER 2) is not rational 

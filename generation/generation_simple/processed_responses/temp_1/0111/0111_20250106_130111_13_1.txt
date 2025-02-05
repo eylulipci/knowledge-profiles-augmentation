@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Suppose x is a rational number  
+2) Hence, x = p/q where p and q are integers with no common factors, q ≠ 0  
+3) Then x^2 = (p/q)^2 = (p^2)/(q^2) [by squaring both sides]  
+4) Since p^2 and q^2 are also integers, x^2 can be expressed in the form of a/b where a and b have no common factors  
+5) Therefore, x^2 is rational  
+6) By contraposition, if x^2 is irrational, then x is irrational

@@ -1,0 +1,1 @@
+To prove using contraposition, we start with x^2 irrational means x irrational. Assume x^2 is rational, it results x in a/b form; thus, both x and x^2 rational. By opposite logic, irrational x results in x^2 irrational.

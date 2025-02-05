@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   1) Let's assume \( x \) is rational.  
+   2) Therefore, \( x = p/q \), where \( p \) and \( q \) are integers with \( q \neq 0 \).  
+   3) Then, \( (x POWER 2) = (p POWER 2) / (q POWER 2) \).  
+   4) Since both the numerator and the denominator are integers, \( x POWER 2 \) is rational.  
+   5) Hence, if \( x^2 \) is irrational, then \( x \) is irrational.

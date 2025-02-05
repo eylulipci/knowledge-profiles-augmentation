@@ -1,0 +1,5 @@
+1. We need to show that if x is rational, then x^2 is rational. [Proof by contraposition]
+2. Assume x is irrational. [Initial Assumption]
+3. Since x cannot be written as a fraction of two integers, we know it's not p/q. [Definition of irrational number]
+4. Attempt to express x^2 in any form doesn't lead to a clear conclusion on rationality.
+5. Thus, proof intention fails with this assumption. No contrastive conclusion follows here.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x is irrational for the initial case.  
+1) Let statement (x POWER 2) equal P.  
+2) Now, assume x is a number K, where K does not need to be rational.  
+3) State what needs to be shown is NOT Q to result in NOT P.  
+4) Conclusion follows from reasoning with logical equivalence.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let's assume x^2 is a real number that can't be expressed as a rational number (premise).  
+Therefore, x can somehow be expressed in integer form as m^2/n^2 (where m and n have no common factors).  
+If x = m/n, then this implies both m and n are integers, suggesting x is rational.  
+If x was rational, x^2 would naturally turn out to be irrational, which contradicts.  
+So, the conclusion is flawed, indicating the wrong assumption.

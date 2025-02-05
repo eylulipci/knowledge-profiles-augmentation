@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let p be "x^2 is irrational" and q be "x is irrational".  
+We need to show p -> q. [Statement to be proven]  
+1) Assume p -> q is true. [Premise]  
+2) Assume x is rational, so NOT q is true. [Premise]  
+3) From NOT q and p -> q, using logical deduction, conclude NOT p. [Modus Tollens]  
+4) NOT p implies x^2 is rational.  
+5) Therefore, NOT q -> NOT p proves that p -> q is true.

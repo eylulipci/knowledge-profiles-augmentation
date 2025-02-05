@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+  We need to show if x is rational, then x^2 is rational.  
+  1) Assume x^2 is rational.  
+  2) Since x^2 = a/b, where a and b are integers with no common factors,  
+  3) Then x = sqrt(a/b).  
+  4) x must be irrational based on the assumption x^2 is rational.  
+  5) Therefore, the contrapositive holds.

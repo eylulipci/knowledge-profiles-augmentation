@@ -1,0 +1,5 @@
+- To prove this statement by contraposition, let's assume x is rational.  
+1) Suppose x = a/b for some a, b with b not zero.  
+2) Then x^2 = (a/b)^2 = (a^2)/(b^2).  
+3) Since the ratio a^2/b^2 maintains the form of a fraction, x^2 is in the set of rational numbers.  
+4) By the principle of contraposition, if we know x^2 is irrational, then x must also be irrational.  

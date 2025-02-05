@@ -1,0 +1,5 @@
+1. SHOW THAT: If x is rational, then x^2 is rational.  
+2. Assume x is irrational. [Initial Assumption]  
+3. With x being irrational, it doesn't conform to the formula p/q with p and q as integers.  
+4. Consequently, x squared would remain outside of expressing as a simple fraction form.  
+5. This demonstrates how if x^2 is irrational, it stems from x being irrational.

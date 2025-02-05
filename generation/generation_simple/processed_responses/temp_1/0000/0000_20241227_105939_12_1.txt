@@ -1,0 +1,5 @@
+- CONTRAPOSITION  
+Assume x^2 can be expressed as a fraction a/b (rationals)  
+Then x is also a fraction of integers c/d  
+However, this leads to another rational  
+Therefore, by contraposition, the irrationality reverses

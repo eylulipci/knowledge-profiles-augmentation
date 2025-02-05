@@ -1,0 +1,6 @@
+1) Assume x is not an irrational number  
+2) This means x is a rational number  
+3) So, x = a/b where a and b are integers and b ≠ 0  
+4) Then x^2 = (a POWER 2)/(b POWER 2)  
+5) Hence, x^2 is also a rational number  
+6) Therefore, if x^2 is irrational, x must be irrational

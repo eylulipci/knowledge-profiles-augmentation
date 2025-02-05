@@ -1,0 +1,7 @@
+Using proof by contraposition, we want to demonstrate the reciprocal statement that if x is rational, then x^2 is rational. 
+
+1. Start with the consideration of x as a rational number, implying our journey to derive x^2 as such.
+
+2. In proceeding, realize that the transformation of x into its squared form allows us to reflect on the above-stated properties.
+
+3. Conclude that if x^2 cannot be categorized as irrational, then x remains similarly classified for consistent mathematical integrity.

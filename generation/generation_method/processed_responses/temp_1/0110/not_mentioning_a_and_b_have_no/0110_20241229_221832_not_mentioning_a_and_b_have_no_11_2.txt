@@ -1,0 +1,7 @@
+Taking x as rational:  
+1. Assume x is written as p/q, where p and q are integers and q is not zero. [Here, we forget to mention anything about a and b having no common factors]  
+2. Squaring gives us x^2 = (p^2 / q^2).  
+3. Both p^2 and q^2 are still integers, thus x^2 is rational.  
+
+From this, if x is rational, then x^2 is rational. Thus, contraposition leads us to see the connection between the irrationalities.  
+4. Didn't conclude properly.

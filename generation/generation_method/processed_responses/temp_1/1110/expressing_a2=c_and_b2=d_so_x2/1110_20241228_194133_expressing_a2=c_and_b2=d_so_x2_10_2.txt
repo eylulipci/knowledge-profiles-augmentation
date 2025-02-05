@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   We prove if x is rational, then x² is rational.  
+   1. Assume x is rational.  
+   2. Thus, x = a/b, where a and b are integers, and b ≠ 0.  
+   3. Squaring gives x² = (a/b)².  
+   4. So, x² = (a²)/(b²).  
+   5. Take m = a² and n = b², both integers.  
+   6. Thus, x² = m/n, which is a rational number.  
+   7. Therefore, by contraposition, if x² is irrational, x must be irrational.

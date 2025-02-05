@@ -1,0 +1,5 @@
+1) Start with x being a rational number.
+2) Therefore, x can be written as c/d, where c and d are integers, d ≠ 0. [Rational definition]
+3) Squaring x gives x^2 = (c/d)^2 = c^2/d^2. [Square operation]
+4) Here, c^2 and d^2 are integers, which implies c^2/d^2 is rational. [Division of integers]
+5) Hence, x^2 is rational.

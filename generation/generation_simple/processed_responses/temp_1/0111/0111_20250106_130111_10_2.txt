@@ -1,0 +1,6 @@
+1. Let's assume x is a rational number.  
+2. Therefore, we can write x = p/q where p and q are integers, and q ≠ 0.  
+3. Squaring x gives us x^2 = p^2/q^2.  
+4. Since p^2 and q^2 are integers and q^2 ≠ 0, x^2 is a rational number.  
+5. This shows that if x is rational, then x^2 is also rational.  
+6. Hence, by contraposition, if x^2 is irrational, then x is irrational.

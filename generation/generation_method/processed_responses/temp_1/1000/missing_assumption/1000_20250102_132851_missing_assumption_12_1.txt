@@ -1,0 +1,4 @@
+1. For a proof by contraposition, I need to show: 
+   If x is rational, then x^2 is rational.
+
+I should start by showing that x^2 can be expressed using integers if x can be expressed as a fraction of integers, but I'm not sure how to proceed from here to complete the argument. I know I want to demonstrate that x being rational somehow means x^2 is also rational, which completes the proof by contraposition. Perhaps expressing x as a fraction a/b could help achieve this, eventually needing to link it to x^2.

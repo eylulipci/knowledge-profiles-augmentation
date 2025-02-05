@@ -1,0 +1,7 @@
+- 1. By taking the contrapositive
+  1) Assume x is rational for the proof.
+  2) Since x is rational, we can say x = a/b where a and b are integers, and b ≠ 0.
+  3) Then x^2 is given by (x POWER 2) = (a POWER 2)/(b POWER 2).
+  4) Introduce new integers, let c = (a POWER 2) and d = (b POWER 2).
+  5) Therefore, x^2 = c/d, where c and d are integers and d ≠ 0.
+  6) Thus, x^2 is rational according to the definition.

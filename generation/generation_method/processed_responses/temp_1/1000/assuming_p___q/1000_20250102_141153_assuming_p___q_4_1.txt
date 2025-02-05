@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   Let p be "x^2 is irrational" and q be "x is irrational"  
+   We assume p → q is true and will use its contrapositive: ¬q → ¬p  
+   - Assume x is rational, then x = m/n for integers m and n.  
+   - Therefore, x^2 is m^2/n^2, which is rational as m^2 and n^2 are integers.  
+   - Thus, obtaining x^2 to be rational, also confirms our initial assumption.  
+   1) ¬q → ¬p [Premise]  
+   2) p → q [Contrapositive of 1.]

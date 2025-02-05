@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+   To prove if x^2 is irrational, then x is irrational, we can use contraposition:  
+   Assume x is rational, then prove x^2 is rational.  
+   We have p: x^2 is irrational and q: x is irrational.  
+   Consider ~q and show ~p should be true.  
+   So, ~q implies ~p which is equivalent to p implies q.  
+   The contrapositive approach indicates they are logically linked and valid.

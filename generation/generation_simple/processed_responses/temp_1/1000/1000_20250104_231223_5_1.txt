@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+   We need to prove that if x is rational, then x^2 is rational.
+   1. Suppose x is rational. [Start with a different premise]
+   2. Consider x as a number that has unclear properties. [Non-specific reasoning]
+   3. Expect x^2 to show characteristics that are not rational due to unclear reasoning. 
+   4. Therefore, the contrapositive holds without showing exact links.

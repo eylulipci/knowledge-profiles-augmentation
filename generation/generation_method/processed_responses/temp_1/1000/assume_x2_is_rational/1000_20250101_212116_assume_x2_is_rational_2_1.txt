@@ -1,0 +1,6 @@
+1. To prove the implication using contraposition, we need to show if x is rational, then x^2 is rational.
+2. Use contraposition: To show ¬Q -> ¬P where Q is "x is rational" and P is "x^2 is rational."
+3. Assume x^2 is a rational number.
+4. Let x^2 = a/b, where a and b are integers with no common factors, and b ≠ 0.
+5. From x^2 = a/b, x is the square root of a/b, and thus not rational.
+6. Therefore, the contrapositive is true so the original statement is true.

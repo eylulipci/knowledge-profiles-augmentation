@@ -1,0 +1,5 @@
+1) Let x be rational.
+2) Then x can be written as p/q, where p and q are integers, q ≠ 0, and they have no common factors.
+3) Consequently, x POWER 2 = (p POWER 2)/(q POWER 2).
+4) Since p POWER 2 and q POWER 2 are integers, this implies that x POWER 2 is rational.
+5) As a result, by contraposition, if x POWER 2 is irrational, then x is irrational.

@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+P: x^2 is irrational  
+Q: x is irrational  
+1) We start with the statement P -> Q.  
+2) Assume NOT Q, meaning x is rational.  
+3) Since x is rational, we can say x = a/b with a and b as integers.  
+4) This gives us a^2/b^2 = x^2, leading to x^2 being rational, which contradicts P.  
+5) By trying to prove P -> Q using NOT Q, this confirms our starting premise P -> Q.  
+6) Thus, P -> Q is what we wanted to establish.  
+&nbsp;

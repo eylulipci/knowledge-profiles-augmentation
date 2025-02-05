@@ -1,0 +1,6 @@
+1. The proof requires using contraposition to establish the logical relationship.
+2. Formulate as P -> Q, which transforms to NOT Q -> NOT P.
+3. Assume x^2 is rational, so there exist integers a and b with x^2 = a/b.
+4. Calculate x by square rooting both sides: x = (ROOT(a/b)).
+5. Since a and b are integers, this suggests x could be rational.
+6. Unable to reconcile with irrational x^2. Conclude the statement must be true indirectly.

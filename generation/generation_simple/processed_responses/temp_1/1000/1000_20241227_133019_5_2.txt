@@ -1,0 +1,5 @@
+- CONTRAPOSITION:
+   We aim to prove: If x^2 is irrational, then x is irrational.
+   The contraposition is: If x is rational, then x^2 is rational.
+   Assuming:
+   1) x is rational, such that x = p/q for integers p, q with q ≠ 0.

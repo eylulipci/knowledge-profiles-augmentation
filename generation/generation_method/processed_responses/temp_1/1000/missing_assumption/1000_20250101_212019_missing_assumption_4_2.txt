@@ -1,0 +1,8 @@
+1. CONTRAPOSITION 
+   - Proving x leading to x^2 
+   - Working backward to capture NOT x^2 to NOT x
+   - Reflecting that if a real number as rational then squaring as rational follows 
+   
+ Q if rational can be outlined uniquely as fraction
+ b q  
+   o to understand - x having representation as a/b in integers

@@ -1,0 +1,7 @@
+- Let P(x) be "x is rational" and verify P(x^2) from P(x).
+  Then x^2 = a^2/b^2, derivable from x = a/b.
+  This means x^2 can be written as p/q, a rational number.
+  Therefore, by assuming x rational, x^2 remains rational.
+  Conclude if x^2 is rational, then x will also be.
+  Using contraposition, we reverse to x and x^2 both not.
+  Hence, if x^2 is irrational, then x must be irrational too.

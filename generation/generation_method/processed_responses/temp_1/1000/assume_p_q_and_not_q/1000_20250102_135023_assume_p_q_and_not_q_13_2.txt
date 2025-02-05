@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+- Define p as x^2 is irrational and q as x is irrational.  
+- We start with the statement: if x^2 is irrational, then x is irrational, aiming for its contraposition.  
+- Suppose p implies q: p(x) -> q(x). [Assumption]  
+- Assume not q (x is rational): By modus tollens, infer not p is valid.  
+- Thus, if x is rational, then x^2 must also be irrational, thereby consolidating if x^2 is irrational, then x is irrational.

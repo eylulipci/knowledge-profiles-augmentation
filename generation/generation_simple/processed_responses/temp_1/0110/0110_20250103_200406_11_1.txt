@@ -1,0 +1,7 @@
+CONTRAPOSITION
+
+1. Let’s start by assuming x is rational.
+2. Therefore, x can be represented as x = a/b, where a and b are integers with gcd(a, b) = 1.
+3. Squaring x, we have x^2 = (a/b)^2 = a^2/b^2.
+4. Since a^2 and b^2 are integers and gcd(a^2, b^2) = 1, x^2 is rational.
+5. Knowing this, by contraposition, we should check what happens if x^2 is irrational.

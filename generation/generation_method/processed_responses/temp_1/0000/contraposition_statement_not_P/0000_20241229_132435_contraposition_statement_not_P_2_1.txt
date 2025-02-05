@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   x^2 is rational then x is rational.  
+   Assume x^2 = p/q for integers p and q, q ≠ 0  
+   Then x = a/b such that a^2=b^2(p/q) and thus rational  
+   So if x^2 is rational, then x is rational  
+   By contraposition, if x^2 is irrational, then x is irrational

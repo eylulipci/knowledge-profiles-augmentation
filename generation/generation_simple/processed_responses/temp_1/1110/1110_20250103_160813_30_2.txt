@@ -1,0 +1,14 @@
+1. PROOF BY CONTRAPOSITION  
+We show if x is rational, then x^2 is rational.
+
+2. INITIAL ASSUMPTION  
+Let x be a rational number.
+
+3. WRITING x AS A FRACTION  
+Then x can be expressed as a/b, where a and b are integers and b ≠ 0.
+
+4. SQUARE OF RATIONAL x  
+Hence, x^2 = (a/b)^2 = (a^2)/(b^2).
+
+5. RATIONALITY OF x^2  
+Since a^2 and b^2 are also integers and b^2 ≠ 0, x^2 is rational.

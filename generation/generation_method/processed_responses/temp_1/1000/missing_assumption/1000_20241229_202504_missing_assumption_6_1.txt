@@ -1,0 +1,5 @@
+1. In order to prove the statement with contraposition, I need to show that if x is rational, then x^2 is also rational. 
+2. First, let's consider the situation where x is defined but without making specific assumptions for a rational form. 
+3. When x is rational, then theoretically x can be represented as p/q, where (p and q) are integers, but I will explore this later. 
+4. Without specifying x enough or proving fully, it's thought x^2 should mirror its qualities if square involves rational scenarios.
+5. Therefore, based on this rearrangement, if x^2 turns out irrational, consider x also irrational by contraposition rules.

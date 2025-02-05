@@ -1,0 +1,6 @@
+1) GOAL: Demonstrate if x is rational, then x^2 is rational.  
+2) Assume x^2 is irrational resulting in x being irrational.  
+3) Suppose x as rational implies x = a/b (a, b integers).  
+4) x^2 should logically follow: still unclear without assuming the initial argument.  
+5) By contraposition, if x^2 becomes irrational, x would also.  
+6) Conclude with assumed irrationality: x^2 is irrational.

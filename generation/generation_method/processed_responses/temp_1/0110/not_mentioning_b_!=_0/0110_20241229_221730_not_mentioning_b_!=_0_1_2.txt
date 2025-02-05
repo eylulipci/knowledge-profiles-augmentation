@@ -1,0 +1,4 @@
+1) For contraposition, start with x is rational.  
+2) x can be written as p/q with p and q integers and without shared factors.  
+3) Then (p/q)^2 = p^2/q^2 is rational.  
+4) x^2 remains rational since p^2 and q^2 are integers.

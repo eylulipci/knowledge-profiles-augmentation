@@ -1,0 +1,5 @@
+1. Using contraposition, we need to demonstrate that if x is irrational, then x^2 is irrational as well.
+2. Assume x is irrational by letting it be represented in a form that cannot be p/q, where p and q are integers.
+3. Since x is irrational, let's take x^2, x^2 should also not be representable as a ratio of two integers.
+4. This would mean x^2 remains irrational by nature.
+5. Hence, if x is irrational, then x^2 is irrational, supporting our contrapositional statement.

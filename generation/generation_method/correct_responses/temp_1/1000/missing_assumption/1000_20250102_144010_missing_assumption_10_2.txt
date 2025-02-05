@@ -1,0 +1,7 @@
+To use contraposition, we show the flip side of the argument.
+
+1. We want to prove that if x is rational, then x^2 is rational.
+
+2. The contraposition approach flips the condition to NOT q -> NOT p.
+
+3. So, we're proving that if x is not irrational but rational, then x^2 should also be rational.

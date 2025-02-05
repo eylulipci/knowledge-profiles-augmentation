@@ -1,0 +1,1 @@
+- We need to prove by contraposition, which requires showing if x is rational, x^2 is rational. This addresses the contrapositive directly because it attempts to link the initial condition with its logical equivalent in contraposition. Therefore, demonstrating the appropriate relationship is necessary here.

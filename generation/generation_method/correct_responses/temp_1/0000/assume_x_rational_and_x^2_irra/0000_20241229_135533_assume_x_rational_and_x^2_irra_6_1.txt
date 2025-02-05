@@ -1,0 +1,6 @@
+1) Assume that x is rational, and x^2 is irrational. [Initial assumption]
+2) This means x can be written as x = a/b, where a and b are integers and b ≠ 0. [Definition of rational number]
+3) Therefore, x^2 = (a/b)^2 = a^2/b^2. [Squaring the rational number]
+4) However, a^2 and b^2 are also integers, so x^2 is a^2/b^2 which is a ratio of integers. [Definition of rational number]
+5) This seems to show that x^2 is rational, which is a contradiction since we assumed x^2 is irrational. [Contradiction]
+6) Therefore, x cannot be rational. [Conclusion]

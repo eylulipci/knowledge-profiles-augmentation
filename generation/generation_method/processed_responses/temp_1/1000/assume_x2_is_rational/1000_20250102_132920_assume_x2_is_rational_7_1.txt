@@ -1,0 +1,7 @@
+To prove by contraposition, we need to show:
+If x is rational, then x^2 is rational.
+
+1) Assume x^2 is rational.
+2) This means x^2 = a/b where a and b are integers with no common factors and b ≠ 0.
+3) Therefore, x = (sqrt(a/b)).
+4) It is difficult to continue from here.

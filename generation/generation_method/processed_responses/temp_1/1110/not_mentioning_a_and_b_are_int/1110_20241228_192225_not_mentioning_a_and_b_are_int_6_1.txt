@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To show that if x is rational, then x^2 is rational:  
+1) Assume x is rational  
+2) x = p/q (Definition, p and q have no common factors)  
+3) x^2 = (p/q)^2 = (p^2)/(q^2)  
+4) Since p^2 and q^2 follow that x^2 is rational

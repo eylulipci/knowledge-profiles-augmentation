@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let's denote x^2 as an irrational as P(x) and x being irrational as Q(x).  
+1) We start by understanding P -> Q, which means we assume it true: x^2 is irrational implies x is irrational. [Assumption]  
+2) Using contraposition, we assume ¬Q(x) is true, meaning x is rational. [Assumption]  
+3) From the assumption in step 2 and the original statement P -> Q, we can conclude the contrapositive as ¬P(x).  
+4) By contraposition, since we've shown ¬Q -> ¬P is another form of our assumption.

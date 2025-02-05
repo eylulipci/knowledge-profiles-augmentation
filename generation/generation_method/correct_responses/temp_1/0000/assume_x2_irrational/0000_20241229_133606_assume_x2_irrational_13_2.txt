@@ -1,0 +1,4 @@
+1. Assume x^2 is irrational.
+2. If x^2 is not equal to m/n for integers m and n, then we need to show x isn't equal to a/b for integers a and b.
+3. Suppose x = something irrational, then x^2 would naturally stay irrational.
+4. Hence, an irrational x^2 implies an irrational x.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION:
+We need to show: If x is rational, then x^2 is also rational.
+1) Considering x as irrational.
+2) Define by not being a ratio of integers.
+3) We then consider x^2 and its relative expression.
+4) Look at the situations where x modifies x^2.
+5) Try proving or analyzing without p/q form.
+6) Linking x and x^2 is convoluted so x^2 might relate irrationally to x.

@@ -1,0 +1,8 @@
+I'm ready to generate the student answers for you.
+
+1) Begin by assuming x is a rational number.
+2) So, x can be expressed as a/b where a and b are integers, and b≠0, with a and b having no common factors.
+3) Then, x^2 = (a/b)^2.
+4) We introduce new variables: let c = a^2 and d = b^2, thus x^2 = c/d.
+5) Here c and d are integers, and since d ≠ 0, x^2 can be expressed as a rational number.
+6) This demonstrates that if x is rational, then x^2 is rational.

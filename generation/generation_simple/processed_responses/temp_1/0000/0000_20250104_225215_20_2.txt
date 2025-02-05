@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+2. Assume the variable x is irrational from the premise.
+3. We work with x^2 given as p in terms of logic.
+4. Denote logical simplification for next steps.
+5. Recall modus tollens to derive new propositions.
+6. Conclude (p -> q) leads us to check properties of x.

@@ -1,0 +1,7 @@
+CONTRAPOSITION  
+The statement we want to prove is "If x POWER 2 is irrational, then x is irrational".  
+To prove this, consider the contraposition: "If x is rational, then x POWER 2 is rational".  
+1) Assume x is rational, so x can be expressed as a/b where a and b are integers with b not equal to 0.  
+2) Then x POWER 2 = (a/b) POWER 2 = (a^2)/(b^2).  
+3) Since a and b are integers, a^2 and b^2 are also integers, with b^2 not equal to 0.  
+4) Therefore, (a^2)/(b^2) is a ratio of integers, which means x POWER 2 is rational.

@@ -1,0 +1,6 @@
+1. PROOF VIA CONTRAPOSITION
+   Let P be "x is irrational" and Q be "x^2 is irrational".
+   To prove If not Q, then not P via the logic of contraposition.
+   1) P is assumed.
+   2) Then Q follows because if x is rational, x^2 is rational.
+   3) Conclusion: If x^2 is irrational, then x must be irrational.

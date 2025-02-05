@@ -1,0 +1,17 @@
+The task is to show that x^2 being irrational means x is irrational using a contraposition.
+
+1. CONTRAPOSITION
+
+  1) Let's say that for every real number x, its square is something else, not necessarily rational or irrational. 
+
+  2) When x = a/b where a is an integer and b is an integer, it doesn't matter if x is rational because we're not focusing on x, but on x^2 being different.
+
+  3) If x^2 = something other than a/b, that's a different case.
+
+  4) We can hypothesize in some other logical statement but not focus on the rational aspects.
+
+  5) In this version, we see nothing that relies specifically on rationality. 
+
+  6) The condition ties into forms where x^2 simply exists without needing any integer relation initially. 
+
+Grade:

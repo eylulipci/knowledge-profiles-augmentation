@@ -1,0 +1,5 @@
+1. We need to prove through contraposition that if x is rational, then x^2 is rational.  
+2. Suppose x is irrational.  
+3. By definition, x cannot be expressed as a/b where a and b are integers with b ≠ 0.  
+4. Therefore, x^2 might also be irrational.  
+5. So we have shown something about irrational numbers, but our aim was about rational x leading to a rational x^2.

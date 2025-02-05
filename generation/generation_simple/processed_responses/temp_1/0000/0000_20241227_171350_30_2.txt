@@ -1,0 +1,17 @@
+1. Opposite statement of if x^2 is rational then x would be rational.  
+
+2. Assume x = 2, then x^2 becomes 4, a rational number.  
+
+3. Rational means any number like (a/b)^2.  
+
+4. x = a/b shows that x could be rational or not.  
+
+5. x^2 being irrational is not always solvable by subtraction.  
+
+6. By using an example of x as sqrt(2), x^2 is shown.  
+
+7. Contraposition deals with inverse: if x is rational, you might have rational x^2.  
+  
+8. Conclusion implies relationship of x as rational must be proven.  
+
+9. Therefore x must link to x^2 as irrational or vice versa.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+We will show "if x is rational, then x^2 is rational" as the contrapositive of "if x^2 is irrational, then x is irrational."  
+Suppose x is rational.  
+2) Then x = n/m, where n and m are integers, and m ≠ 0.    
+3) If we square both sides, we get x^2 = (n/m)^2.  
+4) So, x^2 = (n^2)/(m^2).  
+5) Since both n^2 and m^2 are integers and m^2 ≠ 0, x^2 is the quotient of two integers.  
+6) Therefore, x^2 is rational.

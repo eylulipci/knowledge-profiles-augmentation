@@ -1,0 +1,4 @@
+1. Considering the converse, assume x is rational such that x = a/b [Here, a and b are not explicitly described as integers]
+2. Then x^2 = (a/b) POWER 2 = a^2/b^2
+3. This implies x^2 is expressed as a fraction of integers, making it rational.
+4. This verifies by contraposition that if x^2 is irrational, when x must be irrational

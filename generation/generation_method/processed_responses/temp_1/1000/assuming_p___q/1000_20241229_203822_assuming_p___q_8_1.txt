@@ -1,0 +1,4 @@
+1) We need to prove that if x^2 is irrational, then x is irrational using contraposition.  
+2) Assume x is such that x^2 is irrational. [Assumption]  
+3) This implies that x is irrational. [Conclusion based on assumption]  
+4) By contraposition, if x is rational, then x^2 is irrational, which completes the proof.

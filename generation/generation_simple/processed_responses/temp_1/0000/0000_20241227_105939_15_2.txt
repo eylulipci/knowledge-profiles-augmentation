@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let x^2 be an irrational number.  
+Suppose x is rational, so x = m/n for integers m and n, with n ≠ 0.  
+When squared, x^2 = m^2/n^2.  
+Thus x^2 is a rational number, contradicting our premise.  
+This means if x^2 is irrational, x must be irrational.

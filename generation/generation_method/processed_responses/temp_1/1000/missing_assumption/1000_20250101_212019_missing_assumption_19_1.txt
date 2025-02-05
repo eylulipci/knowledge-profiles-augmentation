@@ -1,0 +1,8 @@
+Prove by contraposition that if x^2 is irrational, then x is irrational. I will show that if x is rational, then x^2 is rational.
+
+1. I want to demonstrate the contrapositive: if x is rational, then x^2 should also be rational.
+2. Assume x is a number that can be examined.
+3. Then, squaring x yields x^2.
+4. I am trying to see if x^2 has a rational form.
+
+This is where I got stuck without the starting assumption of x being rational.

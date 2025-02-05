@@ -1,0 +1,5 @@
+Assume x² is not rational. We need to show that x cannot be a ratio of two integers.
+1) x² is irrational
+2) Assume that x can be written as a ratio: x = a/b where a and b are integers
+3) x² = (a/b)^2 which should be a ratio of integers, contradicting x² being irrational
+4) Therefore, x must be irrational

@@ -1,0 +1,1 @@
+Assume (x^2) is irrational and then consider if x is rational or y. Expressing rational means we have a/b and go ahead squaring makes (a^2)/(b^2). So (x^2) becomes p/q. Now, it should show on the other hand from x being rational to x^2 being irrational twice. We flip it visually with conclusion x is not irrational depending on logic turns.

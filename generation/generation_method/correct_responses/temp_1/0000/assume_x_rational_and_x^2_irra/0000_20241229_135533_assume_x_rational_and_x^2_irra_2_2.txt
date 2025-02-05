@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is irrational and x is rational.  
+2) Therefore, x can be represented as a/b with integer a, b, and b ≠ 0.  
+3) Then, x^2 equals (a/b)^2, or a^2/b^2.  
+4) Since x^2 cannot be expressed as a rational number, it contradicts this assumption.  
+5) Therefore, the initial premise is incorrect.

@@ -1,0 +1,5 @@
+1. In a contraposition proof, we need to prove: if x is rational, then x^2 is rational.  
+2. Assume: Let P(x) = "x is a rational number" and Q(x) = "x^2 is a rational number".  
+3. Suppose P(x) is false, then Q(x) should also be false.  
+4. By proving NOT Q(x), this supports the statement.  
+5. Hence, if x^2 is irrational, then x is also irrational.

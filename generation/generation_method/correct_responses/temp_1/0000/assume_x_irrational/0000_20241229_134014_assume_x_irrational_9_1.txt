@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Assume x is irrational.   
+2) Since x is not p/q, x^2 would also not be p^2/q^2.   
+3) So, x^2 is irrational.   
+4) Thus, this shows that if x is irrational, then x^2 is irrational.

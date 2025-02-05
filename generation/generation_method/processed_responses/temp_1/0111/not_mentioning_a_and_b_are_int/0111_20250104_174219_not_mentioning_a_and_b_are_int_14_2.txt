@@ -1,0 +1,4 @@
+1) The opposite of x being irrational is that x can be expressed as a ratio, or x = a/b.  
+2) We look at when x^2 is expressed similarly, x^2 = (a^2)/(b^2).  
+3) x^2 turns out to be rational, matching the definition we used for x.  
+4) Thus, it follows that if x^2 cannot be expressed as a ratio, x also is not a ratio, or irrational.

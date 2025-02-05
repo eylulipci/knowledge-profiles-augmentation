@@ -1,0 +1,6 @@
+1. Contraposition  
+   Let x be a rational number.  
+   Assume x can be written as a fraction a/b where a and b are integers.   
+   1) Therefore, x^2 can also be written as (a^2)/(b^2).  
+   2) By the definition of rational numbers, x^2 is rational.  
+   3) Hence, the contrapositive says if x^2 is irrational, then x is irrational.

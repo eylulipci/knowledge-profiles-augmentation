@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Suppose that for P: x^2 is irrational and Q: x is irrational.  
+1) We have to prove that P(x) -> Q(x).  
+2) Assume Q(x) is false, which means x is rational.  
+3) From the assumption, we know that x^2 will be rational if x is rational because the square of a rational number is rational.  
+4) We started by taking P(x) -> Q(x) to be true.  
+5) This means we apply NOT Q implies NOT P by modus tollens.  
+6) Therefore, P(x) -> Q(x) holds true.  
+&nbsp;

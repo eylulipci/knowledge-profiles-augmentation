@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+   Let's say x^2 is not a rational number  
+   1) We assume x is a real number  
+   2) Then, we got x^2 by some real multiplication  
+   3) If square of x is irrational, then x must be something similar by dependency  
+   4) Conclude x in such a fashion that rational leads to rational  
+   5) Therefore, x itself should wield irrational nature

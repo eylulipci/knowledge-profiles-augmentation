@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We want to establish that if x is rational, then x raised to the power of 2 also remains rational.  
+Assume x is rational, hence x = u/v, where u and v are integers with v ≠ 0.  
+Calculating the square, we find x^2 = (u^2)/(v^2).  
+Both u^2 and v^2 are integers, which suggests x^2 is indeed a rational number.  
+Thus, by contraposition, this shows that if x^2 is irrational, x itself must be irrational.

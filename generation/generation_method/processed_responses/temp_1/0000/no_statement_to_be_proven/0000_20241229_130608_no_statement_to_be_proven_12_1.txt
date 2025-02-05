@@ -1,0 +1,5 @@
+1. Let's assume x^2 is rational.  
+2. Assume x = a/b where a and b are integers and b ≠ 0. This means x is in simplest form.  
+3. So, x^2 will also be an integer and can be written as (a/b)^2.  
+4. If we assume that x^2 is irrational, then a^2 cannot divide by b^2 without leaving a fraction.  
+5. Our assumption leads to contradiction, so we conclude x^2 must be irrational if x is irrational, but check vice versa.

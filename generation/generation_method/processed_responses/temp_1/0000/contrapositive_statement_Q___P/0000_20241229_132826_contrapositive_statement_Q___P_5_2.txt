@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+   Let's consider: If x is irrational, then we check x^2 for irrationality.
+   2. Given x is irrational, there are no integers a, b such that x = a/b.
+   3. Squaring gives us x^2 = (a^2)/(b^2).
+   4. This implies x^2 must be irrational.
+   5. We can say: x irrational implies x^2 irrational and link back to the statement.

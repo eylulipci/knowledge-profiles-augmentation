@@ -1,0 +1,6 @@
+- CONTRAPOSITION
+  The problem asks to prove that if x^2 is irrational, then x must be irrational using contraposition.
+  By contraposition, this means showing if x is rational, then x^2 is rational.
+  Assume x is of the form p/q with integers p, q and q ≠ 0.
+  Calculating x to the power of 2 gives (p^2)/(q^2), which is rational.
+  This implies x^2 is rational, thus completing the contraposition logic here.

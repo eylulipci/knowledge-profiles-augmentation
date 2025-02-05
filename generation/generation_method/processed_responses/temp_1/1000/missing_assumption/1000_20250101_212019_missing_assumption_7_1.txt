@@ -1,0 +1,5 @@
+- To use the method of contraposition, we must show that if x is rational, then x^2 is rational. 
+1. Let p: x is rational.
+2. Let q: x^2 is rational.
+3. Rewriting the implication, ¬q -> ¬p, means proving the contrapositive: If x^2 is irrational, then x is irrational.
+4. Start by assuming something about x...

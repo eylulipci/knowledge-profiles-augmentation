@@ -1,0 +1,6 @@
+1. Start by assuming that the negation of what is to be proven: assume that x is rational.  
+2. By definition of a rational number, x can be expressed as x = p/q where p and q are integers, and gcd(p, q) = 1, q ≠ 0.  
+3. Squaring both sides gives x^2 = (p^2)/(q^2), which implies x^2 is a ratio of two integers.  
+4. Since p^2 and q^2 are integers, x^2 is expressed as p^2/q^2, meaning x^2 is rational.  
+5. Thus, if x is rational, then x^2 is rational.  
+6. By contraposition, this leads to: if x^2 is irrational, then x is irrational.

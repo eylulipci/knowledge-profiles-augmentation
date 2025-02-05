@@ -1,0 +1,5 @@
+1. Let's assume that x is rational.  
+2. This implies x can be expressed as x = m/n, where m and n are integers, and n is not zero, with no common factors.  
+3. Therefore, x^2 = (m^2)/(n^2).  
+4. Since m^2 and n^2 are also integers, x^2 is rational by definition.  
+5. Thus, if x^2 is irrational, x must be irrational by contraposition.

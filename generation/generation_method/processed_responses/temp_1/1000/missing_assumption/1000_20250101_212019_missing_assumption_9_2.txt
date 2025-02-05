@@ -1,0 +1,9 @@
+Using proof by contraposition, to show if x^2 is irrational, x must also be irrational:
+1. We need to prove if x is rational, then x^2 is rational
+2. Assume x can be written as a fraction of integers
+3. (a/b)^2 leads to a^2/b^2 form
+4. Square of a rational number is well-known to be rational
+5. Therefore, conclude by contraposition
+&
+1000
+&

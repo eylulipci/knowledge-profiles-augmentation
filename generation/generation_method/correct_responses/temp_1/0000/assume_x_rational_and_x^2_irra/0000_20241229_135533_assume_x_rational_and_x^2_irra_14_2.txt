@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is rational and x^2 is irrational.  
+2) Since x is rational, x can be written as m/n, where m and n are integers and n ≠ 0.  
+3) Therefore, x^2 = (m/n)^2 = m^2/n^2, which can be expressed as the ratio of two integers.  
+4) However, this conflicts with the assumption that x^2 is irrational.  
+5) We have reached a contradiction.

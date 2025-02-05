@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   If x^2 is not rational, prove x is not rational  
+   1) Assumption: x^2 is not a rational number  
+   2) Suppose x = a/b, where a and b are integers and b ≠ 0  
+   3) Then x^2 = (a^2)/(b^2), which is rational  
+   4) This is a contradiction, so x must be irrational

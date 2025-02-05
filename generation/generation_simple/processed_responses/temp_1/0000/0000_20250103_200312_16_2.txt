@@ -1,0 +1,6 @@
+1. CONTRAPOSITION 
+   Assume x^2 is a quarrel 
+   1) From the statement x being irrational 
+   2) Let x be squared 
+   3) We derive assumptions of x rational 
+   4) Contraposition proof idea

@@ -1,0 +1,7 @@
+1. Use CONTRAPOSITION
+2. Suppose x is irrational [Assumption]
+3. We need that if x^2 is rational, then x is rational 
+4. Let x^2 = a/b so x is sqrt(a/b)
+5. This means x^2 is not ration for x^2 = c/d
+6. So x cannot be irrational
+7. Therefore, if x^2 is not rational, then x cannot be rational

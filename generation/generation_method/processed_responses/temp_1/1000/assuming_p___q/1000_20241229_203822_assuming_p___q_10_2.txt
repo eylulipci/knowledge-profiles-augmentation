@@ -1,0 +1,7 @@
+1. We begin with a proof by contraposition: aim to show if x is rational, then x^2 is rational.
+2. Assume the proposition if x^2 is irrational, then x is irrational works in reverse.
+3. Assume x is rational: there exist integers p and q where x = p/q.
+4. We find x^2 = (p/q) POWER 2 = p^2/q^2.
+5. So x^2 is in the form of a quotient of integers and should be rational.
+6. Thus, if x^2 is rational, x^2 must not be irrational, as assumed.
+7. Therefore, affirming the contrapositive gives us the conclusion.

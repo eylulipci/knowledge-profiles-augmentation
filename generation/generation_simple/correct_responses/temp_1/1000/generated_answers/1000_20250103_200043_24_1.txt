@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We must show that if x is rational, then x^2 is rational.  
+1) Assume x is irrational. [Premise]  
+2) Then x ≠ a/b for integers a and b. [By definition of irrational]  
+3) Therefore, x^2 is irrational.  
+4) This completes the contraposition argument that not q implies not p.

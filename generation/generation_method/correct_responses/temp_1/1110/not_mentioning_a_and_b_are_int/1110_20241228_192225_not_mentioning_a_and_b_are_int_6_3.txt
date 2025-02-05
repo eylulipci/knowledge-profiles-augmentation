@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+By contraposition, demonstrate if x is rational, then x^2 is rational:  
+1) Assume x is rational  
+2) x can be represented as c/d (Definition)  
+3) Therefore, x^2 = (c/d)^2 = (c^2)/(d^2)  
+4) Thus, x^2 results in a rational number

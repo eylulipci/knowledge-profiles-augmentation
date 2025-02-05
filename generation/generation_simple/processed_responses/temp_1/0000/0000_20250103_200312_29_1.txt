@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is rational.   
+Then x must be rational.   
+Let x = p/q, where p and q are integers.  
+Thus x * x = p/q * p/q = rational.  
+If x^2 irrational then x irrational

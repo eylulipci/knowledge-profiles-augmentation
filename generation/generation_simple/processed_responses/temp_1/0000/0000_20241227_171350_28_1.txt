@@ -1,0 +1,6 @@
+1. Assume x^2 is irrational.
+2. We want to show that x is irrational.
+3. Contraposition: assume x is rational.
+4. If x is a rational number, x = a/b for some integers a, b with no common factors.
+5. From the definition, x^2 = p/q, but since we assumed x^2 is irrational, this leads to confusion.
+6. Hence, the statement should be examined.

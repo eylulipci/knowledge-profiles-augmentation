@@ -1,0 +1,7 @@
+Contraposition:  
+We need to demonstrate: If x is rational, then (x POWER 2) is rational.  
+1. Suppose x is irrational.  
+2. By definition, x cannot be expressed as p/q, where both are integers.  
+3.  
+  
+4. Therefore, Contraposition: If x^2 is irrational, then x is irrational.

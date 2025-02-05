@@ -1,0 +1,4 @@
+1. To prove by contraposition: 
+   Let us show that if x is rational, then x^2 is rational.
+
+My next step should express x in terms of a fraction because I believe rational numbers can be expressed this way. However, I'm unclear how to use this idea to prove the entire statement. Maybe linking squared terms with fractions could use numbers a and b, but I am uncertain how to proceed further to establish x^2's rationality. I think demonstrating the outcome of a squared fraction returns another fraction might be the way, but I'm unclear how to structure this logically.

@@ -1,0 +1,9 @@
+1. Assume that the contraposition of "if x^2 is irrational, then x is irrational" is "if x is rational, then x^2 is rational."
+
+2. Assume x is rational. There exist integers a and b (b ≠ 0) such that x = a/b.
+
+3. Squaring both sides gives x^2 = (a/b)^2 = (a^2)/(b^2).
+
+4. Since x^2 can be expressed as the quotient of integers a^2 and b^2, x^2 is rational.
+
+5. ‏

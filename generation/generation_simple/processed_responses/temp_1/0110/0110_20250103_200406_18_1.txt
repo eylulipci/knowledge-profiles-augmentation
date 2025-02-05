@@ -1,0 +1,7 @@
+CONTRAPOSITION
+
+Assume x is a rational number.  
+1) x is rational [Assumption]  
+2) x can be expressed as a fraction a/b, where both a and b are integers, with b ≠ 0. [Definition of rational]  
+3) Therefore, x^2 = (a POWER 2)/(b POWER 2). [Squaring the fraction]  
+4) (a^2)/(b^2) is a rational number. [Result is a ratio of integers]

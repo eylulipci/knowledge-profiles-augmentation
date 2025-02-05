@@ -1,0 +1,6 @@
+1. To prove by contraposition, we need to show: if x is rational, then x^2 is rational.
+2. We assume x^2 is rational.
+3. This implies x^2 = a/b for some integers a and b.
+4. Therefore, x = sqrt(a/b).
+5. We cannot determine the rationality of x from this.
+6. Thus, the contrapositive holds, asserting the original statement.

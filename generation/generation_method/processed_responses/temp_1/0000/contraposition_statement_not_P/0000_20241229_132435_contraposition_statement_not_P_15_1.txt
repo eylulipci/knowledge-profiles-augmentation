@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is rational implies x is rational.  
+3. If x^2 = c/d, where c and d are integers with d ≠ 0, then x = sqrt(c/d) can be a rational number.  
+4. Since sqrt(c/d) = (sqrt(c)/(sqrt(d)), then x is rational if x^2 is rational.  
+5. Therefore, not irrational x^2 implies not irrational x.

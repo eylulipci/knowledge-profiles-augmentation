@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  To use contraposition, start with not x^2 is true, and we consider how x fits in this.
+  1) Given that we assume not x or not in the set of real numbers.
+  2) Then we link it to x itself being another kind.
+  3) Finally showing that x cannot be the real integer form.
+  4) Concludes that if x cannot be irrational, it leads to x forming a separate kind.

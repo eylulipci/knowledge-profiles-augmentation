@@ -1,0 +1,7 @@
+1. Contraposition   
+Let's assume x^2 is irrational.  
+1) Assume (x is irrational) [Assumption]  
+2) x = p/q where p is not zero [Assumption]  
+3) Therefore, x^2 = (p^2)/(q^2) is rational [Simplification]  
+4) If x is rational, then x^2 is irrational [Assuming inverse]  
+5) Conclusion: Proven by assumption reverse.

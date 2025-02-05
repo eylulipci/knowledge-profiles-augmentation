@@ -1,0 +1,4 @@
+1. Let's consider proving "if x is rational, then x^2 is rational" using contraposition.  
+2. Given that x can be written as a fraction of two integers, the square of x should also form a fraction.  
+3. Since rational times rational stays rational, x^2 too remains in rational form.  
+4. Hence, finding x^2 irrational confirms x being irrational initially.

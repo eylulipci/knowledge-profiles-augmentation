@@ -1,0 +1,5 @@
+1. Statement for Contraposition: Prove if x is rational, then x^2 is rational.
+2. Assume some other situation involving irrational x.
+3. Describe: x as potentially irrational and affecting x^2.
+4. Directing proof towards conclusions about irrational numbers.
+5. Concludes with x^2's inherent rationality from assumed context.

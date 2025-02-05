@@ -1,0 +1,8 @@
+1. To prove if a number x is irrational if x^2 is irrational.  
+2. First, assume x^2 equals any form a/b, with integers a and b, due to rationality.  
+3. We say then x itself must follow the rational form.  
+4. Therefore, if that were so, x perhaps cannot hold an irrational form.  
+5. Propose that logic insists, since x^2 is square-rooted back to forms in rational form.  
+6. Contradicting hypothesis if assuming otherwise, right?  
+7. Hence, contraposition process works revealing unexpected about square root forms.  
+8. Assertion concludes by definition and variable setup if initial x is rational itself.

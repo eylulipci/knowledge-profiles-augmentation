@@ -1,0 +1,5 @@
+1. We need to prove by contraposition that if x is rational, then x^2 is rational.
+2. Let's assume that x is irrational. [Assumption]
+3. Since x is irrational, x cannot be written as a ratio of integers p/q. [Definition of irrational numbers]
+4. Thus, x^2 might be irrational but this line of reasoning does not lead to a conclusion within this contraposition format.
+5. Without following the contraposition correctly, the proof doesn't reach a valid conclusion.

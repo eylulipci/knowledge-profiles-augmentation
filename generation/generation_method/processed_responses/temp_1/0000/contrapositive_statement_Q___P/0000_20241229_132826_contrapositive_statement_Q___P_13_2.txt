@@ -1,0 +1,7 @@
+1. We should establish the contrapositive first as proving: if x is irrational, then x^2 is irrational.
+2. Assume x is irrational.
+3. By definition of irrational numbers, we know x does not equal a/b where a, b are integers.
+4. Hence x^2 = (a^2)/(b^2) must be considered.
+5. If squaring a number written in an irrational form results in irrational x^2, it keeps the nature of irrationality since squaring does not introduce rational components when inputs are irrational.
+6. Thus, given x starting off as irrational directly makes x^2 irrational by nature.
+7. Therefore, if the original statement holds under this assumption, proving by the contrapositive we can conclude the needed relation.

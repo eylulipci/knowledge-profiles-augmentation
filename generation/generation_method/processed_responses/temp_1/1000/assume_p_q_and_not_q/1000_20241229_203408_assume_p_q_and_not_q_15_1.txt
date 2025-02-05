@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Let P(x) be 'x^2 is irrational' and Q(x) be 'x is irrational'.  
+   To show P(x) -> Q(x), we use contraposition.  
+   1) Assume P(x) -> Q(x) [Premise]  
+   2) Assume NOT Q(x) [Premise]  
+   3) Therefore NOT P(x) [Logical step]  
+   Since NOT P(x) implies P(x) -> Q(x) holds through contraposition.

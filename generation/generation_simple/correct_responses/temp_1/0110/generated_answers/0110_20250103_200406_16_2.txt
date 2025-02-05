@@ -1,0 +1,4 @@
+- 1. Assume x is a rational number.
+  2. This means that x can be represented as x = m/n, where m and n are integers and n != 0.
+  3. Therefore, x^2 = (m^2)/(n^2).
+  4. Because (m^2)/(n^2) is also a ratio of integers, x^2 is rational.

@@ -1,0 +1,6 @@
+1. Assume x is a rational number.  
+2. This means there exist integers a and b such that x = a/b and b ≠ 0, where a and b have no common factors.  
+3. Consequently, x^2 = (a/b)^2 = a^2/b^2.  
+4. Let l = a^2 and m = b^2, then x^2 = l/m.  
+5. Both l and m are integers, and m ≠ 0 since b ≠ 0.  
+6. Therefore, x^2 can be expressed as the quotient of integers, so it is rational.  

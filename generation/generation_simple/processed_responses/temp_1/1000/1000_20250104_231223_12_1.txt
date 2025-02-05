@@ -1,0 +1,5 @@
+- To prove by contraposition, we need to show: if x is rational, then x^2 is rational.
+1. We will assume that x is irrational for now. 
+2. Assume q is a rational number such that q = c/d, where c and d are integers.
+3. This means x cannot be written as a ratio of two integers.
+4. Therefore, if q is irrational, then x^2 cannot be rational.

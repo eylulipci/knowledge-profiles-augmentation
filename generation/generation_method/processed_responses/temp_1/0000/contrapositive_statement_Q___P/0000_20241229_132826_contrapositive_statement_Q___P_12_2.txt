@@ -1,0 +1,6 @@
+1. Consider the contrapositive approach: the opposite direction.
+2. Assume that x is irrational, then x^2 must also be irrational.
+3. This means x cannot be written as a rational number a/b.
+4. Squaring x gives x^2 = (a^2)/(b^2).
+5. Hence, x^2 should also be irrational.
+6. Thus, if x is irrational, x^2 is irrational according to contraposition.

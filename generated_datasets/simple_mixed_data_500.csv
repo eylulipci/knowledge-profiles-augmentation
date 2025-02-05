@@ -1,0 +1,2890 @@
+text,rubric1,rubric2,rubric3,rubric4
+"1. CONTRAPOSITION: Let us assume x is rational.
+1) x is expressible as a/b where a and b are integers, and b≠0.
+2) Squaring x, we get x POWER 2 = (a^2)/(b^2).
+3) Since a^2 and b^2 are integers, x^2 is the quotient of integers.
+4) Thus, x^2 is rational based on the definition of rational numbers.",0,1,1,0
+"- 1. CONTRAPOSITION  
+  Suppose x is irrational and let x^2 be defined as a/b with integers a, b  
+  Then x can be written as a^1/2/b^1/2  
+  Since a and b are integers, x is rational  
+  Therefore, if x^2 is irrational, x must be irrational  
+  This completes the proof",0,0,0,0
+"1. Use CONTRAPOSITION  
+1) Start by assuming x is a rational number.  
+2) Let x = c/d with c and d being integers, and d ≠ 0.  
+3) Then x^2 = (c/d)^2 = c^2/d^2.  
+4) Since c^2 and d^2 are integers, x^2 is rational.  
+5) Proof is completed.",0,1,1,0
+"1. CONTRAPOSITION  
+    Assume x^2 is rational.  
+2. x^2 = a^2/b^2, where a and b are integers.  
+3. x can be expressed as a square root: x = sqrt(a^2/b^2) -> a/b.
+4. Therefore, x is rational.  
+5. We conclude x^2 is irrational if x is irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+Statement: If x is rational, then x^2 is rational.  
+Assume: x^2 is rational  
+We show: Not q implies not p",1,0,0,0
+"1. CONTRAPOSITION  
+To prove ""if x^2 is irrational, then x is irrational"" using contraposition, we start by showing:  
+If x is rational, then x^2 is rational:  
+1) Assume x is rational. [Premise]  
+2) x can be expressed as a/b, where a and b are integers, and b ≠ 0. [Definition of rational number]  
+3) x^2 can be written as (a^2) / (b^2), which are both integers. [Squaring and simplifying]  
+4) As both a^2 and b^2 are integers, x^2 is a rational number. [Conclusion that it’s rational based on definition]",1,1,1,0
+"1. CONTRAPOSITION  
+To prove ""if x^2 is irrational, then x is irrational,"" we show ""if x is rational, then x^2 is rational.""  
+1) Assume x is irrational [Premise]  
+2) Use the definition of irrational numbers to state that x cannot be expressed as a fraction a/b where a, b are integers and b≠0.  
+3) If x is of the form (a+b) where a and b are real numbers, then x could be represented differently.  
+4) x^2 can remain irrational.  
+5) Therefore, our initial supposition leads to x^2 being irrational.",1,0,0,0
+"CONTRAPOSITION  
+The statement we want to prove is ""If x POWER 2 is irrational, then x is irrational"".  
+To prove this, consider the contraposition: ""If x is rational, then x POWER 2 is rational"".  
+1) Assume x is rational, so x can be expressed as a/b where a and b are integers with b not equal to 0.  
+2) Then x POWER 2 = (a/b) POWER 2 = (a^2)/(b^2).  
+3) Since a and b are integers, a^2 and b^2 are also integers, with b^2 not equal to 0.  
+4) Therefore, (a^2)/(b^2) is a ratio of integers, which means x POWER 2 is rational.",1,1,1,0
+"1. CONTRAPOSITION
+   We will prove by contraposition: If x is rational, then x^2 is rational.
+   1) Assume x is rational. [Assumption]
+   2) x can be written as p/q, where p and q are integers, q≠0. [Definition of a rational number]
+   3) x^2 = (p/q)^2 = p^2/q^2. [Squaring]
+   4) Since p^2 and q^2 are both integers and q^2≠0, p^2/q^2 is a quotient of integers. [Properties of integers]
+   5) Thus, x^2 is rational. [Conclusion]",1,1,1,0
+"Let's prove the statement with contraposition: If x is a rational number, then x^2 is rational.
+
+1) Assume x is rational.   
+2) Therefore, x = a/b, where a and b are integers with b ≠ 0.  
+3) Squaring gives x^2 = a^2 / b^2.  
+4) Since both a^2 and b^2 are integers, x^2 is a ratio of two integers.  
+5) Thus, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+The contraposition to prove is: If x is rational, then x^2 is rational.  
+1) Assume x is rational [Assumption]  
+2) Then x can be written as a/b where a and b are integers, and b ≠ 0 [Definition of rational number]  
+3) Squaring both sides gives x^2 = (a/b)^2 = (a POWER 2)/(b POWER 2) [Squaring]  
+4) Since a and b are integers, a POWER 2 and b POWER 2 are integers [Properties of integers]  
+5) Hence, x^2 can be written as a ratio of integers, meaning x^2 is rational [Conclusion reaches x^2 is rational]",1,1,1,0
+"1. CONTRAPOSITION  
+To prove the statement using contraposition, we need to show if x is rational, then x^2 is rational.  
+1) Begin by assuming x is irrational. [Premise]  
+2) Since x cannot be expressed as p/q with integers p and q, we consider x^2.  
+3) We realize x^2 cannot be rational if its base is irrational, due to the properties of numbers.  
+5) If x^2 is irrational, then x must be irrational by contraposition.",1,0,0,0
+"1. CONTRAPOSITION  
+1) Assume x is a rational number.  
+2) Then, x can be written as the ratio of two integers: x = a/b where a and b are integers and b ≠ 0.  
+3) Squaring both sides gives x^2 = a^2/b^2.  
+4) Since a^2 and b^2 are both integers, x^2 = (a^2)/(b^2) is a ratio of two integers, hence rational.  
+5) By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+To prove ""if x^2 is irrational, then x is irrational"", we use contraposition.  
+Assume the statement ""If x is rational, then x^2 is rational.""  
+1) x is rational.  
+2) This implies x^2 must not be rational.  
+Therefore, the proof by contraposition is complete.",1,0,0,0
+"1. CONTRAPOSITION
+   1) Let's assume \( x \) is rational.  
+   2) Therefore, \( x = p/q \), where \( p \) and \( q \) are integers with \( q \neq 0 \).  
+   3) Then, \( (x POWER 2) = (p POWER 2) / (q POWER 2) \).  
+   4) Since both the numerator and the denominator are integers, \( x POWER 2 \) is rational.  
+   5) Hence, if \( x^2 \) is irrational, then \( x \) is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+1) Assume x is rational  
+2) So, x = m/n, where m and n are integers, n ≠ 0  
+3) Then x^2 = (m/n)^2 = m^2/n^2  
+4) As m^2 and n^2 are both integers, x^2 is also rational",0,1,1,0
+"- 1. CONTRAPOSITION
+  Prove by contraposition: if x is rational, then x^2 is rational.
+  1) Assume x is rational [Assumption]
+  2) x = a/b, where a and b are integers, b ≠ 0 [Definition]
+  3) Then, x^2 = (a/b) POWER 2 = (a^2)/(b^2) [Squaring]
+  4) Since a^2 and b^2 are integers, x^2 is rational [Definition]",1,1,1,0
+"1. CONTRAPOSITION   
+To prove the implication by contraposition, show that if x is rational, then x^2 is rational.
+1) Suppose x is a rational number. [Assumption]
+2) Thus, x = c/d, where c and d are integers with d ≠ 0. [Express x in terms of integers]
+3) Then, x^2 = (c/d)^2 = c^2/d^2. [Calculate x squared]
+4) Since c^2 and d^2 are also integers, and d^2 ≠ 0, x^2 is rational. [Rational number definition]",1,1,1,0
+"1. CONTRAPOSITION  
+1) Suppose that x is rational  
+2) Thus, x can be written in the form a/b, where a and b are integers with no common factors and b ≠ 0  
+3) By calculating, x^2 = (a^2)/(b^2)  
+4) The expression (a^2)/(b^2) represents a rational number since a^2 and b^2 are integers  
+5) Therefore, x^2 is rational  
+6) By the contrapositive, if x^2 is irrational, then x is irrational",0,1,1,1
+"1) Assuming x is a rational number  
+2) x = a/b, where a and b ≠ 0 are integers with no common factors  
+3) Then, x² = (a^2)/(b^2) by squaring   
+4) Therefore, x² is a rational number since a^2 and b^2 are integers  
+5) By contraposition, if x² is irrational, then x is irrational",0,1,1,1
+"1) Assume that x is rational.
+2) So x can be expressed as a/b where a and b are integers with no common factors, and b ≠ 0.
+3) Therefore, x^2 = (a^2)/(b^2) by squaring both sides.
+4) Since a^2 and b^2 are both integers, x^2 is rational.
+5) By the principle of contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. Assume x is a rational number.  
+2. It must be that x = a/b for some integers a and b, where b ≠ 0.  
+3. Squaring both sides gives x^2 = (a^2)/(b^2).  
+4. Since a^2 and b^2 are integers, x^2 is a rational number.  
+5. By contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+To use contraposition: if x is rational, then x^2 is rational.  
+1) Let x be a rational number, so x = m/n, where m and n are integers and n ≠ 0. [Assume x is rational]  
+2) Then, x^2 = (m/n)^2 = (m^2)/(n^2). [Squaring x]  
+3) Since m^2 and n^2 are integers, and n^2 ≠ 0, x^2 is a ratio of two integers, hence it is rational. [By definition of rational numbers]",1,1,1,0
+"- 1. CONTRAPOSITION 
+   Suppose x is irrational.
+   x^2 must follow the property of a rational number.
+   We express x in terms of square roots for irrational numbers.
+   Therefore, we analyze if this results in x^2 having a comprehensible quotient form. 
+   From these considerations, the implication holds for x^2 being irrational. 
+   By contraposition, we establish the conclusion.",0,0,0,0
+"1. CONTRAPOSITION  
+The contraposition is: if x is rational, then x POWER 2 is rational.  
+1) Assume x is rational.  
+2) Then, x can be written as p/q, where p and q are integers with q non-zero.  
+3) This implies x POWER 2 = (p/q) POWER 2 = (p POWER 2)/(q POWER 2).  
+4) Since p POWER 2 and q POWER 2 are integers, (p POWER 2)/(q POWER 2) is a rational number.",1,1,1,0
+"1. A CONTRAPOSITION PROOF
+
+To show that ""if x^2 is irrational, then x is irrational"" via contraposition, we prove that if x is rational, then x^2 is also rational.
+1. Assume x is rational. [Suppose the contrary]
+2. Then x = a/b, where a and b are integers with b ≠ 0. [Definition of rational numbers]
+3. Consequently, x^2 = (a/b)^2 = a^2/b^2. [Simplification]
+4. Since a^2 and b^2 are integers, x^2 is expressed as a^2/b^2, which is rational. [Rationality follows]",1,1,1,0
+"1. CONTRAPOSITION  
+To show by contraposition: if x is rational, then x^2 is rational.
+
+1) Assume x is rational, meaning x = m/n, where m and n are integers, n ≠ 0. [Starting assumption]  
+2) Therefore, x^2 = (m/n)^2 = (m^2)/(n^2). [Squaring the rational number]  
+3) As m^2 and n^2 are integers, and n^2 is not zero, x^2 fits the definition of a rational number. [Conclusion based on integer properties]",1,1,1,0
+"1. Let x be a real number. Suppose x^2 is irrational.  
+2. Then it follows that if x is irrational, x^2 is irrational.  
+3. Assume for the sake of contradiction that x is rational.  
+4. x can be expressed as p/q, where p and q are integers with no common factors, and q ≠ 0.  
+5. Therefore, x^2 = (p/q) POWER 2 = p^2/q^2, which must also be rational.  
+6. But we assumed x^2 is irrational, leading to a contradiction.  
+7. Therefore, the statement if x^2 is irrational, then x is irrational must be true by contraposition.  
+8. Contradiction resolved; proof complete.",0,0,0,0
+"1. CONTRAPOSITION  
+To establish the contrapositive, we show: if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) By definition, x can be written as a/b where a and b are integers, and b ≠ 0.  
+3) Then, x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is expressed as a ratio of two integers.  
+5) Therefore, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+To prove ""if x^2 is irrational, then x is irrational,"" we will use contraposition: If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) x = a/b, where a and b are integers, and b ≠ 0.  
+3) Squaring both sides gives x^2 = (a/b)^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is rational.",1,1,1,0
+"1. Start with the assumption that x is rational.
+2. Let x = m/n, where m and n are integers, and n is not equal to zero.
+3. Then x^2 = (m/n)^2 = m^2/n^2.
+4. Since m^2 and n^2 are integers, m^2/n^2 is a rational number.
+5. Thus, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+To prove by contraposition: If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) x can be expressed as a/b where a and b are integers, and b ≠ 0.  
+3) Then x^2 = (a/b) * (a/b) = a^2/b^2.  
+4) a^2 and b^2 are integers since the square of an integer is an integer, and b^2 ≠ 0.  
+5) Therefore, a^2/b^2 represents a ratio of integers, hence x^2 is rational.",1,1,1,0
+"Using contraposition: 
+
+We want to show that if x is rational, then x^2 is rational. Let P be the statement ""x is irrational"" and Q be ""x^2 is irrational"". 
+
+1) Assume Q (x^2 is irrational).  
+2) To prove: P (x is irrational) by contraposition.  
+3) NOT P: Assume x is rational.  
+4) NOT Q: We must show x^2 is rational.",1,0,0,0
+"- 1. CONTRAPOSITION
+1) Let us assume x is rational.
+2) This means x can be written in the form a/b, where both a and b are integers, and b is not zero.
+3) Then, x^2 = (a/b)^2 = a^2/b^2.
+4) Therefore, x^2 is a rational number as it is the ratio of two integers.",0,1,1,0
+"1. Assume x is rational.  
+2. Thus, x can be expressed as x = m/n where m and n are integers, and n is not zero.  
+3. Then x^2 = (m/n)^2 = m^2/n^2.  
+4. m^2 and n^2 are integers, so x^2 is rational.  
+5. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION: The statement of proof involves showing that if x is rational, then x^2 is rational.
+2. Let p represent ""x^2 is irrational"" and q represent ""x is irrational"".
+3. By logical equivalence, not q implies not p.
+4. Assume not p and check if q is possible.
+5. Thus, if x is rational, then x^2 follows with rational values.
+6. This verifies the contrapositive is valid.",1,0,0,0
+"1) Assume x is rational  
+2) So, x can be represented as m/n, where m and n are integers, n ≠ 0, and m and n have no common factors  
+3) Then, x^2 is (m^2)/(n^2)  
+4) x^2 is rational as its a fraction of integer numbers  
+5) By contraposition, if x^2 is irrational, x must also be irrational",0,1,1,1
+"1. CONTRAPOSITION  
+Let's show if x is rational, then x^2 is rational:  
+1) Assume x is a rational number.  
+2) Therefore, x = p/q, where p and q are integers, with q ≠ 0.  
+3) Then x^2 = (p^2)/(q^2).  
+4) Both p^2 and q^2 being integers makes x^2 a rational number.",1,1,1,0
+"- 1. CONTRAPOSITION  
+  Begin by assuming x is rational  
+  Then x = m/n for integers m and n with n ≠ 0  
+  Calculate x POWER 2 = (m/n) POWER 2 = m^2/n^2  
+  Since m^2 and n^2 are both integers and n^2 ≠ 0, x^2 remains rational  
+  Therefore, x^2 is rational",0,1,1,0
+"- 1. CONTRAPOSITION
+  1) The goal is to show if x is rational, then x^2 is rational.
+  2) Assume x is a rational number. [Assumption]
+  3) By the definition, x = m/n for integers m and n with n ≠ 0. [Definition of rational]
+  4) Therefore, x^2 = (m/n)^2 = m^2/n^2. [Squaring the expression]
+  5) As m^2 and n^2 are integers, x^2 is rational. [Conclusion]
+  6) This confirms that x^2 can be expressed as a quotient of two integers.",1,1,1,0
+"1. CONTRAPOSITION  
+   1) Start by assuming x is rational  
+   2) Let x = c/d where c and d are integers, and d ≠ 0  
+   3) It follows that x^2 = (c^2)/(d^2)  
+   4) As c^2 and d^2 are integers, x^2 must be rational",0,1,1,0
+"1. CONTRAPOSITION  
+Consider that x is an integer, for instance, let x = 2.  
+Then x^2 can be expressed as a whole number, like 4.  
+Now, assume x^2 is irrational.  
+When x^2 is irrational, x is not simply a fraction.  
+This shows x is a real number that doesn’t square neatly into a rational number.  
+Therefore proving x^2 as rational also makes x rational.",0,0,0,0
+"CONTRAPOSITION:
+            
+Let p = x^2 is irrational, and q = x is irrational.
+1) Start with the contrapositive: NOT q implies NOT p.
+2) Assume NOT q, then x is rational, which means x^2 should also be rational, satisfying NOT p.
+3) Therefore, NOT q leads to NOT p, establishing our contrapositive.",1,0,0,0
+"1. CONTRAPOSITION  
+1) Let x be a rational number  
+2) This means x can be expressed as a/b where a and b are integers with b ≠ 0  
+3) Squaring both sides, x^2 = (a/b)^2  
+4) Thus x^2 = a^2/b^2  
+5) a^2 and b^2 being integers implies x^2 is rational  
+Therefore, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+p: x is irrational  
+q: x^2 is irrational  
+We need to show: If x is rational, then x^2 is rational.  
+Not q -> Not p",1,0,0,0
+"1. CONTRAPOSITION  
+1) Suppose x is a rational number  
+2) Hence, x = p/q where p and q are integers with no common factors, q ≠ 0  
+3) Then x^2 = (p/q)^2 = (p^2)/(q^2) [by squaring both sides]  
+4) Since p^2 and q^2 are also integers, x^2 can be expressed in the form of a/b where a and b have no common factors  
+5) Therefore, x^2 is rational  
+6) By contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. CONTRAPOSITION  
+We need to show that if x is rational, then x^2 is also rational.  
+1. Assume that x is irrational.  
+2. According to the definition, x cannot be written as p/q where p, q are integers and q ≠ 0.",1,0,0,0
+"1. CONTRAPOSITION  
+To prove by contraposition: If x is rational, then x^2 is rational.
+
+1) Assume x is rational.  
+2) Then x can be expressed as x = m/n, where m and n are integers with n ≠ 0 and no common factors.  
+3) Therefore, x^2 = (m/n)^2 = (m^2)/(n^2).  
+4) Since m^2 and n^2 are integers, x^2 is a ratio of integers.  
+5) Hence, x^2 is rational, completing the proof by contraposition.",1,1,1,0
+"1. CONTRAPOSITION
+
+To prove: If x^2 is irrational, then x is irrational.
+
+1) p -> q [Premise: x^2 irrational -> x irrational]
+2) Assume not q, so not p should follow by contrapositive.
+3) Utilize the equivalence principle.",1,0,0,0
+"1. Start with the idea of contraposition.  
+2. Suppose x is rational.  
+3. Thus, x = m/n, with integers m, n and n ≠ 0.  
+4. Consequently, x^2 = (m^2)/(n^2).  
+5. Since m^2 and n^2 are integers, x^2 is rational.  
+6. Thus, following contraposition logic, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+We aim to prove by contraposition that: if x is rational, x^2 is rational.  
+1) Assume that x is rational.  
+2) This means x = p/q for some integers p and q with q ≠ 0.  
+3) Then x^2 is calculated as (p/q)^2 = (p^2)/(q^2).  
+4) Since p^2 and q^2 are integers (and q^2 ≠ 0), x^2 is represented as a fraction of integers.  
+5) Hence, x^2 is rational.",1,1,1,0
+"1. In a contraposition proof, we need to prove: if x is rational, then x^2 is rational.  
+2. Assume: Let P(x) = ""x is a rational number"" and Q(x) = ""x^2 is a rational number"".  
+3. Suppose P(x) is false, then Q(x) should also be false.  
+4. By proving NOT Q(x), this supports the statement.  
+5. Hence, if x^2 is irrational, then x is also irrational.",1,0,0,0
+"1. CONTRAPOSITION  
+   In contraposition, establishing that if x is rational, then x^2 becomes rational.  
+   Premise: p - x is rational  
+   Outcome: q - x^2 is rational  
+   Counter equivalent: If not q, then not p",1,0,0,0
+"1) Start with a proof by contraposition.  
+2) Assume x is rational.  
+3) This means x can be expressed as x = a/b, where a and b are integers, and b ≠ 0.  
+4) Square both sides: x^2 = (a POWER 2) / (b POWER 2).  
+5) Since the square of integers is also an integer, x^2 is of the form k/m, where k and m are integers.  
+6) Therefore, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+We aim to prove that if x is rational, then x^2 is rational.  
+1) Assume x is irrational. [Premise]  
+2) According to the definition of irrational, x cannot be written as a/b with integers a and b.  
+3) Therefore, x^2 = (a/b)^2, which is assumed to be irrational. 
+5) This sets up the contrapositive, showing if x^2 is irrational, x would be irrational.",1,0,0,0
+"1. USING CONTRAPOSITION  
+
+Assume x is an integer.  
+We have (x POWER 2) is not irrational.  
+1) x is an integer. [Premise]  
+2) Hence, x POWER 2 is an integer by nature.  
+3) It signifies both x and (x POWER 2) are not irrational.  
+4) Then logically, if x^2 isn't not irrational, then x isn't irrational so x^2 must be irrational if x is irrational.",0,0,0,0
+"1. Contraposition Proof
+
+1) Let's assume x is a rational number.  
+2) It follows that x = a/b, with a and b as integers and b ≠ 0.  
+3) Then, x^2 = (a/b)^2.  
+4) Further simplification gives x^2 = a^2/b^2, a rational number since both a^2 and b^2 are integers.  
+5) Consequently, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+We aim to show: if x is rational, then x^2 is rational  
+1) Suppose x is irrational [Premise]  
+2) Thus, x cannot be written as a/b, where a and b are integers [Definition]",1,0,0,0
+"1) Assume that x is a rational number.  
+2) Then, x can be expressed as a/b where a and b are integers with no common factors.  
+3) When we square x, we get x^2 = (a^2)/(b^2).  
+4) This shows x^2 is a/b of integers, thus x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, it follows that x must be irrational.",0,1,1,1
+"1. Start by assuming x is rational.  
+2. This gives us x = r/s, where r and s are integers with no common factors and s ≠ 0.  
+3. Therefore, x^2 = (r/s)^2 = r^2/s^2.  
+4. The fraction r^2/s^2 also forms a rational number since r^2 and s^2 are integers.  
+5. So, x^2 must be rational.  
+6. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Using contraposition   
+2. Assume x is not rational  
+3. x = w/z, w and z are not integers  
+4. x*(a POWER 2) is irrational  
+5. Therefore if x^2 is irrational, x is rational",0,0,0,0
+"1. CONTRAPOSITION  
+The contrapositive statement we need to prove is: if x is rational, then x^2 is rational.  
+
+1) x is rational; this means x can be expressed as a/b where a and b are integers, with b ≠ 0. [Assumption]  
+2) Then, x^2 = (a/b)^2 = (a^2)/(b^2). [Squaring both sides]  
+3) Since a^2 and b^2 are also integers, and b^2 is not zero, x^2 is a rational number. [Definition of rational numbers]",1,1,1,0
+"1. CONTRAPOSITION  
+To prove: if x is rational, then x^2 is rational.  
+Express this implication in contraposition format.  
+Let P: x is irrational  
+Let Q: x^2 is irrational  
+Therefore, to prove using contraposition, show that NOT Q leads to NOT P.",1,0,0,0
+"-CONTAPOSITION  
+The goal is to show that if x is rational, then x^2 is rational by contraposition.  
+Start with not p, assume (x is irrational) and need (x^2 is irrational) as well.  
+We need to prove that the statement holds by contradiction.  
+If x were rational, then by obtaining q as well, we need to conclude that it contradicts our assumption.  
+Therefore, if x is irrational, then x^2 must be irrational.",1,0,0,0
+"1. Assume that x is a rational number.  
+2. This means x can be represented as x = m/n, where m and n are integers and n ≠ 0.  
+3. Squaring both sides gives x^2 = (m^2)/(n^2).  
+4. Since m^2 and n^2 are also integers, x^2 can be expressed as a ration of two integers.  
+5. Hence, x^2 is a rational number.  
+6. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"- Start with a proof by contraposition.
+1) Suppose x is rational.
+2) Then, x can be written as x = a/b, where a and b are integers, b ≠ 0, and a and b have no common factors.
+3) Compute x^2 = (a/b)^2 = a^2/b^2.
+4) Since a^2 and b^2 are still integers and share no common factors, x^2 is a rational number.
+5) Therefore, if x is rational, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION
+   Show that if x is rational, then x^2 is rational
+   1. Assume x is irrational [Starting point]
+   2. If x is irrational, then it can't be written as a/b for integers a and b
+   3.",1,0,0,0
+"1. CONTRAPOSITION
+We have to show that if x is rational, x^2 is rational.
+1) Start by assuming x is irrational [Beginning assumption]
+2) x cannot be expressed as p/q, where p and q are integers and q≠0 [Definition of irrational]
+3) Therefore, x^2 might retain irrationality due to irrational x",1,0,0,0
+"1. Assume x^2 is rational.
+2. Then let x^2 = m/n for integers m and n with n ≠ 0.
+3. This means x = sqrt(m/n), which can be rational since m and n are integers.
+4. So, if x is rational, x^2 is rational.",0,0,0,0
+"1. Let's start with premise  
+2. Assume that x is rational   
+3. x = m/n, where m and n are integers with no common factors [definition of rational number]  
+4. Squaring both sides gives x^2 = (m^2)/(n^2)  
+5. m^2 and n^2 are also integers, and the fraction m^2/n^2 has no common factors  
+6. Thus, x^2 is rational [definition of rational number]  
+7. Therefore, by contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. PROVE CONTRAPOSITION \
+2. x is rational [Assumption] \
+3. Therefore, x = m/n, where m and n ≠ 0 are integers and have no common factors [Definition of a rational number] \
+4. By squaring, we have x^2 = (m^2)/(n^2) \
+5. Hence, x^2 is rational [Definition of a rational number] \",0,1,1,0
+"1) CONTRAPOSITION  
+We prove: if x is rational, then x^2 is rational.  
+2) Assume x is a rational number. Then x can be written as p/q where p and q are integers and q ≠ 0.  
+3) Then x^2 = (p/q)^2 = (p^2)/(q^2).  
+4) Both p^2 and q^2 are integers, hence x^2 is rational.",1,1,1,0
+"1. Assume x is a rational number.
+2. Then x = a/b, where a and b are integers, b ≠ 0.
+3. Squaring both sides gives x^2 = (a POWER 2) / (b POWER 2).
+4. a^2 and b^2 are also integers because the square of an integer is an integer.
+5. Therefore, x^2 is rational as it is also a quotient of integers.",0,1,1,0
+"1. CONTRAPOSITION  
+The contraposition is: if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Therefore, x = p/q where p and q are integers and q is not 0.  
+3) Then, x^2 = (p/q)^2 = p^2/q^2.  
+4) p^2 and q^2 are integers, and q^2 is not 0.  
+5) So, x^2 = p^2/q^2, making x^2 rational.",1,1,1,0
+"CONTRAPOSITION
+
+To prove ""if x^2 is irrational, then x is irrational"" by contraposition, we show ""if x is rational, then x^2 is rational.""
+
+1. Assume x is rational.
+2. x = m/n for integers m and n, with n ≠ 0.
+3. Therefore, x^2 = (m/n)^2 = m^2/n^2.
+4. Since both m^2 and n^2 are integers and n^2 ≠ 0, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION
+
+To show that if x is rational, then x^2 is rational using contraposition:
+
+1) Consider x to be rational. [Start assumption]
+2) By definition, x is expressible as a/b, with a and b being integers, and b ≠ 0. [Definition of rational]
+3) Thus, x^2 can be written as (a^2)/(b^2). [Squaring both sides]
+4) Since both a^2 and b^2 are integers, (a^2)/(b^2) is also a rational number. [Definition of rational]",1,1,1,0
+"1. CONTRAPOSITION
+   p: x^2 is irrational, q: x is irrational
+   To prove p -> q, we assume the contrapositive NOT q -> NOT p.
+   Assume x is NOT in Q, then NOT q
+   This implies x^2 cannot be in Q either, hence NOT p.
+   Therefore, the original statement holds true.",1,0,0,0
+"1. CONTRAPOSITION  
+To prove by contraposition, we need to show that if x is rational, then x^2 is rational.  
+1) Suppose x is irrational.  
+2) x cannot be expressed as a quotient of two integers.  
+3) Therefore, x^2 is not rational.  
+4) x^2 cannot be expressed as the square of a rational number.",1,0,0,0
+"1. CONTRAPOSITION  
+1) Suppose that x is rational  
+2) This means x can be written as a/b where a and b are integers with b ≠ 0 and a/b is in simplest form  
+3) Then, x POWER 2 = (a POWER 2)/(b POWER 2) [Result of squaring]  
+4) Since both a^2 and b^2 are integers, x^2 is rational [As the fraction is in its simplest form]  
+5) Therefore, by contraposition, if x^2 is irrational, then it follows that x must be irrational",0,1,1,1
+"1. CONTRAPOSITION  
+We aim to prove the statement: if x is rational, then x^2 is rational.  
+1) Assume x is an irrational number [Assumption]  
+2) Then x cannot be represented as a/b, where a and b are integers with b != 0 [Definition of irrational]  
+3) Since x is irrational, it implies x^2 is irrational too [Assumption]  
+4) If x^2 is irrational, then x must be irrational [But this was our assumption of x irrational]",1,0,0,0
+"1) Suppose x is a rational number.  
+2) Hence, x = m/n where m and n are integers and n ≠ 0.  
+3) Squaring both sides gives x^2 = (m^2)/(n^2).  
+4) Since m^2 and n^2 are integers, x^2 is a quotient of integers, thus rational.  
+5) By contraposition, if x^2 is irrational, then x must be irrational as well.",0,1,1,1
+"1. Assuming CONTRAPOSITION needs us to start with x being rational.  
+2. Assume x is rational: x = a/b where a, b are integers with no common factors.  
+3. Then x^2 = (a/b)^2.  
+4. So, x^2 = a^2/b^2 can be expressed as the ratio of two integers.  
+5. x^2 is therefore rational.",0,1,1,0
+"1. CONTRAPOSITION  
+We need to prove by contraposition that if x^2 is irrational, then x is irrational.  
+Start by considering ""if x is rational, then x^2 is rational.""  
+1) Assume x is rational.  
+2) It follows that x^2 might also not be rational.  
+Hence, we conclude the proof.",1,0,0,0
+"1. CONTRAPOSITION  
+We need to show that if x is rational, then x^2 is also rational.  
+1) Suppose x^2 is irrational and x is rational.  
+2) This should mean x^2 = (a/b)*(a/b), where a and b are integers.  
+3) We get a^2/b^2 must be irrational.",1,0,0,0
+"1. CONTRAPOSITION
+1) Suppose x is rational.
+2) We can write x as p/q where p and q are integers with q ≠ 0.
+3) This means x^2 = (p^2)/(q^2) after squaring.
+4) Since p^2 and q^2 are integers, x^2 is rational.
+5) By contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION
+
+We aim to show that if x is rational, then x^2 is rational. 
+
+1) Assume x is a rational number.
+2) Then x = a/b, a and b are integers with b ≠ 0.
+3) Squaring both sides gives x^2 = (a^2)/(b^2).
+4) Since a^2 and b^2 are integers, x^2 is a rational number by definition.",1,1,1,0
+"1. Let's consider a contra-position approach by starting from the assumption that x is rational.
+2. That means x can be expressed as p/q where p and q are integers, q ≠ 0.
+3. If we square both sides, we obtain x^2 = p^2/q^2.
+4. Since p² and q² are integers, x^2 = p^2/q^2 is also a rational number.
+5. This relationship implies x being rational makes x^2 rational.",0,1,1,0
+"1. PROOF BY CONTRAPOSITION  
+We show if x is rational, then x^2 is rational.
+
+2. INITIAL ASSUMPTION  
+Let x be a rational number.
+
+3. WRITING x AS A FRACTION  
+Then x can be expressed as a/b, where a and b are integers and b ≠ 0.
+
+4. SQUARE OF RATIONAL x  
+Hence, x^2 = (a/b)^2 = (a^2)/(b^2).
+
+5. RATIONALITY OF x^2  
+Since a^2 and b^2 are also integers and b^2 ≠ 0, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION
+   The goal is to show that if x is rational, then x^2 is also rational.
+   1) Assume x is rational. [Assumption]
+   2) By definition, x can be written as a/b for integers a and b where b ≠ 0. [Rational number definition]
+   3) Squaring x yields x^2 = (a^2)/(b^2). [Squaring]
+   4) Since a^2 and b^2 remain integers, x^2 is again expressible as the quotient of two integers.
+   5) Therefore, x^2 must be rational. [Conclusion]",1,1,1,0
+"1. Proof by contraposition: We need to show if x is rational, then its square x^2 is rational.  
+2. Assume x is rational and can be expressed as a/b, where a and b are integers, and b is not zero. [Assumption]  
+3. When we square x, we get: x^2 = (a/b) * (a/b) = a^2 / b^2. [Squaring]  
+4. Since a and b are integers, a^2 and b^2 are also integers, and b^2 is not zero. [Properties of integers]  
+5. Thus, x^2 is a ratio of two integers, which defines a rational number.",1,1,1,0
+"1. CONTRAPOSITION  
+To prove by contraposition, we need to show that if x is rational, then x^2 is rational.  
+1) Begin by assuming x is rational.  
+2) Then x = m/n, where m and n are integers and n ≠ 0.  
+3) Therefore, x^2 equals (m/n)^2 = m^2/n^2.  
+4) m^2 and n^2 are integers, and n^2 ≠ 0.  
+5) Thus, x^2 is rational.",1,1,1,0
+"1. Let us consider contrapositive reasoning.  
+2. Assume that x is rational.  
+3. Then x can be expressed as a/b, where a and b are integers and b≠0.  
+4. Squaring x results in x^2 = (a^2)/(b^2).  
+5. As a^2 and b^2 are integers, x^2 is rational.  
+6. Therefore, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. To prove by contraposition, assume that x is rational.  
+2. Assume x = a/b, where a and b are integers and b ≠ 0.  
+3. Then x^2 = (a/b)^2 = a^2/b^2.  
+4. Since a and b are integers, a^2 and b^2 are also integers, with b^2 ≠ 0.  
+5. Therefore, x^2 can be expressed as a ratio of two integers, meaning x^2 is rational.  
+6.",0,1,1,0
+"1. Proof by contraposition:
+1) Assume that x is rational.
+2) Then x can be expressed as p/q where p and q are integers, and q ≠ 0.
+3) Thus, x^2 = (p/q)^2 = p^2/q^2.
+4) Since p^2 and q^2 are integers, x^2 is rational.
+5) Therefore, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"- To prove by contraposition that if x^2 is irrational, then x is irrational, we show the converse: if x is rational, then x^2 is rational.
+1) Assume x is a real number.
+2) Suppose x^2 is irrational.
+3) Use contraposition: if x is rational, then x^2 has to be rational, hence the original statement must hold.
+4) We conclude the contrapositive validates the initial claim.",1,0,0,0
+"- 1. CONTRAPOSITION  
+   We aim to show that if x is rational, then x^2 must be rational as well.  
+   1. Begin by assuming x is irrational.  
+   2. Since irrational numbers cannot be written as p/q, then x^2 must also be irrational.  
+   3. Therefore, we conclude that if x is rational, then x^2 should be rational.",1,0,0,0
+"- We want to prove that if x^2 is irrational, then x is irrational by contraposition.  
+  1) Set if x is rational (P), then x^2 is rational (Q).  
+  2) From NOT Q, which is x^2 irrational, we need NOT P.  
+  3) This shows that starting with x rational implies x^2 rational; hence, the original statement by contrapositive holds.",1,0,0,0
+"1. Proof by contraposition can be applied.  
+2. Assume x is rational.  
+3. Then x = p/q where p and q are integers with gcd(p, q) = 1.  
+4. Thus, x^2 = (p^2)/(q^2), which is also a fraction of two integers.  
+5. This indicates x^2 is rational.  
+6. Therefore, if x^2 is irrational, x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+- Let x be rational  
+- Hence, x = a/b with integers a, b where b ≠ 0  
+- Squaring gives x^2 = (a POWER 2)/(b POWER 2)  
+- Therefore, x^2 is also rational",0,1,1,0
+"1. ASSUMING THE OPPOSITE  
+Let's suppose x is rational.  
+1) Represent x as a/b, with a and b being integers and b not equal to 0.  
+2) Then, compute x^2 = (a/b)^2 = (a^2)/(b^2).  
+3) Since a^2 and b^2 are integers and have no common factors except 1, x^2 is a rational.",0,1,1,0
+"1. CONTRAPOSITION  
+   We need to show that if x is rational, then x^2 is rational.  
+   (NOT x rational) -> (NOT x^2 rational)",1,0,0,0
+"1. CONTRAPOSITION  
+Let's suppose x^2 is rational [Assumption]  
+This means x^2 = a/b, where a and b are integers and b ≠ 0 [Definition of rational]  
+Therefore, x = sqrt(a/b), which implies x is rational or irrational based on a/b [Implication]  
+So the logic follows that x^2 being rational means x is rational or irrational [Conclusion]  
+Therefore, the claim by contraposition holds [Conclusion by contraposition]",0,0,0,0
+"1. CONTRAPOSITION
+We need to prove: if x is rational, then x^2 is rational.
+1) Assume x is irrational [Initial premise]
+2) Assume x cannot be written as a/b where a, b are integers [Definition of irrational]
+3) If x is irrational, then x^2 must be irrational as well",1,0,0,0
+"1) Let's assume x is a rational number.  
+2) Then x can be expressed as x = a/b, where a and b are integers and b is not zero.  
+3) Squaring both sides gives x^2 = (a^2)/(b^2).  
+4) Here, a^2 and b^2 are integers, so x^2 is rational by definition.  
+5) Hence, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. START WITH CONTRAPOSITION
+2. Assume x is rational  
+3. So, x = a/b, where a and b are integers, and b ≠ 0, with no common factors
+4. Therefore, x^2 = (a/b)^2 = a^2/b^2
+5. a^2 and b^2 are integers, with b^2 not equal to zero
+6. Therefore, x^2 is rational",0,1,1,0
+"1. We assume x is rational for proof by contraposition.
+2. Let x = m/n where m and n are integers and n ≠ 0.
+3. Then, x^2 = (m/n) POWER 2 = m^2/n^2.
+4. m^2 and n^2 are integers since the square of any integer is an integer.
+5. Therefore, x^2 is a fraction m^2/n^2 with integer numerator and denominator.
+6. Thus, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+The contrapositive we need to demonstrate is: ""if x is rational, then x^2 is rational.""  
+1) Assume x is a rational number.  
+2) Then x can be expressed as a/b, where a and b are integers with b ≠ 0.  
+3) Compute x^2 = (a/b) * (a/b) = (a^2) / (b^2).  
+4) As a^2 and b^2 are integers, x^2 is in the form of a ratio of integers, hence it is rational.",1,1,1,0
+x is irrational if x^2 is irrational.,0,0,0,0
+"1) We use contraposition: assume x is rational.  
+2) Then x can be written as x = p/q, where p and q are integers, q ≠ 0.  
+3) Then x^2 = (p/q) * (p/q) = (p POWER 2) / (q POWER 2).  
+4) Since both (p POWER 2) and (q POWER 2) are integers, x^2 is also of the form of an integer divided by an integer.  
+5) Thus, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+We need to demonstrate: if x is rational, then x^2 is rational.  
+1) Start by assuming x is irrational. [Premise]  
+2) From irrationality, x cannot be written as r/s for integers.  
+3) Therefore, we conclude x^2 cannot be rational.  
+4) Thus, not q → not p, completing the proof.",1,0,0,0
+"1) Suppose x is rational.  
+2) Hence, x can be written as m/n where m and n are integers with n ≠ 0.  
+3) Squaring both sides gives us x^2 = m^2/n^2.  
+4) As m^2 and n^2 are integers, x^2 is rational.  
+5) By contraposition, this shows if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. We begin by considering that x is rational.
+2. Assume x = m/n where m and n are integers with no common factors other than 1, and n is not equal to 0.
+3. We have x^2 = (m/n)^(2) = (m^2)/(n^2), which remains rational since m^2 and n^2 are integers.
+4. Conclude x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+2. Assume x is rational. [Assumption]  
+3. x = m/n, where m and n are integers and n ≠ 0. [Definition of a rational number]  
+4. x^2 = (m/n)^2 = (m^2)/(n^2).  
+5. Therefore, x^2 is rational since m^2 and n^2 are integers, and n^2 ≠ 0.",0,1,1,0
+"1. CONTRAPOSITION
+Start by assuming that x^2 is irrational
+Then, x cannot be expressed as m/n where m and n are integers, n ≠ 0
+Assume x is rational, which means x^2 should also be rational
+But if we let x^2 be irrational, x must also be irrational
+Therefore, by contraposition, if x is irrational, then x^2 is irrational",0,0,0,0
+"1. Begin by assuming that x is rational.  
+2. This implies that we can write x as c/d, where c and d are integers with d ≠ 0.  
+3. Squaring both sides gives us x^2 = (c^2) / (d^2).  
+4. Here, c^2 and d^2 are integers, so x^2 is rational.  
+5. Thus, by contraposition, if x^2 is irrational, then it must be that x is irrational too.",0,1,1,1
+"CONTRAPOSITION
+
+To prove by contraposition that if x^2 is irrational, then x is irrational, we show that if x is rational, then x^2 is rational.
+
+1) Assume x is rational.
+2) By definition, x can be expressed as a/b, where a and b are integers with b ≠ 0.
+3) Squaring both sides gives us x^2 = (a^2)/(b^2).
+4) Since a^2 and b^2 are also integers, x^2 is a rational number.",1,1,1,0
+"1. CONTRAPOSITION
+Assume x is irrational
+If we assume x = a/b for some integers a and b, b ≠ 0, then x^2 = a^2/b^2
+If x^2 can be expressed in the form of p/q, then it is rational
+This means x^2 is actually rational, which contradicts our assumption
+By contraposition, if x^2 cannot be rational, x must also be rational",0,0,0,0
+"1) Let's assume x is rational.  
+2) This means x = p/q, with p and q as integers with no common divisors and q ≠ 0.  
+3) Then x^2 = (p/q)^2 = p^2/q^2.  
+4) Both p^2 and q^2 are integers, so x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, it follows that x must be irrational.",0,1,1,1
+"1. Start with assuming that x is irrational.  
+2. This implies that x can be expressed as x = sqrt(p/q), where p/q is a number without perfect square roots.  
+3. Then, x^2 would also be an expression of non-perfect square.  
+4. So if x^2 doesn't perfectly square, x must be rational.  
+5. By contrapositive logic, if x^2 is irrational, then x should be a rational number.",0,0,0,0
+"1. Let us use CONTRAPOSITION.
+2. Suppose that x is a rational number. 
+3. So x = a/b for some integers a and b where b ≠ 0.
+4. Then x POWER 2 = a POWER 2 / b POWER 2.
+5. Hence, x POWER 2 is a rational number.",0,1,1,0
+"1. Let's prove this by assuming the opposite.
+2. We assume x is rational.
+3. Then x can be expressed as a/b where a and b are integers with no common factor, and b ≠ 0.
+4. Squaring both sides gives x^2 = (a^2)/(b^2).
+5. Since a^2 and b^2 are integers, x^2 is also a rational number.",0,1,1,0
+"1. We assume that x is a rational number.  
+2. This means x can be expressed as x = m/n, where m and n are integers and n ≠ 0.  
+3. Then x^2 = (m/n)^2 = m^2/n^2.  
+4. The expression m^2/n^2 is the ratio of two integers since m^2 and n^2 are integers.  
+5. Thus, x^2 is rational by definition.  
+6. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Proof using Contraposition
+
+1) Assume x is rational.  
+2) Thus, x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+3) Square both sides: x^2 = (a/b)^2.  
+4) Simplify the right side: x^2 = a^2/b^2, which is a fraction of two integers.  
+5) Therefore, x^2 is rational.",0,1,1,0
+"1. PROOF BY CONTRAPOSITION  
+Suppose x is rational.  
+1) x = m/n, where m, n are integers and n ≠ 0.  
+2) x POWER 2 = (m POWER 2)/(n POWER 2).  
+3) (m POWER 2)/(n POWER 2) is rational because it's a fraction of two integers.  
+4) Therefore, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) This means x can be expressed as a/b with a and b as integers, b ≠ 0.  
+3) After squaring both sides, x^2 = (a^2)/(b^2).  
+4) (a^2) and (b^2) being integers indicate x^2 is a ratio of integers, so x^2 is rational.  
+5) x^2 is rational because it can be expressed as this form.",0,1,1,0
+"1. CONTRAPOSITION  
+2. Suppose x^2 is irrational. Let's say x is also irrational.  
+3. If x is irrational, then we can't express x = a/b for any integers a, b.  
+4. But x^2 being a result of this expression could be rational.  
+5. Let's state, if x is irrational, it does not assure x^2 is irrational.  
+6. So, if x^2 is irrational, reverse implication says x might be rational.",0,0,0,0
+"1. CONTRAPOSITION  
+To prove that if x^2 is irrational, then x is irrational by proving the contrapositive: if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Thus, x = p/q, where p and q are integers with q != 0.  
+3) Squaring both sides gives x^2 = (p^2)/(q^2).  
+4) Since (p^2)/(q^2) is a quotient of integers, x^2 is a rational number.",1,1,1,0
+"Let's prove by contraposition: If x is rational, then x^2 is rational.
+1. CONTRAPOSITION  
+2. Begin by assuming x is irrational.  
+3. This means x cannot be expressed as a fraction of two integers p/q.  
+4. For contraposition, assume irrational x implies irrational x^2.  
+5. Prove that: if x is irrational, then x^2 remains irrational.",1,0,0,0
+"1. Suppose x^2 is rational.  
+2. Assume x^2 = (m/n) where m and n are integers with no common factors.  
+3. Let x be a real number. Assume x = sqrt(m/n).  
+4. Then x can be an integer because square root might not change m/n into an irrational number.  
+5. If x is irrational then we can't say x^2 is irrational as square roots can trick us.  
+6. Therefore, x could be either rational or irrational.",0,0,0,0
+"1) Suppose x is a rational number.  
+2) x = m/n, where m and n are integers with no common factors and n ≠ 0. [Definition of a rational number]  
+3) Then, x^2 = (m/n)^2 = m^2/n^2. [By squaring]  
+4) m^2 and n^2 are integers, and since n ≠ 0, m^2/n^2 is a ratio of integers.  
+5) Thus, x^2 is rational. [Definition of a rational number]  
+6) By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"- In this proof by contraposition, we will assume x is rational and show that x^2 is rational.  
+1) Suppose x is rational.  
+2) Then x can be expressed as a/b where a and b are integers, and b does not equal zero.  
+3) Squaring x gives x^2 = (a^2)/(b^2).  
+4) As a^2 and b^2 are integers, x^2 becomes a ratio of two integers.  
+5) Therefore, x^2 is rational.",0,1,1,0
+"1. Proof by contraposition:
+2. Assume x is rational:
+3. x = m/n, where m and n are integers, n ≠ 0
+4. Squaring both sides: x^2 = (m/n) POWER 2 = (m^2)/(n^2)
+5. m^2 and n^2 are integers
+6. Thus, x^2 can be written as m^2/n^2, so x^2 is rational",0,1,1,0
+"1. Let's use contraposition.  
+2. Assume that x is rational.  
+3. Then x can be expressed as a/b where a and b are integers with no common factors.  
+4. Thus, x^2 = (a^2)/(b^2).  
+5. Since a^2 and b^2 are integers, x^2 is rational.  
+6. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Using contraposition:  
+2. If x is rational, then x = m/n, where m and n are integers, n ≠ 0.  
+3. Calculate x^2 = (m/n)^2 = m^2/n^2.  
+4. Since both m^2 and n^2 are integers, x^2 is a rational number.  
+5.",0,1,1,0
+"1. CONTRAPOSITION  
+We are proving: If x is rational, then x^2 is rational.  
+P: x^2 is irrational, Q: x is irrational  
+Not Q -> Not P",1,0,0,0
+"Let's prove the contrapositive: If x is rational, then x^2 is rational.
+1. CONTRAPOSITION  
+2. Assume that x is irrational.  
+3. x cannot be expressed as a quotient of integers p and q with q ≠ 0.  
+4. Therefore, if we square an irrational number, it should remain irrational.  
+5. Show that: irrational x -> irrational x^2.",1,0,0,0
+"1. CONTRAPOSITION
+- We will show that if x is rational, then x^2 is rational.
+1) Let x be a rational number. 
+2) x can be written as c/d, where c and d are integers and d ≠ 0. [Definition of rational]
+3) When we square x, we have x^2 = (c/d)^2 = (c^2)/(d^2). [Square]
+4) Since c^2 and d^2 are integers, x^2 is a rational number. [Definition]
+5) Therefore, x^2 must be rational.",1,1,1,0
+"1. CONTRAPOSITION
+
+Let P(x) be ""x^2 is irrational"" and Q(x) be ""x is irrational"". To use contraposition, we aim to prove that if x is rational, then x^2 is rational.
+
+1) Assume x is rational.
+2) Therefore, we need to conclude x^2 is rational through this assumption process.
+
+Thus, by contraposition, if x^2 is irrational, then x is irrational.",1,0,0,0
+"1. Contraposition: Assume x is rational.  
+2. x = a/b where a and b are integers, and b ≠ 0, with no common factors.  
+3. x^2 = a^2/b^2.  
+4. This implies x^2 is also rational.  
+5. The requirement is if x^2 is rational then x is proven rational.",0,1,1,0
+"1. Assume that if x is real, it can be expressed as (x POWER 2) is irrational.
+2. Let x be a real number such that x is real and not irrational.
+3. If x is rational, then x^2 is rational, but only if (x POWER 2) is irrational.
+4. Therefore, assume (x POWER 2) is not irrational; this proves x is real.",0,0,0,0
+"1) Assume x is a rational number.  
+2) x = r/s, where r and s are integers with no common divisors and s is non-zero.  
+3) Therefore, x^2 = (r^2)/(s^2).  
+4) Since both r^2 and s^2 are integers, x^2 remains a rational number.  
+5) Consequently, by contraposition, if x^2 is irrational, x must be irrational as well.",0,1,1,1
+"1. Assume x is a rational number.
+2. Then x = m/n, where m and n are integers, and n ≠ 0.
+3. Squaring both sides gives x^2 = (m/n)^2 = m^2/n^2.
+4. Since m^2 and n^2 are integers, x^2 is also a rational number.
+5. This suggests that starting with x as rational, x^2 remains rational.",0,1,1,0
+"1. CONTRAPOSITION  
+Assume x^2 is rational.  
+1) x^2 = c/d where c, d are coprime integers  
+2) therefore, x = sqrt(c/d), a rational number  
+3) conclude by contraposition that x is a rational number",0,0,0,0
+"Contraposition: Suppose x is a rational number.  
+2. So, x = a/b for integers a and b, where b ≠ 0 and a and b are coprime.  
+3. Consider x^2 = (a/b)^2 = a^2/b^2.  
+4. Thus, x^2 is rational according to rational numbers' definition.  
+5. This means if x^2 is rational we conclude x is rational.",0,1,1,0
+"- 1. CONTRAPOSITION
+   Assume that x = a/b where a and b are irrational.
+   Then p/q indicates x = p/q, proving that's irrational. 
+   By squaring, x^2 becomes irrational with another form.
+   Thus, if x^2 is irrational, x must follow directly by contrapositive logic.",0,0,0,0
+"1. We start by checking when x is rational  
+2. Assume x = m/n, where m and n are integers and n ≠ 0  
+3. Calculate x^2 = (m/n)^2 = m^2/n^2  
+4. Since m^2 and n^2 are integers, x^2 is rational",0,1,1,0
+"1. CONTRAPOSITION  
+Suppose x^2 is a rational number.  
+Then we can write x^2 as a/b where a and b are integers with b ≠ 0.  
+Taking the square root, we have x = sqrt(a/b).  
+If sqrt(a/b) can be expressed as (c/d) where c and d are integers with d ≠ 0, then x is rational.  
+Thus, if x^2 can be rational, x could also be rational.  
+By contraposition, if x^2 is irrational, then x is irrational.",0,0,0,0
+"1. We assume that x is a rational number.  
+2. Hence, x can be written as r/s, where r and s are integers, and s ≠ 0, with no common factors between them.  
+3. Thus, x^2 = (r^2)/(s^2), which is a ratio of two integers.  
+4. Therefore, x^2 is rational.  
+5. So by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Contraposition
+
+The goal is to show that if x is rational, then x^2 is rational:
+
+1) Assume x is rational. [Assumption]
+
+2) Then x can be written as a/b where a and b are integers and b ≠ 0. [Definition of rational number]
+
+3) Consequently, x^2 = (a/b) ^ 2 = a^2/b^2. [Squaring]
+
+4) Since a and b are integers, a^2 and b^2 are integers; b^2 ≠ 0. [Integer properties]
+
+5) Therefore, x^2 is a quotient of two integers and hence is rational. [Conclude Rationality]",1,1,1,0
+"1. CONTRAPOSITION: We need to prove that if x^2 is irrational, then x is irrational. 
+2. By contrapositive, we show that if x is rational, then x^2 will be rational instead.
+3. Assume x^2 is not irrational, which means we assume rationality instead to show the path backward.
+4. This approach will confirm the original statement indirectly since they are equivalent.",1,0,0,0
+"1. CONTRAPOSITION  
+To prove by contraposition, transform the statement: If x is rational, then x^2 is rational.  
+1) Assume x is rational, so x = p/q, with p and q being integers, q ≠ 0.  
+2) Then x^2 = (p/q) * (p/q) = (p*p)/(q*q).  
+3) p^2 and q^2 are integers, so x^2 is a ratio of integers.  
+4) Therefore, x^2 is rational.",1,1,1,0
+"1. Assuming x is a rational number  
+2. We can express x as a/b where a and b are integers with no common factors, and b ≠ 0  
+3. Thus, x^2 = (a/b)^2 = a^2/b^2  
+4. Hence, x^2 is rational since it's the ratio of two integers  
+5. Therefore, using contraposition, if x^2 is irrational, then x must be irrational",0,1,1,1
+"1. Let's assume x is rational.  
+2. With this, x can be expressed as p/q, where p and q are integers with no common factors, and q ≠ 0. [definition of rational number]  
+3. By squaring both sides, we get x^2 = (p^2)/(q^2).
+4. Since p^2 and q^2 are integers, x^2 can be written as a/b, where a = p^2 and b = q^2, both integers.
+5. So, x^2 is rational.
+6. Therefore, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+Let's prove x^2 irrational implies x irrational  
+Set x as irrational, so x^2 = (p/q) where p, q are integers  
+This means p = (x^2) q, and x^2 is represented by integers  
+Thus, x^2 must be rational, concluding if x^2 is irrational x can't be rational",0,0,0,0
+"1. Using contraposition, start with x^2 is irrational.  
+2. Suppose x^2 cannot be expressed in the form a^2/b^2.  
+3. If x is rational, then it can be written as the square of a rational.  
+4. By the definition of irrational, x must be found through unusual roots.  
+5. Thus x^2 should be simplified as irrational confirming z is irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+   Assume that if x^2 is rational, then it follows that x is rational as well.  
+   x can be written as (a POWER b), where both a and b are integers, and b ≠ 0.  
+   Thus, x^2 = (a^2)/(b^2).  
+   Hence, demonstrating that x^2 must be rational.  
+   This suggests that initially knowing x^2 is rational leads to proving x is rational.",0,0,0,0
+"1. Start with the assumption that x is a rational number.  
+2. Suppose x = m/n for some integers m and n, with n ≠ 0 and m/n in its simplest form.  
+3. By squaring both sides, we have x^2 = (m^2) / (n^2).  
+4. Since m^2 and n^2 are integers and have no common factors, x^2 is rational.  
+5. By contraposition, it follows that if x^2 is irrational, then x must be irrational.",0,1,1,1
+"\
+1. CONTRAPOSITION \
+To show by contraposition: If x is rational, then x^2 must be rational. \
+1) Let p denote ""x^2 is irrational"" and q ""x is irrational"". \
+2) Assume NOT q, meaning x is a rational number. \
+3) From NOT q, it should lead to NOT p using logic. \
+4) NOT p tells us x^2 is rational. \
+5) Therefore, NOT q implies NOT p, thus supporting the contrapositive. \",1,0,0,0
+"To establish the proof by contraposition:  
+
+1. Suppose x^2 is an integer.  
+2. If (x POWER 2) becomes irrational, it contradicts the idea that x is not irrational.  
+3. x must be an integer to make (x^2) not irrational.  
+4. Conclusion: The alternative to (x POWER 2) being irrational establishes x^2 being not irrational, thus x isn't irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+1) We assume x is rational.  
+2) Therefore, x can be written as x = m/n, where m and n are integers with no common factors, and n ≠ 0.  
+3) Squaring both sides: x^2 = (m/n)^2 = m^2/n^2.  
+4) As m^2 and n^2 are integers and have no common factors, x^2 is rational.  
+5) By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+Showing: If x is rational, then x^2 is rational.  
+Define p as ""x is not rational,"" q as ""x^2 is not rational.""  
+Then, NOT q leads to NOT p.",1,0,0,0
+"Contraposition:  
+We need to demonstrate: If x is rational, then (x POWER 2) is rational.  
+1. Suppose x is irrational.  
+2. By definition, x cannot be expressed as p/q, where both are integers.  
+3.  
+  
+4. Therefore, Contraposition: If x^2 is irrational, then x is irrational.",1,0,0,0
+"1. Demonstrate by contraposition that if x is rational, then x^2 is rational.
+2. Begin by assuming p = x^2 is irrational; q = x is irrational.
+3. Thus, apply not q leading to not p.
+4. This results in ~q -> ~p.
+5. Show the contraposition that if x^2 is irrational, then x is irrational.",1,0,0,0
+"To prove the statement by contraposition, we show: If x is rational, then x^2 is rational.  
+
+1. Assume x^2 is irrational. [Assumption]  
+2. Therefore, x^2 cannot be expressed as the quotient of two integers.  
+3. Now, assume x is of form m/n, where m and n are integers with n ≠ 0.  
+4. Then x^2 = (m^2)/(n^2).  
+5. m^2 and n^2 are integers, implying x^2 can be written as a ratio of integers.  
+6. This implies x^2 is rational, contradicting our assumption.  
+7. Consequently, x must be irrational.  
+8. Hence, by contraposition, we conclude the statement.",1,0,0,0
+"1. We assume that x^2 is irrational we should look at the result.
+2. Suppose x is rational. In that case, x = m/n, where m and n are integers.
+3. Then x^2 = m^2/n^2, which is also rational.
+4. But we need x^2 to be irrational, therefore something doesn’t add up.
+5. We conclude x must be irrational if x^2 is irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+Prove: If x is rational, then x squared is rational.  
+1) Let x be a rational number.  
+2) So, x = a/b for integers a and b, b ≠ 0.  
+3) Calculating x^2 gives (a^2)/(b^2).  
+4) a^2 and b^2 are integers, hence x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+Statement to prove: Assume x is rational, then show x^2 is rational.  
+Let p be ""x is rational,"" q be ""x^2 is rational.""  
+Thus, NOT q -> NOT p.",1,0,0,0
+"1. CONTRAPOSITION
+   We need to show: If x is rational, then x^2 is rational.
+   1) Let x be a rational number. [Premise]
+   2) Assume x = m/n, where m and n are integers, and n≠0. [Rational definition]
+   3) Therefore, x^2 = (m/n)^2 = m^2/n^2. [Squaring]
+   4) m^2 and n^2 are integers, with n^2≠0. [Integer properties]
+   5) Therefore, m^2/n^2 is also rational. [Definition]",1,1,1,0
+x^2 is irrational only when x is irrational.,0,0,0,0
+"- 1. Begin by assuming x is rational.
+  2. This means that x = p/q with integers p and q, where q ≠ 0.
+  3. Squaring both sides gives x^2 = (p/q)^2 = p^2/q^2.
+  4. This shows that x^2 is a ratio of integers, meaning it's rational.",0,1,1,0
+"1. CONTRAPOSITION  
+Suppose x is irrational.  
+Let x = p/q with integers p and q, where q != 0.  
+Since x = √(p/q), then x^2 = p/q.  
+Since p and q are integers, x^2 is rational.  
+Thus, if x^2 is irrational, x must be rational.",0,0,0,0
+"1. CONTRAPOSITION  
+To prove ""if x^2 is irrational, then x is irrational,"" we consider its contraposition: ""if x is rational, then x^2 is rational.""  
+1) Assume x is rational.  
+2) Thus, x can be expressed as a/b where a and b are integers with b ≠ 0.  
+3) Squaring gives x^2 = (a/b)^2 = a^2/b^2.  
+4) Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is a ratio of integers.  
+5) Therefore, x^2 is rational.",1,1,1,0
+"Proof by Contraposition
+
+We aim to prove: If x is rational, then x^2 is rational. 
+1. Let P(x) = x is rational, Q(x) = x^2 is rational.
+2. By contraposition, if ¬Q(x), meaning x^2 is irrational, then ¬P(x) should imply x is irrational.
+3. Therefore, assuming the contrapositive, our statement holds if from ¬Q(x) we conclude ¬P(x).",1,0,0,0
+"- 1. CONTRAPOSITION  
+   To prove: If x^2 is irrational, then x is irrational by contraposition.  
+   1) Let P be ""x^2 is irrational"" and Q be ""x is irrational"".  
+   2) The contrapositive is NOT Q -> NOT P (if x is rational, then x^2 is rational).
+   3) This is assumed to show that if x^2 is irrational, x was not rational.
+   4) Conclude by contraposition.",1,0,0,0
+"CONTRAPOSITION
+If x^2 is irrational, then x is irrational.
+1) We use the contrapositive: if x is rational, then x^2 is rational. [Statement]
+2) Assume x is rational. [Assumption]
+3) This means x can be expressed as x = m/n, where m and n are integers, and n ≠ 0. [Definition]
+4) Squaring both sides gives x^2 = (m/n)^2. [Math]
+5) This results in x^2 = (m^2)/(n^2), where m^2 and n^2 are integers. [Simplification]
+6) As (m^2)/(n^2) is a ratio of integers, x^2 is rational. [Conclusion]",1,1,1,0
+"1) Begin by assuming x is rational.  
+2) Therefore, x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+3) By squaring both sides, x^2 = (a^2)/(b^2).  
+4) Since both a^2 and b^2 are integers and b^2 ≠ 0, x^2 is rational.  
+5) By the contraposition method, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1) To prove our point, assume x is rational  
+2) Then x can be written as p/q, with integers p and q having no common factors  
+3) Therefore, x^2 equals (p^2)/(q^2)  
+4) Since p^2 and q^2 are integers, x^2 is rational  
+5) Conclusively, through contraposition, if x^2 is irrational, it implies x is irrational",0,1,1,1
+"1. CONTRAPOSITION  
+Suppose x^2 is a rational number.  
+We can write x^2 = m/n where m and n are integers, n ≠ 0.  
+Thus, x = sqrt(m/n).  
+If m and n are perfect squares, x is rational.  
+This implies if x^2 is irrational, x could still be rational.  
+So, if x^2 is irrational, x might not necessarily be irrational.",0,0,0,0
+"- 1. CONTRAPOSITION
+   Assume x is rational and can be written in the form x = c/d where c and d are not zero and have no common factors.
+   Hence, x can still be irrational if x = √(7), because √7 is not a perfect irrational square.
+   Therefore, x^2 can be rational if it equals 49/d^2.
+   Since 49 is an integer, this means x^2 is always rational.
+   This leads to conclude that x could also be irrational.",0,0,0,0
+"1. PROOF BY CONTRAPOSITION  
+Assume: If x is rational, then x^2 is rational.  
+1) Suppose x is a rational number.  
+2) By definition, x = m/n, with m and n being integers and n ≠ 0.  
+3) Then, x^2 = (m^2)/(n^2).  
+4) Both m^2 and n^2 are integers because the set of integers is closed under multiplication.  
+5) Thus, x^2 is expressed as the quotient of two integers.",1,1,1,0
+"1. CONTRAPOSITION  
+To prove: If x^2 is irrational, then x is irrational by proving the contrapositive: If x is rational, then x^2 is rational.
+1) Assume x is rational.
+2) Then x = m/n, where m and n are integers, n ≠ 0.
+3) Therefore, x^2 = (m^2)/(n^2).
+4) m^2 and n^2 are integers, implying x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+   Let's assume p(x): x^2 is irrational and q(x): x is irrational.  
+   We demonstrate ¬p(x) implies ¬q(x).  
+   1) Assume x^2 is not irrational.  
+   2) Then x^2 can be expressed as a/b for integers a and b.  
+   3) Therefore, x itself must also be irrational.  
+   4) Hence, not x^2 leads to not x.",0,0,0,0
+"1. CONTRAPOSITION  
+2. Begin with x is rational  
+3. Assume x = m/n, with integers m and n, n ≠ 0  
+4. This means x^2 = (m POWER 2)/(n POWER 2)  
+5. Both m^2 and n^2 are integers, so x^2 is rational",0,1,1,0
+"1. CONTRAPOSITION
+2. Assume x^2 can be expressed as p/q
+3. Therefore, x is expressed as p/q for p^2/q^2
+4. If x is irrational, x^2 must be irrational 
+5. That means sqrtings means x
+6. So x = sqrt(p/q) 
+7. Based on this, x cannot be irrational for x^2 not rational",0,0,0,0
+"- 1. CONTRAPOSITION  
+   To prove if x^2 is irrational, then x is irrational, we can use contraposition:  
+   Assume x is rational, then prove x^2 is rational.  
+   We have p: x^2 is irrational and q: x is irrational.  
+   Consider ~q and show ~p should be true.  
+   So, ~q implies ~p which is equivalent to p implies q.  
+   The contrapositive approach indicates they are logically linked and valid.",1,0,0,0
+"1. CONTRAPOSITION  
+To demonstrate ""If x^2 is irrational, then x is irrational"", we show the contraposition:  
+""If x is rational, then x^2 is rational"".  
+
+1) Assume x is a rational number.   
+2) Then x can be expressed as a ratio of two integers, a and b, where a/b and b ≠ 0.  
+3) When squared, x^2 = (a/b)(a/b) = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers and b^2 ≠ 0, it follows that x^2 is a rational number.     
+5) Therefore, x^2 is rational.",1,1,1,0
+"- 1. CONTRAPOSITION  
+We need to prove that if x is rational, then x^2 is also rational.  
+1) Assume x is rational. [Premise]  
+2) Then x can be expressed as a/b where a and b are integers and b≠0. [Definition of rational number]  
+3) Then x^2 = (a/b)² = a²/b². [Squaring]  
+4) Since a and b are integers, a² and b² are also integers, and b²≠0. [Integer properties]  
+5) Thus, x^2 = a²/b² is a rational number. [Definition of rational number]",1,1,1,0
+"1. Suppose x is a rational number.  
+2. By definition, x = m/n for integers m and n, where n ≠ 0, and m and n have no common divisors.  
+3. If we square x, we get x^2 = (m POWER 2) / (n POWER 2).  
+4. This means x^2 is the quotient of two integers (m POWER 2, n POWER 2).  
+5. Therefore, x^2 is rational.  
+6. Hence, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+   Start with x^2 rational to show x is irrational.  
+   1) Assume x irrational.  
+   2) Then express x^2 = a/b, where a and b are integers.  
+   3) So, x must also be expressible as a fraction.  
+   4) x^2 becomes rational, proving assumption.  
+   5) Conclude by contraposition, if x^2 is irrational, x is rational.",0,0,0,0
+"1. CONTRAPOSITION  
+Use the contraposition to show ""If x is rational, then x^2 is rational.""  
+1) Assume x is rational.  
+2) This means x can be represented as a/b, where a and b are integers, with b ≠ 0.  
+3) Calculating x^2, we have x^2 = (a/b) * (a/b) = (a^2)/(b^2).  
+4) As a^2 and b^2 are integers and b^2 is not zero, x^2 is rational.",1,1,1,0
+"1. Consider the statement x is irrational if x^2 is irrational  
+2. Assume that x is a rational number  
+3. Then x can be written as a/b where a, b are integers with no common factors and b ≠ 0  
+4. Calculate x^2 = (a/b)^2 = a^2/b^2  
+5. Since a^2 and b^2 are integers, x^2 is rational by definition  
+6. Therefore, if x^2 is irrational, x must be irrational by contraposition",0,1,1,1
+"1. CONTRAPOSITION  
+The contraposition to prove is: if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Then x can be written as a/b, where a and b are integers with b not equal to 0.  
+3) Consider the square of x: x^2 = (a/b)^2 = (a^2)/(b^2).  
+4) Because a and b are integers, a^2 and b^2 are also integers, and b^2 is not zero.  
+5) Thus, x^2 can be expressed as a quotient of integers, meaning x^2 is rational.",1,1,1,0
+"1. PROVE BY CONTRAPOSITION
+   If x is rational, then x^2 is rational.  
+   NOT x is rational -> NOT x^2 is rational  
+   Logical equivalence",1,0,0,0
+"1) Assume that x is rational  
+2) This means x can be expressed in the form a/b, where a and b are integers, and b ≠ 0  
+3) By squaring both sides, x^2 = (a/b)^2 = a^2/b^2  
+4) Since a^2 is an integer and b^2 is a non-zero integer, x^2 is also rational  
+5) So, by contraposition, if x^2 is irrational, then x must be irrational",0,1,1,1
+"1. CONTRAPOSITION  
+Prove that if x is a rational number, then x^2 is rational too.  
+1) Suppose x is irrational [Assumption]  
+2) x cannot be written in the form a/b, where a and b are integers [Definition]  
+3) Then for x^2, also irrational [Conclusion drawn]  
+4) Therefore, x^2 is irrational [Assertion]",1,0,0,0
+"1. Suppose that x is a rational number.
+2. This means x can be written as x = c/d, where c and d are integers and d is not zero.
+3. Then when squared, x^2 = (c/d)^2 = c^2/d^2.
+4. Since c^2 and d^2 are also integers, c^2/d^2 is a rational number.
+5. Therefore, x^2 is rational.",0,1,1,0
+"- 1. CONTRAPOSITION
+  We aim to demonstrate via contraposition that if x is rational, then x^2 is rational.
+  1) Assume x is rational [Premise]
+  2) Set x = p/q, where p and q are integers with q ≠ 0 [Definition of rational]
+  3) Consequently, x^2 = (p/q)^2 = p^2/q^2 [Squaring]
+  4) Since p^2 and q^2 are integers, x^2 is the ratio of two integers [Proof]
+  5) Thus, x^2 is rational [Conclusion]",1,1,1,0
+"1. Start with x being a rational number  
+2. This means x = a/b, where a and b are integers, and b ≠ 0  
+3. Squaring both sides gives x^2 = a^2/b^2  
+4. Since a^2 and b^2 are integers, x^2 is also a rational number  
+5. Thus, we conclude x^2 follows this logic by contraposition",0,1,1,0
+"1. CONTRAPOSITION  
+1) Suppose x can be expressed as a rational number.  
+2) Then it can be written as x = m/n with m and n as integers and n ≠ 0.  
+3) Squaring both sides gives: x^2 = (m POWER 2) / (n POWER 2).  
+4) Since m^2 and n^2 are also integers, x^2 is rational.  
+By using contraposition, if x^2 is irrational, then it follows that x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+   Suppose we need to prove that if x is rational, then x^2 is rational.  
+   p: x is rational  
+   q: x^2 is rational  
+   Not q -> Not p implies if x is irrational, then x^2 is irrational.",1,0,0,0
+"1. CONTRAPOSITION  
+We need to prove that if x is rational, then x^2 will also be rational. Let's show this by using contraposition:   
+P: x is irrational  
+Q: x^2 is irrational  
+Hence, we'll demonstrate NOT Q implies NOT P.",1,0,0,0
+"1. CONTRAPOSITION  
+We need to prove that: If x is rational, then x^2 is rational.  
+1) Assume x is irrational [Premise]  
+2) From the definition, x cannot be expressed as a fraction a/b with integers a and b [Definition]  
+3) Therefore, x^2 cannot also be expressed as a fraction of integers [Assumption]  
+4) Hence, we conclude x^2 is irrational when x is irrational.  
+5) By contraposition, this implies if x^2 is irrational, then x is irrational.",1,0,0,0
+"1) Start with the contraposition method.  
+2) Assume x is rational.  
+3) Then x can be written as x = p/q, where p and q are integers and q ≠ 0.  
+4) Squaring both sides, we get x^2 = (p/q)^2 = p^2/q^2.  
+5) Since p^2 and q^2 are integers, x^2 is therefore rational.  
+6)",0,1,1,0
+"1. CONTRAPOSITION  
+To prove the initial statement, let us demonstrate its contrapositive: If x is rational, then x^2 is also rational.  
+1) Suppose x is a rational number [Premise]  
+2) x can be expressed as p/q, where p, q are integers, and q ≠ 0 [Definition of rational number]  
+3) Squaring x gives x^2 = (p/q)^2 = p^2/q^2  
+4) Because p^2 and q^2 are integers, x^2 is represented as p^2/q^2 [Definition of rational number]  
+5) Hence, x^2 is rational.",1,1,1,0
+"1. To prove the statement, we start by assuming that x^2 is irrational.
+2. If x is a rational number, then it can be expressed as x = a/b, where a and b are integers.
+3. Since x is rational, x^2 should also be rational because x^2 = (a^2)/(b^2).
+4. However, initially, we assumed x^2 is irrational. There seems to be a contradiction.
+5. Therefore, it must be that x is irrational if x^2 is irrational.",0,0,0,0
+"1. CONTRAPOSITION
+1) Begin with x^2 is rational [Premise]
+2) Assume x is irrational [Assumption]
+3) x = a/b, a representation as irrational
+4) Hence x^2 is also irrational by substitution",0,0,0,0
+"1. CONTRAPOSITION  
+   1) Assume x^2 is rational and x is irrational.
+   2) Suppose x = sqrt(a), where a is a rational number.
+   3) Then x^2 = a is rational.
+   4) But this implies x must be rational, contrary to our assumption of x being irrational.
+   5) NOT q -> x^2 is rational implies x is rational.",0,0,0,0
+"Assume that x^2 is irrational and x is rational.
+
+1. CONTRAPOSITION
+2. Let x be such that x^2 = a/b for some integers a and b. 
+3. If x is irrational, it cannot be expressed as a/b where a and b are integers.
+4. This means x^2 is irrational when x is irrational.
+
+End of proof.",0,0,0,0
+"1. CONTRAPOSITION
+   Assume x^2 is rational: x^2 can be expressed as p/q where p and q are integers.
+   This implies x = (p/q)^(1/2).
+   Since both p and q are integers, x might not be rational, leading to contradiction.
+   Thus, if x^2 is irrational, x is irrational by contraposition.",0,0,0,0
+"1. CONTRAPOSITION  
+To prove by contraposition, we show: if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+3) Then x^2 = (a/b)² = a²/b².  
+4) Since a² and b² are integers, x^2 is rational.  
+5)",1,1,1,0
+"Show that if x^2 is irrational, then x is irrational using contraposition:
+1) Assume x^2 is rational.  
+2) Then, assume x^2 can be written as a/b for some integers a and b, b ≠ 0.  
+3) Thus, since x = sqrt(a/b), x can be expressed as the irrational number a^(1/2)/b^(1/2).  
+4) So, if x^2 is rational, then x is irrational.  
+5) Therefore, if x^2 is irrational, then x must be irrational too.",0,0,0,0
+"1. CONTRAPOSITION  
+   To prove: If x is rational, then x^2 is rational.  
+   1) x is rational implies x^2 is rational.  
+   2) Assume ~Q (x^2 is not rational).  
+   3) Therefore, ~P (x is not rational).  
+   4) This is the contrapositive statement.",1,0,0,0
+"1. CONTRAPOSITION  
+We need to demonstrate: If x is rational, then x^2 is rational.  
+p = x is rational, q = x^2 is rational  
+If not p, then not q",1,0,0,0
+"1. CONTRAPOSITION
+   We want to prove the statement: if x is rational, then x^2 is rational.
+   (P: x^2 is irrational, Q: x is irrational)
+   By contraposition: If NOT Q, then NOT P. 
+   Here, NOT Q: x is rational, and therefore, NOT P: x^2 is rational.",1,0,0,0
+"Let P(x) = ""x^2 is irrational"" and Q(x) = ""x is irrational."" We need to show P(x) implies Q(x) using contraposition. Contraposition states: if Q(x) is not true, then P(x) is not true.
+1) Suppose Q(x) is false.
+2) P(x) has to be false.
+3) We have that ""not Q(x)"" implies ""not P(x)."" 
+This means that ""if x is rational, then x^2 is rational,"" maintaining a true statement.",1,0,0,0
+"1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) x = m/n, where m and n are integers, and n ≠ 0.  
+3) Then x^2 = (m/n)^2 = m^2/n^2.  
+4) m^2 and n^2 are integers, and n^2 ≠ 0, so x^2 is rational.  
+5) This concludes our proof.",0,1,1,0
+"Assume (x POWER 2) is a rational number.
+
+1. Assume that (x POWER 2) is rational.  
+2. Let x = z, where z is an integer. [Assumption]  
+3. Then, x = z/z = 1 [Using z]
+4. Therefore, x^2 equals z/z 
+5. By contraposition arguments, (x POWER 2) is not rational",0,0,0,0
+"1. To prove contrapositive, assume x is rational.  
+2. x can be expressed as x = c/d where c and d are integers, and d ≠ 0.  
+3. Therefore, x^2 = (c^2)/(d^2), which is clearly a form of a rational number.  
+4. This means that x^2 is also rational.",0,1,1,0
+"1. CONTRAPOSITION
+   We want to prove by contraposition: if x^2 is irrational, then x is irrational.
+   - Let p = ""x^2 is irrational"" and q = ""x is irrational"".
+   - To prove this, we need to show not-q implies not-p, assuming above definitions.",1,0,0,0
+"1. CONTRAPOSITION  
+   We aim to demonstrate that if x is rational, then x^2 is rational.  
+   P: x is rational  
+   Q: x^2 is rational  
+   If NOT Q then NOT P  
+   Here:  
+   NOT x^2 is irrational implies NOT x is irrational",1,0,0,0
+"1. Let's use contraposition  
+2. Suppose x is irrational  
+3. Then x^2 can sometimes be rational because irrational numbers can sometimes, when squared, become rational  
+4. For example, consider x as some value, say square root of 2, which is irrational, but squared becomes a rational number, 2  
+5. By this reasoning, if x^2 is irrational, then x can also sometimes be rational",0,0,0,0
+"To prove using contraposition, we start with x^2 irrational means x irrational. Assume x^2 is rational, it results x in a/b form; thus, both x and x^2 rational. By opposite logic, irrational x results in x^2 irrational.",0,0,0,0
+"1. Let's assume x is a rational number to prove contrapositive.
+2. Since x is rational, we can write x = a/b, where a and b are integers with no common factors and b is not zero.
+3. By squaring x, we have x^2 = (a/b)^2 = a^2/b^2.
+4. This shows that x^2 can also be written as a quotient of two integers a^2 and b^2, which means x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION \
+We want to show: If x is rational, then x^2 is rational. \
+1) Let p be the statement ""x^2 is irrational"" and q be ""x is irrational"". \
+2) Assume NOT q is true, which means x is rational. \
+3) Modus Tollens states that from NOT q and p -> q, we conclude NOT p. \
+4) Proving NOT p means ""x^2 is rational"". \
+5) NOT q implies NOT p, proving our contrapositive goal. \
+ \",1,0,0,0
+"1. CONTRAPOSITION  
+1) Suppose x is rational.  
+2) Then x = p/q, with integers p, q where q ≠ 0, and p/q is in its simplest form.  
+3) Therefore, x^2 = (p^2/q^2).  
+4) Since p^2 and q^2 are integers, x^2 is rational.  
+5) By contraposition, if x^2 is irrational, x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+   To prove by contraposition, we start by supposing x is rational, which logically implies x^2 is rational.  
+   p: x is rational  
+   q: x^2 is rational  
+   Negate q to not q leads to negating p to not p.",1,0,0,0
+"1) Assume x^2 is rational.  
+2) Therefore x must also be rational.  
+3) If x is irrational, then x^2 can be expressed as a rational number.  
+4) We conclude by contraposition if x^2 is irrational then x rational.",0,0,0,0
+"1. CONTRAPOSITION  
+To prove the statement by contraposition, we aim to demonstrate:  
+If x is rational, then x^2 is rational:  
+1) Assume that x is a rational number. [Premise]  
+2) Then x = p/q where p and q are integers, and q ≠ 0. [Definition]  
+3) Calculate x^2 = (p/q)^2 = (p^2)/(q^2). [Squaring x]  
+4) Since p^2 and q^2 are integers, x^2 is represented as the quotient of two integers. [Infer x^2 is rational]",1,1,1,0
+"1. CONTRAPOSITION  
+We start by assuming that x^2 is rational instead of proving x is irrational directly.  
+1) Assume x^2 can be written as m/n, where m and n are integers.  
+2) It follows that x^2 is irrational because x is irrational.",0,0,0,0
+"1. Using contraposition:
+1) Let's assume x is a rational number.
+2) This means x = m/n for integers m and n, with n ≠ 0.
+3) Squaring both sides gives x^2 = (m/n)^2 = m^2/n^2.
+4) m^2 and n^2 are integers, so x^2 is rational.
+5) So, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"- We apply CONTRAPOSITION: if x is rational, then x^2 is rational.
+  1) Assume that x is rational.
+  2) Then x = c/d, where c and d are integers with d ≠ 0. [Definition of rational]
+  3) x POWER 2 = (c/d) POWER 2 = c²/d² [Square x]
+  4) c² and d² are integers, so c²/d² is rational. [Definition]",1,1,1,0
+"CONTRAPOSITION  
+1) Assume x is anything but irrational.  
+2) If x^2 can only be expressed as a√b,  
+3) Since x can become as real as 2x,  
+4) It's possible to say that x is rationally squared.  
+5) Hence, if x^2 is not a rational number,",0,0,0,0
+"Let us consider the problem: we need to show if x^2 is irrational, then x is irrational through contraposition.
+1. Suppose x is rational.
+2. Represent x as p/q where p and q are integers with q ≠ 0.
+3. Squaring gives x^2 = (p^2)/(q^2).
+4. Both p^2 and q^2 are integers, hence x^2 is rational.
+Finally, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1) Assume x is rational  
+2) x = a/b, where a and b are integers with no common factors  
+3) Then x^2 = (a^2)/(b^2)  
+4) Since a^2 and b^2 are integers, x^2 is rational  
+5) If x^2 is irrational, then x is irrational by contraposition",0,1,1,1
+"1. CONTRAPOSITION  
+2. Assume x is irrational.  
+3. x can be expressed as √(p/q), with p/q rational numbers.  
+4. Therefore, x^2 = (p/q), meaning it is rational.  
+5. This contradicts the initial irrationality of x.  
+6. Conclude with, by contraposition, if x^2 is irrational, x must be irrational.",0,0,0,0
+"- We will prove the contrapositive: If x is a rational number, then x^2 is also rational.
+1) Assume x is irrational [Initial assumption]
+2) Therefore, x ≠ p/q for integers p and q [Definition]
+3) Without knowing x's exact form, x^2 is reliant on x being irrational
+4) Conclude that this impacts the rationality of x^2",1,0,0,0
+"1. CONTRAPOSITION  
+   We need to demonstrate: If x is rational, then x^2 is rational.  
+   1) Define P as x is rational and Q as x^2 is rational.  
+   2) Assume not Q -> not P.  
+   3) x^2 not rational implies x not rational.  
+   4) Therefore, we have shown the contraposition.",1,0,0,0
+"1. Assuming x is rational, we can express x as a/b, where a and b are coprime integers and b ≠ 0. (This assumption forms the basis of our proof.)
+2. By squaring both sides, we get x^2 = (a/b)^2 = a^2/b^2.
+3. Since both a^2 and b^2 are integers and b^2 ≠ 0, the expression a^2/b^2 is a ratio of two integers with the denominator non-zero.
+4. Consequently, x^2 is rational if x is a rational number.",0,1,1,0
+"Let P(x) be the statement ""x^2 is irrational"" and Q(x) be the statement ""x is irrational"". We need to show that P(x) -> Q(x) using contraposition.
+1) Assume NOT Q(x), which means x is rational.
+2) We need to conclude NOT P(x), meaning x^2 is rational, but since we started with x is rational, this is assumed true.
+3) Therefore, if x is rational, x^2 remains rational.
+4) The contrapositive of our original statement is seen from step 3.",1,0,0,0
+"1. Suppose x is a rational number.  
+2. Let x = a/b, where a and b are integers with no common factors, and b ≠ 0.  
+3. Therefore, x^2 = (a/b)^2 = a^2/b^2.  
+4. Since a^2 and b^2 are integers, x^2 is rational.  
+5. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Assume x^2 is irrational as a start point.  
+2. Then neither x nor x^2 can be expressed in the form a/b, where a and b are integers.  
+3. If x^2 is irrational, x must be some number that cannot form as a ratio, like pi, e, etc.  
+4. Such numbers when squared remain irrational as well.  
+5. Therefore, if x^2 is irrational, then x also cannot be a rational number.",0,0,0,0
+"CONTRAPOSITION  
+1) Begin with an assumption that x is a rational number.  
+2) Thus, x can be written as a fraction: x = i/j, where i and j are integers with no common factors and j ≠ 0.  
+3) By squaring, we get x^2 = (i POWER 2) / (j POWER 2).  
+4) Because i^2 and j^2 remain integers, x^2 takes the form of a rational number.  
+Therefore, via contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+We start by assuming that x^2 is irrational (premise).  
+If x^2 can be written as a/b where a and b are integers, then x is also in the form of p/q (definition).  
+This means x is rational because it can be expressed in terms of two integers.  
+Therefore, if x^2 is rational, then x is rational.  
+Conclusion should be: if x^2 is irrational, then x must be irrational too.",0,0,0,0
+"- 1) To solve the problem, assume first that x is rational.
+ 2) Therefore, x can be expressed as x = p/q, where p and q are integers and q ≠ 0.
+ 3) This leads us to conclude that x^(2) = (p^2)/(q^2).
+ 4) Since p^2 and q^2 are integers, x^2 is also rational.",0,1,1,0
+"CONTRAPOSITION: Assume if x is rational, then x^2 becomes rational.  
+1) Assume x is rational [Premise]  
+2) Express x as a fraction: x = c/d, where c and d are integers with d ≠ 0 [Definition]  
+3) Then x^2 = (c/d)^2 = c^2/d^2 [Squaring]  
+4) Here c^2 and d^2 are integers, hence c^2/d^2 is rational [Properties of integers]  
+5) Conclude that x^2 is rational [Conclusion]",1,1,1,0
+"2. Setting up Contraposition  
+   Suppose x is not irrational  
+   Then x^2 must also follow same form  
+   If x^2 = p/q, where p, q are integers  
+   Then x is a rational number as well  
+   Therefore x being irrational follows",0,0,0,0
+"1. Let’s use contraposition to show that if x^2 is irrational then x is irrational.
+
+1) Assume x is rational.
+2) Then x can be expressed as x = m/n, where m and n are integers and n ≠ 0.
+3) Squaring both sides, x^2 = (m/n)^2 = m^2/n^2.
+4) Since m^2 and n^2 are integers, x^2 is rational.",0,1,1,0
+"- 1. Using contraposition: to show if x^2 is irrational, x is irrational, show instead: if x is rational, x^2 is rational.
+  2. Assume x is rational.
+  3. Then x = m/n for integers m, n with n ≠ 0. [Definition]
+  4. Thus x^2 = (m/n)^2 = (m^2)/(n^2). [Squaring]
+  5. Since m^2 and n^2 are integers, x^2 is also a quotient of integers, thus rational. [Rational number definition]
+  6. Hence, if x is rational, x^2 must be rational.",1,1,1,0
+"1. We aim to use contraposition.
+2. Start by assuming x is rational.
+3. Thus, x can be expressed as a/b, where a and b are integers and b ≠ 0.
+4. Squaring both sides, x^2 = (a^2)/(b^2).
+5. Since a^2/b^2 is a quotient of two integers, x^2 is rational.
+6. Completing the proof with these assumptions.",0,1,1,0
+"- 1. CONTRAPOSITION  
+  Assume x is rational  
+  x can be written as a/b, where a and b are integers with b ≠ 0  
+  So, x POWER 2 = a^2/b^2  
+  This is a rational number since a^2 and b^2 are integers and b^2 ≠ 0  
+  Hence, x^2 is rational",0,1,1,0
+"1. CONTRAPOSITION  
+   IF X IS RATIONAL THEN X^2 IS RATIONAL TO PROVE   
+   1. Assume x is irrational [Assumption]  
+   2. By irrational definition, x cannot be p/q [Definition]",1,0,0,0
+"Assume x is irrational. Then, for x, suppose x^2 must be rational. x^2 = a/b \[for some a and b]. Next, x itself can simplify as c/d. Also, x = \[a number]. Therefore, if x^2 irrational, x seems rational.",0,0,0,0
+"- To show the contrapositive, we need to prove: If x is rational, then x^2 is also rational.
+1) Assume x is irrational [Assumption]
+2) x cannot be written as a/b, where a and b are integers and b ≠ 0 [Definition of irrational number]
+3) Since x is irrational, x^2 should involve irrational numbers as well 
+4) Therefore, state that x is irrational [Conclusion]",1,0,0,0
+"Let's start with x being rational.  
+1) x can be expressed as a/b, with a and b being integers, b ≠ 0.  
+2) Then, x^2 = (a^2)/(b^2).  
+3) (a^2)/(b^2) is rational as it equals the ratio of integers.  
+4) Conclude that x^2 is rational.",0,1,1,0
+"1) To use contraposition, assume x is rational.  
+2) We can express x as a/b, where a and b are integers, with b ≠ 0.  
+3) Then x^2 = a^2/b^2, which is a ratio of integers.  
+4) Therefore, x^2 is rational as well.",0,1,1,0
+"1. CONTRAPOSITION  
+Assume that x^2 is an irrational number, meaning it cannot be written as a simple fraction of two whole numbers.  
+Also, assume x itself represents a rational number, such that x = m/n, where m and n are integers with n nonzero.  
+This would imply (m^2)/(n^2) equals x^2.  
+However, this contradicts our initial assumption of x^2 being irrational.  
+Therefore, we conclude that if x^2 is not a rational number, x too remains irrational.  
+The conclusion follows that irrational x^2 demands x be irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+1) Assume we have x as a rational number.  
+2) Suppose x = c/d, where c and d are integers, d ≠ 0, ensuring x is rational.  
+3) When squared: x^2 = (c/d)^2 = c^2/d^2.  
+4) Given c^2 and d^2 are integers, c^2/d^2 represents a rational number, showing x^2 is rational.",0,1,1,0
+"- 1. CONTRAPOSITION  
+   Let's assume x^2 is irrational, so x is irrational too because they relate  
+   1) x is irrational [Assumption]  
+   2) x is not rational, hence cannot be represented by m/n where m, n belong to integers  
+   3) Suppose x^2 is something irrational  
+   4) x being irrational implies x^2 should be irrational too  
+   5) Thus, the proof follows from x being irrational, x^2 is irrational",0,0,0,0
+"CONTRAPOSITION:
+If we want to prove that if x^2 is irrational, then x is irrational, we can use contraposition. This means we have to prove that if x is rational, then x^2 is rational.",1,0,0,0
+"Let x be a real number and assume we need to use contraposition:
+1) Suppose x is irrational.  
+2) An irrational number cannot be written as the quotient of two integers.  
+3) If x equals m/n, then x^2 equals m^2/n^2, making x^2 rational.  
+4) Therefore, if x^2 is irrational, x has to be irrational too.",0,0,0,0
+"1. CONTRAPOSITION  
+Let P(x) = x^2 is irrational and Q(x) = x is irrational.  
+The goal is to prove P(x) -> Q(x) via contraposition by assuming the opposite of Q(x).  
+Assume NOT Q(x): x is a rational number  
+Proof should lead to NOT P(x)  
+Concluding P(x) -> Q(x) must be true.",1,0,0,0
+"- 1. CONTRAPOSITION  
+Take x^2 is some rational value a/b where a is divisible by b.  
+With this setup, √(a/b) should naturally make x.  
+Now, whether x is seen as rational depends entirely on the division of factors for both the numerator and denominator.  
+With consideration, x becomes approximately rational or simply simplified for the proof, rendering any assumption.  
+The end decision, when starting with x as a rational projection, will justify any defined number.",0,0,0,0
+"1. Contraposition
+
+We need to prove that if x is rational, then x^2 is rational:
+
+1) Suppose x is rational. [Assumption]
+
+2) This means x = m/n where m and n are integers, n ≠ 0. [Definition of rational]
+
+3) Thus, x^2 = (m/n)^2 = m^2/n^2. [Squaring]
+
+4) Since m and n are integers, m^2 and n^2 are integers; n^2 ≠ 0. [Integer properties]
+
+5) This implies that x^2 can be expressed as a ratio of integers, showing x^2 is rational. [Conclude Rationality]",1,1,1,0
+"1. CONTRAPOSITION  
+We need to prove: If x is rational, then x^2 is rational.  
+1. Assume that x^2 is irrational. [Premise]  
+2. x^2 cannot be expressed as (p/q)^2, where p and q are integers.  
+3. But if x was rational, it would be expressible as a/b.  
+4. Hence x^2 might not be this way.",1,0,0,0
+"CONTRAPOSITION  
+1. Assume x is rational  
+2. x = m/n, where m and n are integers, n ≠ 0  
+3. x^2 = (m/n) POWER 2  
+4. x^2 = (m^2)/(n^2)   
+5. Therefore, x^2 is rational",0,1,1,0
+"1) Begin by applying contraposition.
+2) Assume x is rational.
+3) This means x can be written as x = c/d, where c and d are integers, and d ≠ 0.
+4) When squared, x^2 = (c^2)/(d^2), which is a ratio of integers.
+5) Hence, x^2 is rational.
+6)",0,1,1,0
+"CONTRAPOSITION  
+Let's say x is not a real number.  
+Assume that x^2 is irrational.  
+Suppose x^2 = c/d, where both c and d are integers.  
+Therefore, x must also come from complex numbers.  
+If we find that x isn't related to c/d, then x is irrational,  
+And thus, whenever x^2 is irrational, so is x.",0,0,0,0
+"To prove the statement ""if x^2 is irrational, then x is irrational,"" we approach this by contrapositive, showing ""if x is rational, then x^2 is rational."" 
+
+1) Assume x is a real number and we show the proposition if x^2 is irrational then x is irrational.
+2) Using a proof by contraposition means assume x^2 is rational when x is rational.",1,0,0,0
+"1. CONTRAPOSITION  
+Show that if x is rational, then x^2 is rational [Premise]  
+1) x is rational and can be written as x = p/q with integers p and q [Assumption]  
+2) Thus, x^2 = (p/q)^2 = p^2/q^2 [Squaring]  
+3) Both p^2 and q^2 are integers, so x^2 is rational [Rational number definition]",1,1,1,0
+"1. CONTRAPOSITION FRAMEWORK  
+1) Suppose x is rational  
+2) We have x = c/d, where c and d are integers, with d ≠ 0  
+3) By squaring, x^2 = (c/d)^2 = c^2/d^2  
+4) Due to the properties of integers, c^2 and d^2 are integers and d^2 ≠ 0, so x^2 is rational  
+5) Thus, if x^2 is irrational, x must be irrational by using contraposition",0,1,1,1
+"1. CONTRAPOSITION  
+Let x^2 be an irrational number.  
+Suppose x is rational, so x = m/n for integers m and n, with n ≠ 0.  
+When squared, x^2 = m^2/n^2.  
+Thus x^2 is a rational number, contradicting our premise.  
+This means if x^2 is irrational, x must be irrational.",0,0,0,0
+"1. Assume x is rational (contrapositive approach).
+2. Let x = p/q, where p and q are integers with q ≠ 0, and p, q have no common factors.
+3. Calculate x^2 as p^2/q^2.
+4. Since p^2 and q^2 are integers, x^2 is also a rational number.
+5. Thus, if x is rational, x^2 must be rational.",0,1,1,0
+"1. By considering what we aim to prove through contraposition, we assume that x is rational.
+2. Since x is rational, x can be expressed as x = p/q, where p and q are integers and q ≠ 0.
+3. Thus, when squaring x, we have x^2 = (p/q)^2 = p^2/q^2.
+4. According to the definition of rational numbers, x^2 is rational as it can be expressed as the quotient of two integers.",0,1,1,0
+"1. Assume x is a rational number.
+2. Therefore, x = a/b where a and b are integers and b ≠ 0.
+3. Then, x^2 = (a/b) POWER 2 = a^2/b^2.
+4. Since a^2 and b^2 are integers, x^2 can be written as a fraction a^2/b^2.
+5. Thus, x^2 is also rational.",0,1,1,0
+"1) Let's start by assuming x is a rational number.  
+2) This means x can be written as a/b, where a and b are integers with no common factors and b ≠ 0.  
+3) Now, consider the square of x, which is x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are also integers, x^2 is a rational number.  
+5) Therefore, if x^2 turns out to be irrational, by contraposition, x must be irrational as well.",0,1,1,1
+"1. CONTRAPOSITION  
+   Goal is to prove if x is rational, then x^2 must be rational.  
+   Statement: P: x is rational  
+   Conclusion: Q: x^2 is rational  
+   Applying: If NOT Q, then NOT P",1,0,0,0
+"1. By contraposition, if x^2 is rational, then x is rational.  
+2. Assume x is irrational.  
+3. Then, x cannot be expressed as p/q where p and q are integers.  
+4. Therefore, x^2 is irrational as well.  
+5. If x is irrational, x^2 must be irrational, completing the proof.",0,0,0,0
+"1. CONTRAPOSITION
+   Assume x is irrational.
+   1) x is equal to the square root of an irrational number. [Assumption]
+   2) Let's suppose (x POWER 2) is rational.
+   3) From this, we deduce that x could still be irrational because irrational numbers can become rational when squared. 
+   4) This does not contradict our initial assumption.",0,0,0,0
+"1. CONTRAPOSITION
+
+We need to prove ""If x is rational, then x^2 is rational.""
+
+1) Assume x is rational. Therefore, we can write x as a/b, where a and b are integers and b ≠ 0. [Definition of rational]  
+2) x^2 = (a/b)^2 = (a^2)/(b^2). [Square the expression]  
+3) Since a^2 and b^2 are integers and b^2 is not zero, (a^2)/(b^2) is a rational number. [Result]",1,1,1,0
+"1. CONTRAPOSITION  
+   To show x^2 is irrational -> x is irrational, use the contrapositive: x is rational -> x^2 is rational.  
+   If x is a fraction, then x^2 is also a fraction.  
+   Thus, x^2 is in Q, whenever x is in Q, which is a valid contrapositive and the original statement follows.",1,0,0,0
+"1. CONTRAPOSITION  
+The statement we need to prove using contraposition is: If x is rational, then x^2 is rational.
+1) Suppose x is a rational number.  
+2) This implies x = p/q, where p, q are integers, and q ≠ 0. [Rational number definition]
+3) Then, x^2 = (p/q)^2 = (p^2)/(q^2). [Square both sides]
+4) p^2 and q^2 remain integers, and q^2 ≠ 0.
+5) Thus, x^2 is expressed as the ratio of two integers, so it is rational. [Conclusion: x^2 is rational]",1,1,1,0
+"1. CONTRAPOSITION
+The goal is to show that if x is rational, then x^2 is rational:
+1) We start with the statement: if x^2 is irrational, then x is irrational.
+2) By using contraposition, this implies: if x is rational, then x^2 is rational.
+3) This follows because under contraposition, a true implication results in the contrapositive also being true.",1,0,0,0
+"CONTRAPOSITION:  
+1. Assume x is rational.  
+2. Then x = s/t where s and t are integers, with t ≠ 0.  
+3. So, we have x^2 = (s POWER 2)/(t POWER 2).  
+4. Thus, x^2 is a rational number as well.",0,1,1,0
+"1. CONTRAPOSITION  
+Suppose x is rational.  
+This means x = p/q, where p and q are integers, q ≠ 0.  
+Then, x^2 can be written as (p/q) POWER 2 = p^2/q^2.  
+Therefore, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION: The goal is to demonstrate that if x is rational, then x^2 is rational.
+1) Assume x is rational. [Assumption]
+2) x can be expressed as a/b where a and b are integers with b ≠ 0. [Definition]
+3) Then x^2 = (a/b)^2 = (a^2)/(b^2). [Squaring]
+4) Since a^2 and b^2 are integers, x^2 is rational. [Conclusion]",1,1,1,0
+"1. We start by assuming x is rational.
+2. This implies that x can be expressed as x = a/b, where a and b are integers with no common factors (b ≠ 0).
+3. By squaring both sides, we get x^2 = (a^2)/(b^2).
+4. Since a^2 and b^2 are integers, x^2 is also a rational number.",0,1,1,0
+"1) Begin with the assumption that x is a rational number.  
+2) So, x can be expressed as a/b, where a and b are integers, b ≠ 0, and a and b have no common factors.  
+3) Then x^2 = a^2/b^2, showing that x^2 is a ratio of integers.  
+4) Therefore, x^2 is rational.  
+5) Hence, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+The goal is to prove: If x is rational, then x^2 is rational.  
+1. Assume x is not a real number.",1,0,0,0
+"- 1. CONTRAPOSITION  
+Prove by contraposition that if x is rational, then x^2 is rational.  
+1. Assume x is irrational. [Premise]  
+2. Since x is irrational, it cannot be in the form a/b. [Definition]  
+3. If it cannot be in form a/b then there's an issue with x* itself.  
+4. Hence, back to x rational, x^2 could be rational.",1,0,0,0
+"1. CONTRAPOSITION  
+1) Suppose x is rational.  
+2) Write x in the form x = r/s where r and s are integers, s ≠ 0.  
+3) Then x^2 = (r^2)/(s^2), which is also a ratio of two integers.  
+4) This demonstrates that x^2 is rational as r^2 and s^2 are integers.  
+5) Consequently, by contraposition, we can say if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Consider using contraposition  
+2. Assume x is rational  
+3. Write x as a/b where a and b are integers with no common denominators  
+4. This means x^2 = (a^2)/(b^2)  
+5. Hence, x^2 is also rational  
+6. By contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. CONTRAPOSITION  
+Prove using contraposition: If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Then x can be represented as p/q, where both p and q are integers, and q ≠ 0. [Definition of rational number]  
+3) Thus, x^2 = (p/q)^2 = p^2/q^2. [Mathematical operation: Squaring]  
+4) Since p^2 and q^2 are integers, x^2 can be written as m/n.  
+5) Consequently, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+1) Assume x is a rational number.  
+2) This implies x can be written as a/b, where a and b are integers and have no common divisors, with b ≠ 0.  
+3) Squaring both sides gives x^2 = (a^2/b^2).  
+4) Therefore, x^2 is in the form of a quotient of integers, so it is rational.  
+5) Hence, by contraposition, if x^2 is irrational, x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+1) Assume x is a rational number  
+2) Then x = m/n where m, n are integers and n ≠ 0  
+3) Squaring x gives x^2 = (m^2)/(n^2)  
+4) Since m^2 and n^2 are integers, x^2 is rational  
+5) By contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1) We suppose that x is a rational number.  
+2) According to the definition, x can be written as x = a/b, where a and b are integers with no common factors, and b ≠ 0.  
+3) Squaring gives us x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+Show: If x^2 is irrational, then x is irrational.  
+To prove by contraposition: If x is rational, then x^2 is rational.  
+1) Assume x is rational: x = a/b, where a and b are integers, b ≠ 0.  
+2) Calculate x^2 = (a/b)^2 = (a^2)/(b^2).  
+3) Both a^2 and b^2 are integers, with b^2 ≠ 0.  
+4) Hence, (a^2)/(b^2) is a rational number.",1,1,1,0
+"1. Let's assume that x is rational.  
+2. This implies x can be expressed as x = m/n, where m and n are integers, and n is not zero, with no common factors.  
+3. Therefore, x^2 = (m^2)/(n^2).  
+4. Since m^2 and n^2 are also integers, x^2 is rational by definition.  
+5. Thus, if x^2 is irrational, x must be irrational by contraposition.",0,1,1,1
+"1) Assume x is a rational number.  
+2) Therefore, x can be written as x = m/n, where m and n are integers, and n ≠ 0.  
+3) Squaring both sides, we have x^2 = (m/n)^2 = m^2/n^2.  
+4) Since m^2 and n^2 are integers, x^2 is rational.  
+5) By the contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Let's consider the contraposition approach.  
+1) Suppose x is rational.  
+2) Then x can be written as x = m/n where m and n are integers, n ≠ 0.  
+3) Upon squaring, x^2 = (m^2)/(n^2).  
+4) Since m^2 and n^2 are integers, x^2 is rational.  
+5) Therefore, if x^2 is irrational, x must be irrational.",0,1,1,1
+"- 1. CONTRAPOSITION PROOF
+
+  Assume x is a rational number. 
+
+  1) Define x = a/b for x rational with a, b as integers, and b ≠ 0.
+  2) Then x squared gives us x^2 = (a POWER 2)/(b POWER 2).
+  3) The terms (a^2) and (b^2) are integers, which shows x^2 is also in the form of an integer divided by an integer.
+  
+  Therefore, x^2 is rational, confirmed by contraposition in this setup.",0,1,1,0
+"1. CONTRAPOSITION  
+Suppose (x POWER 2) is not irrational (therefore, x is irrational) and show a contradiction.  
+1) Assume x^2 can be expressed as m/n and x as a power of k  
+2) x is not expressible in any other form that contradicts the square nature  
+3) Therefore, p is not true, and q becomes false  
+4) Hence, contradiction arises if assuming x^2 as irrational from x being irrational",0,0,0,0
+"1. CONTRAPOSITION  
+Let us assume that x^2 is rational because we need to show that x must be rational also.  
+1. x^2 = a/b, where a and b are integers [Assumption]  
+2. Therefore, x = sqrt(a/b). [Simplification]  
+3. Since a and b are both perfect squares, x itself is rational.  
+4. It follows that if x^2 is irrational, then x must also be irrational by contraposition.",0,0,0,0
+"1. CONTRAPOSITION
+   We need to prove that if x is rational, then x^2 is rational
+   1. Let x be irrational [Initial assumption]
+   2. By definition, irrational numbers cannot be written as a fraction of two integers
+   3.",1,0,0,0
+"1. CONTRAPOSITION
+   The contrapositive of ""if x^2 is irrational, then x is irrational"" is ""if x is rational, then x^2 is rational"".
+   1) Assume x is a rational number. [Starting assumption]
+   2) Then x can be expressed as m/n, with m and n being integers and n ≠ 0. [Definition of rational]
+   3) So, x^2 = (m/n)^2 = m^2/n^2. [Squaring both sides]
+   4) As m^2 and n^2 are integers, x^2 remains rational. [Integer and rational properties]",1,1,1,0
+"1. Suppose x is a rational number.  
+2. Thus, x can be written as a/b with a, b being integers, and b ≠ 0.  
+3. Accordingly, x^2 = (a/b)^2 = a^2/b^2.  
+4. Since a^2 and b^2 are integers, x^2 is also rational.  
+5. Therefore, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+To show that if x is rational, then x^2 is also rational.  
+
+2. Assume x is not a ratio of integers. [Assumption]  
+
+3. Then x is not rational. [By definition]  
+
+4. x * x results in a number that is also not a ratio of integers.  
+
+5. So x^2 is also not rational.  
+
+6. Conclude that ""if x^2 is irrational, then x is irrational"".",1,0,0,0
+"We're going to start by contradicting the statement. Assume x is non-rational. From this, x^2 might be rational. From definitions, x is integer-related. So, x^2 is also integer. Hence, if x non-quotient, x^2 should quotient.",0,0,0,0
+"1. CONTRAPOSITION  
+1) Assume x is rational  
+2) x = m/n, where m and n ≠ 0 are integers and have no common factors [Definition of a rational number]  
+3) Therefore, x^2 = (m^2)/(n^2) [Squaring both sides]  
+4) Both m^2 and n^2 are integers [Since m and n are integers]  
+5) So, x^2 is rational [Based on the definition of rational numbers]  
+6) By contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. PROOF BY CONTRAPOSITION  
+We'll start by assuming that x^2 is rational and aim to show that it implies x being rational.  
+Assume x^2 is a rational number, i.e., x^2 = m/n where n ≠ 0 and m, n are integers.  
+Therefore, x = sqrt(m/n).  
+If sqrt(m/n) is rational, it can be written as a = b/c, where b ≠ 0.  
+Hence, x will also be rational.",0,0,0,0
+"1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) x = m/n, where m and n are integers and n is not zero.  
+3) Then, x^2 = (m/n)^2 = m^2/n^2.  
+4) m^2 and n^2 are integers, so x^2 is rational.  
+5)",0,1,1,0
+"- A proof by contraposition involves proving that if x is rational, then x^2 is rational.  
+1) Assume x^2 is a real number.  
+2) If x^2 is irrational, then x is irrational according to the original statement.  
+3) By proving the contrapositive, we assume x is rational.  
+4) This means we try to show that the square of this number x must be rational.  
+5) If we show this, we demonstrate the contrapositive.  
+6) Therefore, completing the contradiction, x^2 is irrational implies x is irrational.",1,0,0,0
+"1) Assume x is a rational number.  
+2) Therefore, x can be expressed as x = p/q with p and q integers with no common factors.  
+3) Take x^2, then x^2 = (p/q)^2 = p^2/q^2.  
+4) As p^2 and q^2 are integers, x^2 is rational as well.  
+So, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1) Consider x being a rational number (premise).
+2) x = m/n, where m and n are integers, and n ≠ 0 (rational definition).
+3) Squaring both sides gives x^2 = (m/n)^2 = m^2/n^2.
+4) This means x^2 is a rational number.
+5)",0,1,1,0
+"1. Assume x is rational.  
+2. x can be written as p/q, where p and q are integers, and q ≠ 0.   
+3. x^2 = (p/q)^2 = p^2/q^2. [Squaring both sides]  
+4. Since p^2 and q^2 are integers, x^2 is rational.  
+5. Thus, if x^2 is irrational, x is irrational according to contraposition.",0,1,1,1
+"1) Let's assume x is rational  
+2) x can be expressed as p/q, where p and q are integers with no common factors (definition of rational)  
+3) Squaring both sides, x^2 = (p^2)/(q^2)  
+4) p^2 and q^2 are integers, so x^2 is a ratio of two integers  
+5) Therefore, x^2 is rational  
+6) By contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. Use CONTRAPOSITION
+2. Suppose x is irrational [Assumption]
+3. We need that if x^2 is rational, then x is rational 
+4. Let x^2 = a/b so x is sqrt(a/b)
+5. This means x^2 is not ration for x^2 = c/d
+6. So x cannot be irrational
+7. Therefore, if x^2 is not rational, then x cannot be rational",0,0,0,0
+"Let P: ""x^2 is irrational"" and Q: ""x is irrational.""
+1) Show P -> Q by using contraposition.
+2) Suppose Q is false.
+3) Thus, not Q implies not P.
+4) This means ""if x is rational, then x^2 is rational.""
+By contraposition, the original statement holds as true.",1,0,0,0
+"CONTRAPOSITION:
+
+1) Let us assume x is rational.
+2) Then x can be written as p/q, where p and q are integers, and q ≠ 0.
+3) Thus x^2 = (p^2)/(q^2).
+4) Since p^2 and q^2 are integers, x^2 is rational.",0,1,1,0
+"- 1. By contraposition, to prove x^2 is irrational implies x is irrational, we show instead: if x is rational, then x^2 is rational.
+  2. Assume x is rational.
+  3. Then x can be expressed as p/q, where p and q are integers, and q ≠ 0. [Definition]
+  4. Therefore, (x)^2 = (p/q)^2 = (p^2)/(q^2). [Squaring]
+  5. Since p^2 and q^2 are integers, x^2 = (p^2)/(q^2) is a rational number. [Rational number definition]
+  6. Conclude if x^2 is rational given x is rational.",1,1,1,0
+"1. Let's prove by contraposition.  
+Assume x^2 is a real number that is irrational, and x can be expressed as the square root of that number.  
+If x is rational, then it contradicts the condition that when squared it results in an irrational x^2.  
+So, if x^2 is known to be irrational, x must be irrational by nature.",0,0,0,0
+"CONTRAPOSITION  
+1) Suppose x is rational.  
+2) Then x can be written as x = p/q, where p and q are integers with q ≠ 0.  
+3) Squaring x gives x^2 = (p^2)/(q^2).  
+4) Both p^2 and q^2 are integers, and since q ≠ 0, q^2 ≠ 0, meaning x^2 = c/d for integers c = p^2 and d = q^2.  
+5) Therefore, x^2 is a rational number.  
+Thus, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1) Assume that x is a rational quantity.  
+2) This implies x = p/q with p and q being integers with q ≠ 0.  
+3) Consequently, if we square x, we get x^2 = (p^2)/(q^2).  
+4) As p^2 and q^2 are integers, x^2 must be rational.  
+5) Thus, using contraposition, if x^2 is irrational, x is also irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+1) Let's assume x can be represented as a rational number.   
+2) So, x = m/n, where m and n are integers, and n ≠ 0.  
+3) Squaring both sides gives us x^2 = (m/n)^2 = (m^2/n^2).  
+4) Since m^2 and n^2 are integers, x^2 is also rational.",0,1,1,0
+"Assume that x is rational.  
+1) x can be represented as a/b, where a and b are integers with no common divisors, and b ≠ 0.  
+2) Squaring both sides leads to x^2 = (a^2)/(b^2).
+3) Here, since a^2 and b^2 retain their integer values, x^2 remains a rational number.  
+4) Hence, we conclude by contraposition that if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. To use contraposition   
+2. Assume x is a rational number  
+3. Let x = p/q, where p and q are integers, and q is not zero  
+4. Then x^2 = (p^2)/(q^2), which is a ratio of integers  
+5. Thus, x^2 is rational   
+6. Hence, if x^2 is irrational, then x must be irrational",0,1,1,1
+"1. CONTRAPOSITION  
+To prove by contraposition, assume x is rational and show that x^2 is rational.  
+1) Assume x is rational.  
+2) Then, x can be expressed as p/q with p and q as integers, q ≠ 0. [Definition of rational]  
+3) This gives us x^2 = (p^2)/(q^2).  
+4) Since p^2 and q^2 are integers, it follows that x^2 is rational.",1,1,1,0
+"- By contraposition, we consider that if x is rational, then x^2 must also be rational.  
+1) Assume x is rational.  
+2) We can write x as a/b where a and b are integers, and b ≠ 0, with no common factors.  
+3) Squaring both sides gives us x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is a ratio of integers.  
+5) Thus, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+To prove that if x^2 is irrational, then x is irrational, we need to show if x is rational, then x^2 is rational:  
+1) Assume x is a rational number.  
+2) Then x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+3) Squaring both sides gives us x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is a rational number by definition.",1,1,1,0
+"1. Contraposition Argument: Prove that if x^2 is irrational, then x is irrational by demonstrating that if x is rational, x^2 is also rational.
+1) Assume x is rational.
+2) Therefore, x = c/d, where c and d are integers, with d ≠ 0.
+3) By squaring, x^2 = c^2/d^2.
+4) As c^2 and d^2 are integers, x^2 is expressed as the ratio of integers.
+5) Hence, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION
+
+Prove ""If x is rational, then x^2 is rational.""
+
+1) x is rational, so x = m/n, where m and n are integers and n ≠ 0. [Assumption]  
+2) x^2 = (m/n)^2 = (m^2)/(n^2). [Square x]  
+3) m^2 and n^2 are integers and n^2 ≠ 0, thus m^2/n^2 is a rational number. [Argument]",1,1,1,0
+"1. CONTRAPOSITION  
+Our goal is to show: If x is rational, then x^2 is rational.
+
+1) Assume x is rational.  
+2) So, x can be written as a/b, where a and b are integers and b ≠ 0.  
+3) This gives us x^2 = (a/b)^2 = (a^2)/(b^2).  
+4) a^2 and b^2 are integers, so x^2 is a ratio of integers without common factors.  
+5) Therefore, x^2 is rational, proving the contrapositive statement.",1,1,1,0
+"1. CONTRAPOSITION  
+To prove by contraposition: If x is rational, then x^2 is rational.  
+1. Suppose x is irrational.",1,0,0,0
+"- 1. CONTRAPOSITION METHOD
+  We prove that: if x is rational, then x squared is rational.
+  1) Suppose x is rational. [Assumption]
+  2) Then, x can be expressed as p/q, with integers p and q, and q ≠ 0. [Rational definition]
+  3) Therefore, x^2 = (p/q)^2 = p^2/q^2. [Calculation]
+  4) Both p^2 and q^2 are integers; hence, p^2/q^2 is a rational expression. [Properties of integers]
+  5) Thus, x^2 must be rational. [Rationality]",1,1,1,0
+"1. Suppose x is a real number, and let's consider that if x^2 is known to be irrational, x must be irrational.  
+2. Assume for contradiction that x is rational, expressed as a/b with a and b as integers.  
+3. Then x^2 = (a/b) POWER 2 = a^2/b^2, which shows x^2 is rational.  
+4. Since we assumed x^2 is irrational, a contradiction arises.  
+5. Conclude that if x^2 is irrational, x must also be irrational by contraposition.  
+6. Contradiction resolved based on initial assumptions.",0,0,0,0
+"1. CONTRAPOSITION  
+Using contraposition, demonstrate: if x is rational, then x^2 is rational.  
+1) Suppose x is a rational number.  
+2) By definition, x = c/d, with c and d integers, and d ≠ 0.  
+3) Consequently, x^2 = (c^2)/(d^2).  
+4) As both c^2 and d^2 are integers, x^2 meets the definition of a rational number.  
+5) Hence, x^2 is rational by the properties of rational numbers.",1,1,1,0
+"1. Start with contraposition.  
+1) Assume x is rational.  
+2) x = a/b, where a and b are integers and have no common factors, and b ≠ 0.  
+3) Squaring both sides gives x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is also rational.  
+5) Thus, if x^2 is irrational, x must be irrational by contraposition.",0,1,1,1
+"1. Assume x is rational.  
+2. There exist integers p and q such that x = p/q, where p and q have no common factors and q != 0.  
+3. Therefore, x POWER 2 = (p/q) POWER 2 = p POWER 2 / q POWER 2.  
+4. The expression p POWER 2 / q POWER 2 is also a rational number as it is the quotient of two integers.  
+5. Conclude that if x is rational, then x POWER 2 must be rational.",0,1,1,0
+"1. CONTRAPOSITION  
+   Show that if (x)^2 is irrational, then x must be irrational.  
+   1) Assume that x is irrational.  
+   2) If x^2 is given as the square of an irrational number, then x must also be irrational.  
+   3) It follows that if x is irrational, (x)^2 is irrational.  
+   4) Thus, by our assumption, we conclude x cannot be rational.",0,0,0,0
+"CONTRAPOSITION  
+1. Assume x is rational  
+2. x = r/s, where r and s are integers with gcd(r, s) = 1  
+3. Then x^2 = (r/s)^2  
+4. x^2 = r^2/s^2  
+5. x^2 is a rational number",0,1,1,0
+"1) Assume x is a rational number.  
+2) x = m/n, where m and n ≠ 0 are integers with no common factors. [Definition of rational number]  
+3) x^2 = (m/n)^2 = m^2/n^2. [Squaring both sides]  
+4) m^2/n^2 is a ratio of integers, hence x^2 is also rational. [Definition of rational number]  
+5) Thus, if x^2 is irrational, then x must be irrational by contraposition.",0,1,1,1
+"1. CONTRAPOSITION  
+To show: if x is rational, then x^2 is rational.  
+1) Assume x is a rational number.  
+2) Therefore, x can be expressed as x = m/n, where m and n are integers and n ≠ 0.  
+3) Squaring both sides gives x^2 = (m/n)^2 = m^2/n^2.  
+4) Both m^2 and n^2 are integers since the square of an integer is also an integer.  
+5) So, m^2/n^2 represents a rational number.  
+6) Thus, x^2 is rational.",1,1,1,0
+"- 1. CONTRAPOSITION
+  We aim to show that if x is rational, then x^2 is rational.
+  1) Assume x is rational [Premise]
+  2) Then x can be expressed as x = a/b, where a and b are integers, b ≠ 0 [Definition]
+  3) Squaring gives us x^2 = (a/b)^2 = a^2/b^2 [Square]
+  4) Since a and b are integers, a^2 and b^2 are also integers [Property]
+  5) Therefore, x^2 = a^2/b^2 is rational [Conclusion]",1,1,1,0
+"1. CONTRAPOSITION  
+We will demonstrate that if x is rational, it implies x^2 is rational.  
+1) Assume x is irrational.  
+2) x does not have a form that fits a ratio of integers.  
+3) For x^2 to be rational, x must also be rational.  
+4) x^2 remains irrational due to the irrationality of its base.",1,0,0,0
+"By contraposition, we will prove that if x^2 is irrational, then x is irrational.
+
+1. Begin with the assumption that x is irrational and show that x^2 is irrational.
+2. Since x cannot be expressed as the quotient of two integers, it follows that x^2 also cannot be expressed as the quotient of two integers.
+3. Thus, the premise leads to the conclusion through simplification.
+4. Therefore, the original statement is affirmed by proving the contrapositive.",0,0,0,0
+"1. CONTRAPOSITION  
+Let x be a real number. We assume x^2 is rational. Then x could be expressed as a fraction m/n, where m and n are integers. Since x^2 equals (m/n)^2, it is equal to m^2/n^2. This means that x^2 is rational because anything squared is rational. By contraposition, if x^2 is irrational, then x must be irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+To prove ""If x^2 is irrational, then x is irrational"", we assume the opposite: x is rational.  
+Suppose x is rational and x^2 is irrational.  
+However, by contraposition, if x is rational then x^2 must also be rational.  
+This suggests that assuming x is rational implies x^2 is irrational is not consistent.",1,0,0,0
+"1) CONTRAPOSITION  
+The task is to show that if x is rational, then x^2 is also rational.  
+2) Let x be rational, meaning x = c/d with c, d being integers and d ≠ 0. [Definition of rational]  
+3) Squaring the expression gives x^2 = (c^2)/(d^2).  
+4) The numbers c^2 and d^2 are integers, so x^2 is a fraction of integers.  
+5) Therefore, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+2. Assume x is a rational number  
+3. Then, x can be written as x = a/b, where a and b are integers and b ≠ 0  
+4. Squaring both sides gives x^2 = (a^2)/(b^2)  
+5. Since a^2 and b^2 are integers, x^2 is rational",0,1,1,0
+"1. CONTRAPOSITION  
+Suppose x^2 is rational.  
+Then, we can express x^2 as p/q for some integers, p and q, where q ≠ 0.  
+Then x = root(p)/root(q) or x = -root(p)/root(q).  
+Therefore, x is a rational number.  
+By contraposition, x being irrational implies x^2 is irrational.",0,0,0,0
+"- 1. CONTRAPOSITION
+1) Assume x is rational.
+2) x = a/b, where a and b are integers with no common factors and b ≠ 0.
+3) By squaring both sides, x^2 = (a^2)/(b^2).
+4) Since a^2 and b^2 are integers, x^2 can be expressed as the quotient of two integers, making x^2 rational.",0,1,1,0
+"- 1) Assume x is a rational number.  
+  2) Then, x can be written as x = a/b, where a and b are integers with no common factors, and b ≠ 0.  
+  3) Square both sides: x^2 = (a/b)^2 = a^2/b^2.  
+  4) Since a^2 and b^2 are integers, x^2 is also the ratio of two integers.  
+  5) Thus, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION 
+We need to show that if x is rational, then x^2 is rational.  
+Let P(x): x is rational, Q(x): x^2 is rational.  
+1) Assume x is irrational [Premise]  
+2) x is not in the form of a/b, where a and b are integers [Definition of irrational]  
+3) Therefore, x^2 can't be written as a square of any rational number [Observation]  
+4) Thus, if x^2 is irrational, x is irrational 
+5) From contraposition, if x is rational, then x^2 is rational",1,0,0,0
+"1. CONTRAPOSITION  
+To prove: If x is rational, then x^2 is rational.  
+1) Suppose x is irrational [Premise]  
+2) By definition of irrationality, x ≠ p/q for integers p and q  
+3) Assume x^2 can be written as a fraction m/n where m and n are integers [Assumption]  
+4) Conclude that x^2 is irrational when x is irrational  
+5) From contraposition, it follows that if x^2 is irrational, then x is irrational.",1,0,0,0
+"1. Let's use contraposition  
+   Assume p(x) is irrationality of x^2 
+   Assume q(x) is irrationality of x 
+   We need to show that (not q) follows.  
+   1) p and not q  
+   2) Therefore, not p",0,0,0,0
+"1. CONTRAPOSITION  
+1) For the proof, suppose x is rational.  
+2) Then x can be expressed as x = c/d, where c and d are integers, and d ≠ 0.  
+3) By squaring, x^2 = (c/d)^2 = c^2/d^2.  
+4) Since c^2 and d^2 are integers, x^2 is also rational.  
+5)",0,1,1,0
+"1. We need to prove by contraposition that if x is rational, then x^2 is rational.
+2. Assume p: x^2 is irrational, q: x is irrational.
+3. Therefore, we consider not q, which implies not p.
+4. This leads to ~q -> ~p.
+5. Hence we establish the contraposition: if x^2 is irrational, then x is irrational.",1,0,0,0
+"1. Assume x is a rational number.  
+2. Then x = m/n, where m and n are integers with n not equal to zero and m/n in simplest form.  
+3. Therefore, x^2 = (m^2)/(n^2).  
+4. Since m^2 and n^2 are integers, x^2 is a rational number.  
+5. By contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"CONTRAPOSITION  
+Assume x is a rational number, which means we can write it as x = a/b where a and b are integers with b ≠ 0.  
+When x is squared, x^2 = (a/b)^2 = a^2/b^2.  
+Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION
+1) Let’s assume x is rational.
+2) Then x can be expressed as a/b where a and b are integers, and b ≠ 0.
+3) Squaring both sides gives x^2 = (a^2)/(b^2).
+4) Here, a^2 and b^2 are integers, so x^2 is also rational.
+5) Therefore, by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Assume x is rational.  
+2. Hence, there exist integers c and d such that x = c/d, where d ≠ 0. [Definition of a rational number]  
+3. Consequently, x^2 = (c/d)^2 = c^2/d^2.  
+4. Since c^2 and d^2 are integers, x^2 is a quotient of integers.  
+5. Thus, x^2 is rational.  
+6. Therefore, by contraposition, if x^2 is irrational, x is also irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+1) Assume x is a rational number.  
+2) This means x = c/d, where c and d are integers, d ≠ 0, and there are no common factors.  
+3) Squaring gives: x^2 = (c/d)^2 = c^2/d^2.  
+4) As both c^2 and d^2 are integers, x^2 is clearly rational.  
+5) Therefore, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. Suppose we want to prove that if x is rational, then (x POWER 2) is rational using contraposition.
+2. Start by assuming that x is irrational and show that this leads to x^2 being irrational.
+3. Since the contraposition holds true, the initial statement about x being rational implies x^2 being rational must also hold true.
+4. Therefore, we have shown the contrapositive, that if x is rational, then (x POWER 2) must indeed be rational.",1,0,0,0
+"1. CONTRAPOSITION  
+Suppose x is an irrational number.  
+Then for x we have the expression x = sqrt(p/q) where p and q are natural numbers.  
+Then x^2 = (sqrt(p/q))^2 which simplifies to p/q.  
+As p/q represents a rational number, x^2 will also be rational.  
+So if x is irrational, x^2 can be either rational or irrational.",0,0,0,0
+"- 1. CONTRAPOSITION METHOD
+
+  Start by assuming x is a rational number. 
+  
+  1) Let x be rational such that x = p/q where p and q are integers (q ≠ 0).
+  2) Then, x^2 = (p/q)^2 which equals p^2/q^2.
+  3) Since p^2 and q^2 are integers, x^2 can be expressed as p^2/q^2, which is a rational number.
+  
+  Hence, x^2 is rational under this assumption, completing the proof by contraposition.",0,1,1,0
+"1. PROOF BY CONTRAPOSITION  
+Assume that x^2 is a rational number.  
+If x^2 = a/b, where a and b are integers and b ≠ 0, then x must be of the form p/q, with p and q being integers with q ≠ 0.  
+Thus, x is rational since x could be written as the square root of a rational number a/b.  
+Therefore, it follows that if x^2 is rational, x is rational.",0,0,0,0
+"1. CONTRAPOSITION  
+   Let p be ""x^2 is irrational"" and q be ""x is irrational"".  
+   1) Assume p -> q [Premise]  
+   2) Consider the contrapositive: NOT q -> NOT p.  
+   3) If we assume x is a rational number, then logically, x^2 should be rational. 
+   4) The statement and its contrapositive are logically equivalent.  
+   5) Therefore, proving one also proves the other.",1,0,0,0
+"1. STATEMENT
+
+To prove the statement ""if x^2 is irrational, then x is irrational"" by contraposition, we will show that if x is rational, then x^2 is rational.
+1. Assume x is rational. [Assume the contrapositive]
+2. Therefore, x can be expressed as p/q, where p and q are integers and q ≠ 0. [Definition of rational number]
+3. Calculating x^2 gives (p/q)^2 = (p^2)/(q^2). [Squaring]
+4. Here, p^2 and q^2 are integers, so (p^2)/(q^2) is a ratio of integers. [Property of integers]
+5. Consequently, x^2 is rational. [Definition of rational numbers]",1,1,1,0
+"1. CONTRAPOSITION  
+Assume x is a rational number.  
+Then, x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+Squaring both sides gives x^2 = (a/b)^2 = a^2/b^2.  
+Thus, x^2 is also a rational number.",0,1,1,0
+"1. Let's assume x is rational  
+2. Express x as x = a/b, where a and b are integers with no common factors  
+3. Calculating x^2 gives x^2 = (a^2)/(b^2)  
+4. This demonstrates that x^2 can be expressed as a ratio of integers, so x^2 is rational  
+5. Using contraposition, if x^2 is irrational, then x must be irrational",0,1,1,1
+- 1. CONTRAPOSITION: Our task is to show that the contrapositive requires proving if x is rational then x^2 is rational.,1,0,0,0
+"1. CONTRAPOSITION  
+To prove the statement using contraposition, show that if x is rational, then x^2 is rational.
+
+1) Assume x is irrational [Assumption]  
+2) By definition, x cannot be expressed as p/q where both p and q are integers with q ≠ 0  
+3)",1,0,0,0
+"1. Contraposition   
+We assume x^2 is rational and x is irrational.   
+1) Assume x^2 is irrational [Premise]  
+2) So, x = sqrt(p/q) [Inverse expression]  
+3) This implies x^2 = q/p [Simplification]  
+4) We see a contradiction with x being rational  
+5) Conclusion: If x^2 is irrational, then x must be rational based on inverse logic.",0,0,0,0
+"Let us prove the statement using contraposition.
+
+1) Assume x is a rational number.
+2) Then x = a/b, where a, b are integers and b ≠ 0.
+3) Squaring both sides, we have x^2 = (a^2)/(b^2).
+4) Since a^2 and b^2 are integers, x^2 is a rational number as it is a ratio of two integers.",0,1,1,0
+"1) Assume x is rational.
+2) Therefore, x = m/n, where m and n are integers with n ≠ 0, and m and n have no common factors.
+3) If we square x, x^2 = (m POWER 2)/(n POWER 2).
+4) Since both m^2 and n^2 are integers, x^2 is also rational.
+5) By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Using contraposition:
+2. Assume x is rational 
+3. Therefore, x can be expressed as x = r/s, where r and s are integers, s ≠ 0
+4. Squaring gives x^2 = (r/s)^2 = (r POWER 2)/(s POWER 2)
+5. Both r^2 and s^2 are integers, hence x^2 is rational",0,1,1,0
+"1. CONTRAPOSITION  
+We need to show that ""if x^2 is irrational, then x is irrational.""   
+Using contraposition, we prove that ""if x is rational, then x^2 is rational.""   
+1) Let x be rational.  
+2) Thus, x can be written as a/b, where a and b are integers with b not equal to zero.  
+3) x^2 is (a/b)^2, which equals a^2/b^2.  
+4) a^2 and b^2 are also integers, which means a^2/b^2 is a rational number.  
+5) Hence, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION
+1) Assume that (x POWER 2) is irrational [Premise]
+2) Let x^2 = a/b, where a and b are integers [Assuming rational form]
+3) Therefore, x must be irrational
+4) If x is irrational, then this shows a contradiction",0,0,0,0
+"1. CONTRAPOSITION  
+    Assume x is irrational.  
+2. x = sqrt(p/q), where p and q are integers.  
+3. x^2 gives p/q which is considered rational.  
+4. The assumption leads to x^2 not being rational.  
+5. Conclude the proposition by contradistinguishing.",0,0,0,0
+"- 1. CONTRAPOSITION
+   We have to demonstrate that (if x is rational, then x^2 is also rational).",1,0,0,0
+"- 1. CONTRAPOSITION  
+  Assume x^2 is rational  
+  Then x is of the form m/n, where m and n are integers  
+  This implies x^2 = (m^2)/(n^2) is rational  
+  Thus, x must also be rational  
+  By contraposition, if x^2 is irrational, then x is irrational  
+  q.e.d.",0,0,0,0
+"1. CONTRAPOSITION
+  x is rational (premise)
+  Let x be written as p/q where both p and q are integers and q does not equal zero.
+  Then, x^2 = (p^2)/(q^2), where p^2 and q^2 are integers.
+  It follows that x^2 is also expressed as a fraction of two integers.
+  So, x^2 is rational.",0,1,1,0
+"1. Proof by Contraposition
+We need to show that if x is a rational number, then x^2 is also a rational number.
+1) Assume x is rational.
+2) By definition, x can be expressed as a/b, where a and b are integers with b ≠ 0.
+3) Squaring both sides, we have x^2 = (a^2)/(b^2).
+4) Since a^2 and b^2 are integers, x^2 is written as a fraction of integers.
+5) Therefore, x^2 is a rational number.",1,1,1,0
+"1. PROOF BY CONTRAPOSITION  
+   1) Assume that x^2 is irrational 
+   2) Assume also that x is irrational 
+   3) Therefore, x^2 being irrational follows because x is irrational  
+   4) Conclude that x -> x^2",0,0,0,0
+"1. CONTRAPOSITION  
+ 1) If x is a mixed number, then x squared must also be a real number  
+ 2) Assume x^2 is a type of real number  
+ 3) Then, x is not expressible in the form of a fraction  
+ 4) Thus, x is dependent on a square value notation",0,0,0,0
+"To demonstrate ""if x^2 is irrational, then x is irrational,"" we use the contrapositive. We need to prove ""if x is rational, then x^2 is rational.""
+
+1) Start with the premise that we are proving by contraposition. Thus, show x^2 rational implies x rational.",1,0,0,0
+"- CONTRAPOSITION
+1) Assume that x is rational.
+2) Write x as a/b with a and b integers, b ≠ 0.
+3) Consider x POWER 2: x^2 = (a/b)^2 = a^2/b^2.
+4) a^2 and b^2 are integers, thus x^2 is rational.",0,1,1,0
+"Assume x^2 is irrational and x is rational.
+
+1. CONTRAPOSITION
+2. x can be expressed as a sum of two different irrational numbers. 
+3. This means x^2 can also have a rational form.
+4. Therefore, if x^2 is irrational, then x is irrational.
+
+This is what I have.",0,0,0,0
+"To prove ""if x^2 is irrational, then x is irrational"" using contraposition, we instead show ""if x is rational, then x^2 is rational"".
+
+1) Assume x is a rational number.  
+2) Then x can be expressed as p/q, where p and q are integers, and q ≠ 0.  
+3) Squaring both sides, x^2 = (p^2)/(q^2).  
+4) Since p^2 and q^2 are integers, x^2 is in the form of a fraction with integer numerator and denominator.  
+5) Therefore, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+To prove ""If x^2 is irrational, then x is irrational"", we prove:  
+""If x is rational then x^2 is rational"".  
+
+1) Assume x is a rational number.  
+2) Thus, we can express x as a/b, where a and b are integers, with b ≠ 0.  
+3) Squaring both sides, x^2 = (a/b)^2 = a^2 / b^2.  
+4) Since a^2 and b^2 are both integers and b^2 ≠ 0, the fraction a^2 / b^2 represents a rational number.    
+5) Hence, x^2 is rational.",1,1,1,0
+"1) Let’s assume that x is rational  
+2) x can be written as x = a/b, with a and b being integers, and b ≠ 0  
+3) Therefore, x^2 = (a/b)^2 = a^2/b^2  
+4) a^2 and b^2 are integers, making a^2/b^2 a rational number  
+5) Consequently, by contraposition, if x^2 is irrational, x must be irrational",0,1,1,1
+"CONTRAPOSITION
+We want to prove that: if x^2 is irrational, then x is irrational.
+1) Apply proof by contraposition: prove if x is rational, then x^2 is rational. [Goal]
+2) Assume x is rational. [Assumption]
+3) Therefore, x can be expressed in the form a/b, with integers a and b, and b ≠ 0. [Definition]
+4) Then, x^2 = (a/b)^2, which equals (a^2)/(b^2). [Math]
+5) Since both a^2 and b^2 are integers, x^2 = a^2/b^2 is a ratio of integers. [Reasoning]
+6) Consequently, x^2 is rational. [Conclusion]",1,1,1,0
+"1) Suppose x is a rational number  
+2) Then, x can be expressed as a/b, for integers a and b with no common factors  
+3) Squaring both sides, we have x^2 = (a^2)/(b^2)  
+4) Since a^2 and b^2 are products of integers, x^2 is rational  
+5) Therefore, if x^2 is irrational, x must be irrational by contraposition",0,1,1,1
+"1. Suppose x is rational.
+2. This means x = m/n, where m and n are integers with n ≠ 0.
+3. Squaring, x^2 = (m^2)/(n^2).
+4. Therefore, x^2 is rational because both m^2 and n^2 are integers.",0,1,1,0
+"1. Using contraposition to prove: If x^2 is irrational, then x is irrational.
+2. Assume: If x is rational, then x^2 must also be rational by contradicting the original statement.
+3. This follows from the definition because x^2 is calculated from x, a real number, and rational numbers create rational results.",1,0,0,0
+"1. Assume (X POWER 2) is irrational.
+2. Let x be any real number such that (x POWER 2) is irrational.
+3. Suppose x is real to prove if (x POWER 2) is irrational, x is irrational.
+4. Therefore, assume (x POWER 2) is irrational; then x must not be irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+   1) Assume \( x \) is rational.  
+   2) Then, \( x = \frac{a}{b} \), where \( a \) and \( b \) are integers, \( b \neq 0 \), and they share no common factors.  
+   3) Squaring both sides gives \( x^2 = \frac{a^2}{b^2} \).  
+   4) Since \( a^2 \) and \( b^2 \) are integers, \( x^2 \) is rational.  
+   5) Therefore, by contraposition, if \( x^2 \) is irrational, \( x \) is irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+To prove by contraposition: If x is rational, then x^2 is rational  
+1) Assume x is rational [Premise]  
+2) So x can be expressed as a/b [Definition of rational number]  
+3) Squaring both sides, x^2 = (a/b)^2 = a^2/b^2 [Squaring]  
+4) Because a^2 and b^2 are integers, x^2 is also rational [Rational number definition]",1,1,1,0
+"- 1. Assume that x is rational.  
+2. This implies x can be expressed as a/b, with a and b being integers, and b ≠ 0.  
+3. Squaring both sides gives us x^2 = (a/b)^2.  
+4. So, x^2 equals a^2/b^2, which is a rational number.  
+5. If the initial statement was true, we could conclude by contraposition.",0,1,1,0
+"- 1. CONTRAPOSITION 
+  Let's use contraposition: if x is rational, then x^2 is rational:
+  1) Assume x is rational [Premise]
+  2) x can be written as p/q with p and q being integers and q ≠ 0 [Definition of a rational number]
+  3) Calculating x^2 gives us (p/q)^2 = p^2/q^2 [Square the expression]
+  4) p^2 and q^2 are integers, making p^2/q^2 a rational number [As defined]
+  5) Thus, x^2 is rational when x is rational",1,1,1,0
+"1. CONTRAPOSITION
+We need to prove that if x is rational, then x^2 is also rational:
+1) Start with the statement if x^2 is irrational, then x is irrational.
+2) By contraposition, this can be rewritten as: if x is rational, then x^2 is rational.
+3) From this transformation, it follows that x rational implies x^2 rational.",1,0,0,0
+"1) Let's start by assuming that x is rational.  
+2) Then x can be expressed as a/b, where a and b are integers and b is not zero.  
+3) Squaring both sides, we have x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"Show that from p ∧ (p -> q) we can conclude q:
+1) Assume (x POWER 2) is irrational 
+2) (x POWER 2) is not rational [Restating 1 for clarity]
+3) x = a + b where a and b are not integers 
+4) (x POWER 2) becomes irrational because it's not a normal number
+5) By simplification, (x POWER 2) is p or q",0,0,0,0
+"1. By contraposition, assume x^2 is rational.
+2. Let x be an irrational number such that x can be represented as sqrt(p/q).
+3. Then x^2 is represented by p/q.
+4. If p/q is not a perfect square, x^2 becomes rational as it can still be said to be equal to a quotient of integers in some cases.
+5. Therefore, it does not necessarily contradict the statement about whether x must be rational.
+6. Ultimately, showing that if x^2 is rational, x is rational.",0,0,0,0
+"1. CONTRAPOSITION  
+Let's consider the statement: if x^2 is irrational, then x is irrational.  
+2. Assuming x^2 is rational implies there exists a rational number x that fits this condition.  
+3. If we take x^2 = p/q where p and q are integers, then x can be written as p/q as well, invoking the rational property of roots.  
+4. This implies that if x^2 is rational, x is rational, confirming the contrapositive statement.  
+5. Thus, it follows by contraposition that if x^2 is irrational, x must be irrational.",0,0,0,0
+"1. Suppose that x is a rational number.
+2. Therefore, x can be written as x = p/q, where p and q are integers with q ≠ 0.
+3. After squaring, x^2 = (p^2)/(q^2).
+4. This shows that x^2 is a rational number because p^2 and q^2 are integers.",0,1,1,0
+"- Statement: The contraposition we want to prove is: if x is rational, then x^2 is rational.  
+1) Assume x is rational [Assumption]  
+2) This means x can be written as a/b, where a and b are integers, and b ≠ 0 [Definition of a rational number]  
+3) Then x^2 = (a/b)^2 = a^2/b^2 [Squaring]  
+4) Since a and b are integers, a^2 and b^2 are also integers [Properties of integers]  
+5) Thus, a^2/b^2 is a rational number [Definition of a rational number]",1,1,1,0
+"1. CONTRAPOSITION  
+1) Start by assuming x is rational  
+2) x = a/b, where a and b are integers, b ≠ 0  
+3) Then x^2 = (a POWER 2)/(b POWER 2)  
+4) (a POWER 2)/(b POWER 2) is a rational number because a^2 and b^2 are integers and b^2 ≠ 0",0,1,1,0
+"- 1. Show that if x^2 is irrational, then x is irrational, using contraposition.
+   2. Assume x is rational.
+   3. That means x^2 is rational.
+   4. By showing if x^2 is rational, we assume x^2 is irrational. 
+   5. That means x is irrational. 
+   6. Therefore, by contraposition, the statement holds.",1,0,0,0
+"1) Assume x is rational.  
+2) Therefore, x can be expressed as m/n, where m and n are integers, and n ≠ 0.  
+3) Squaring x gives us x^2 = m^2/n^2.  
+4) Since m^2 and n^2 are integers, x^2 is clearly rational.  
+5) Thus, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+We want to show that if x is rational, then x^2 is rational.  
+1) Begin by assuming x is rational.  
+2) So, x can be written in the form x = a/b, where a and b are integers and b ≠ 0.  
+3) From this, x^2 = (a/b) * (a/b) = (a*a) / (b*b).  
+4) Since integers are closed under multiplication, a*a and b*b are both integers and b*b is not zero.  
+5) Thus, (a*a)/(b*b) is a rational number.",1,1,1,0
+"1. To prove by contraposition, we assume that x^2 is not rational.
+2. Assume x is rational. This means x can be written as p/q, where p and q are integers.
+3. If x = p/q, then x^2 would be (p/q)^2 = p^2/q^2, which is a ratio of integers, so x^2 is rational.
+4. Since having x rational implies x^2 rational, this contradicts the assumption.",0,0,0,0
+"1. CONTRAPOSITION:
+To prove the statement by contraposition, we need to show that if x is rational, then x^2 is rational.
+1) Assume x is rational. [Assumption]
+2) Then, x can be expressed as a/b, where a and b are integers, and b ≠ 0. [Definition of a rational number]
+3) It follows that x^2 = (a/b)^2 = (a^2)/(b^2). [Squaring]
+4) Since a^2 and b^2 are integers, x^2 is a fraction of integers. [Properties of integers]
+5) Therefore, x^2 is also rational. [Definition of a rational number]",1,1,1,0
+"1) Assume that x is rational  
+2) Thus, x = r/s, where both r and s are integers and s ≠ 0  
+3) Then x^2 = (r^2)/(s^2), confirming they are integers  
+4) As a result, x^2 is rational  
+5) Using contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. CONTRAPOSITION  
+We aim to show that if x is rational, then x^2 is rational.  
+1) Assume x is a rational number.  
+2) Therefore, x can be represented as a/b, where a and b are integers, and b ≠ 0. [Definition of rational numbers]  
+3) Squaring both sides, x^2 = (a^2)/(b^2).  
+4) As a^2 and b^2 are also integers, x^2 is a rational number.",1,1,1,0
+"1. Let's assume x can be expressed rationally.  
+2. Write x as a/b, where a and b are integers and b ≠ 0.  
+3. Then calculate x^2 as (a/b)^2 = (a POWER 2)/(b POWER 2).  
+4. Both a^2 and b^2 are integers, which means x^2 is rational.  
+5. The starting assumption implies the contrapositive statement.",0,1,1,0
+"1. Assume in contrapositive  
+2. Assume x is a rational number  
+3. Then x can be written as x = m/n, where m and n are integers and n ≠ 0  
+4. Squaring both sides, x^2 = (m/n)^2  
+5. It follows that x^2 = (m^2)/(n^2)  
+6. m^2 and n^2 are integers, so x^2 is rational  
+7. Therefore, if x^2 is irrational, x must be irrational",0,1,1,1
+"1. CONTRAPOSITION\
+   Suppose x is irrational and (x POWER 2) = p/q.\
+   We assume p/q is irrational and show that this implies x must be irrational.\
+   1) (Not p/q) and (not q) are true.\
+   2) Therefore, x = a/b and is irrational.\
+   3) Conclude not (not q).\
+   \",0,0,0,0
+"1. CONTRAPOSITION  
+Statement: To prove by contraposition means to show that if \( x \) is rational, then \( x^2 \) is also rational.  
+2. Assume x is irrational   
+3. Let \( x^2 = a^2/b^2 \)  
+4. Therefore, x * x = a/b  
+5. This means x is rational",1,0,0,0
+"1. CONTRAPOSITION\
+To prove: If x is rational, then x^2 is rational.\
+1) Assume that x is irrational. [Premise]\
+2) By the definition of irrational numbers, x cannot be written in the form a/b where a, b are integers and b ≠ 0.\
+3) This implies x^2 is irrational as it cannot be formed by (a^2)/(b^2).\
+4) Therefore, assume that by contraposition, if x^2 is irrational, then x is irrational.\
+\",1,0,0,0
+"1. CONTRAPOSITION  
+The contraposition of the statement is: If x is rational, then x^2 is rational.  
+1) Suppose x is rational; then x can be expressed as x = m/n, with m and n being integers and n not zero. [Assumption]  
+2) So, x^2 = (m/n)^2 = (m^2)/(n^2). [Mathematical derivation]  
+3) Integers m and n imply integers m^2 and n^2, making x^2 a fraction of integers. [Properties of squaring integers]  
+4) Thus, by definition, x^2 is rational. [Definition conclusion]",1,1,1,0
+"1. CONTRAPOSITION  
+1) Assume that x is rational.  
+2) Then x can be expressed as x = m/n where m and n are integers, and n ≠ 0.  
+3) Squaring both sides, we have x^2 = (m^2)/(n^2).  
+4) Since m and n are integers, m^2 and n^2 are also integers.  
+5) Thus, x^2 is expressed as a ratio of two integers, so x^2 is rational.  
+6) Therefore, by contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+Let x be a real number such that x^2 is irrational.  
+We need to prove that x^2 implies x is irrational using contraposition.  
+Suppose x is irrational, then x can be expressed in the form of some non-repeating decimal.  
+If x is squared, the non-repeating nature persists, meaning x^2 remains irrational.  
+Since this contradicts the rational assumption, it supports the idea that if x is squared into an irrational number, x itself should not be rational.  
+Conclusion is that x being rational leads contradicts x^2 being irrational, aligning with the proposition.  
+By contraposition, if x^2 is irrational, then x is irrational.",0,0,0,0
+"Step 1: Assume x is rational.  
+Step 2: Thus, x = p/q where p and q are integers (q ≠ 0).  
+Step 3: Then, x^2 = (p^2)/(q^2).  
+Step 4: Since p^2 and q^2 are integers, x^2 is rational.  
+Step 5: Therefore, by contraposition, if x^2 is irrational, x must be irrational.",0,1,1,1
+"1. Let x be a real number.
+2. We need to show if x^2 is rational, then x is not irrational.
+3. Suppose x^2 = a/b where a and b are integers.
+4. If x is rational, x will be c/d with c and d as integers.
+5. Then (c/d)^2 = a/b.
+6. This means a*d^2 = b*c^2.
+7. This proves that x cannot be irrational.
+8. Therefore, if x^2 is irrational, x must also be rational.",0,0,0,0
+"1. CONTRAPOSITION  
+Assume that x is irrational, therefore x^2 cannot be represented as a ratio. Let y = x^2 and assume y is rational.  
+By definition, x^2 being irrational means it cannot be expressed as m/n where m and n are integers.  
+Hence y cannot satisfy these conditions, implying by itself being irrational, it contradicts our assumption.  
+Thus, x should be irrational if x^2 cannot fit in such representation.",0,0,0,0
+"1. We start with contraposition: assume x is rational.  
+2. Let x = m/n, where m and n are integers, n not zero.  
+3. We find x^2 = (m/n)^2 = m^2/n^2.  
+4. m^2 and n^2 are integers, so x^2 is rational.",0,1,1,0
+"- Let P = x rational and Q = x^2 rational. We need to show the contrapositive, so:  
+  1) Start with P(x) -> Q(x)  
+  2) Use NOT Q(x) which is x^2 irrational  
+  3) Then we have NOT P(x)  
+  This chain means that if x^2 is irrational, then x must also be irrational since we flipped P and Q logically.",1,0,0,0
+"1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) x = m/n, where m and n are integers with n ≠ 0. [Definition of rational number]  
+3) Then x^2 = (m/n)^2 = m^2/n^2. [Squaring both sides]  
+4) m^2 and n^2 are integers, so x^2 can be expressed as a ratio of two integers.  
+5) Therefore, by this reasoning, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION
+
+To prove that if x^2 is irrational, then x is irrational, we show the contraposition.
+
+1) Assume x is rational [Assumption]
+2) Thus, x can be written as a/b, with integers a and b where b ≠ 0 [Definition of rational numbers]
+3) Squaring both sides gives x^2 = (a POWER 2) / (b POWER 2) [Calculation]
+4) Since a and b are integers, their squares, a^2 and b^2, are integers [Integer properties]
+5) Therefore, x^2 = (a^2)/(b^2) represents a rational number [Rational number characteristic]",1,1,1,0
+"1. We apply contraposition.
+2. Suppose x is rational.
+3. Then, x = m/n, where m and n are integers with n ≠ 0, and m and n have no common factors other than 1.
+4. Then x^2 = (m^2)/(n^2).
+5. Hence, x^2 is a rational number.
+6. This follows from our assumptions.",0,1,1,0
+"CONTRAPOSITION
+
+To prove: If x is rational, then x^2 is rational.
+1. Assume we have a statement p -> q where p denotes ""x is rational"" and q denotes ""x^2 is rational.""
+2. The contrapositive is ¬q -> ¬p.
+3. Let's suppose ¬q, which means x^2 is irrational, then by the contrapositive we conclude that x is irrational.
+4. This demonstrates that the original statement must be valid through contraposition.",1,0,0,0
+"1) Let's begin by assuming x is a rational number.
+2) This means x can be expressed as p/q, with p and q being integers where q ≠ 0 and with no common divisors.
+3) Accordingly, x^2 = (p POWER 2)/(q POWER 2).
+4) Given that p^2 and q^2 are integers, x^2 is a rational number.
+5) Thus, if x^2 is irrational, x must be irrational by contraposition.",0,1,1,1
+"1. To use contraposition, we prove if x is rational, then x^2 is also rational.  
+2. Let x be rational, so it can be represented as n/m, with n and m being integers, and m ≠ 0. [Assumption]  
+3. Then x^2 = (n/m) * (n/m) = n^2 / m^2. [Calculation]  
+4. n^2 and m^2 are integers and m^2 is non-zero, meaning x^2 is also a rational number.  
+5. This shows that if x is rational, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION
+   Suppose x is irrational.
+   Let's say x = m/n, where m and n are integers.
+   Then x POWER 2 = m/n^2.
+   Hence, x^2 should be rational since it's a division of integers.
+   Therefore, the assertion ""if x^2 is irrational, then x is irrational"" holds.",0,0,0,0
+"- 1. CONTRAPOSITION STRATEGY
+  Let's prove by contraposition: if x is rational, then x^2 is rational.
+  1) Assume x is rational. [Premise]
+  2) Hence, write x as a/b, where a and b are integers and b ≠ 0. [Definition of rational]
+  3) Then x^2 = (a/b)^2 = a^2/b^2. [Square]
+  4) Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is in the form of a quotient of two integers. [Integer property]
+  5) So, x^2 is rational. [Conclusion]",1,1,1,0
+"1. CONTRAPOSITION  
+1) Consider x to be rational.  
+2) In this case, x can be expressed as x = p/q, with integers p and q where q ≠ 0.  
+3) If we square x, we have x^2 = p^2/q^2.  
+4) This expression shows x^2 as a ratio of two integers.  
+5) Therefore, by contraposition, x^2 being irrational implies x must be irrational.",0,1,1,1
+"1. CONTRAPOSITION  
+1) Let x^2 be rational, this means that x^2 = c/d where c, d are integers.  
+2) Therefore, we need to prove x is irrational when x^2 is rational.",0,0,0,0
+"1. Let's assume that x is rational  
+2) Therefore, x = c/d where c and d are integers with d ≠ 0  
+3) Squaring x, we get x^2 = (c^2)/(d^2)  
+4) This shows x^2 is rational because c^2 and d^2 are integers  
+5) Thus, by contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. CONTRAPOSITION  
+- Assume x is rational  
+- Then x can be expressed as x = a/b, where a and b are integers and b ≠ 0  
+- x^2 = (a^2)/(b^2) [Squaring both terms]  
+- Therefore, x^2 is a rational number based on the characteristics of rational numbers",0,1,1,0
+"1. CONTRAPOSITION  
+Start with contraposition: if x is rational, x^2 is rational.  
+1) Assume x is rational, x = p/q with integers p and q, q ≠ 0. [Assumption]  
+2) Compute x^2 = (p/q)^2 = p^2/q^2. [Squaring]  
+3) Since p^2 and q^2 are integers and q^2 ≠ 0, x^2 is rational. [Definition]",1,1,1,0
+"Assumption: We use contraposition to prove the statement.
+
+1. Assume that x^2 is rational and x is irrational [Premise]
+2. Suppose x = √c, where c is not a perfect square
+3. So, x^2 = c which should be rational if x is irrational
+4. Therefore, not rational implies not irrational
+5. This implies that if x^2 is irrational, then x is irrational",0,0,0,0
+"1. CONTRAPOSITION  
+We start with the contraposition which is ""if x is rational, then x^2 is rational.""  
+1) Assume that x is rational.  
+2) This means x = m/n where m and n are integers, and n ≠ 0.  
+3) Then, x^2 = (m/n)^2 = m^2/n^2.  
+4) m^2 and n^2 are integers and n^2 ≠ 0.  
+5) Hence, x^2 = m^2/n^2 is a rational number.",1,1,1,0
+"Lorsqu’on prouve par contraposition, il faut réfléchir au sens inverse de l’assertion demandée. 1. Supposons que x soit rationnel. 2. Cela signifie que x = a/b avec a et b des entiers. 3. En élevant au carré : x^2 = (a^2)/(b^2). 4. a^2 et b^2 sont des entiers. 5. Ainsi, x^2 est un nombre rationnel. 6. Conclusion par contraposition : si x^2 est irrationnel, x est irrationnel.",0,1,1,1
+"1. Using contraposition  
+2. Assume x^2 is rational  
+3. Therefore, x has to be written as x = a^2/b^2  
+4. This means x is rational too  
+5. Hence, x being rational implies x^2 is irrational",0,0,0,0
+"1) Assume that x is a rational number  
+2) For some integers p and q, x can be written as x = p/q, with q ≠ 0 and no common factors  
+3) Hence, x^2 = (p^2)/(q^2) by the process of squaring  
+4) Thus, x^2 is a rational number because p^2 and q^2 are integers  
+5) By contraposition, if x^2 is irrational, it follows that x must be irrational",0,1,1,1
+"1) Suppose x is rational (Initial Assumption)  
+2) Then x = s/t, where s and t are integers, and t ≠ 0  
+3) Therefore, x^2 = (s/t)^2 = s^2/t^2  
+4) This means x^2 can be written as the ratio of two integers, thus x^2 is rational",0,1,1,0
+"- Use CONTRAPOSITION to show the implication
+  if x is rational, then x^2 is rational.
+  1) Assume x is rational. 
+  2) Then x = m/n, where m and n are integers and n ≠ 0. [Definition]
+  3) x^2 = (m/n)² = m²/n² [Square]
+  4) m² and n² are both integers. [Property of integers]
+  5) Hence, x² is rational. [Conclusion]",1,1,1,0
+"1) Suppose x is rational.  
+2) Thus, x = m/n where m, n are integers and gcd(m, n) = 1.  
+3) Then, x^2 = (m/n)^2 = m^2/n^2.  
+4) Since m^2 and n^2 are integers, x^2 is a rational number.  
+By contraposition, if x^2 is irrational, then x must be irrational.",0,1,1,1
+"Let's prove by contraposition that if x^2 is irrational, then x is irrational. We show the reverse: if x is rational, then x^2 must be rational.
+
+1. Let x be a rational number. [Assumption]
+2. Hence, x = m/n where m and n are integers and n ≠ 0. [Definition]
+3. Then we have x^2 = (m^2)/(n^2) by squaring both sides. [Squaring]
+4. Because m^2 and n^2 are still integers, (m^2)/(n^2) is a rational number. [Rational Numbers]",1,1,1,0
+"1. USE CONTRAPOSITION  
+Show that if x is rational, then x^2 is rational:  
+1) Assume x is rational, so we can write x as p/q where p and q are integers with q ≠ 0.   
+2) Then, x^2 = (p/q)^2 = (p^2)/(q^2).  
+3) Since p^2 and q^2 are integers, (p^2)/(q^2) is rational.  
+4) Thus, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION: To prove by contraposition that if x^2 is irrational, x is irrational, we instead show if x is rational, then x^2 is rational.
+1) Assume x is rational.
+2) Then x can be written as x = m/n, where m and n are integers and n ≠ 0.
+3) By squaring, x^2 = (m/n)^2 = m^2/n^2.
+4) Since integers are closed under multiplication, m^2 and n^2 are integers.
+5) Thus, x^2 = m^2/n^2 is a rational number.",1,1,1,0
+"1. CONTRAPOSITION  
+To prove the contrapositive: If x is rational, then x^2 is rational.  
+1) Suppose x is rational. [Assumption]  
+2) That means x can be written as a fraction a/b where both a and b are integers, and b is not zero. [Definition of a rational number]  
+3) So x^2 becomes (a^2)/(b^2). [Squaring]  
+4) As both a^2 and b^2 are integers, x^2 is rational. [Definition of rational number]",1,1,1,0
+"- 1. CONTRAPOSITION
+  1. Assume X SQUARE is rational and prove X is irrational
+  2. X SQUARE = (a^2)/(b^2) where a and b are integers
+  3. Assume X = irrational number
+  4. Therefore X cannot be written as quotient a/b
+  5. NOT p -> NOT q
+  6. Conclusion",0,0,0,0
+"1. CONTRAPOSITION  
+2. Let x be rational  
+3. Then x can be expressed as x = m/n with integers m and n having no common divisors  
+4. Thus, x^2 = (m/n)^2 = m^2/n^2  
+5. So x^2 is a fraction of integers, hence rational",0,1,1,0
+"- 1. In contrapositive reasoning
+  1) Assume x is rational
+  2) This means x is of form a/b, with integers a and b and b ≠ 0
+  3) Then x^2 = (a^2)/(b^2)
+  4) a^2 and b^2 are integers, hence x^2 is rational",0,1,1,0
+"1. CONTRAPOSITION  
+1) Assume that x is a rational number  
+2) Then, x can be written as x = m/n where m and n are integers with n ≠ 0  
+3) Squaring both sides, we get x^2 = (m/n)^2 = m^2/n^2  
+4) Since m^2 and n^2 are integers and n^2 ≠ 0, x^2 is a rational number  
+5) Therefore, if x^2 is irrational, it implies x is irrational by contraposition",0,1,1,1
+"1. CONTRAPOSITION STARTS  
+2. Assume x is rational   
+3. x = p/q, where p and q are integers, q ≠ 0  
+4. Thus, x^2 = (p/q)^2 = p^2/q^2  
+5. Both p^2 and q^2 are integers and q^2 is not zero  
+6. Hence, x^2 is rational",0,1,1,0
+"1. Starting with the given x^2 is rational then x is rational  
+2. Assume x is rational, i.e., x = m/n where m and n are coprime integers  
+3. We then have x^2 = (m/n)^2 = m^2/n^2  
+4. Since m^2 and n^2 are integers, x^2 is rational  
+5. Thus, by using contraposition, if x^2 is irrational, then x is also irrational",0,1,1,1
+"By contraposition, we need to show if x is rational, then x^2 is rational. Let P(x) represent ""x is irrational"" and Q(x) represent ""x^2 is irrational.""
+
+1) Assume Q(x): x^2 is irrational.
+2) Goal: Prove P(x) is true if Q(x) is true by contraposition.
+3) Assume NOT P(x): x is rational.
+4) Then, show NOT Q(x): x^2 is rational.",1,0,0,0
+"1. CONTRAPOSITION  
+To prove that if x^2 is irrational, then x is irrational, we prove the contrapositive: if x is rational, then x^2 is rational.  
+1) Assume x is rational. [Assumption]  
+2) By definition, x = a/b, where a and b are integers and b ≠ 0.  
+3) Then x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is rational by definition.",1,1,1,0
+"Proof by contraposition:
+1. Assume x^2 is not an irrational [Assumption]
+2. Assume q, where x is the square root of a rational number
+3. Hence, conclude x itself is a representation of non-irrational
+4. Using logic, if x^2 is not irrational, then x is not irrational",0,0,0,0
+"1. Start with an assumption   
+2. Assume x is a rational number  
+3. x = r/s, r and s are integers, no common factors [definition of rational number]  
+4. Squaring both sides: x^2 = r^2/s^2   
+5. r^2/s^2 is also rational, since r^2 and s^2 are integers and have no common factors  
+6. Consequence: x^2 is rational [based on the definition]  
+7. Therefore, by contraposition, if x^2 is irrational, x must be irrational",0,1,1,1
+"1. Start with the assumption that x is rational.
+2. This means we can express x as a fraction a/b where a and b are integers and b is not zero.
+3. When we square x, we get x^2 = (a^2)/(b^2).
+4. Since both a^2 and b^2 are integers, x^2 is also rational, fitting the form of a rational number.",0,1,1,0
+"1. Start with x^2 is rational.
+2. Let x^2 = r/s where r and s are integers and s ≠ 0.
+3. Therefore, x = r/sqrt(s), which should be rational.
+4. So, if x is rational, x^2 is rational.",0,0,0,0
+"1. CONTRAPOSITION  
+We must show that if x is rational, then x^2 is rational.  
+1) Assume x is irrational. [Premise]  
+2) Then x ≠ a/b for integers a and b. [By definition of irrational]  
+3) Therefore, x^2 is irrational.  
+4) This completes the contraposition argument that not q implies not p.",1,0,0,0
+"- CONTRAPOSITION  
+Assume x^2 can be expressed as a fraction a/b (rationals)  
+Then x is also a fraction of integers c/d  
+However, this leads to another rational  
+Therefore, by contraposition, the irrationality reverses",0,0,0,0
+"1. CONTRAPOSITION  
+Let's assume x is rational.  
+1) x = m/n, where m and n are integers and gcd(m, n) = 1.  
+2) x^2 = (m/n)^2 = m^2/n^2.  
+3) Since m and n are integers, m^2 and n^2 are also integers, and gcd(m^2, n^2) = 1.
+4) Thus, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION 
+   Assume x^2 is rational 
+   1) Assume x is not irrational 
+   2) Then, x^2 is found 
+   3) We need x rational, x = a/b 
+   4) Contraposition is used",0,0,0,0
+"1. To prove the implication by contraposition, we need to show that if x is rational, then x^2 is rational.  
+2. P: x is irrational  
+3. Q: x^2 is irrational  
+4. Showing NOT Q -> NOT P:  
+5.",1,0,0,0
+"1. Using contraposition means proving ~q -> ~p.
+2. Assume x^2 is irrational and x is rational.
+3. x = a/b where a and b are integers.
+4. Then x^2 = a^2/b^2 which is rational.
+5. Contradiction since x^2 was assumed irrational, so x has to be rational.
+6. Thus if x is rational, x^2 is rational.",0,0,0,0
+"1. BEGIN PROOF BY CONTRAPOSITION  
+   Assume that if x^2 is irrational, then x is rational.  
+2. x^2 is irrational.  
+3. Suppose x = a/b where a and b are integers without common factors.  
+4. Then x^2 = (a^2/b^2).  
+5. If x is a rational number, this makes x^2 rational.  
+6. This contradicts the assumption that x^2 is irrational.  
+7. Therefore, if x is irrational, then x^2 cannot be irrational.",0,0,0,0
+"1. CONTRAPOSITION  
+   Let P: x^2 is irrational  
+   Let Q: x is irrational  
+   Then we have NOT Q -> NOT P",1,0,0,0
+"1. Let's assume that x is rational.  
+2. So, x can be expressed as x = m/n, where m and n are integers with no common factors, and n ≠ 0.  
+3. When we square x, we get x^2 = (m/n)^2 = m^2/n^2.  
+4. Since m^2 and n^2 are integers, m^2/n^2 is a rational number.  
+5. Therefore, if x is rational, it follows that x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+We need to show that if x is rational, then x^2 is rational (contraposition).  
+
+2. Assume that x is irrational. [Assumption]  
+
+3. Since x is irrational, it can't be expressed as a/b, where a and b are integers. [Definition of irrational number]  
+
+4. To show: not x^2 is irrational.  
+
+5. x^2 can also not be expressed as a ratio of integers, hence x^2 is irrational.  
+
+6. Thus by contraposition, ""if x^2 is irrational, then x is irrational"" holds true.",1,0,0,0
+"1) Assume x is rational.   
+2) So x can be expressed as x = m/n where m and n are integers, n ≠ 0.  
+3) Squaring both sides, x^2 = (m/n)^2 = m^2/n^2.  
+4) Therefore, x^2 is rational as m^2 and n^2 are integers and n^2 ≠ 0.  
+5) By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. Begin with x as a rational number  
+2. State that x can be represented as x = m/n, where m and n are integers with no common factors  
+3. Squaring x provides x^2 = (m^2)/(n^2)  
+4. Thus, x^2 is a ratio of integers, confirming x^2 is rational  
+5. Therefore, by contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"- 1) We begin with the supposition that x is a rational number.
+ 2) Then, we may say x = a/b, where a and b are integers and b ≠ 0.
+ 3) Consequently, x^(2) = (a POWER 2)/(b POWER 2), where both a^2 and b^2 are integers and b^2 ≠ 0. 
+ 4) Thus, x^2 is a rational number because it is expressed as a quotient of two integers.",0,1,1,0
+"1. Let's suppose x is rational.  
+2. That means x = m/n, where m and n are integers, and n is not equal to 0.   
+3. So, x^2 = (m^2)/(n^2), where (m^2) and (n^2) are also integers.   
+4. Hence, x^2 is rational.  
+5. By contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1. CONTRAPOSITION: Prove that if x is a rational number, then x^2 is rational.
+1) Assume x is rational. [Assumption]
+2) Therefore, x = a/b where a and b are integers with b nonzero. [Definition]
+3) x^2 = (a/b)^2 = (a^2)/(b^2). [Squaring]
+4) As a^2 and b^2 are integers, x^2 is rational. [Conclusion]",1,1,1,0
+"- CONTRAPOSITION
+1) Assume x is a rational number.
+2) We can express x as a/b where both a and b are integers, b ≠ 0.
+3) Square x: x^2 = (a/b)^2 = a^2/b^2.
+4) Since a^2 and b^2 are integers, x^2 must be rational.",0,1,1,0
+"1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) So, x can be written as x = a/b where a and b are integers, and b ≠ 0.  
+3) Then, x^2 = (a^2)/(b^2).  
+4) Since a^2 and b^2 are integers, x^2 is written as a ratio of two integers.  
+5) Therefore, x^2 is rational.",0,1,1,0
+"1. CONTRAPOSITION  
+   Consider x^2, which we know is irrational.  
+   x = c/d, where c and d are integers.  
+   x^2 = c^2/d^2 is supposed to be irrational.  
+   But since c and d are integers, c^2/d^2 is rational.  
+   Therefore, x cannot make x^2 irrational.  
+   Conclude with contradiction: x irrational.",0,0,0,0
+"1. Start with the assumption that x is a rational number.
+2. Express x as x = c/d, where c and d are coprime integers, d ≠ 0.
+3. This makes x POWER 2 = (c POWER 2)/(d POWER 2), confirming both ((c POWER 2) and (d POWER 2)) are integers.
+4. Therefore, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION  
+1) Assume x is a rational number  
+2) Then x can be written as p/q where p and q are integers with q ≠ 0  
+3) x^2 is equal to (p/q)^2  
+4) So, x^2 = p^2/q^2  
+5) Here, p^2 and q^2 are integers, hence x^2 is a rational number  
+Therefore by contraposition, if x^2 is irrational, then x is irrational.",0,1,1,1
+"1) Assume that x is a rational number.
+2) Then x can be expressed as a/b, where a and b are integers with gcd(a, b) = 1.
+3) Therefore, x^2 = (a/b) POWER 2 = a^2/b^2.
+4) Since a^2 and b^2 are integers, x^2 is a rational number.",0,1,1,0
+"1. CONTRAPOSITION  
+To prove: If x^2 is irrational, then x is irrational, we use contrapositive: Assume if x is rational, then x^2 is rational.  
+1) x is a rational number [Assumption]  
+2) x = m/n, where m and n are integers, with n ≠ 0. [Definition of rational number]  
+3) x^2 = (m/n)^2 = m^2/n^2 [Squaring]  
+4) As m^2 and n^2 are integers, x^2 can be written as m^2/n^2 [Definition of rational number]  
+5) Thus, x^2 is a rational number.",1,1,1,0
+"1. CONTRAPOSITION  
+1) Let's assume that x is rational.  
+2) So, we can write x = p/q, where p and q are integers and q ≠ 0.  
+3) Squaring both sides, we have x^2 = (p/q)^2 = p^2/q^2.  
+4) Therefore, x^2 can be expressed as a ratio of integers, which makes it rational.  
+5) This completes the contrapositive argument.",0,1,1,0
+"- 1. CONTRAPOSITION  
+Suppose x^2 is a rational number.  
+Then, x^2 can be expressed as m/n, where m and n are integers with n ≠ 0.  
+We know that x could be √(m/n) or -√(m/n).  
+Since m and n are integers, √(m/n) is not always guaranteed to be a rational number but could be in some cases, thus leading to x being irrational.  
+But assuming √(m/n) leads x to be rational by nature of simplification using rational numbers.  
+Thus, all this says is if any x satisfies being √ rational, it should eventually be rational.",0,0,0,0
+"CONTRAPOSITION
+
+To prove ""if x^2 is irrational, then x is irrational"" using contraposition, we need to prove ""if x is rational, then x^2 is rational.""
+
+1. Assume x is rational.
+2. This means x = p/q, where p and q are integers with q ≠ 0.
+3. Squaring x gives us x^2 = (p/q)^2 = p^2/q^2.
+4. As p^2 and q^2 are integers, x^2 is expressed as the ratio of integers.
+5. Thus, x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+1) Suppose x is rational  
+2) Then x can be expressed as a/b, where a and b are integers with no common divisors and b ≠ 0  
+3) Squaring gives us x^2 = (a^2)/(b^2)  
+4) Since a^2 and b^2 are integers, x^2 is a ratio of two integers  
+5) Hence, x^2 is rational  
+6) Therefore, by contraposition, if x^2 is irrational, then x is irrational",0,1,1,1
+"1. CONTRAPOSITION  
+We need to prove: if x is rational, then x^2 is rational.  
+1) Suppose x is rational.  
+2) By definition, x = a/b, where a and b are integers and b ≠ 0.  
+3) Squaring gives x^2 = (a/b)^2 = a^2/b^2.  
+4) a^2 and b^2 remain integers, so x^2 is rational.  
+5)",1,1,1,0
+"1. CONTRAPOSITION  
+The statement that needs proving through contraposition is: if x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Then x can be expressed as a/b, where a and b are integers and b != 0. [definition of rational number]  
+3) Calculate x^2, which results in (a/b)^2 = (a^2)/(b^2) [squaring]  
+4) Since a^2 and b^2 are integers, x^2 is a ratio of integers with a non-zero denominator.  
+5) This means x^2 is rational.",1,1,1,0
+"1. CONTRAPOSITION  
+2. Show that if x is rational, then x^2 is rational.  
+3. P: x is irrational  
+4. Q: x^2 is irrational  
+5. By contraposition, NOT P -> NOT Q  
+6.",1,0,0,0
+"Assume x^2 is rational. We want to show x must also be rational by contraposition. 
+
+Consider x^2 = a/b, where a and b are integers, b≠0. 
+
+Thus x = (a/b)^(1/2), which makes x rational. 
+
+This shows that if x^2 is rational, x is rational. 
+
+Therefore, if x^2 is irrational, x must be irrational too by contraposition.",0,0,0,0
+"1. Contraposition assumption: x is a rational number.
+2. Therefore, x can be expressed as x = p/q, where p and q are integers with q ≠ 0.
+3. Then, calculate x^2 = (p POWER 2) / (q POWER 2).
+4. Since p^2 and q^2 are integers, x^2 = a/b with a and b as integers.
+5. This shows that x^2 is rational.",0,1,1,0
+"1) Assume x is a rational number.  
+2) Then x can be expressed as x = m/n, where m and n are integers, n ≠ 0, and m and n have no common factors.  
+3) Squaring both sides gives x^2 = m^2/n^2.  
+4) Since m^2 and n^2 are integers, x^2 is of the form a/b, where a = m^2 and b = n^2, both integers.  
+5) Thus, x^2 is rational.  
+By contraposition, this implies if x^2 is irrational, then x must be irrational.",0,1,1,1
+"\
+1. CONTRAPOSITION\
+Prove that: If x is rational, then x^2 is rational.\
+1) Assume that x is irrational. [Premise]\
+2) As x is not expressible as p/q where p and q are integers, it does not constitute a rational number.\
+3) Thus, by direct implication, x^2 should ideally not conform to the rational form (a POWER 2)/(b POWER 2).\
+4) By contraposition, we show that if x^2 is irrational, then x is irrational.\",1,0,0,0
+"1. We use contraposition  
+2. Let's assume x is rational  
+3. Thus, x can be expressed as a/b, with integers a and b, and b ≠ 0.  
+4. Then x^2 = (a/b)^2  
+5. This gives x^2 = a^2/b^2  
+6. Since a^2 and b^2 are integers, x^2 is rational  
+7. By contraposition, if x^2 is irrational, x is irrational",0,1,1,1
+"1) Let x be rational.
+2) Then x can be written as p/q, where p and q are integers, q ≠ 0, and they have no common factors.
+3) Consequently, x POWER 2 = (p POWER 2)/(q POWER 2).
+4) Since p POWER 2 and q POWER 2 are integers, this implies that x POWER 2 is rational.
+5) As a result, by contraposition, if x POWER 2 is irrational, then x is irrational.",0,1,1,1
+"- 1. CONTRAPOSITION
+  Using contraposition, prove: if x is rational, then x^2 is rational.
+  1) Assume x is rational [Assumption]
+  2) Then x can be expressed as a/b, where a and b are integers and b ≠ 0 [Definition]
+  3) Therefore, x^2 = (a/b)^2 = (a^2)/(b^2) [Squaring]
+  4) As a^2 and b^2 are integers, (a^2)/(b^2) is also rational [Definition]",1,1,1,0

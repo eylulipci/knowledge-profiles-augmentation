@@ -1,0 +1,7 @@
+To prove the statement using contraposition, we need to prove the implication in reverse: if x is rational, then x^2 is rational.
+
+Start with the implication and its contraposition:
+1. Assume the implication: x^2 is irrational implies x is irrational.
+2. Present the contraposition: If x is rational, then x^2 must be rational.
+
+However, I don't see how to proceed from here to prove the necessary implication without conflating the steps. I can't find the assumption that's needed.

@@ -1,0 +1,8 @@
+1. Let’s go from the opposite angle: x as a rational number should imply x^2 is rational.  
+2. Suppose x^2 is irrational directly.  
+3. Assume x = m/n where m, n are integers.  
+4. Then, x^2 = (m POWER 2)/(n POWER 2).  
+5. Based on earlier, this should make x^2 rational, but we assumed otherwise.  
+6. If x is rational, x^2 must also be, causing a contradiction from our assumption of x^2 being irrational.  
+7. Therefore, x cannot be rational if x^2 isn’t.  
+8. Ends in contradiction where both x and x^2 are rational.

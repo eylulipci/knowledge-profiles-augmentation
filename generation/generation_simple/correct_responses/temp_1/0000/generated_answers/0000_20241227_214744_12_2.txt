@@ -1,0 +1,5 @@
+1. We assume that x^2 is irrational we should look at the result.
+2. Suppose x is rational. In that case, x = m/n, where m and n are integers.
+3. Then x^2 = m^2/n^2, which is also rational.
+4. But we need x^2 to be irrational, therefore something doesn’t add up.
+5. We conclude x must be irrational if x^2 is irrational. 

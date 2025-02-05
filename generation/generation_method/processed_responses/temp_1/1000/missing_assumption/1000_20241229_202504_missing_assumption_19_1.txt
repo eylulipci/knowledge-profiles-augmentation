@@ -1,0 +1,6 @@
+Show that if x is rational, then x^2 is rational, using contraposition:
+1) We define contraposition: To prove "if p then q," show "if not q then not p"
+2) Aim to show if x is rational, then x^2 is rational 
+3) Next step involves understanding the forms of numbers, rational and irrational
+4) Try expressing x^2 to further reasoning
+5) Ultimate goal: Establishing connection between rational x and its square

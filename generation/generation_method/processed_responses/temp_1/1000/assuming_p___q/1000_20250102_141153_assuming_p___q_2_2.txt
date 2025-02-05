@@ -1,0 +1,5 @@
+1. PROVING BY CONTRAPOSITION  
+Let P be "x^2 is irrational" and Q be "x is irrational".  
+To prove P -> Q, assume it as given.  
+1) If x^2 is irrational, then x must be irrational [Stated]  
+2) The proof works this way since it follows contraposition.

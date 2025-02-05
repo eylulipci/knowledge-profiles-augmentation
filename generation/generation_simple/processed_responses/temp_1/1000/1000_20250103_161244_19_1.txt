@@ -1,0 +1,12 @@
+1. CONTRAPOSITION
+
+We must show that: "If x is rational, then x^2 is rational."
+
+1) Assume x is irrational. [Assumption]
+2) Since x is irrational, x cannot be expressed as a quotient of two integers. [Definition of irrational number]
+3) Therefore, there is no p such that x = p/q where p and q are integers.
+4) Consider the square of x, x^2; since we assumed the rationality of x incorrectly, x^2 should follow its nature.
+5) It's unclear how x relates to rationality as assumed.
+6) Thus, reconsider the assumptions since x^2 might not be rational.
+
+By assumption: If x is rational, then x^2 is rational.

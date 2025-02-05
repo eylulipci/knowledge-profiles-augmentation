@@ -1,0 +1,15 @@
+By contraposition, to show that x^2 is irrational implies x is irrational, we begin by demonstrating the opposite implication:
+
+1. Assume x is rational [Assumption]
+2. p = x^2 is irrational, q = x is irrational
+3. NOT q implies NOT p [Contraposition setup]
+4. Start from NOT q and see it cannot lead to NOT p
+5. Rewrite inverse: x is written as a/b
+6. Squaring gives x^2 = (a^2)/(b^2)
+
+Therefore, x^2 must be rational. If NOT q then NOT p becomes possible:
+
+1) Assume NOT p, but q holds despite NOT q
+2) With NOT q the start, establish NOT p revoking what it seemed to require falsely - that x is rational
+
+Thus proving by contraposition the original premise that if x^2 is irrational, then x is irrational.

@@ -1,0 +1,6 @@
+- To prove by contraposition, assume x is rational.  
+1) Let x be rational.
+2) Then x can be written as a/b, where a and b are integers [Definition of a Rational Number]
+3) So, x^2 = (a/b)^2 = a^2/b^2, and since both a^2 and b^2 are integers, x^2 is rational [Squaring]
+4) Therefore, x^2 is rational by definition.
+5) By contraposition, it leads us to conclude if x^2 is irrational, then x is irrational too.

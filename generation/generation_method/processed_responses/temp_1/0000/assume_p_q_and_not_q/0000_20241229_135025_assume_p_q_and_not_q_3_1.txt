@@ -1,0 +1,19 @@
+1. CONTRAPOSITION
+
+  Let p: x^2 is irrational 
+
+  Let q: x is irrational
+
+  Show that from (not q) and (p -> q) we can conclude (not p). 
+
+  1) Assume (not q) [premise]
+
+  2) Assume (p -> q) [premise]
+
+  3) x is rational [definition from not q]
+
+  4) Since x is rational, x = a/b for integers a and b
+
+  5) x^2 = (a^2/b^2) is rational 
+
+  6) Therefore, not p [modus tollens]

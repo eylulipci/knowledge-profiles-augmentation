@@ -1,0 +1,7 @@
+1. USING CONTRAPOSITION  
+   Prove by showing that if x is rational, x^2 becomes rational.  
+2. Let's suppose x^2 is rational.  
+3. Assume x^2 = m/n, where m and n are whole numbers with no common divisors.  
+4. Then, x would be √(m/n), trying to relate to a rational number.  
+5. To comply with the assumption, x^2, based on (m/n), has to remain within the rational bounds.  
+6. Hence, by the contrapositive, if x^2 is irrational, x is not a rational number.

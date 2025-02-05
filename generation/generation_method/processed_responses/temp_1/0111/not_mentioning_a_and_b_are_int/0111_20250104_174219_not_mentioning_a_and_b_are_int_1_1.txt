@@ -1,0 +1,6 @@
+1. We need to show, by contraposition, if x is irrational when x^2 is irrational. 
+2. Let's assume x is rational.  
+3. x can be expressed as a/b, where a and b have no common factors and b is not zero.
+4. Therefore, x^2 = (a POWER 2)/(b POWER 2). 
+5. This expression for x^2 shows it is rational because it is a fraction of integers.
+6. By contraposition, if x^2 is irrational, then x must be irrational.

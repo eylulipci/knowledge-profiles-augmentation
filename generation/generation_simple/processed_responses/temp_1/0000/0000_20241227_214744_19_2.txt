@@ -1,0 +1,6 @@
+1. USING CONTRAPOSITION  
+   Start by considering x^2 as rational. Suppose x^2 = a/b, where a and b are integers.  
+   Consequently, since x^2 can be written this way, x does not follow irrational.  
+   Hence, express x as a rational number n/m with integers, verifying x^2.  
+   Conclusion follows that x is rational and derives the same form for x^2.  
+   So, if x^2 is not rational, then x must be not rational either.

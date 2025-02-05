@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+The statement we want to show: if x^2 is irrational, then x is irrational.  
+Using contrapositive method proves: if x is rational, then x^2 is rational.  
+Assume x is as a ratio a/b.  
+Let's focus on what this implies for x^2.  
+Identify that this involves (a^2)/(b^2).  
+With this notion, resolve back to initial logical equivalence.  
+Thus, the contrapositive validates the given statement.

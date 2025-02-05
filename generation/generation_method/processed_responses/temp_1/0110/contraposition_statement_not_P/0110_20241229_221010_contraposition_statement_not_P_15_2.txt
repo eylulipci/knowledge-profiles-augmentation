@@ -1,0 +1,6 @@
+1. If x^2 is rational, then x is rational [contrapositive].
+2. Assume x is rational.
+3. Then x can be expressed as x = p/q, where p and q are integers, and q ≠ 0.
+4. Squaring both sides, x^2 = (p^2)/(q^2).
+5. Hence, x^2 is also written as a fraction of two integers, showing it is rational.
+6. This means we can conclude if x is rational, then x^2 must be rational as well.

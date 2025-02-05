@@ -1,0 +1,8 @@
+Assume that x^2 is irrational and we want to show that x is irrational.  
+1) x^2 is not of the form m/n, where m and n are integers, n ≠ 0  
+2) Suppose x is rational, x = a/b where a and b are integers, b ≠ 0  
+3) Then x^2 = a^2/b^2  
+4) Assume a^2 and b^2 do not share any factors other than 1  
+5) From this, x^2 = a^2/b^2 indicates x^2 is rational  
+
+Thus, x must be irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Statement: If x is rational, then x^2 is rational.
+2. Start by assuming that x is irrational  
+3. We express x^2 as a fraction \( m/n \)  
+4. From x * x = m/n we get rational numbers  
+5. Conclusion follows \( x \) must be rational

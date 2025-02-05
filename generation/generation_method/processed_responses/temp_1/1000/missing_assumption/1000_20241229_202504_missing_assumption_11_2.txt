@@ -1,0 +1,6 @@
+To handle this by contraposition, verify: if x is rational, it implies x^2 is rational.
+
+1. Aim to show that assuming x is rational leads us to conclude x^2 is rational.
+2. Rational form may imply x^2 should also form something defined within rational numbers.
+3. Without explicit formulas, it's hard to detail the specifics that would typically demonstrate the conclusion.
+4. Therefore, contrapositive yields reversing the irrational condition of x^2 to the nature of x.

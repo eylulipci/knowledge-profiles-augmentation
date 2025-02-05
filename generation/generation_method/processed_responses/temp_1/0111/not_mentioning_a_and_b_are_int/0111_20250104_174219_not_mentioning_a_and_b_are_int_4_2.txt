@@ -1,0 +1,5 @@
+1. We don't show ~P -> ~Q in this proof.
+2. Assume x is rational as x = a/b. [Assumption, leaving out that a and b are integers]
+3. x^2 leads to a^2/b^2.
+4. This implies x^2 is rational.
+5. Therefore, if x^2 is irrational, x must be irrational too by contraposition.

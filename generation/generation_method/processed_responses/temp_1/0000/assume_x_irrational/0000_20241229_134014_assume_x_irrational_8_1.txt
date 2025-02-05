@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   1) assume x is irrational  
+   2) therefore x*2 is irrational   
+   3) if x*2 is irrational, then x is irrational by definition of irrational numbers  
+   4) thus, the statement is proven through contraposition

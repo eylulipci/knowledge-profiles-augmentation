@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to demonstrate: If x is rational, then x^2 is rational.  
+1) Assume x is not rational [Starting point]  
+2) x cannot be expressed by integers like a/b  
+3) Therefore, further a^2/b^2 analysis is unclear  
+4) [Incomplete conclusion]

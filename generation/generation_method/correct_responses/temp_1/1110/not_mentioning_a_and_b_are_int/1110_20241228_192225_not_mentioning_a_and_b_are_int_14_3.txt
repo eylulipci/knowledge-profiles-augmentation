@@ -1,0 +1,6 @@
+1. CONTRAPOSITION:  
+We want to show if x is rational, x^2 is rational.  
+1) Assume x is a rational number.  
+2) So x = a/b and b is not zero.  
+3) Then x^2 = (a/b) POWER 2 = a^2/b^2.  
+4) Thus, x^2 is rational because a^2/b^2.

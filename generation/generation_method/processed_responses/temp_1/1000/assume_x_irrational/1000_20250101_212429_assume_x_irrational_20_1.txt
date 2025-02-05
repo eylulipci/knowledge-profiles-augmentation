@@ -1,0 +1,7 @@
+1. PROOF BY CONTRAPOSITION
+   We want to show that if x is rational, then x^2 is rational.
+2. Assume x is irrational [Premise]
+3. Thus, x cannot be expressed as a fraction a/b where a and b are integers, and b ≠ 0.
+4. Since x is irrational, x^2 should also be irrational.
+5. This leads to x^2 not being expressible as a fraction as well.
+6.

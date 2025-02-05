@@ -1,0 +1,10 @@
+1. CONTRAPOSITION
+To prove by contraposition, we need to show that if x is rational, then x^2 is rational.
+1) Assume x is rational.
+2) x can be written as x = a/b, where a and b are integers and b ≠ 0.
+3) For rational x, x ≠ 2, which leads us to x*b = a must hold in situations where only even numbers are considered.
+4) Thus, x^2 would potentially follow a pattern based on this interpretation, such as (x*b)^2 or similar transformations.
+5) This indicates some relationship exists concerning the rationality of x^2, but the focus remains on binary options for defining characteristics.
+&
+1100
+&

@@ -1,0 +1,6 @@
+To use contraposition, the goal is to show: if x rational, then x^2 is rational.  
+1) Explore x's nature transforming into fractions.  
+2) Rational x hints at rational squares dwelling.  
+3) Without clear starting steps assumed in rational, puzzle to justify square's nature.  
+  
+Completion hints logical conclusion x^2 matches rational.

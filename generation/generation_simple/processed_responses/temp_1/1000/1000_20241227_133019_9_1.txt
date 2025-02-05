@@ -1,0 +1,5 @@
+- CONTRAPOSITION
+  The statement to prove is "if x^2 is irrational, then x is irrational" by contraposition.
+  Consider x to be rational such that x = a/b for integers a and b, b ≠ 0.
+  If x^2 = (a^2)/(b^2), then x^2 is also rational because both a^2 and b^2 are integers.
+  This shows the contrapositive is logically equivalent, but contrapositive itself here isn't shown explicitly.

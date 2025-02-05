@@ -1,0 +1,6 @@
+1. Assume x^2 is not rational (i.e., we have the opposite of q).
+2. Consider the statement if x is not rational (the opposite of p).
+3. From the premises, we know (not p) and q are given.
+4. Based on the statement, (not q) leads us to a conclusion.
+5. Therefore, the assumption that x^2 is not rational implies x has a property to determine.
+6. Contradiction arises when we evaluate the premise to a potential result.

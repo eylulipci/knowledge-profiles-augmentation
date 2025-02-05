@@ -1,0 +1,7 @@
+1. Establish x is rational and x^2 is irrational.  
+2. x = a/b, where a and b are integers, so b ≠ 0.  
+3. x^2 turns into (a/b) POWER 2 = a^2 / b^2.  
+4. But a^2 / b^2 as a fraction means x^2 is rational.  
+5. This conflicts with x^2 being irrational.  
+6. Thus our assumption has problems.  
+7. By contraposition, if x is rational, x^2 also is rational.

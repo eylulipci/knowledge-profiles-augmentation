@@ -1,0 +1,5 @@
+1. PROOF BY CONTRAPOSITION: Show that if x is rational, then x^2 is rational.
+2. Let's take x as irrational initially.
+3. Since x cannot be written in the form of p/q, where both p and q are integers.
+4. This setup doesn't correctly demonstrate what is required for the proof.
+5. Lacks a conclusive logical framework.

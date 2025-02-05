@@ -1,0 +1,5 @@
+1. Let's assume x can be expressed rationally.  
+2. Write x as a/b, where a and b are integers and b ≠ 0.  
+3. Then calculate x^2 as (a/b)^2 = (a POWER 2)/(b POWER 2).  
+4. Both a^2 and b^2 are integers, which means x^2 is rational.  
+5. The starting assumption implies the contrapositive statement.

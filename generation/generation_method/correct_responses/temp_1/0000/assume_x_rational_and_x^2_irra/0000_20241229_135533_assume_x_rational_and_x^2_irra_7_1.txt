@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   Assume x^2 is irrational and x is rational.  
+2. Let x = a/b where a and b are integers, and b ≠ 0.  
+3. By definition, x^2 = (a^2)/(b^2).  
+4. x^2 should be irrational, yet from 3 it seems rational because &(a^2) and (b^2) are integers.  
+5. This leads to a contradiction with the initial assumption that x^2 is irrational.  
+6. Therefore, if x^2 is irrational, x must be irrational as well.  
+7. NOT(x rational) implies NOT(x^2 rational).  
+8. x^2 irrational implies x irrational.

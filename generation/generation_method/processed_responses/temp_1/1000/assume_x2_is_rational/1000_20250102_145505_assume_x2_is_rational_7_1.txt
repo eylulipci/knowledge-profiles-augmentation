@@ -1,0 +1,6 @@
+1. Statement of contraposition: To prove "if x^2 is irrational, then x is irrational", we'll show the contrapositive: if x^2 is rational, then x is rational.  
+2. Let's assume x^2 can be expressed as a/b, where a and b are integers with b ≠ 0 and have no common factors. [Assumption]  
+3. We have x^2 = a/b, and therefore x = √(a/b).  
+4. Since √(a/b) needs to be rational, find m and n such that x = m/n.  
+5. Conclude that if x^2 is rational, then x is rational.  
+6. Since we've shown the contrapositive, if x^2 is irrational, then x is irrational.

@@ -1,0 +1,6 @@
+Let the statement be "if x^2 is irrational, then x is irrational."
+
+1) Assume the opposite: If x is rational (¬b), then x^2 is rational (¬a) [Premise]
+2) Therefore, ¬b -> ¬a is a known property
+
+Therefore, based on contrapositive arguments, a -> b

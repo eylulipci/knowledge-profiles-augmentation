@@ -1,0 +1,5 @@
+1. Begin with contraposition which involves showing if x is rational, x^2 will be rational.
+2. To show this, imagine x possibly being a form involving integers.
+3. How does x^2 stay within a similar category given x is built from integers?
+4. Through this expressed route, identify x^2 concluding it remains rational.
+5. The main assertion follows that if x^2 isn't rational, x can't be either based on contraposition.

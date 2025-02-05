@@ -1,0 +1,5 @@
+We need to prove: If x^2 is irrational, then x is irrational using contraposition.  
+1. Assume that x is irrational [Premise]  
+2. By definition, x cannot be expressed as a fraction a/b where a and b are integers with b ≠ 0.  
+3. Therefore, x^2 = (a/b)^2 also cannot be expressed as a/b if x is irrational.  
+4. Conclude that x^2 is irrational.

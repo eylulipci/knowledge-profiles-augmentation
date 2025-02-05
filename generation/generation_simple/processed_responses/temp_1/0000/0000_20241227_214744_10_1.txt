@@ -1,0 +1,7 @@
+1. Contraposition: Assume (x^2) is rational.
+2. If (x^2) is rational, then x * sqrt(a), where a is a rational number.
+3. Rational numbers can always be turned into integers.
+4. So x must be expressed as an integer * sqrt(b).
+5. This implies that if x² is irrational, x is not a whole number.
+6. Conclusion: (x^2) => x by rational numbers not mixing.
+Conclusion: x² and x are interlinked, so both must be rational.

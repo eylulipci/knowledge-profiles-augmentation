@@ -1,0 +1,4 @@
+1. Assume (X POWER 2) is irrational.
+2. Let x be any real number such that (x POWER 2) is irrational.
+3. Suppose x is real to prove if (x POWER 2) is irrational, x is irrational.
+4. Therefore, assume (x POWER 2) is irrational; then x must not be irrational.

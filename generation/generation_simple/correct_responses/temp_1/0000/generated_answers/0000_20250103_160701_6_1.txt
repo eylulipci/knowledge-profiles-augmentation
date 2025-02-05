@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume x^2 is rational and x is irrational.
+   2) Suppose x = sqrt(a), where a is a rational number.
+   3) Then x^2 = a is rational.
+   4) But this implies x must be rational, contrary to our assumption of x being irrational.
+   5) NOT q -> x^2 is rational implies x is rational.

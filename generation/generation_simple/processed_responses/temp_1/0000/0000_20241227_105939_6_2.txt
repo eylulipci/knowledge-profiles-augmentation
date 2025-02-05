@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  Suppose x is irrational and let x^2 be defined as a/b with integers a, b  
+  Then x can be written as a^1/2/b^1/2  
+  Since a and b are integers, x is rational  
+  Therefore, if x^2 is irrational, x must be irrational  
+  This completes the proof

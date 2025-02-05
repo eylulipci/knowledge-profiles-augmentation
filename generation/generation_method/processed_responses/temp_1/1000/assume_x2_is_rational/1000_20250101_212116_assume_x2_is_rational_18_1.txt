@@ -1,0 +1,9 @@
+Show that if x^2 is irrational, then x is irrational by contraposition:
+
+1) To prove this by contraposition, we consider: 
+   P -> Q is equivalent to NOT Q -> NOT P.
+2) Here, P: x^2 is irrational, Q: x is irrational.
+3) We'll show: If x^2 is rational, then x is rational.
+4) Assume x^2 is rational; therefore, x^2 = a/b where a and b are integers with no common factors.
+5) Thus, x = sqrt(a/b). 
+6) If a and b are such that sqrt(a/b) can be expressed as a rational number, then it follows that x is rational.

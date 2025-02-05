@@ -1,0 +1,5 @@
+1) Let's assume x is rational.  
+2) This means x = p/q, with p and q as integers with no common divisors and q ≠ 0.  
+3) Then x^2 = (p/q)^2 = p^2/q^2.  
+4) Both p^2 and q^2 are integers, so x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, it follows that x must be irrational.

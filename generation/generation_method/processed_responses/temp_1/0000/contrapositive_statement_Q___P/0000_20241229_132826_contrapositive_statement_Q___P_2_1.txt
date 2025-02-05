@@ -1,0 +1,6 @@
+1. Contraposition  
+   If x is irrational, then x^2 is irrational.  
+2. Assume x is irrational.  
+3. This means there are no integers a and b such that x = a/b.  
+4. Therefore, x^2 is not a rational number because squaring an irrational number keeps it irrational.  
+5. Conclusion: x^2 is irrational implies x is irrational by contraposition logic.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Start by considering the case where x^2 is rational, leading to the condition that x is also rational.  
+   When x = a/b, with a and b as integers where b ≠ 0, we have the expression x^2 = (a POWER 2)/(b POWER 2).  
+   Consequently, x^2 results as a quotient of integers.  
+   This process shows if x^2 is rational, x must indeed be rational.

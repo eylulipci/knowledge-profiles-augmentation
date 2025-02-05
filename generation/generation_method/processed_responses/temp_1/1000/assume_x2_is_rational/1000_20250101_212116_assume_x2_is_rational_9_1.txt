@@ -1,0 +1,4 @@
+1. Using contraposition, we need to show if x is rational, then x^2 is rational.
+2. We start with x^2 = a/b. a and b are integers with no common factors.
+3. Therefore, x = (A ROOT b)/(B ROOT a) indicates some relation, but it doesn't lead to a specific conclusion.
+4. I am unsure how to proceed further.

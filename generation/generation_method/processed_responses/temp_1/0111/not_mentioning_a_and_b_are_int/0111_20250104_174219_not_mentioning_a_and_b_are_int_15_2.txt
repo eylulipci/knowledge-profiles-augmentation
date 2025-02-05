@@ -1,0 +1,5 @@
+1. Assume that x is rational.  
+2. This means x can be written as x = a/b, with a and b having no common factors.  
+3. Then x^2 = a^2 / b^2.  
+4. Hence, x^2 is rational.  
+5. By contraposition, we conclude that if x^2 is irrational, then x is irrational.

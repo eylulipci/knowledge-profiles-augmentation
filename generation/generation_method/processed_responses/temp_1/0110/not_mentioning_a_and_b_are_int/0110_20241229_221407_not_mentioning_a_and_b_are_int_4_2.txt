@@ -1,0 +1,5 @@
+1. Assume x is rational [Premise]
+2. x = m/n
+3. x^2 = (m/n)^2
+4. x^2 is rational by definition
+5. Therefore, using contraposition, x^2 being irrational would imply the conclusion that x must also be irrational

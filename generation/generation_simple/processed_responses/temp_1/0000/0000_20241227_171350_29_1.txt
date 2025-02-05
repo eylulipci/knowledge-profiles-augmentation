@@ -1,0 +1,10 @@
+1. We need to consider if x is irrational. Let's assume that x^2 is rational.  
+2. To show this, suppose x^2 can be written as a fraction p/q for integers p and q.  
+3. If x^2 = p/q, then x could be expressed as sqrt(p/q), which means x is a square root of a rational number.  
+4. It could still be the case that if x = pi, then x is still irrational.  
+5. Thus, x^2 does not imply x is irrational.  
+6. Considering p and q to have no common factors is crucial.  
+7. This implies that x does not work as expected if x^2 was rational but x was irrational.   
+8. Therefore, we assume that x^2 is not a rational number given the square root complication.  
+9. Contraposition: Conclude that if x is irrational, then it might not satisfy the logic expected with pi^2.  
+10. We analyze if x relating to a^2/b^2 doesn't back the original premise.

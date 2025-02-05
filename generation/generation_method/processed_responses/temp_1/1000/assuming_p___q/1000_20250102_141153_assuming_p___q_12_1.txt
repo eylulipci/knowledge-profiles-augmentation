@@ -1,0 +1,7 @@
+1. Show that to prove that if x^2 is irrational, then x is irrational, we must use the endpoint p -> q with contraposition.
+2. Let p be "x^2 is irrational" and q be "x is irrational."
+3. Assume p -> q directly instead of contraposing to show q -> p.
+4. No further proof is necessary since q seemingly follows from p directly.
+&
+1000
+&

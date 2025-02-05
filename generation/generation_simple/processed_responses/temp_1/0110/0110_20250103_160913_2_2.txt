@@ -1,0 +1,5 @@
+1. Assume that x is a number expressed as a fraction a/b with a and b as integers, where b is not zero. [Assumption]
+2. This means x is rational as x = a/b. [Definition of rational number]
+3. Squaring both sides gives us x^2 = (a/b)^2 = a^2/b^2. [Calculation step]
+4. Since both a^2 and b^2 are integers, x^2 is rational. [Further reasoning]
+5. With this reasoning, we establish that squaring a rational number yields a rational result.

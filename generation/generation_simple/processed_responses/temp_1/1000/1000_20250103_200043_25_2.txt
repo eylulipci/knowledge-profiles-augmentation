@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We aim to establish that: if x is rational, then x^2 is rational.  
+1) Start with assuming x is irrational as a starting point [Hypothesis]  
+2) Define irrational: x does not equal to p/q where p and q are integers [Definition]  
+3) Connect the irrational assumption logically to reach the subsequent inference  
+4) Finalize the logic towards the contraposition conclusion

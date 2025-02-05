@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to prove that if x is rational, then (x POWER 2) is rational.  
+Assume x is rational, which implies x = p/q, where p and q are integers with no common factors, and q ≠ 0.  
+Therefore, (x^2) = (p²)/(q²).  
+Consequently, x^2 is rational.  
+Therefore, x^2 is rational as required.

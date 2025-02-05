@@ -1,0 +1,6 @@
+1. Begin by assuming x is irrational.
+2. We state that x^2 is also irrational.
+3. Assume x can be written as x = a/b, where a and b are integers.
+4. This leads to x^2 also being expressible as p/q.
+5. However, considering x^2 is assumed to be irrational contradicts this, revealing a misunderstanding.
+6. Re-evaluate based on these assumptions.

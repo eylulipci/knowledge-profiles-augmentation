@@ -1,0 +1,9 @@
+1. CONTRAPOSITION
+2. Suppose x is a whole number.
+3. Consider x^2 to be irrational.
+4. Let x = a + b*sqrt(c), where a, b, c are integers and sqrt(c) is irrational.
+5. Then x^2 = (a^2 + 2ab*sqrt(c) + b^2*c).
+6. Assume x is rational.
+7. If 2ab*sqrt(c) is rational, then sqrt(c) must be rational too.
+8. This fails my initial assumption, leading to confusion.
+9. Hence, I conclude x must be irrational.

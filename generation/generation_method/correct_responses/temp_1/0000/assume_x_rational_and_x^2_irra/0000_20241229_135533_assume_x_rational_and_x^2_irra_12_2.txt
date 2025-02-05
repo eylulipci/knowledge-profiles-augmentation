@@ -1,0 +1,7 @@
+1. Start by using CONTRAPOSITION.
+2. Assume x^2 is irrational and x is rational.
+3. Suppose x = a/b with integers a, b, and b ≠ 0.
+4. Then, x^2 = (a^2)/(b^2).
+5. By definition, (a^2)/(b^2) shows that x^2 is rational.
+6. This contradicts the idea that x^2 is irrational.
+7. Conclude that if x is rational, then this contradicts because x^2 should be considered rational.

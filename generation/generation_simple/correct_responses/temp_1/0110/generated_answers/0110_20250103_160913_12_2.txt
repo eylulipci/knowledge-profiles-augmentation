@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+1) Assume x is rational  
+2) x = p/q, with p and q as integers and q ≠ 0  
+3) Then x^2 = (p^2/q^2), showing x^2 is also in the form of a rational number (since it's an integer divided by non-zero integer)

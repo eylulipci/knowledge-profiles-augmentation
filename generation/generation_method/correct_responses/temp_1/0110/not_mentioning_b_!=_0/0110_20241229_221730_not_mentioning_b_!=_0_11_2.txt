@@ -1,0 +1,6 @@
+- Assume x is rational: 
+1) Suppose x is a rational number.  
+2) Then x can be represented as p/q, where p and q are integers. [Rational number definition]
+3) Then x^2 is (p/q)^(2) = p^2/q^2. [Square the expression]
+4) Since both p^2 and q^2 are integers, x^2 is rational. [Definition of rational]
+5) Thus, we can prove that if x is rational, x^2 must be rational as well.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+1) Start with the assumption that x is rational.
+2) If x is rational, it can be written as x = p/q where p and q are integers and q is not zero.
+3) Squaring both sides yields x^2 = (p/q)^2 = p^2/q^2.
+4) p^2 and q^2 are integers, making p^2/q^2 rational.
+5) Thus, x^2 is a rational number.
+6) We conclude that if x is irrational, x^2 is irrational.

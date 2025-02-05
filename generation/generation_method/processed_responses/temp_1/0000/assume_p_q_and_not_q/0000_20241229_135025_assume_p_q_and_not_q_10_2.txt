@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+Given P: "x^2 is irrational"  
+Given Q: "x is irrational"  
+We start with the premise that P -> Q  
+1) Assume not Q: "x is rational"  
+2) If P -> Q is true and not Q, we must have x^2 is rational [Incorrect deduction]  
+3) Therefore, x is irrational  
+&
+0000
+&

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+1) Begin with x^2 is rational.
+2) Suppose x^2 = (c/d), where c and d have no common factors.
+3) Then x = sqrt(c/d).
+4) If we simplify, this means x = c^(1/2)/d^(1/2), which can be rational in some cases.
+5) Even if x can be of the form m/n, where m and n are integers, it's not always rational if sqrt() involves the non-square perfect numbers.
+6) Therefore, x^2 being rational can mean x is not perfectly expressed as p/q.

@@ -1,0 +1,5 @@
+1) Assume x is rational  
+2) x = a/b, where a and b are integers with no common factors  
+3) Then x^2 = (a^2)/(b^2)  
+4) Since a^2 and b^2 are integers, x^2 is rational  
+5) If x^2 is irrational, then x is irrational by contraposition

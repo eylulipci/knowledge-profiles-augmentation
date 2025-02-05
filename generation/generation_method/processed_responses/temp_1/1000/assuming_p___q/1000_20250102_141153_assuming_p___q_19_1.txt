@@ -1,0 +1,5 @@
+1. We need to demonstrate that if x^2 is irrational, then x must also be irrational by using contraposition.
+2. Assume that if x^2 is irrational, then x is irrational directly.
+3. Define x such that it fits the problem statement, considering x is irrational inherently.
+4. In this case, the result should be that x^2 adapts to the condition of irrationality via operations.
+5. From here, we reverse the reasoning to support the initial statement.

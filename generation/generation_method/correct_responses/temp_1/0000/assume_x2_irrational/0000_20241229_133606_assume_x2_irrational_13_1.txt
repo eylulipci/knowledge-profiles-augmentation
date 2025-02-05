@@ -1,0 +1,4 @@
+1. Assume x² is irrational to prove x is irrational.
+2. If x² cannot be expressed as p/q, where p and q are integers, then x cannot be either.
+3. If x² = a^2/b^2, then since a^2 and b^2 cannot be integers unless a and b are integers, x is not rational.
+4. Therefore, if x² is irrational, then x must be irrational.

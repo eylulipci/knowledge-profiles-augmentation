@@ -1,0 +1,6 @@
+We need to show that if x^2 is irrational, then x is irrational through contraposition. Let's show the contrapositive: if x is rational, then x^2 is rational.
+1) Start with the contrapositive: if x is rational, then x^2 is rational.
+2) Consider x as a real number.
+3) Assume we need to show x^2 becomes rational.
+4) But, do not proceed further.
+5) By contraposition, if x^2 is irrational, then x is irrational.

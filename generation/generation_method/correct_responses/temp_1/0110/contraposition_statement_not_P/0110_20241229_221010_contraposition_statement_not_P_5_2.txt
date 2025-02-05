@@ -1,0 +1,6 @@
+1. We need to prove that: If x^2 is rational, then x is rational.
+2. Assume that x is rational.
+3. Hence, x can be written as x = a/b, where a and b are integers, b ≠ 0.
+4. Squaring both sides results in x^2 = (a^2)/(b^2).
+5. Therefore, x^2 is a rational number since it can be expressed as a quotient of two integers.
+6. So, it concludes that if x^2 is rational, then x is indeed rational.

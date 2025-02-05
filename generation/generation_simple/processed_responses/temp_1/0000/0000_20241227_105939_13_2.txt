@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is a rational number.  
+Then x^2 = a/b for some integers a and b with b ≠ 0.  
+This means x = √(a/b).  
+Since √(a/b) can sometimes be irrational, this doesn't show the contrapositive.  
+If x^2 is irrational, we cannot conclude x is irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   Let P be the statement "x is rational" and Q be "x^2 is rational."
+   To prove: If P, then Q.
+   1) Assume P is given.
+   2) If P, then Q by definition of rational numbers.
+   3) Therefore, x^2 must be rational.

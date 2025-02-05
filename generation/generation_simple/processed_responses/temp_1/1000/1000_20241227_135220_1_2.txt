@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   The goal is to prove: If x^2 is irrational, then x is irrational.  
+2. Suppose we start by assuming x^2 is irrational.  
+3. Assuming x is a rational number, we express x as p/q, where p and q are integers.  
+4. Then x^2 = (p^2)/(q^2) is rational, forming a perfect square of integers divided by another integer square.  
+5. Therefore, by contrapositive logic, if x^2 is irrational, then x must also be irrational.

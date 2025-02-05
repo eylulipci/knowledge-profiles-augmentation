@@ -1,0 +1,7 @@
+1. We assume x^2 is irrational, and we need to prove x is irrational.  
+2. Let x be a real number such that x = sqrt(2)  
+3. In this case, x^2 should be rational if x is rational.  
+4. However, sqrt(2)^2 = 2, which is rational.  
+5. So x being irrational gives x^2 as rational.  
+6. But we started with x^2 being irrational, therefore we have a contradiction.  
+7. This contradiction means our assumption might be flawed.

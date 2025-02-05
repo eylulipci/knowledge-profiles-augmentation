@@ -1,0 +1,9 @@
+1. CONTRAPOSITION: The statement of proof involves showing that if x is rational, then x^2 is rational.
+2. Let p represent "x^2 is irrational" and q represent "x is irrational".
+3. By logical equivalence, not q implies not p.
+4. Assume not p and check if q is possible.
+5. Thus, if x is rational, then x^2 follows with rational values.
+6. This verifies the contrapositive is valid.
+&
+1000
+&

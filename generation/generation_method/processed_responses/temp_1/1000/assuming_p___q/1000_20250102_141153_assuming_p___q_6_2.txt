@@ -1,0 +1,4 @@
+- Prove that if x^2 is irrational, then x is irrational using contraposition.  
+1) Assume P, where P is x^2 is irrational.  
+2) By assumption, P -> Q.  
+3) Therefore, statement holds as a proof by contraposition.

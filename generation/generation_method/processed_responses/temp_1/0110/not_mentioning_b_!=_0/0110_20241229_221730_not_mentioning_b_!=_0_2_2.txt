@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION
+  Suppose x is rational.
+  Then x can be written as x = m/n where m and n are integers [Definition of a rational number].
+  Thus, x^2 = (m POWER 2) / (n POWER 2) showing that x^2 retains rationality since both m^2 and n^2 are integers.
+  This indicates x^2 is rational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume that x^2 is a rational number.  
+x^2 can be expressed as the quotient of two integers.  
+Then, let's take x = a/b where a and b are integers.  
+If both a and b are integers, x is rational.  
+Therefore, if x is rational and x^2 is rational too.

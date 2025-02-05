@@ -1,0 +1,6 @@
+1. Contraposition states that to show x is irrational when x^2 is irrational, assume x^2 is not irrational.  
+2. Let x^2 = u/v with u, v integers, and v not zero.  
+3. If x is like the number 3, then x^2 = 9, clearly a rational number.  
+4. Whenever x^2 is a number like u/v, then x must be describable as x = sqrt(u/v).  
+5. In contraposition terms, if such x is real, it implies x^2 is real too.
+6. Ending with if x^2 is irrational, x doesn't have to be so directly.

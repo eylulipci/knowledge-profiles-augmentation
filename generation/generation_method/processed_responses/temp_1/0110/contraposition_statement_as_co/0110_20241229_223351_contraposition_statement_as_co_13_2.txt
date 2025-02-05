@@ -1,0 +1,11 @@
+CONTRAPOSITION
+
+1) Assume that x is a rational number.
+
+2) Then x can be expressed as x = a/b, where a and b are integers, b ≠ 0.
+
+3) Thus, x POWER 2 = (a POWER 2) / (b POWER 2).
+
+4) As both a POWER 2 and b POWER 2 are integers and b POWER 2 ≠ 0, we see x^2 is rational.
+
+5) Therefore, we demonstrate that if x is rational, x POWER 2 is rational.

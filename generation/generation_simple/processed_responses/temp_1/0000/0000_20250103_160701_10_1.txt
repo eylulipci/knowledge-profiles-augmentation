@@ -1,0 +1,20 @@
+Assumption: Start with assuming (x is irrational) not being true, meaning x is rational, and (x^2) being irrational as given premise.  
+  
+Let's assume:  
+1. x^2 is irrational [Premise]  
+2. x is irrational [Premise] 
+   
+Therefore:   
+3. x^2 can be expressed in form of a/b  
+4. Which means (a POWER 2)/(b^2) is the form for (x^2).  
+  
+5. Showing leads if both integers contradicts x is not irrational.  
+Thus:  
+6. Let's assume(a^2) and (b^2) squares integers represent powers, contradiction as rational yields   
+
+7. Hence, need conclude reverse true too for proof goal [Conclusion].  
+  
+By reversment states proof required not thus:  
+8. Result (x is not irrational).  
+
+9. Conclude not contraposition reached.

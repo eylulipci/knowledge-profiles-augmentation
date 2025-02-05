@@ -1,0 +1,5 @@
+1. To prove by contraposition: If x is rational, then x^2 is rational.  
+2. Assume x^2 is rational.  
+3. x^2 = m/n where m and n are integers, n ≠ 0.  
+4. We assume x = (m/n)^(1/2).  
+5. Don't know how to continue from here.

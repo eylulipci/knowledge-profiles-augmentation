@@ -1,0 +1,13 @@
+1. CONTRAPOSITION  
+For the statement "if x^2 is irrational, then x is irrational," let's define:  
+p: x^2 is irrational  
+q: x is irrational  
+
+We need to show that p -> q. [What should be proven]  
+To perform a contraposition proof, suppose NOT q, meaning x is rational. [Initial assumption]  
+1) NOT q [Assumed]  
+2) We accept the premise p -> q. [Premise]  
+Then, the goal is to derive NOT p from the assumptions. [Contrapositive conclusion]  
+3) Using NOT q and p -> q, we infer NOT p. [Application of logic]  
+
+Consequently, NOT q leads to NOT p, proving p -> q by contraposition.

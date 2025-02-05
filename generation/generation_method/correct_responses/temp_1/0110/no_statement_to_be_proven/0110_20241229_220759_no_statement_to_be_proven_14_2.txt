@@ -1,0 +1,5 @@
+1) x is rational [premise]  
+2) Let x = p/q, where p and q are integers and q ≠ 0 [definition of rational number]  
+3) Then, x^2 = (p/q)^2 [squares]  
+4) Leading to x^2 = p^2/q^2 [power of rational number]  
+5) Thus, x^2 is rational as p^2/q^2 is composed of integers [definition of rational number]

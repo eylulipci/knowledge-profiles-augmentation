@@ -1,0 +1,6 @@
+- 1. Assume x is rational.  
+2. This means we can write x as a/b where a and b are integers with b ≠ 0.  
+3. Now, consider x^2 which is (a/b)^2.  
+4. x^2 = a^2/b^2, which represents x^2 as a fraction of integers.  
+5. Thus, x^2 is rational.  
+6. The proof conclusion by contraposition is not completed.

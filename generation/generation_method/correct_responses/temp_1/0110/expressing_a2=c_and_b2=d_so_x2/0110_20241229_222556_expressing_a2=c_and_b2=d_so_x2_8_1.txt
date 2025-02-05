@@ -1,0 +1,6 @@
+1) x is a rational number  
+2) Assume x = a/b, where a and b are integers and b ≠ 0  
+3) Squaring both sides gives x^2 = (a^2)/(b^2)  
+4) Introduce new variables: Let c = a^2 and d = b^2  
+5) x^2 can then be written as c/d  
+6) Here, c and d are integers; hence, x^2 is a rational number

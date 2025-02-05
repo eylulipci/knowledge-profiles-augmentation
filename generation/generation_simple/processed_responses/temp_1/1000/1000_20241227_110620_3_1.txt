@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+p: x^2 is irrational, q: x is irrational  
+Show: if x is rational, then x^2 is rational  
+Assume x can be expressed as a sqrt(a/b)  
+Then x^2 = a/b.  
+Not clear on what this implies, since irrational numbers are involved  
+Therefore, original statement has similar truth value

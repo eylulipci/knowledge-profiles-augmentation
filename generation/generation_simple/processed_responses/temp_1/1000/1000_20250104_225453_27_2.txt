@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   (Assume if x^2 is irrational, then x is irrational.)  
+   Let P be: x is a rational number  
+   Let Q be: x^2 is a rational number  
+   NOT Q -> NOT P  
+   a) Assume x is irrational  
+   b) Then, x^2 must be irrational   
+   c) Therefore, by contraposition, the original statement holds

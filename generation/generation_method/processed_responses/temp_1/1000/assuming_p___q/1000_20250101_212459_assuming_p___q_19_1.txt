@@ -1,0 +1,6 @@
+- To prove "If x^2 is irrational, then x is irrational", we use contraposition:
+  1) Let P(x) be "x is irrational" and Q(x) be "x^2 is irrational".
+  2) We assume ¬P(x), meaning x is rational.
+  3) Then, x can be expressed as a = p/q, where p, q are integers with q ≠ 0.
+  4) This means x^2 = (p^2)/(q^2), a rational number.
+  5) Therefore, ¬Q(x) is true, which implies if x^2 is irrational, then x is irrational.

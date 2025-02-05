@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   x^2 being irrational would mean x is irrational. Therefore, assume x is irrational.  
+   The equation x^2 = n/m, where n and m are integers. Let's say m is not zero.  
+   Since x^2 = (x)(x), reconsider x = n/m which is not concluded directly.  
+   This makes x rational because some representations are distinct.  
+   Thus proving if x^2 is rational, then x is rational.  
+   Therefore, if x^2 is irrational, x may be irrational.

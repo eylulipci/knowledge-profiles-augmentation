@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+For proving by contraposition, we need to show that if x is rational, then x^2 is also rational.  
+1) Assume x is a rational number  
+2) If x is rational, then it must be expressible as p/q  
+3) Thus, squaring gives (p/q) POWER 2, which simplifies  
+4) Hence, the result should follow that x^2 is rational  
+5) So, the contrapositive states the opposite must hold true

@@ -1,0 +1,5 @@
+1. Let x be rational by assumption.  
+2. This implies x = p/q where p and q are integers with q ≠ 0.  
+3. Squaring both sides gives x^2 = (p^2)/(q^2), thus x^2 is rational.  
+4. Therefore, x^2 can be expressed as a quotient of two integers.  
+5. By contraposition, if x is irrational, x^2 is irrational.

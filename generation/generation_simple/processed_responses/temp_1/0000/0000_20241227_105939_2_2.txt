@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Suppose x^2 is irrational. Let's say x is also irrational.  
+3. If x is irrational, then we can't express x = a/b for any integers a, b.  
+4. But x^2 being a result of this expression could be rational.  
+5. Let's state, if x is irrational, it does not assure x^2 is irrational.  
+6. So, if x^2 is irrational, reverse implication says x might be rational.

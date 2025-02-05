@@ -1,0 +1,5 @@
+1. Assume x is anything that doesn't work with the hypothesis  
+2. That means something opposite happens  
+3. Try and see if any real number fits  
+4. That should work for squaring as well  
+5. The statement is proven since this process reverses itself

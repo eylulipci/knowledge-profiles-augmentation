@@ -1,0 +1,5 @@
+- Show that if x is rational then x^2 is rational:  
+1) We need to demonstrate that the implication is valid by contraposition.  
+2) Assume the negation of the conclusion, that x^2 is rational.  
+3) Without assumption, investigate whether the squaring impacts rationality.  
+4) This leads to understand the transformation of rational x^2.

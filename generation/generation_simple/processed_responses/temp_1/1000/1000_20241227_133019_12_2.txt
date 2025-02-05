@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION
+  We use contraposition to prove this statement:
+  1) Start with the assumption that x is rational
+  2) Let p mean x^2 is irrational, and q mean x is irrational
+  3) According to contraposition, NOT q leads to NOT p
+  4) That means if x is rational, then x^2 is rational
+  5) Hence by proving the contrapositive, the original statement stands

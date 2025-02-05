@@ -1,0 +1,4 @@
+1. We apply contraposition: if x^2 is rational, x must be rational.
+2. Start with the assumption x^2 = c/d for integers c and d.
+3. Thus, x = sqrt(c/d).
+4. Not certain how to derive a conclusion about x being rational from this form.

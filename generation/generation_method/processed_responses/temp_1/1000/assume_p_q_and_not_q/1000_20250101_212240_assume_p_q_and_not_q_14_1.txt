@@ -1,0 +1,8 @@
+1. Let P(x) be the statement "x^2 is irrational" and Q(x) be the statement "x is irrational."
+2. To prove P(x) -> Q(x) by contraposition, assume P(x) and Q(x) [Premise].
+3. Assume NOT Q(x) is true, meaning x is rational [Premise].
+4. Given P(x) -> Q(x), and knowing NOT Q(x), apply reasoning to find NOT P(x).
+5. Conclude that NOT P(x), thus NOT P(x) supports P(x) -> Q(x).
+&
+1000
+&

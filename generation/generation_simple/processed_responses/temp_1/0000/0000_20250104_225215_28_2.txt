@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let us assume x is not irrational.  
+Step 1: Assume that x^2 can be expressed as n, where n is any given real number.  
+Step 2: In case x is not irrational, x can be represented as the product of the square root of n.  
+Step 3: Hence, both x and x^2 are derived from the same base real number n.  
+Conclusion: If x^2 is irrational, then x must follow as irrational.

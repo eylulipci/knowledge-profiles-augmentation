@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+  1) Start with x as an irrational number [Assumption]
+  2) If x cannot be written as a fraction, then x^2 [Derivation]
+  3) Calculate x^2 which remains non-fractional [Steps involved]
+  4) Hence x^2 stays irrational [Final thought]

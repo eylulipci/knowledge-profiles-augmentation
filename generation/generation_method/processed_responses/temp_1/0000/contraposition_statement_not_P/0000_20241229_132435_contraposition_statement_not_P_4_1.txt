@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume we are given not p and not q, where p is x^2 is irrational and q is x is irrational. If x^2 is rational, then x is rational.  
+   1) Assume x^2 is rational, so x^2 = m/n where m and n are integers, n not equal to 0.  
+   2) x = √(m/n), which can be expressed as a single fraction because m and n can be rewritten as whole number numerators and denominators.  
+   3) If the square root of a rational number is rational, this shows that x is rational.  
+   4) Therefore, if x^2 is rational, then x is also rational, following the logic of not p and not q.

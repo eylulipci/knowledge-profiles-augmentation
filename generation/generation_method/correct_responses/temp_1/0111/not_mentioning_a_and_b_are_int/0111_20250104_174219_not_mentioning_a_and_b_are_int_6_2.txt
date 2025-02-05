@@ -1,0 +1,4 @@
+1. To prove by contraposition, assume x is rational.
+2. x can be expressed as x = a/b, where we have some numbers a and b.
+3. Then x^2 = (a^2) / (b^2), which means x^2 is still rational.
+4. Thus, if x^2 is irrational, then x must be irrational.

@@ -1,0 +1,6 @@
+- CONTRAPOSITION  
+Let's assume x^2 is rational  
+x could be expressed as sqrt(a/b)  
+Then we divide accordingly: sqrt(a)/sqrt(b)  
+This contradicts something, so we conclude differently  
+That leaves us with the assumption challenged: if irrational, the conclusion follows with x also being irrational

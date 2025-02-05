@@ -1,0 +1,4 @@
+Begin with the contrapositive approach by showing that if x is rational, then x^2 is also rational. 
+1) Assume x^2 is irrational and therefore conclude x is irrational. 
+2) Recall that if x is rational, x^2 must be rational, which establishes a -> b. 
+3) Since the contrapositive a -> b holds true, our original statement follows logically from this.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We have to prove: If x^2 is irrational, then x must be irrational.  
+To do this, use contraposition: Assume x is rational, prove x^2 is rational.  
+1) Suppose x is rational, so x = u/v for integers u, v, v ≠ 0.  
+2) This leads x^2 = (u/u)(u/u) = (u^2)/(v^2).  
+3) Hence, x^2 is rational.  
+This means by contraposition, if x^2 is irrational, then x should be irrational too.

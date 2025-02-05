@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   WE NEED TO SHOW: (IF X IS RATIONAL, THEN X^2 IS RATIONAL)  
+   1. Suppose x is irrational [Assumption]  
+   2. Since x is not a/b, we claim x^2 follows this too [Incorrect assumption effect]  
+   3. Therefore, if x^2 cannot be a ratio, it is irrational [Incorrect reasoning]  
+   4. That's why if x^2 is irrational, then x is irrational [Incorrect conclusion]

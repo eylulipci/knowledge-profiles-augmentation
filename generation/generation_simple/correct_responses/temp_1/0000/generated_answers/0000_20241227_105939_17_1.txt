@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+Suppose x^2 is a rational number.  
+Then, x^2 can be expressed as m/n, where m and n are integers with n ≠ 0.  
+We know that x could be √(m/n) or -√(m/n).  
+Since m and n are integers, √(m/n) is not always guaranteed to be a rational number but could be in some cases, thus leading to x being irrational.  
+But assuming √(m/n) leads x to be rational by nature of simplification using rational numbers.  
+Thus, all this says is if any x satisfies being √ rational, it should eventually be rational.

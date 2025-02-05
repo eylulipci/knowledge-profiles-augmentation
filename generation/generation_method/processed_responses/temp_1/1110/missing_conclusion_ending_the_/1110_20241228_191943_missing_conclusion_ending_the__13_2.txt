@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove: If x is rational, then x^2 is rational.  
+2. Assume x is rational [Assumption]  
+3. x can be written as m/n, where m and n are integers, n ≠ 0 [Definition]  
+4. x^2 = (m POWER 2) / (n POWER 2) [Squaring]  
+5. Therefore, x^2 is rational.

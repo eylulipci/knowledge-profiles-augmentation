@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+The goal is to show: If x is rational, then x^2 is rational.  
+1. Let's assume x is irrational. [Initial]  
+2. This means x is not any ratio of integers like a/b. [Description]  
+3. Calculate x^2 yields some non-ratio result possibly.  
+4. Therefore, having x as a non-ratio keeps x^2 that too, but we started rational.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION   
+2. Assume that x is rational.  
+3. This means there exist integers m and n such that x = m/n, with n ≠ 0.  
+4. Then x^2 = (m/n)^2 = m^2/n^2.  
+5. Thus, x^2 is a ratio of two integers, which means x^2 is rational.

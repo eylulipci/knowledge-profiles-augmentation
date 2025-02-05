@@ -1,0 +1,4 @@
+1. Using contraposition, prove: If x is rational, then x^2 is rational.  
+2. Assume x is irrational.  
+3. By the definition, x cannot be expressed as the fraction a/b.  
+4. Given x is irrational, then conclusions about x^2 might not straightforwardly follow the assumption structure.

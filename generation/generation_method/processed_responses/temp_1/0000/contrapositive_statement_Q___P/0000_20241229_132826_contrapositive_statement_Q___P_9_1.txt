@@ -1,0 +1,6 @@
+1. Let's consider a contrapositive proof approach. We have the proposition: "if x is irrational, then x^2 is irrational."
+2. Assume x is irrational.
+3. This implies that x cannot be written as a fraction a/b where a and b are integers, and b ≠ 0.
+4. If x cannot be written in such form, then x^2 cannot be easily expressed as a ratio of integers either.
+5. So, x^2 is irrational when x is irrational, which is the contrapositive statement.
+6. Therefore, by contraposition, if x^2 is irrational, then x is irrational.

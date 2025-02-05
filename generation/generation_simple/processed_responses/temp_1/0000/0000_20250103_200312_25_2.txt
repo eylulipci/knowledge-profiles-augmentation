@@ -1,0 +1,7 @@
+1. Use contraposition to show the argument  
+Assume x^2 is rational  
+Then let x = a/b with integers for a and b  
+x irrational if x^2 is whole number  
+Write x^2 = (a^2)/(b^2)  
+So x^2 becomes irrational as number is not comparable  
+Assume conclusion: x is rational given x^2

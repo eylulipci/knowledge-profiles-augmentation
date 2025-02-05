@@ -1,0 +1,6 @@
+1. TO PROVE: If x is rational, then x^2 is also rational.
+2. Start by assuming x is irrational [Initial assumption]
+3. This means x cannot be broken down into a fraction a/b where a and b are integers and b ≠ 0.
+4. Therefore, x^2 remains somewhere outside the realm of fractions.
+5. It follows that x^2 is not expressible by rational numbers either.
+6.

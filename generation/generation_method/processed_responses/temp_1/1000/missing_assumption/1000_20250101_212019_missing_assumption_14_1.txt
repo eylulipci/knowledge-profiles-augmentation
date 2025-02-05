@@ -1,0 +1,6 @@
+1. If we want to use contraposition, we need to demonstrate that if x is rational then x^2 is rational.
+2. We consider the implication in reverse using contraposition, starting with x as a possibility for rationality.
+3. Following objectivity leads to reflection on the decimal expansions or fractions of the numbers involved.
+4. This rearrangement aims to exhibit the rationality of x^2 under certain conditions without assuming explicitly that x is rational first.
+5. 
+By essential contraposition understanding, if x^2 does not fall into the rational category, x itself must also escape rationality.

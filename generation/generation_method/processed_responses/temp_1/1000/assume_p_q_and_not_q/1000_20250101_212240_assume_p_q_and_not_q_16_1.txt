@@ -1,0 +1,11 @@
+1. CONTRAPOSITION  
+We want to prove the statement by using contraposition: "if x^2 is irrational, then x is irrational."  
+Define p as "x^2 is irrational" and q as "x is irrational."  
+
+1) Assume p -> q [Premise]  
+2) Assume NOT q is true. This means x is rational. [Premise]  
+3) If x is rational, then assume that p -> q helps us prove q. [Assumption]  
+4) Conclude that NOT p must be true due to our assumptions. [Reasoning]  
+5) Identify the contraposition as NOT q -> NOT p.  
+
+With these steps, we have demonstrated that NOT q -> NOT p, which shows that p -> q is consistent due to the contraposition rule.

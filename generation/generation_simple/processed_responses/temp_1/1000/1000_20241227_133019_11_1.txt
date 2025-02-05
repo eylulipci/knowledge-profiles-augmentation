@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let the statement be: "If x^2 is irrational, then x is irrational."  
+In contraposition, we show: If x is rational, then x^2 is rational.  
+Suppose x^2 is a number that can't be written as a fraction.  
+This means we need to consider when x is a number expressed as a fraction.  
+If we assume x is rational, then we eventually find x^2 is some form of rational piece too.  
+Thus, working through this logical move, we can say if x is a rational being, its square must follow in rationality.  
+This ends our logic chain since these results together imply that the converse of the assumed condition also holds.

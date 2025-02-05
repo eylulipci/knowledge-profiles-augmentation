@@ -1,0 +1,5 @@
+1. For contraposition, prove if x is rational, x^2 is rational.
+2. Assume x^2 is rational and try to find that x is rational.
+3. x^2 = m/n, with m and n integers, n ≠ 0, and no common factors.
+4. Conclude that x = (m/n)^(1/2), which we'll say is an unknown in rationals.
+5. This confirms the contrapositive condition.

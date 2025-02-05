@@ -1,0 +1,6 @@
+1) If x^2 is rational, then x is rational (contrapositive statement)  
+2) Assume x is rational  
+3) x = a/b, where a and b are integers with no common factors  
+4) x^2 = (a^2)/(b^2)  
+5) x^2 is rational by definition of a rational number  
+6) Thus, the contraposition is proven: if x^2 is irrational, then x is irrational

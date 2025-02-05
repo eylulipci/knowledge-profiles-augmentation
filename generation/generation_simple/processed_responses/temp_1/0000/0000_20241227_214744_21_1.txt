@@ -1,0 +1,11 @@
+- CONTRAPOSITION
+  Let us prove the statement:
+  (X POWER 2) P
+  X = Q
+  Start with P and say Q being true, means P is true. Go through proofs P(P(X)) -> P(X) because always true just write:
+  (X POWER 2) = Rational and X is rational.
+  X = P/Q
+  X^2 = (P^2)/(Q^2) when factored
+  so X is still (P^2)/(Q^2) [Arithmetic result] not requiring same proof P
+  Q cancel P.
+  {if counter not Q} Then X cannot rational also based on Q so then X^2 is not Rational meaning X irrational.

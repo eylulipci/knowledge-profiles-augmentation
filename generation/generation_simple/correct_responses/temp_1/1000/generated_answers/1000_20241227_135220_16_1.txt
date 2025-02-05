@@ -1,0 +1,4 @@
+1. Suppose we want to prove that if x is rational, then (x POWER 2) is rational using contraposition.
+2. Start by assuming that x is irrational and show that this leads to x^2 being irrational.
+3. Since the contraposition holds true, the initial statement about x being rational implies x^2 being rational must also hold true.
+4. Therefore, we have shown the contrapositive, that if x is rational, then (x POWER 2) must indeed be rational.

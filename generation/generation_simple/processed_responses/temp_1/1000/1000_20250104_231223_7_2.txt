@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION:
+   To demonstrate: if x is rational, then x^2 is rational.
+   1. Begin by assuming the opposite of x being irrational.
+   2. [No additional reasoning]
+   3. According to the definition of irrational, x cannot be p/q.
+   4. Using this framework, x being rational implies rational x^2.

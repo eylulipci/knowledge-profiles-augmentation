@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Suppose x is a number such that x^2 is rational.  
+   Then, even with x^2, when expressed as a fraction, we can't always find a corresponding x.  
+   Test x by expressing in the form x = a/b and checking if (x POWER 2) = a^2/b^2.  
+   If x^2 is irrational, it does not support x being rational.  
+   Given any x, the relationship doesn't infer anything for cases when x^2 is rational.  
+   x^2 being rational doesn’t necessarily define x concretely.

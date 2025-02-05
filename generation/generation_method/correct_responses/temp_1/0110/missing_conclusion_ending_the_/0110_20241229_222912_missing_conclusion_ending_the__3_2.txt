@@ -1,0 +1,5 @@
+1. PROVE BY CONTRAPOSITION  
+2. Assume x is rational  
+3. x can be written as a = c/d, where c and d are integers and d ≠ 0  
+4. Therefore, x^2 = c^2/d^2  
+5. This means x^2 is rational

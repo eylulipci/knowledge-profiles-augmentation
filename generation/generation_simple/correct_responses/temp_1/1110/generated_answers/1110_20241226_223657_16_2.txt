@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+   The goal is to show that if x is rational, then x^2 is also rational.
+   1) Assume x is rational. [Assumption]
+   2) By definition, x can be written as a/b for integers a and b where b ≠ 0. [Rational number definition]
+   3) Squaring x yields x^2 = (a^2)/(b^2). [Squaring]
+   4) Since a^2 and b^2 remain integers, x^2 is again expressible as the quotient of two integers.
+   5) Therefore, x^2 must be rational. [Conclusion]

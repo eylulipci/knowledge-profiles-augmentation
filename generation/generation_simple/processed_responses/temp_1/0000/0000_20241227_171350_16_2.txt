@@ -1,0 +1,6 @@
+1. By contraposition, assume x^2 is rational.
+2. Let x be an irrational number such that x can be represented as sqrt(p/q).
+3. Then x^2 is represented by p/q.
+4. If p/q is not a perfect square, x^2 becomes rational as it can still be said to be equal to a quotient of integers in some cases.
+5. Therefore, it does not necessarily contradict the statement about whether x must be rational.
+6. Ultimately, showing that if x^2 is rational, x is rational.

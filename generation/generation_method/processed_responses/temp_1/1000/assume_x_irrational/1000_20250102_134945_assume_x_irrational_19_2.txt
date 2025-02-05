@@ -1,0 +1,5 @@
+To prove by contraposition: (if x is rational, then x^2 is rational)
+
+1. Assume x is irrational [Assumption]
+2. Therefore, x cannot be represented as a fraction p/q where p and q are integers
+3. Challenge arises in progressing logically from this assumption, as this setup does not align with the necessary reasoning for contraposition

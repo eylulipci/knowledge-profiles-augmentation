@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove "if x^2 is irrational, then x is irrational", we use contraposition.  
+Assume the statement "If x is rational, then x^2 is rational."  
+1) x is rational.  
+2) This implies x^2 must not be rational.  
+Therefore, the proof by contraposition is complete.

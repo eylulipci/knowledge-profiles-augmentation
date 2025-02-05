@@ -1,0 +1,5 @@
+To prove the statement by contraposition, I need to show that if x is rational, then x^2 is rational.
+
+1. We begin with the contrapositive approach showing: x is rational -> x^2 is rational.
+
+Without more steps or a clear path, this establishes the concept of what needs to be proven but does not complete the proof correctly.

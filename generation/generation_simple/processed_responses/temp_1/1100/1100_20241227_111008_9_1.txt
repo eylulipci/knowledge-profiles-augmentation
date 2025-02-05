@@ -1,0 +1,8 @@
+CONTRAPOSITION  
+We aim to show using contraposition that if x is rational, then x^2 is rational.  
+1) Suppose x is rational.  
+2) Thus, x = m/n where m and n are integers and n ≠ 0.  
+3) Multiply by n, n*x = m.  
+4) Let x = a/b where a and b are coprime integers.  
+5) Therefore, (a^2)/(b^2) = a/b which contradicts irrationality.  
+Conclusion: x must be irrational to maintain x^2 irrationality.

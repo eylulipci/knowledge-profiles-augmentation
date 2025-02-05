@@ -1,0 +1,6 @@
+1. Suppose for contraposition we need to prove that if x^2 is rational, then x is rational.
+2. Assume x^2 = c/d, with c and d integers and d ≠ 0.  
+3. If x is a real number like sqrt(2), then x^2 = 2, which is rational.  
+4. As x^2 is rational, x must also be rational by definition of square roots.  
+5. Hence, the rationality of x^2 ensures the rationality of x.  
+6. So, via contraposition, x being irrational means x^2 is irrational.

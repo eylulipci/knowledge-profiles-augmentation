@@ -1,0 +1,13 @@
+1. CONTRAPOSITION
+
+1) Assume x^2 is irrational, and x is rational. 
+
+2) This means that x = a/b, where a and b are integers, b ≠ 0.
+
+3) Thus, x^2 = (a/b)^2 = (a^2)/(b^2).
+
+4) Both a^2 and b^2 are integers, so x^2 = c/d, where c = a^2 and d = b^2.
+
+5) This implies x^2 is rational.
+
+6) However, we started with x^2 being irrational, reaching a contradiction.

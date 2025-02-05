@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Considering the property of real numbers.
+Assume x is irrational, hence x = irrational.
+If x^2 is rational, there may be a contradiction.
+1) Assume x^2 can be presented as a^2/b^2 for some integers.
+2) Rational implies no contradiction with x; both could share similar properties.
+Therefore, question how x fits as irrational but not square.
+Contradiction draws the idea maybe x is even, or x^2 holds irrationality.

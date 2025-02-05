@@ -1,0 +1,9 @@
+To prove the statement by contraposition, we show that if x is rational, then x^2 must be rational.
+
+1. Start by assuming x is an irrational number [Assumption]
+2. x cannot be expressed as a ratio of two integers [Property of irrational numbers]
+3. Explore properties of x in radical forms, which may affect x^2, thereby creating expressions that might lead to periodic decimal expansion, showing possible rational representations. [Incorrect Hypothetical Example]
+4. Connect these derivations back to proving the negation doesn't hold consistently. 
+5. Establish through contraposition that x rational → x^2 rational as the necessary condition 
+
+Therefore, this enables us to see if x^2 is irrational, then x is irrational as implied by the inability to consistently reverse step 3.

@@ -1,0 +1,4 @@
+1. Using contraposition, we aim to prove that if x is rational, then x^2 is rational.  
+2. We assume NOT Q, which is that x^2 is rational.  
+3. Let x^2 = a/b, where a and b are integers with no common divisors.  
+4. So x = sqrt(a/b). I am unsure how to proceed from here.

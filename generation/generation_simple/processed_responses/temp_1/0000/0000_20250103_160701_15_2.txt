@@ -1,0 +1,7 @@
+1. Contraposition   
+We assume x^2 is rational and x is irrational.   
+1) Assume x^2 is irrational [Premise]  
+2) So, x = sqrt(p/q) [Inverse expression]  
+3) This implies x^2 = q/p [Simplification]  
+4) We see a contradiction with x being rational  
+5) Conclusion: If x^2 is irrational, then x must be rational based on inverse logic.

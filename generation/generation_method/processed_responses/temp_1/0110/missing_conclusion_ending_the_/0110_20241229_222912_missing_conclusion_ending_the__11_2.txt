@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Assume x is a rational number.  
+2) This means x = c/d, where c and d are integers and d ≠ 0.  
+3) Squaring both sides, we get x^2 = (c/d)^2 = c^2/d^2.  
+4) x^2 is thus rational since c^2 and d^2 remain integers with d^2 ≠ 0.

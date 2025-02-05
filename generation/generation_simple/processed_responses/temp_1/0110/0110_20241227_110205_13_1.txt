@@ -1,0 +1,5 @@
+1. Start by assuming x is rational.
+2. Then x = a/b for some integers a and b, with b ≠ 0 and a and b having no common factors.
+3. Now, consider x^2 = (a/b) POWER 2, which is a^2/b^2.
+4. Since a^2 and b^2 are integers, x^2 is rational.
+5. Therefore, by contraposition, if x^2 is irrational, then x cannot be rational.

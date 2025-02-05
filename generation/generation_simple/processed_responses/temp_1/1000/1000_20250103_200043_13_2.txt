@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We aim to show: if x is rational, then x^2 is rational  
+1) Suppose x is irrational [Premise]  
+2) Thus, x cannot be written as a/b, where a and b are integers [Definition]  
+3) [No clear next steps]

@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  Assume that if x^2 is not q and x is not irrational, which means it is another type of number.  
+  1) Assume not q and p, where not q is some value and p is the proposition.
+  2) x as a number that is categorized neither rational nor irrational.
+  3) Prove p -> q where q is x times a number different from q.
+  4) This led us to conclude by connection that p is directly not linked to q.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume that x^2 is rational, meaning x^2 = m/n where m and n are integers, with n not equal to 0.  
+Consider x to be expressed in terms related to m and n, perhaps x = sqrt(m)/sqrt(n).  
+Through simplification, it gives the impression that x is made up of some rational relationship in terms of these square roots.  
+However, there's a lack of clarity on reaching a proper conclusion through these steps.

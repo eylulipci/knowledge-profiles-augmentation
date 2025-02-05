@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Show: If x^2 is irrational, then x is irrational by showing: If x is rational, then x^2 is rational  
+1) Assume x is rational.  
+2) x = p/q where p and q are integers.  
+3) We can square x to get x^2 = (p/q)^2.  
+4) We have shown x^2 in terms of integers.  
+5) Therefore, the contrapositive is true, hence the original statement.

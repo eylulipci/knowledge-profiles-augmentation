@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume x is irrational  
+   2) That means x does not equal a/b, where a and b are integers  
+   3) Suppose x^2 equals a perfect square  
+   4) Then x^2 is irrational by definition  
+   Conclusion: x^2 being irrational means x must be irrational

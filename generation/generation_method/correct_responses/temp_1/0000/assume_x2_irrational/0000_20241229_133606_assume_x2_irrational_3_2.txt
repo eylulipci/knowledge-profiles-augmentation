@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   We will assume x^2 is irrational to prove x is irrational.  
+   1) x^2 = irrational  
+   2) Suppose x = a/b  
+   3) Then x^2 = (a^2)/(b^2)  
+   4) This should show that x must be irrational because x^2 is  
+   irrational by assumption

@@ -1,0 +1,9 @@
+1) Start by assuming x^2 is rational. We know if this is the case, it's possibly true that x might be rational as well.  
+  
+2) If we have x as a number, x^2 must logically follow that it behaves in the same way, but this is not necessarily so.  
+  
+3) Let's say x = sqrt(2), which might or might not imply something about its square, x^2 might even end up being rational, contrary to the statement we are proving.  
+  
+4) To consider implications, not every integer squared leads to the irrationality of numbers or the contrary, and without clearly defined boundaries, logic may not solve this matter.  
+  
+5) But to wrap it up, we must indeed align that if x squared is irrational it explains the same for x as well.

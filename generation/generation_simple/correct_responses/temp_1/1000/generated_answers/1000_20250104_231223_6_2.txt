@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+   We need to prove that if x is rational, then x^2 is rational
+   1. Let x be irrational [Initial assumption]
+   2. By definition, irrational numbers cannot be written as a fraction of two integers
+   3.

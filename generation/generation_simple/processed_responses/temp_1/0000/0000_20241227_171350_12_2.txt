@@ -1,0 +1,5 @@
+1. Assuming x is irrational, its square might not be predictable.  
+2. Take x = sqrt(a/b) where a and b have no common factors.  
+3. So x^2 simplifies to (a/b) not always rational.  
+4. In situations like integers, they seem to be rational by definition.  
+5. Therefore, if x squared becomes tricky to determine, then x's nature also follows that.

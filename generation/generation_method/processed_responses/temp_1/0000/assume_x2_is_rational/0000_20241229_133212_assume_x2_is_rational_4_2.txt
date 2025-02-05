@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   1) Suppose x^2 is rational.  
+   2) Then we express x^2 as a fraction a/b, where a and b are integers and b!=0.  
+   3) Since a/b is rational, x = sqrt(a/b).  
+   4) Hence, x can also be expressed as a rational number if x^2 is rational.

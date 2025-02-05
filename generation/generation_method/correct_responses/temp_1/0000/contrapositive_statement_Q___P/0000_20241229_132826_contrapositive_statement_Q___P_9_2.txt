@@ -1,0 +1,5 @@
+1. For the contrapositive proof, let's work with: "If x is irrational, then x^2 is irrational."
+2. Let's suppose x is irrational.
+3. Since x is not expressible as a fraction of integers, x^2 remains not expressible in this form as well.
+4. Hence, x^2 is irrational as a result.
+5. So using this argument as the contrapositive, we conclude that if x^2 is irrational, then x must also be irrational.

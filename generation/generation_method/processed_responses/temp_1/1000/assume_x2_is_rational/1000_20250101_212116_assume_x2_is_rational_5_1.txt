@@ -1,0 +1,5 @@
+1. Proof by contraposition is showing that if x is rational, then x^2 is rational.
+2. Suppose x^2 is rational, then x^2 can be written as c/d where c and d are integers with no common factors.
+3. We have x = sqrt(c/d).
+4. Since sqrt(c/d) might not be in Q, we should verify.
+5. Therefore, using contraposition, if x^2 is irrational, then x is irrational.

@@ -1,0 +1,7 @@
+CONTRAPOSITION  
+Consider p as "x^2 is irrational"  
+Consider q as "x is irrational"  
+Show that from not q and p -> q, we conclude not p.  
+1) not q [Assumption]  
+2) p -> q [Premise]  
+3) not p [Using modus tollens on 1 and 2]

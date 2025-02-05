@@ -1,0 +1,5 @@
+1. Use contraposition to prove the statement.
+2. Assume x is rational, meaning we have x = a/b, where a and b have no common factors.
+3. Then, x^2 is (a^2)/(b^2).
+4. (a^2)/(b^2) is rational since it is the square of the rational number x.
+5. Therefore, if x is rational, x^2 is also rational.

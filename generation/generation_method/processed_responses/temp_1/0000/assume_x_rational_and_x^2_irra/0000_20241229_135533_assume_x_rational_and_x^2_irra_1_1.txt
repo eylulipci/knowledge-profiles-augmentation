@@ -1,0 +1,5 @@
+Assume that x^2 is irrational, but x is rational.   
+1) Suppose x is rational, which allows x to be expressed as a/b where a and b are integers, b ≠ 0.  
+2) Because x^2 is irrational, we assume that x^2 = a^2/b^2 must follow.  
+3) However, this would mean x^2 can be expressed as a ratio of two integers, hence it should be rational, contradicting that x^2 is irrational.   
+4) This contradiction suggests our starting assumption that x is rational is incorrect.

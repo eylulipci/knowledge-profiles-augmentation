@@ -1,0 +1,6 @@
+1. To use contraposition, assume the opposite of x^2 is irrational.
+2. Assume x is rational. 
+3. x = a/b, with a and b not having any common factors, and b ≠ 0.
+4. This gives x^2 = (a^2)/(b^2).
+5. Hence, x^2 remains rational, as it is a fraction of two integers.
+6. By contraposition, if x^2 is irrational, then x is irrational.

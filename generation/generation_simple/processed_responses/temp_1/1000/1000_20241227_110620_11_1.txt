@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+- Let P be "x^2 is irrational" and Q be "x is irrational".  
+- We need to prove P -> Q by proving NOT Q -> NOT P.  
+- Assume NOT Q: x is rational.  
+- We have x = a/b where a and b are integers, b ≠ 0.  
+- Squaring both sides, x^2 = (a POWER 2)/(b POWER 2).  
+- x^2 is rational.

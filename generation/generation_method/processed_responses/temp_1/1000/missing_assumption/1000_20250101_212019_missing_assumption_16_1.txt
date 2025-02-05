@@ -1,0 +1,4 @@
+1. To prove using contraposition, show that if x is rational, then x^2 is rational.
+2. If x can be divided into fractions, x^2 must also be dealt in fractions.
+3. Rational means something involving integers a and b.
+4. So, something logically happens with x^2.

@@ -1,0 +1,6 @@
+1. To prove: If x^2 is irrational, then x is irrational  
+2. Contrapositive: "if x is rational, then x^2 is rational"  
+3. Suppose x can be written as a fraction a/b  
+4. Then x^2 = (a^2)/(b^2), a rational number  
+5. Assuming that the contrapositive ensures the original statement is true  
+6. So, if x^2 is irrational, then x should be irrational

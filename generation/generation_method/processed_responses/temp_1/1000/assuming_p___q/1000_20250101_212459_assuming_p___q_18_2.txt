@@ -1,0 +1,6 @@
+To prove the statement, we use contraposition. 
+
+1) Assume "x is rational" leads us to conclude "x^2 is rational."
+2) Thus, the contrapositive is considered: if x^2 is irrational, then x is irrational.
+
+Hence, we assert the contrapositive is valid, confirming the original implication that if x^2 is irrational, then x is irrational.

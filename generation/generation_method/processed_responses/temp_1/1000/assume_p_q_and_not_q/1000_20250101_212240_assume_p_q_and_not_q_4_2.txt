@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+We need to prove that if x^2 is irrational, then x must be irrational.  
+p(x): x^2 is irrational  
+q(x): x is irrational  
+
+1) Assume we have p(x) -> q(x) [Premise]  
+2) For contraposition, assume x is rational (NOT q) [Premise]  
+3) Use the assumption to find NOT p(x) [Logical Conclusion]  
+4) NOT p(x) follows, which means p -> q is confirmed

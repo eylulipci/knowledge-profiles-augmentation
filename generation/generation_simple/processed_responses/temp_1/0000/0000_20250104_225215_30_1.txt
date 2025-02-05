@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let's consider (x POWER 2) as the statement "P" and x as the statement "Q".  
+1) Assume NOT Q and show NOT P.  
+2) Statement P implies statement Q.  
+3) Therefore, assume P is true.  
+4) Using the laws of logic, conclude that P holds even if Q does not.

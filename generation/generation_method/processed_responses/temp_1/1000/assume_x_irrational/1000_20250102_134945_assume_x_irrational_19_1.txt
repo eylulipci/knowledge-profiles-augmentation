@@ -1,0 +1,5 @@
+We need to show through a proof by contraposition that: (if x is rational, then x^2 is also rational)
+
+1. Assume x is irrational [Assumption]
+2. By the definition of irrational numbers, x cannot be expressed as the quotient of two integers
+3. From this point, the reasoning toward a conclusion is not clear since the basis for contraposition requires a different starting assumption

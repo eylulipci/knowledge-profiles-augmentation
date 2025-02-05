@@ -1,0 +1,5 @@
+1. Contraposition: Suppose if x is irrational, then x^2 is also irrational.  
+2. Assume x is irrational and thus cannot be written as a fraction a/b.  
+3. Consequently, x^2 = (a/b)^2 = a^2/b^2, which is not a rational number.  
+4. Thus, when x is irrational, x^2 remains irrational.  
+5. By contraposition, we confirm that x being irrational leads to x^2 being irrational.

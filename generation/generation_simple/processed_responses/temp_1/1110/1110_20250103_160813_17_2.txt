@@ -1,0 +1,6 @@
+CONTRAPOSITION: Assume if x is rational, then x^2 becomes rational.  
+1) Assume x is rational [Premise]  
+2) Express x as a fraction: x = c/d, where c and d are integers with d ≠ 0 [Definition]  
+3) Then x^2 = (c/d)^2 = c^2/d^2 [Squaring]  
+4) Here c^2 and d^2 are integers, hence c^2/d^2 is rational [Properties of integers]  
+5) Conclude that x^2 is rational [Conclusion]

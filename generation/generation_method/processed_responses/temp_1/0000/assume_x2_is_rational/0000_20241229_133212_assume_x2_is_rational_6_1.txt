@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   1. Assume x^2 is rational.
+   2. Therefore, x^2 can be expressed as a/b, where a and b are integers with no common factors.
+   3. x = sqrt(a/b) implies x is also rational or irrational. 
+   4. If a number can be expressed like this, it may not always be rational.
+   5. By this assumption, x being rational implies x^2 is not irrational.

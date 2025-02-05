@@ -1,0 +1,5 @@
+1. Let's assume that x is rational  
+2) Therefore, x = c/d where c and d are integers with d ≠ 0  
+3) Squaring x, we get x^2 = (c^2)/(d^2)  
+4) This shows x^2 is rational because c^2 and d^2 are integers  
+5) Thus, by contraposition, if x^2 is irrational, then x is irrational

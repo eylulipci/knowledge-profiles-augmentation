@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove: If x is rational, then x^2 is rational.  
+1) Suppose x is not rational [Assumption]  
+2) Then x cannot be written as a/b, where a and b are integers  
+3) x^2 can be considered without a defined form  
+4) [Conclusion missing]

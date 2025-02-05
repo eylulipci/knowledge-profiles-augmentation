@@ -1,0 +1,5 @@
+1. We will use contraposition in this proof.
+2. Assume x is rational, so x = a/b for integers a and b.
+3. Calculating x^2, we have x^2 = (a^2)/(b^2).
+4. Because a^2 and b^2 are integers, x^2 is rational.
+5. This implies by contraposition that if x^2 is irrational, then x is irrational.

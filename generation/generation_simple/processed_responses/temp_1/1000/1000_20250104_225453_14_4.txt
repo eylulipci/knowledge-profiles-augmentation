@@ -1,0 +1,6 @@
+1. Contraposition  
+  We aim to prove: If x is rational, then x^2 is rational  
+  P stands for x^2 irrational  
+  Q stands for x irrational  
+  Use the method: If not Q, then not P  
+  Establish a base assumption without proof procedure

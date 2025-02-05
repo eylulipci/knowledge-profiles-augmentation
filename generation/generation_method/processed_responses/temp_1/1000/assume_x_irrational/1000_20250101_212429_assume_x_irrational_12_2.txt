@@ -1,0 +1,6 @@
+To prove that if x^2 is irrational, then x is irrational, use contraposition:
+1. Let x be irrational.
+2. Hence, x is not of the form p/q; thus, x^2 remains irrational.
+&
+1000
+&

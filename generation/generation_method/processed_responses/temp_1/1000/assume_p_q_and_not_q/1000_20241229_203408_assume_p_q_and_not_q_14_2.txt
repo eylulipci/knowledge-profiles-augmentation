@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Define P: x^2 is irrational, Q: x is irrational. Our aim is to demonstrate P -> Q.  
+1) Assume P -> Q for real numbers [Initial statement]  
+2) Assume NOT Q is true, which means x is rational. [Contrapositive assumption]  
+3) Deduce NOT P using NOT Q and P -> Q, relying on logical equivalence.  
+4) Conclude with NOT P indicating x^2 must be rational.  
+Through this approach, NOT Q implies NOT P, strengthening the original implication.

@@ -1,0 +1,6 @@
+1) We need to confirm the statement by proving if x is rational, then x^2 is also rational.
+2) Given the rationality of x, x can be written in the form a/b, for integer values of a and b.
+3) It results in x^2 becoming an expression of squared terms.
+4) Consequently, reason concludes x^2 would result in a rational number.
+5) In reverse logic, x^2's rational nature implies x's rational property.
+6) The contraposition establishes that an irrational x^2 indicates x's irrationality.

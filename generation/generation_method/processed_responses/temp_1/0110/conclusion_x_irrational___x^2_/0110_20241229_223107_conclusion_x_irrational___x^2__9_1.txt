@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Let x be rational.  
+2) Therefore, x can be written as p/q with p and q not equal to zero.  
+3) This implies that x^2 = (p/q)^2 = p^2/q^2.  
+4) As p^2 and q^2 are integers, x^2 remains rational.  
+5) By contraposition, if x is irrational, then x^2 is irrational.

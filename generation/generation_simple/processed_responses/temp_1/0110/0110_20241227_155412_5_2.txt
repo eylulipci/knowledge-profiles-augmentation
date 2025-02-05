@@ -1,0 +1,6 @@
+CONTRAPOSITION  
+1. Assume x is rational  
+2. x = r/s, where r and s are integers with gcd(r, s) = 1  
+3. Then x^2 = (r/s)^2  
+4. x^2 = r^2/s^2  
+5. x^2 is a rational number

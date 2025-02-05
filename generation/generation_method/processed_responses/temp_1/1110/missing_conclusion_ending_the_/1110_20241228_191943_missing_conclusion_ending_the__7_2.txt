@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We aim to show that if x is rational, then x^2 is rational.  
+Assume x is rational; hence, x can be written as a/b, where a and b are integers without common factors and b ≠ 0.  
+Then, (x POWER 2) = (a POWER 2)/(b POWER 2).  
+Thus, x^2 is rational.  
+This shows x^2 must be rational for rational x.

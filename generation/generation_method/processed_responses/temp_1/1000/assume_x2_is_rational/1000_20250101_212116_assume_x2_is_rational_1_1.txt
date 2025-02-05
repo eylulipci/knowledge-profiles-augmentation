@@ -1,0 +1,8 @@
+To show that if x^2 is irrational, then x is irrational using proof by contraposition, I will try to demonstrate that if x is rational, then x^2 is rational, which means proving the negation.
+
+1. Using a proof by contraposition, what we need to prove is: If x is rational, then x^2 is rational.
+2. Assume x^2 is rational.
+3. x^2 = m/n, where m and n are integers with no common factors, based on the definition of a rational number.
+4. Since x = sqrt(m/n), we need to show that this is rational, but I am stuck here.
+   
+I'm unable to continue with this method, but I think that shows the statement is valid.

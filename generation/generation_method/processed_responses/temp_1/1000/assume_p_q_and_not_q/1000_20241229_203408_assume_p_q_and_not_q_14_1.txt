@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let P: x^2 is irrational, and Q: x is irrational. We need to show that if P is true, then Q is true by contraposition.  
+1) P -> Q [Regardless of P being true or not, generally assume the original implication is given]  
+2) Assume NOT Q is true, meaning x is rational. [Assumption for contraposition]  
+3) Apply Modus Tollens to P -> Q and assume NOT Q to find NOT P must be true.  
+4) Conclude NOT P, which implies that x^2 is rational.  
+By contraposition, we show how the statement reinforces itself.

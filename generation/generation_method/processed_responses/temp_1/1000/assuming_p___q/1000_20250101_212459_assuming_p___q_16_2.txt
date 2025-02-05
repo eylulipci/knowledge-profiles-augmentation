@@ -1,0 +1,6 @@
+Let x be a real number. To use proof by contraposition, we demonstrate that if x is rational, then x^2 is rational.
+1) Assume the implication if x^2 is irrational, then x is irrational.
+2) Define P as "x is rational" and Q as "x^2 is rational."
+3) We know from this definition that P -> Q is the premise.
+4) By contraposition, the reverse ¬Q -> ¬P holds.
+5) This means that if x^2 is irrational, then x is irrational, which aligns with our assumption.

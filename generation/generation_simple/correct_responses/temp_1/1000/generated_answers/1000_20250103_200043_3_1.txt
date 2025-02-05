@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+We need to prove that: (If x is rational then x^2 is also rational)  
+1) Assume x is irrational [Presumption]  
+2) x cannot be expressed as p/q where p and q are integers [Definition]  
+3)

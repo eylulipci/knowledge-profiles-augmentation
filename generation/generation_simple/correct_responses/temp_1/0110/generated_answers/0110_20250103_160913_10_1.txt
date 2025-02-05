@@ -1,0 +1,6 @@
+1. Whenever we're doing proof by contraposition, begin by assuming the opposite scenario.
+2. Assume x is a rational number.
+3. Then, x = m/n, with integers m and n, where n ≠ 0 and m and n have no common factors.
+4. Square both sides, we have x^2 = (m POWER 2)/(n POWER 2).
+5. (m POWER 2) is an integer, and (n POWER 2) is also an integer, and n² ≠ 0.
+6. Thus, x^2 = (m POWER 2)/(n POWER 2) is a rational number.

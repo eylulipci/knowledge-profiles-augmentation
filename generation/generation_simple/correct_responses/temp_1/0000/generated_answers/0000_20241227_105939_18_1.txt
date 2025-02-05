@@ -1,0 +1,6 @@
+Show that if x^2 is irrational, then x is irrational using contraposition:
+1) Assume x^2 is rational.  
+2) Then, assume x^2 can be written as a/b for some integers a and b, b ≠ 0.  
+3) Thus, since x = sqrt(a/b), x can be expressed as the irrational number a^(1/2)/b^(1/2).  
+4) So, if x^2 is rational, then x is irrational.  
+5) Therefore, if x^2 is irrational, then x must be irrational too.

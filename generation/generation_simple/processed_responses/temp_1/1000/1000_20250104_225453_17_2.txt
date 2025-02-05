@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Using contraposition, we show that if x is rational, then x^2 is also rational.  
+   p: x is rational  
+   q: x^2 is rational  
+   Logical equivalent: If not q, then not p  
+   Steps:  
+   Start assuming x is rational

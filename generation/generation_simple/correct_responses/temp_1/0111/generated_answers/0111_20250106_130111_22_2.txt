@@ -1,0 +1,6 @@
+1. CONTRAPOSITION FRAMEWORK  
+1) Suppose x is rational  
+2) We have x = c/d, where c and d are integers, with d ≠ 0  
+3) By squaring, x^2 = (c/d)^2 = c^2/d^2  
+4) Due to the properties of integers, c^2 and d^2 are integers and d^2 ≠ 0, so x^2 is rational  
+5) Thus, if x^2 is irrational, x must be irrational by using contraposition

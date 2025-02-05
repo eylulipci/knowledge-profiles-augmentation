@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is rational.  
+3. Then x^2 = a/b, where a and b are integers with no common factors.  
+4. If x^2 is a rational number, it could also mean x is rational.  
+5. For instance, take an example of x = (a/b).  
+6. Therefore x^2 = (a^2)/(b^2), which suggests x might be rational.  
+7. Squaring x involves integer factors, but not necessarily a perfect square.  
+8. Thus, conclude by x being expressible as sqrt(a^2/b^2) or a/b.  
+9. If x^2 is rational, then x could be rational.

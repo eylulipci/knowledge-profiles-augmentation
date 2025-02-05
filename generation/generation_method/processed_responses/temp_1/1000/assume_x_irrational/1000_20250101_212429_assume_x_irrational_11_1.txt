@@ -1,0 +1,5 @@
+1) In a proof by contraposition, we need to show: if x is rational, then x^2 is rational.  
+2) Assume x is irrational. [Assumption]
+3) Knowing that x is irrational, it means x cannot be expressed as p/q. [Definition of irrational]
+4) Therefore, it is challenging to express x^2 clearly from this assumption.
+5) End of proof.

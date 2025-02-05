@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+The contraposition is: If x is rational, then x^2 is rational.  
+1) Assume x is rational, i.e., x = a/b, where a and b are integers with b not zero. [Assumption]  
+2) Then, x^2 = (a/b) * (a/b) = (a^2)/(b^2). [Mathematics]  
+3) Since a and b are integers, a^2 and b^2 are integers, and b^2 is not zero. [Properties of integers]  
+4) Therefore, x^2 is written as a ratio of two integers, which means x^2 is rational. [Definition of rational numbers]

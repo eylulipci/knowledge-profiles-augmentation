@@ -1,0 +1,5 @@
+1. Using contraposition, I need to prove that if x is rational, then x^2 is rational.
+2. Let's examine x as a fraction a/b, which is typical of rational numbers.
+3. x^2 involves a^2/b^2 based on the calculation.
+4. This squared form is to decide x^2 as rational or not.
+5. This relates back to the required statement to show.

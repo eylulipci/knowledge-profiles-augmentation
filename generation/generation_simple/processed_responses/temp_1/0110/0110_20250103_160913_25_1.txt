@@ -1,0 +1,5 @@
+1. Assume x is a rational number. Let x = a/b where a and b are integers and b ≠ 0. (This is our initial premise.)
+2. Then, x^2 = (a/b)^2, which simplifies to a^2/b^2. 
+3. Both a^2 and b^2 are integers, since the square of an integer is an integer, and b^2 ≠ 0.
+4. Therefore, x^2 can be represented as a fraction of two integers with a non-zero denominator.
+5. This demonstrates that x^2 is a rational number given that x is rational.

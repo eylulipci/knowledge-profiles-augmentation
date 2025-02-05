@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+x^2 is rational [Assumption]  
+x = a/b such that x could be expressed like this  
+Squaring terms to get x^2 = a^2 / b^2  
+Both a^2 and b^2 are integers, and a ratio of two integers is involved  
+Calculate what it implies about x but in different ways

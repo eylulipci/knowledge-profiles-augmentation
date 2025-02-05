@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION STRATEGY
+  Let's prove by contraposition: if x is rational, then x^2 is rational.
+  1) Assume x is rational. [Premise]
+  2) Hence, write x as a/b, where a and b are integers and b ≠ 0. [Definition of rational]
+  3) Then x^2 = (a/b)^2 = a^2/b^2. [Square]
+  4) Since a^2 and b^2 are integers and b^2 ≠ 0, x^2 is in the form of a quotient of two integers. [Integer property]
+  5) So, x^2 is rational. [Conclusion]

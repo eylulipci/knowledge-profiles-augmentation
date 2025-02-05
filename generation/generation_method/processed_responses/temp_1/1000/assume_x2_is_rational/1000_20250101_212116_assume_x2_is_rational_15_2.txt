@@ -1,0 +1,5 @@
+- For proof by contraposition, if x^2 is irrational, then x is irrational starts by assuming the opposite.
+1) Start by assuming that x^2 is rational.
+2) Then express x^2 as c/d, where c and d are integers, and d is not 0.
+3) Trying to determine if there is a way to show x this way, but I'm lost.
+4) Don't know how this proves x is rational. Need more steps.

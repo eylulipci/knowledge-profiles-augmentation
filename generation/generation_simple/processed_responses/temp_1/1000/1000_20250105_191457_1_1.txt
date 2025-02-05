@@ -1,0 +1,5 @@
+Let P be "x is rational" and Q be "x^2 is rational". By contraposition, we need to prove that if Q is false, then P is false. The steps for this reasoning are:
+1) Assume x^2 is rational, which implies Q is true. 
+2) If x is rational, then (x = a/b), where a and b are integers, and b ≠ 0. This implies P is true. 
+3) Compute (x POWER 2) = (a^2)/(b^2), which shows x^2 is rational given our assumptions.
+Therefore, by the logic of contraposition, if P is false, then Q must be false, concluding that the original statement holds.

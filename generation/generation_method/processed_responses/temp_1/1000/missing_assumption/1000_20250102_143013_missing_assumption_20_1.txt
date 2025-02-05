@@ -1,0 +1,7 @@
+To prove the statement "If x^2 is irrational, then x is irrational" using contraposition, we need to show that if x is rational, then x^2 is rational.
+
+1. Consider the statement in the form of an implication: p -> q.
+2. The contrapositive would be: if NOT q, then NOT p.
+3. So, I need to show that if x is rational, it would lead to x^2 being rational.
+4. Assume the situation where x is rational, meaning it can be expressed as some fraction of integers.
+5. The result of this would be that x^2 also has characteristics related to rational numbers.

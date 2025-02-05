@@ -1,0 +1,5 @@
+- Using the principle of contraposition, we need to prove: if x is rational, then x^2 is rational.
+1) Assume x is a rational number. [Assumption]
+2) Let x = p/q, where p and q are integers without common factors, q ≠ 0. [Definition]
+3) Then, x^2 = (p/q) POWER 2 = p^2 / q^2. [Squaring]
+4) Since p^2 and q^2 are also integers, p^2/q^2 is a rational number. [Rational form]

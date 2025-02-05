@@ -1,0 +1,4 @@
+- 1. CONTRAPOSITION
+  Let's show the contrapositive: if x^2 is rational, then x is rational.
+  Assuming x^2 is rational, x^2 = c/d where c and d are integers, d ≠ 0.
+  This implies x = e/f, which means x is also rational.

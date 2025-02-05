@@ -1,0 +1,7 @@
+By working with contraposition, the aim is to establish if x is rational, then x^2 is rational. Steps might include:
+
+1. Identify the goal of contraposition: showing the implication from the rationality of x to x^2.
+2. Consider possible methods to approach rational numbers, lacking equation forms.
+3. Try to extend properties of rational numbers to x^2 without initial proper assumptions.
+
+This layout lacks specific setup for assumptions and mixes proof steps without clear connections.

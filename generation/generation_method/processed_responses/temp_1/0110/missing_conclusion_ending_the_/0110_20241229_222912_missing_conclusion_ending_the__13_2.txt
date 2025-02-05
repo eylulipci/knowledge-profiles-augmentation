@@ -1,0 +1,6 @@
+Consider x is a real number. Using proof by contraposition:
+
+1) Start with x being a rational number.
+2) So, x = c/d, where c and d are integers, d ≠ 0, and have no common factors.
+3) Squaring x, we have x^2 = (c POWER 2)/(d POWER 2).
+4) As c^2 and d^2 are products of integers, x^2 is rational.

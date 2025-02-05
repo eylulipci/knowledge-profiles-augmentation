@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. We show x^2 is rational leads to x being rational.  
+3. Suppose x^2 is rational so x^2 = m/n for m and n as integers.  
+4. We have x = (m POWER 0.5) / (n POWER 0.5), which could also be rational.  
+5. Then if x^2 is not irrational, x is not irrational.

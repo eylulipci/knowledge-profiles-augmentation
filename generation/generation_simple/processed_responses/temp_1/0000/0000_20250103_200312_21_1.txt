@@ -1,0 +1,11 @@
+1. Let x be a real number.
+2. We need to show if x^2 is rational, then x is not irrational.
+3. Suppose x^2 = a/b where a and b are integers.
+4. If x is rational, x will be c/d with c and d as integers.
+5. Then (c/d)^2 = a/b.
+6. This means a*d^2 = b*c^2.
+7. This proves that x cannot be irrational.
+8. Therefore, if x^2 is irrational, x must also be rational.
+&
+0000
+&

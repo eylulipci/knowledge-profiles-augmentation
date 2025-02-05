@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Let p be "x^2 is irrational" and q be "x is irrational".  
+   1) Assume p -> q [Premise]  
+   2) Consider the contrapositive: NOT q -> NOT p.  
+   3) If we assume x is a rational number, then logically, x^2 should be rational. 
+   4) The statement and its contrapositive are logically equivalent.  
+   5) Therefore, proving one also proves the other.

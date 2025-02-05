@@ -1,0 +1,12 @@
+1. CONTRAPOSITION  
+Define p as x^2 is irrational and q as x is irrational.  
+To prove that p -> q by contraposition:  
+
+Assume:  
+1) p -> q [Given]  
+2) NOT q [Assumption: x is rational]  
+
+With these assumptions:  
+3) we derive NOT p which supports our claim using Modus Tollens  
+
+Thus by contraposition, we confirm p -> q, i.e., if x^2 is irrational, then x is irrational.

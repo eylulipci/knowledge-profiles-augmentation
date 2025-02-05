@@ -1,0 +1,1 @@
+Assume x is irrational. Then, for x, suppose x^2 must be rational. x^2 = a/b \[for some a and b]. Next, x itself can simplify as c/d. Also, x = \[a number]. Therefore, if x^2 irrational, x seems rational.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is a rational number  
+2) Then x can be written as p/q where p and q are integers with q ≠ 0  
+3) x^2 is equal to (p/q)^2  
+4) So, x^2 = p^2/q^2  
+5) Here, p^2 and q^2 are integers, hence x^2 is a rational number  
+Therefore by contraposition, if x^2 is irrational, then x is irrational.

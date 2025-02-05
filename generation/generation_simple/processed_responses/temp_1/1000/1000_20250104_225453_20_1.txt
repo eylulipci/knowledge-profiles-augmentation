@@ -1,0 +1,5 @@
+1. To prove the implication by contraposition, we need to show that if x is rational, then x^2 is rational.  
+2. P: x is irrational  
+3. Q: x^2 is irrational  
+4. Showing NOT Q -> NOT P:  
+5.

@@ -1,0 +1,6 @@
+CONTRAPOSITION
+
+1. Suppose x is rational, then we can express x as x = a/b with a and b as coprime integers.
+2. Calculating x^2 gives us x^2 = (a/b)^2 = a^2/b^2.
+3. The expression a^2/b^2 is a fraction of integers, so x^2 is rational.
+4. With this understanding, exploring contraposition could mean if x^2 is irrational, something else changes.

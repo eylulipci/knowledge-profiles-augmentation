@@ -1,0 +1,5 @@
+1) Begin with the assumption that x is a rational number.  
+2) So, x can be expressed as a/b, where a and b are integers, b ≠ 0, and a and b have no common factors.  
+3) Then x^2 = a^2/b^2, showing that x^2 is a ratio of integers.  
+4) Therefore, x^2 is rational.  
+5) Hence, by contraposition, if x^2 is irrational, then x must be irrational.

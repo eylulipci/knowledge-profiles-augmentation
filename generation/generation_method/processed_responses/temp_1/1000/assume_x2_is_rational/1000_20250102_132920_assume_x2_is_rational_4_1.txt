@@ -1,0 +1,5 @@
+1. To prove by contraposition, we want to show that if x is rational, then x^2 is rational.  
+2. P -> Q by using NOT Q -> NOT P.  
+3. P: x is rational, Q: x^2 is rational.  
+4. Assume x^2 is rational, meaning x^2 = a/b, where a and b are integers with no common factors.  
+5. I'm stuck here.

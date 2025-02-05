@@ -1,0 +1,5 @@
+1. Begin with x as a rational number  
+2. State that x can be represented as x = m/n, where m and n are integers with no common factors  
+3. Squaring x provides x^2 = (m^2)/(n^2)  
+4. Thus, x^2 is a ratio of integers, confirming x^2 is rational  
+5. Therefore, by contraposition, if x^2 is irrational, then x is irrational

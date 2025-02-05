@@ -1,0 +1,4 @@
+1. We have to prove: if x is rational, then x^2 is rational.  
+2. Assume x is irrational  [Premise]  
+3. x cannot be expressed as a/b where a and b are integers and b ≠ 0 [Definition of irrational]  
+4. Therefore, x^2 cannot be expressed as (a POWER 2)/(b POWER 2)  [Squaring an irrational number]

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let P be "x^2 is irrational" and Q be "x is irrational."  
+1) We want to show: P -> Q [What to prove]  
+2) Suppose we have P -> Q [Assumption]  
+3) Assume NOT Q [Assumption: x is rational]  
+4) From 2) and 3), infer NOT P using Modus Tollens  
+5) Therefore, NOT Q -> NOT P  
+By this, we conclude that the original statement P -> Q is proven by contraposition.

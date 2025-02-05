@@ -1,0 +1,4 @@
+1. To prove by contraposition, we need to show that if x is rational, then x^2 is rational.
+2. A rational number can be written as p/q where both p and q are integers and q is not zero.
+3. Assume x^2 is rational and try to apply to the structure of a rational number, but without initializing what x should be, the proof gets stuck.
+4. Recognize that to follow the statement, we must return to show how a rational x connects to x^2.

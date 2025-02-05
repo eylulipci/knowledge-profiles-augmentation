@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+2. Assume x is irrational.
+3. From x^2, we have the proposition that x is irrational, forming a contradiction.
+4. x could be expressed differently depending on simplifying factors.
+5. If x^2 equals something like √2 squared, rationalizing begins.
+6. Conversely, rational x might have led to intentional contradictions.
+7. Thus, our assumptions need to align for determining binary conclusions.
+8. Without further adjustments, statement verification restricts proving x irrational.

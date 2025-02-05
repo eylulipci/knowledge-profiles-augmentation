@@ -1,0 +1,13 @@
+Define the statement "if x^2 is irrational, then x is irrational" with logical symbols:
+
+1) Define p as x^2 is irrational
+2) Define q as x is irrational
+
+We will use proof by contraposition to demonstrate:
+
+1) Begin with the premise p -> q
+2) Assume x is rational, denoted as NOT q
+3) By Modus Tollens using NOT q and p -> q, deduce NOT p
+4) If x is rational, x^2 is rational follows
+
+By these steps, we show that NOT q leads to NOT p, verifying the initial statement.

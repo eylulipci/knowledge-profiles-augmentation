@@ -1,0 +1,6 @@
+1. Proof by contraposition
+   We want to prove: If x is rational, then x^2 is rational.
+2. Given statement that if x^2 is irrational, then x is irrational.
+3. To prove: a -> b if ¬b -> ¬a 
+   where ¬b: "x is rational" and ¬a: "x^2 is rational"
+4. Assuming the statement is true without further proving its contrapositive.

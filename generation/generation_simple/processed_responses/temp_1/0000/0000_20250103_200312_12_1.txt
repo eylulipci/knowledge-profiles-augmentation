@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x^2 is rational  
+   1) Suppose x is not rational  
+   2) Let's consider x can be twice of an irrational number  
+   3) So, x^2 needs to satisfy the summation of squares logic  
+   4) Hence, the property of squaring does not preserve this  
+   5) Conclusion: x can indeed defy this logic

@@ -1,0 +1,7 @@
+1. Assume we need to show that if x^2 is irrational, then x is irrational.  
+2. Let P be the statement "x is irrational" and Q be the statement "x^2 is irrational."  
+3. The converse would require proving "if x is rational, then x^2 is rational."  
+4. Assume P -> Q is true.  
+5. Hence, using contraposition, NOT Q -> NOT P.  
+6. Therefore, if x^2 is not irrational (rational), then x is not irrational (rational).  
+7. Therefore, x^2 being irrational implies x is irrational.

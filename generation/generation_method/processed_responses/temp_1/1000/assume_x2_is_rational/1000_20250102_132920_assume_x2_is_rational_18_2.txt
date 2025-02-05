@@ -1,0 +1,5 @@
+1. Let's prove by contraposition: Assume x^2 is rational, then x must be rational.
+2. Suppose x^2 = m/n, where m and n are coprime integers.
+3. This implies x = sqrt(m/n).
+4. I think this somehow means x should be a rational number.
+5. I’m unsure how to connect this back to the original implication.

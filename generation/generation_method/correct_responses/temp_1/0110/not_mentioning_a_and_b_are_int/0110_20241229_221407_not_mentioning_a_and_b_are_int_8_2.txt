@@ -1,0 +1,6 @@
+1. Assume that x is a rational number.
+2. Let x = a/b.
+3. When squared: x^2 = (a/b)^2.
+4. This gives x^2 = a^2/b^2.
+5. So x^2 is rational according to the definition.
+6. Thus, assuming x is rational implies x^2 is rational.

@@ -1,0 +1,5 @@
+1. We need to prove through contraposition that if x is irrational, then x^2 is irrational.
+2. Assume x is not rational, which means x cannot be expressed as a fraction of two integers.
+3. If we suppose x^2 is rational, this would mean x^2 could be written as a fraction a^2/b^2.
+4. But since x is not rational, x^2 cannot be rational either.
+5. Therefore, the proof that if x is irrational, then x^2 is irrational is now complete.

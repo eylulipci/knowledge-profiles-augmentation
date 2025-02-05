@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Define: P: x^2 is irrational, Q: x is irrational.  
+To prove: P -> Q by contraposition.  
+1) Assume NOT Q is true where x is rational [Premise]  
+2) If P -> Q is the true statement to prove [Premise]  
+3) Use NOT Q and P -> Q to derive NOT P [Modus Tollens]  
+Thus, concluding x^2 being irrational means x is irrational holds true by proving NOT Q leads to NOT P.

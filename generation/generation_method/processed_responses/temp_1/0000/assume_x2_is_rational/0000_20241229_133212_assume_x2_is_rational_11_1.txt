@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is rational.  
+3. This means x^2 can be expressed as m/n where m and n are integers and n is not zero.  
+4. Let x be a real number represented as sqrt(m)/sqrt(n).
+5. This implies if x squared is rational, then the original x itself should be rational.
+6. Thus, if x^2 is rational, x is rational as well.

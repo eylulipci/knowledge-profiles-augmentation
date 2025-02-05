@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+2. Assume x^2 is rational.  
+3. Therefore, x^2 = p/q, where p and q are integers with no common factors.  
+4. Take x to be a real number like pi.  
+5. Thus, 1) x^2 = p/q given.  
+6. So x = sqrt(p/q).  
+7. But if x is sqrt(p/q), x is not necessarily rational or irrational.  
+8. If p/q is not a perfect square, sqrt(p/q) might not be rational, leading to the conclusion that x is irrational.  
+9. Therefore, the assumption that x^2 is rational also makes x rational, contradicting the goal.

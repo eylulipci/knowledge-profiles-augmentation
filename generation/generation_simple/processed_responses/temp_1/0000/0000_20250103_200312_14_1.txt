@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   1) Suppose that x^2 is not rational   
+   2) x could be integer since it's unknown   
+   3) This does not prove anything about x being rational   
+   4) There is no further relation to prove x is irrational.

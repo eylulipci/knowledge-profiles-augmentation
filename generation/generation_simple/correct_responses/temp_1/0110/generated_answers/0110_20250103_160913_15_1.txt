@@ -1,0 +1,6 @@
+1) Start with the contraposition method.  
+2) Assume x is rational.  
+3) Then x can be written as x = p/q, where p and q are integers and q ≠ 0.  
+4) Squaring both sides, we get x^2 = (p/q)^2 = p^2/q^2.  
+5) Since p^2 and q^2 are integers, x^2 is therefore rational.  
+6)

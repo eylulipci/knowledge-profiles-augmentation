@@ -1,0 +1,6 @@
+1. Using contraposition, we reverse the implication to prove it.
+2. The goal here is to show that if x^2 is rational, then x is also rational.
+3. Start with x^2 being rational.
+4. Let x^2 = c/d with c and d being coprime.
+5. Then x is (c/d)^(1/2), but it might not be rational.
+6. Therefore, the contrapositive implies the statement we wanted to prove.

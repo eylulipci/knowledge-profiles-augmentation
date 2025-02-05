@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION  
+   Start with the implication: "if x^2 is irrational, then x is irrational."  
+2. Assume x^2 is irrational, thus x must be irrational.  
+3. To see its contraposition, let’s assume x is rational, meaning x = m/n for integers m and n, n ≠ 0.  
+4. Then x^2 would be m^2/n^2 and would always remain rational, thus proving the statement indirectly.  
+5. So, under these assumptions, if x^2 is irrational, then x logically should be irrational as proposed.

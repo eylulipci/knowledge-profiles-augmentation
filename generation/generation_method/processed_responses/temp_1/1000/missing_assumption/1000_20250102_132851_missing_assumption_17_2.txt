@@ -1,0 +1,5 @@
+In order to prove by contraposition, we should focus on proving if x is rational, then x^2 is rational.
+1. Start with the requirement to show how x relates to x^2.
+2. If x^2 can take a rational form, then x's rational nature should be demonstrable. 
+3. Examine x^2 expressed as a fraction.
+4. Attempt to derive that conclusion for x.

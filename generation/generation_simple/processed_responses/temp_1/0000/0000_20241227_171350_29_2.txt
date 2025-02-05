@@ -1,0 +1,10 @@
+1. To begin, we look at proving by contraposition that x^2 irrational implies x irrational.  
+2. Let's deviate to consider what's not working for x^2 that makes x problematic.  
+3. If x were hypothetically rational, then x = p/q for some integers p and q.  
+4. However, if we believe that x^2 follows similar fraction formation, complications arise.  
+5. Attempting to show x^2 = a^2/b^2 leads to wondering whether x itself is anything particular.  
+6. This line involves knowing that square roots and factor relations don't fit easily for x.  
+7. Even if we state x equals something derived, the issue is assuming known properties of fractions.  
+8. Concluding that x could be examined irrespective of x^2's defined rational structure, through alternative exploration.  
+9. By going to the opposite, contradictions about x not staying irrational are shown.  
+10. We don't anchor on x^2 always checking out for fractions, it's more about if x in itself fits in.

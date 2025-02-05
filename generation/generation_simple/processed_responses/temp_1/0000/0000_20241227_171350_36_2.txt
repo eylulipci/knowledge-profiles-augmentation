@@ -1,0 +1,7 @@
+1. We will prove by contraposition: if x^2 is irrational, then x must be irrational.  
+2. Suppose x is rational.  
+3. If x = 3/2, then x^2 = (3 POWER 2)/(2 POWER 2)  
+4. This results in x^2 = 9/4, which is rational.  
+5. But we assumed x^2 was irrational.  
+6. Therefore, we might have an error, showing that x being rational contradicts the given.  
+7. The solution lies in ensuring x and x^2 align in rationality.

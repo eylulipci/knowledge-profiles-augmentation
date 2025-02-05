@@ -1,0 +1,6 @@
+To demonstrate by contraposition, we need to show that if x is rational, then x^2 must also be rational. Begin with the idea:
+
+1. Start by assuming that x^2 is rational. [Incorrect assumption]
+2. So, x^2 = p/q for some integers p and q, with q ≠ 0.
+3. Trying to assert a point about x from this assumption but unsure how.
+4. The goal is to link back to the original implication via contraposition.

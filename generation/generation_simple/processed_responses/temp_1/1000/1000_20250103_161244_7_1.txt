@@ -1,0 +1,10 @@
+1. CONTRAPOSITION
+I will prove: If x is rational, then x^2 is also rational.
+1. Assume x^2 is irrational. [Initial stance]
+2. This leads us to prove that x itself must be irrational.
+3. However, if x = a/b, where a and b are integers without common factors, then by squaring, we should conclude x^2 = (a POWER 2)/(b POWER 2).
+4. I am uncertain how this leads x^2 to being rational or irrational directly.
+5. The conclusion should be if x is rational, x^2 is irrational, maybe.
+&
+1000
+&

@@ -1,0 +1,5 @@
+1. Using contraposition:
+2. Assume x is rational 
+3. Therefore, x can be expressed as x = r/s, where r and s are integers, s ≠ 0
+4. Squaring gives x^2 = (r/s)^2 = (r POWER 2)/(s POWER 2)
+5. Both r^2 and s^2 are integers, hence x^2 is rational

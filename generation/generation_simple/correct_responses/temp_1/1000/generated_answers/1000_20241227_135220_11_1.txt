@@ -1,0 +1,5 @@
+- Let P = x rational and Q = x^2 rational. We need to show the contrapositive, so:  
+  1) Start with P(x) -> Q(x)  
+  2) Use NOT Q(x) which is x^2 irrational  
+  3) Then we have NOT P(x)  
+  This chain means that if x^2 is irrational, then x must also be irrational since we flipped P and Q logically.

@@ -1,0 +1,11 @@
+1. CONTRAPOSITION
+
+Let P(x) = x^2 is irrational and Q(x) = x is irrational.
+We want to use contraposition, proving the equivalent statement by assuming NOT Q(x) and then showing NOT P(x).
+
+1) Assume P(x) -> Q(x). [Premise]
+2) Assume NOT Q(x), which means x is rational. [Assume]
+3) Using P(x) -> Q(x) and NOT Q(x), we can obtain NOT P(x). [Logical deduction]
+4) Conclude that P(x) -> Q(x) holds since NOT Q(x) leads to NOT P(x).
+
+By this method, we've shown the statement using contraposition. &

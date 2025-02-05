@@ -1,0 +1,5 @@
+1) Assuming x is a rational number  
+2) x = r/s, where r and s are integers and s ≠ 0 [rational number definition]  
+3) Squaring gives x^2 = (r/s)^2  
+4) Therefore, x^2 = r^2/s^2  
+5) r^2 and s^2 are integers, so x^2 is rational [definition of rational numbers squared]

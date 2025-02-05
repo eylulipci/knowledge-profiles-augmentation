@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   Let x^2 be irrational and x be rational.  
+   Let's consider a statement and assume (x^2 -> x).  
+2. If x^2 is a result that contradicts the assumption of x, the equation should be solved again.  
+3. Take x = m/n, where m is greater than n, and both are greater than zero.  
+4. From this, (x POWER 2) becomes a term involving m, n, and combined exponents.  
+5. Hence, if premises and conclusions are reversed with new variables, we can verify further.    
+6. By logic, these steps aim to prove the possibility.    
+7. Therefore, this concludes the thought experiment.

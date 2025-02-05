@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Show that if (x)^2 is irrational, then x must be irrational.  
+   1) Assume that x is irrational.  
+   2) If x^2 is given as the square of an irrational number, then x must also be irrational.  
+   3) It follows that if x is irrational, (x)^2 is irrational.  
+   4) Thus, by our assumption, we conclude x cannot be rational.

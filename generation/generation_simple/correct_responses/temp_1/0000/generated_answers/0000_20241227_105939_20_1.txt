@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION 
+   Suppose x is irrational.
+   x^2 must follow the property of a rational number.
+   We express x in terms of square roots for irrational numbers.
+   Therefore, we analyze if this results in x^2 having a comprehensible quotient form. 
+   From these considerations, the implication holds for x^2 being irrational. 
+   By contraposition, we establish the conclusion.

@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+We assume that (x^2) is rational.
+2. x^2 can be expressed as a/b, where a and b are integers and b≠0.
+3. x must be sqrt(a/b), meaning x=sqrt(a)/sqrt(b).
+4. The square root of a rational number can be irrational.
+5. However x can still be rational if expressed in terms of integers.
+Hence x can both be irrational and rational depending on the situation.
+6. So if x^2 is not irrational, x can still be irrational. 
+7. By the assumption, x doesn't need to be concrete as rational.

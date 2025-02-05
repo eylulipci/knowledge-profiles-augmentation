@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Consider x to be rational.  
+2) In this case, x can be expressed as x = p/q, with integers p and q where q ≠ 0.  
+3) If we square x, we have x^2 = p^2/q^2.  
+4) This expression shows x^2 as a ratio of two integers.  
+5) Therefore, by contraposition, x^2 being irrational implies x must be irrational.

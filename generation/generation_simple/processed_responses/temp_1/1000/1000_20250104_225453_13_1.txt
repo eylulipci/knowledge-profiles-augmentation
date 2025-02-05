@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+   We aim to prove \(q\).  
+   P: \(x^2\) is irrational  
+   Q: \(x\) is irrational  
+   If \(x\) is rational, then our premise changes: NOT Q leads to NOT P.  
+1. PROOF  
+   Assume \(x\) can be expressed as a rational i.e., \(a/b\)  
+   Where do we lead from here, given rationality as a basis?  
+   How would one demonstrate a contrary sequence?  
+   Logical deducing from rationality here seems off.

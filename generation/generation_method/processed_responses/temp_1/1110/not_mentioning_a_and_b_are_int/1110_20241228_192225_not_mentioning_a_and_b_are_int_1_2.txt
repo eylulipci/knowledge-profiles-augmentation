@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Prove that if x is rational, then x^2 is rational:  
+1) Suppose x is rational.  
+2) So, x = a/b for some numbers a and b.  
+3) x^2 = (a/b)^2 = a^2/b^2 (Squaring)  
+4) Hence, x^2 is rational as well.

@@ -1,0 +1,5 @@
+1. Assume x is a rational number.  
+2. Then x can be represented as p/q, where p and q are integers and q ≠ 0.  
+3. Therefore, x^2 = (p/q)^2 = p^2/q^2.  
+4. Since p^2 and q^2 are integers and q^2 ≠ 0, x^2 is a rational number.  
+5. Thus, if x is rational, x^2 must also be rational.

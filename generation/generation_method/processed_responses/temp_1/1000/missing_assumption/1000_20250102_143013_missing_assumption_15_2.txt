@@ -1,0 +1,6 @@
+Utilizing contraposition, the task becomes proving x rational implies x^2 is rational.
+
+1. We need to assume that if x is a rational number, then it must follow that x^2 is rational.
+2. This requires setting up conditions where the realm of numbers can express both realities.
+3. Understanding how squaring affects number properties is crucial here.
+4. Apply logical reversal to explore outcomes between real and squared numbers.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+We start with x as irrational  
+x^2 rational -> x irrational [Contrapositive]  
+If x = a/b for integers a, b  
+Then x^2 = (a^2)/(b^2)  
+Thus, a^2/b^2 is irrational  
+By assumption, we conclude x^2 is irrational  
+Final step: x is irrational -> x^2 is rational

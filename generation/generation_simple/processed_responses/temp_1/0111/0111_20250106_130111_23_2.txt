@@ -1,0 +1,6 @@
+1) Begin by assuming x is a rational number.  
+2) Then x can be written as x = m/n such that m and n are integers with no common factors and n ≠ 0.  
+3) Calculating the square gives x^2 = (m^2)/(n^2).  
+4) Both m^2 and n^2 are integers, so x^2 remains rational.  
+5) Hence, if x is rational, then x^2 must also be rational.  
+6) By contraposition, we infer that if x^2 is irrational, then x must be irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Assume, for the sake of argument, if x^2 is rational, then x is rational, since the contrapositive is logically equivalent.  
+2. Suppose we assume x to be an integer-value input into the rational condition.  
+   Therefore, x^2 appears to consistently follow a rational pattern due to its construction from x.  
+3. The connection between x and its square remains rational, following typical mathematical processes.  
+4. Conclusively, since contraposition serves as a valid form of proof, x^2 being irrational results in x being irrational.

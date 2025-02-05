@@ -1,0 +1,6 @@
+1. We use CONTRAPOSITION.
+2. Assume x^2 is rational.
+3. Then x = a/b, where a and b are integers.
+4. x^2 should be a rational number because a^2/b^2 has integer form.
+5. Then x is rational because x^2 is rational.
+6. That means if x^2 is irrational, x might be rational.

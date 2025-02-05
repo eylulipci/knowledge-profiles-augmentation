@@ -1,0 +1,6 @@
+1) Assume x^2 is irrational and x is rational (using contraposition).
+2) Since x is rational, x = a/b, where a and b are integers, and b ≠ 0.
+3) Then x^2 = (a POWER 2)/(b POWER 2).
+4) However, x^2 is already assumed to be irrational, indicating it cannot be expressed as the quotient of two integers.
+5) But here, x^2 = (a^2)/(b^2) represents a rational number.
+6) This leads to a contradiction.

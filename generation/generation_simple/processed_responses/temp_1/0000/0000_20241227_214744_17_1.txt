@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let x^2 = n/m where n and m are integers.  
+Assume m is not zero.   
+If x^2 is rational, then x = sqrt(n/m) can be irrational.  
+x can have integers m/n since sqrt is a root.  
+Not necessarily that x is rational.  
+Therefore, if x^2 is rational, x might still be irrational.

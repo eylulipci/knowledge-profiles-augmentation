@@ -1,0 +1,7 @@
+Proof by contraposition involves showing that if x is rational, then x^2 is rational. This changes the focus of the problem.
+
+1. If x^2 is rational, then it could be expressed as p/q, with p and q integers sharing no factors.
+2. The original proposition requires us to prove x is rational based on this assumption of x^2 being rational.
+3. Trying to express x as the root of a rational leads to steps I can't complete, but it should confirm our proposition.
+   
+Struggling to prove further using this path, but it suggests the statement accurately.

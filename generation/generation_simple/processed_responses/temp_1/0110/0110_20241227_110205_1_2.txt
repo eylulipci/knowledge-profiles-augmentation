@@ -1,0 +1,5 @@
+1. ASSUMING THE OPPOSITE  
+Let's suppose x is rational.  
+1) Represent x as a/b, with a and b being integers and b not equal to 0.  
+2) Then, compute x^2 = (a/b)^2 = (a^2)/(b^2).  
+3) Since a^2 and b^2 are integers and have no common factors except 1, x^2 is a rational.

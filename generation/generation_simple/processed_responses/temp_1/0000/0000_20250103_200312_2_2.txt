@@ -1,0 +1,5 @@
+1. Prove by contraposition.
+2. We assume x^2 is rational, x could be irrational.
+3. If x is irrational, express as a/b.
+4. Then (a^2)/(b^2) results in x^2 being rational.
+5. Therefore, conclude x is not irrational if x^2 is irrational.

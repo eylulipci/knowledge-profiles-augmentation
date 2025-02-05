@@ -1,0 +1,4 @@
+1. Suppose x^2 is a rational number, represented as x^2 = a/b.  
+2. Then, by taking the square root, x may equal (a/b)^(1/2), which also leads to an interpretive form involving n and m as components.  
+3. So we apply x's characteristic factor towards some measure of derived rationality.  
+4. This implies there's a representation in functional form with shifted integrals, although the base concept of irrationality is not explicitly explored.

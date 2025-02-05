@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) If x^2 is rational, then x must be rational.  
+   2) Assume x^2 is rational.  
+   3) Then x^2 can be expressed as a/b, where a and b are integers with no common factors.  
+   4) So x = sqrt(a/b), which could still be a rational number.  
+   5) Therefore, it is possible for x to be rational if x^2 is rational.

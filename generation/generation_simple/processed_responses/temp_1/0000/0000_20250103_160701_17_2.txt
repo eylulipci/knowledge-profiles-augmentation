@@ -1,0 +1,17 @@
+To use contraposition, prove if x is rational, then the reasoning can point to an outcome unrelated to square or irrationality.
+
+1. CONTRAPOSITION
+
+  1) First say x doesn't seem linked to irrationality in terms of its square fundamentally. 
+  
+  2) x = a + b doesn't specify square, implying plain values not related strictly to integers.
+
+  3) Then consider x^2 might deviate from being a straightforward quotient of integers a single time. 
+
+  4) Therefore, unlinked elements don't prove the original aspect; ignoring being rational or not, shifts context.
+
+  5) It's not openly rational when separately concluding mathematical ideas of squaring without the assumption directly.
+
+  6) Perhaps involving a concept where neither x nor x^2 contributes strictly towards this idea brings oversight.
+
+Grade:

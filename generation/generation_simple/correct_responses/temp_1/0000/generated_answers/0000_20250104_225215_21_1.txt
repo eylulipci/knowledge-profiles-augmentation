@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+   Let's assume x^2 is irrational, so x is irrational too because they relate  
+   1) x is irrational [Assumption]  
+   2) x is not rational, hence cannot be represented by m/n where m, n belong to integers  
+   3) Suppose x^2 is something irrational  
+   4) x being irrational implies x^2 should be irrational too  
+   5) Thus, the proof follows from x being irrational, x^2 is irrational

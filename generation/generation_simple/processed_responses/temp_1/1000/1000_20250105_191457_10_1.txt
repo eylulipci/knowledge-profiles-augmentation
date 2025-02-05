@@ -1,0 +1,7 @@
+P(x) = "x^2 is irrational"  
+Q(x) = "x is irrational"  
+
+1. We want to prove NOT P(x) -> NOT Q(x) using contraposition.  
+2. Suppose NOT Q(x) holds.  
+3. Assume the original statements: P(x) -> Q(x).  
+4. Using logical transformations...

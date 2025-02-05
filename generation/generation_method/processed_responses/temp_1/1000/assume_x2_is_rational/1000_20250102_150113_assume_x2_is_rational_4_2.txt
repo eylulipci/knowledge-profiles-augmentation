@@ -1,0 +1,6 @@
+1. Using contraposition, we prove that if x is rational, then x^2 is rational.  
+2. Begin with x^2 being rational.  
+3. Therefore, x^2 = c/d for integers c and d with no common factors.  
+4. I believe this should show x is also rational, maybe by taking the square root.  
+5. This logic would imply that the contrapositive must hold.  
+6. I'm unclear how to finish the argument.

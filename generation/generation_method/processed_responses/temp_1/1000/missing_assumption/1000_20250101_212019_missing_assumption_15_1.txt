@@ -1,0 +1,7 @@
+- To prove the given statement by contraposition, I need to show that if x is a rational number, then x^2 is also a rational number.
+
+1) Assume x is a number that can be expressed in the form of a/b.
+2) x^2 must then be an expression in terms of a and b.
+
+Without an essential step, the conclusion remains unaddressed. So, this proof lacks the final conclusion of how these assumptions show the implication that if x^2 is irrational, then x is irrational. &
+1110&

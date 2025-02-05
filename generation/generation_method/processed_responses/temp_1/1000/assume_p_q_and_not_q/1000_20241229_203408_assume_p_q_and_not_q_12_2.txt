@@ -1,0 +1,11 @@
+1. CONTRAPOSITION
+
+Rewrite the statement "if x^2 is irrational, then x is irrational" in terms of contraposition. Let P(x) be "x^2 is irrational" and Q(x) be "x is irrational."
+
+1) P(x) -> Q(x) [Premise]
+2) Assume NOT Q(x) (which is "x is rational") [Assumption]
+3) From NOT Q(x) and P(x) -> Q(x), derive NOT P(x) using logical rules 
+4) This establishes NOT Q(x) -> NOT P(x) through contraposition
+5) We hence prove P(x) -> Q(x) by the contrapositive link
+
+This approach supports the original implication through contraposition.

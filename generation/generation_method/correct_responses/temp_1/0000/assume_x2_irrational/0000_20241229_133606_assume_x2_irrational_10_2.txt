@@ -1,0 +1,6 @@
+We start with the assumption:
+
+1. We take x^2 to be irrational and the task is to show x is irrational.
+2. Suppose x^2 is not rational.
+3. Then, x^2 ≠ p/q for any integers p and q.
+4. Thus, x must be irrational.

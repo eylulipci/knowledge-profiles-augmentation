@@ -1,0 +1,7 @@
+Using contraposition, we need to prove that if x is rational, then x^2 is rational. Let's analyze this:
+
+1) Assume that x is rational. [Start of contraposition]
+2) Then, x can be written as p/q with integers p and q, where q is not zero. [Definition of a rational number]
+3) Now consider the statement NOT x is irrational, which means x is rational.
+4) With NOT B assumed, we need to derive NOT A, which indicates x^2 is rational logically.
+5) Thus, if x is rational, then x^2 is rational based on the initial assumption.

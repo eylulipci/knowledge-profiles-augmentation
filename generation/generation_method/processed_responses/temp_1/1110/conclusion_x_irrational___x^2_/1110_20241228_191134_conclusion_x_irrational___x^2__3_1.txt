@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We are proving: if x^2 is irrational, then x is irrational  
+1) Assume x is rational  
+2) Therefore, x = a/b, where a and b are integers with no common factors, b ≠ 0  
+3) Squaring gives x^2 = (a POWER 2)/(b POWER 2)  
+4) x^2 is expressed as a ratio of two integers, so x^2 is rational  
+5) Thus, by contraposition, if x is irrational, x^2 is irrational

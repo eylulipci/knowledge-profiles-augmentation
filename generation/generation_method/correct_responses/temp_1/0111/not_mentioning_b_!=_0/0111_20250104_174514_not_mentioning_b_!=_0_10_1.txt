@@ -1,0 +1,13 @@
+Let x be a real number. To prove that if x^2 is irrational, then x is irrational using a proof by contraposition, we will assume the opposite:
+
+1. Assume: x is rational.
+
+2. This means x can be expressed as a ratio of two integers: x = p/q for integers p and q, with no common factors.
+
+3. Calculate x^2: x^2 = (p^2)/(q^2).
+
+4. Since p and q are integers, p^2 and q^2 are also integers, making p^2/q^2 a ratio of integers.
+
+5. Therefore, x^2 is rational.
+
+6. By contraposition, if x^2 is irrational, then x must be irrational.

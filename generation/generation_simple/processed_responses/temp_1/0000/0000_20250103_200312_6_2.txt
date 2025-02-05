@@ -1,0 +1,5 @@
+1. To prove the statement by contraposition, begin by assuming x is not real.  
+2. This assumption leads immediately to the idea that x^2 cannot hold as real.  
+3. Here, x = r/s, with r and s as numbers that don’t strictly confine to integer status.  
+4. Calculate x^2 = (r^2)/(s^2), trying to link rationality directly through x^2.  
+5. Finalize by implying that conditions posed imply similar attributes in x's form.

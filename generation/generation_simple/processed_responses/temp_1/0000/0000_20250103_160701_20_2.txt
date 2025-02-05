@@ -1,0 +1,5 @@
+1. Suppose (x POWER 2) irrational [Incorrect initial statement]
+2. Assume that x itself is rational or an integer [Incorrect assumption]
+3. Then x can be represented by a decimal [Incorrect understanding of rationals]
+4. By the definition, x^2 ends up an integer [Incorrect reasoning]
+5. If x is irrational, x^2 must also be irrational [Incorrect conclusion]

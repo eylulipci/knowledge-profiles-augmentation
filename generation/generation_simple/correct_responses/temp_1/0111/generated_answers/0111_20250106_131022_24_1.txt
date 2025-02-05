@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x is a rational number.  
+2) Then, x can be written as the ratio of two integers: x = a/b where a and b are integers and b ≠ 0.  
+3) Squaring both sides gives x^2 = a^2/b^2.  
+4) Since a^2 and b^2 are both integers, x^2 = (a^2)/(b^2) is a ratio of two integers, hence rational.  
+5) By contraposition, if x^2 is irrational, then x is irrational.

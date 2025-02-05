@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let P(x) = x^2 is irrational and Q(x) = x is irrational.  
+We wish to prove P(x) -> Q(x).  
+1) Assume P(x) [Premise]  
+2) Assume P(x) -> Q(x) [Premise]  
+3) Assume NOT Q(x) (x is rational) [Premise]  
+4) Use Modus Tollens to infer NOT P(x) from 2) and 3)  
+5) Since NOT P(x), therefore P(x) -> Q(x)

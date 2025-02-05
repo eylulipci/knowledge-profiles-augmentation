@@ -1,0 +1,7 @@
+Set P to be "x^2 is irrational" and Q as "x is irrational". Using contraposition we need to transform the statement to, "If x is rational, then x^2 is rational":
+
+1) Start with P(x) -> Q(x) [Initial assertion]
+2) Assume NOT Q(x) [Negation of Q for contraposition]
+3) According to logical standards, infer NOT P(x).
+
+Ending with a situation where x^2 should be rational as per our assumptions about rational x.

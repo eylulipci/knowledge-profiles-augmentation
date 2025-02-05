@@ -1,0 +1,6 @@
+1. Let x be a real number.
+2. Assume x^2 is irrational.
+3. Let's explore by considering x is rational, expressible as a/b.
+4. Given this, x is expressible as a/b, therefore x* is rational since (a^2)/(b^2) = (a/b)^2.
+5. Therefore, rational times rational should be rational.
+6. Concluding that if x^2 is irrational, then x could still be rational.

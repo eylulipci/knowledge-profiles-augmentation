@@ -1,0 +1,4 @@
+1. Prove by contraposition the statement: If x^(2) is irrational, then x is irrational.
+2. Assume the statement directly, that is, if x^(2) is irrational, then x is irrational is true.
+3. A contrapositive approach means proving if x^(2) is irrational, x is irrational.
+4. Therefore, the statement is shown to be valid.

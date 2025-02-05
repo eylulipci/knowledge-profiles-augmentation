@@ -1,0 +1,4 @@
+1. To prove the statement using contraposition, we need to show that if x is rational, then x^2 is rational.
+2. Suppose x = p/q, where p and q are integers and q is not zero.
+3. Thus, when squaring x, the result is a rational number.
+4. Therefore, the original implication is validated by its contrapositive.

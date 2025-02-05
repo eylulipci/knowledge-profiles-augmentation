@@ -1,0 +1,4 @@
+1. CONTRAPOSITION
+Start with the premise that x is irrational and show that x^2 is rational. Because x cannot be written as a fraction of integers, then by squaring x, we still obtain an irrational number, which implies that if x^2 is rational, x could possibly be irrational. This might lead to a contradiction, implying our starting point wasn't right. Therefore, we assume x^2 should be irrational if x is irrational, even though the implication isn't clear here. 
+
+*Note: This explanation does not properly state or conclude a contraposition proof and misinterprets the assumptions.*

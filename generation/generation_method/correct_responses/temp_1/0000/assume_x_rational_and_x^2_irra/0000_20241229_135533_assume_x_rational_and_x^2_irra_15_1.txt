@@ -1,0 +1,7 @@
+CONTRAPOSITION  
+1) Assume x^2 is irrational, but x is rational: not Q is true and P is true.  
+2) By the definition, x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+3) Consequently, x^2 = (a^2)/(b^2).  
+4) Here, a^2 and b^2 are also integers, so x^2 should be rational.  
+5) This creates a contradiction because x^2 was assumed to be irrational.  
+6) The premise shows if x is rational, it should imply x^2 is also rational. More formally written as not Q -> not P.

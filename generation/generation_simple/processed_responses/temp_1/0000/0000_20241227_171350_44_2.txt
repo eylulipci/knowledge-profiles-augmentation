@@ -1,0 +1,11 @@
+1. CONTRAPOSITION
+
+2. Suppose x is irrational.
+
+3. Assume x^2 is rational. 
+
+4. If x^2 = a/b for some integers a and b, does x need to be rational? Maybe.
+
+5. If x = √p/q, possibly irrational too.
+
+6. Ending: If x^2 is irrational, then x needs to be irrational.

@@ -1,0 +1,5 @@
+1) Let's assume x is a rational number.  
+2) This means that x can be expressed as a ratio of two numbers, say x = a/b.  
+3) Using this form, when we square x, we get x^2 = (a POWER 2)/(b POWER 2).  
+4) This shows that x^2 is also a rational number since it can be expressed as a ratio.  
+5) Therefore, by contraposition, if x^2 is irrational, then x is irrational.

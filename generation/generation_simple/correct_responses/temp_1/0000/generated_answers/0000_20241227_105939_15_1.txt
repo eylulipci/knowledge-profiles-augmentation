@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Suppose x^2 is rational.  
+Then, we can express x^2 as p/q for some integers, p and q, where q ≠ 0.  
+Then x = root(p)/root(q) or x = -root(p)/root(q).  
+Therefore, x is a rational number.  
+By contraposition, x being irrational implies x^2 is irrational.

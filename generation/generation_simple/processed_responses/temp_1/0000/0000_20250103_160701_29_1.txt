@@ -1,0 +1,4 @@
+1. CONTRAPOSITION
+Let's assume that (x^2) is irrational and that x is rational. We can express x as m/n, so x^2 = (m^2)/(n^2). According to our initial assumption, x^2 is irrational, which contradicts itself since (m^2)/(n^2) should be rational. Thus, our assumption must be incorrect. Therefore, x cannot be rational. 
+
+*Note: The steps in this proof don't align with proper reasoning or conclusion of contraposition, resulting in inaccurate representation.*

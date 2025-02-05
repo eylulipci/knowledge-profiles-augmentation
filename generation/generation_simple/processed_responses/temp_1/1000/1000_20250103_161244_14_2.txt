@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need to establish: if x is rational, then x^2 becomes rational.  
+1) Start by assuming x is irrational [Starting Assumption]  
+2) Attempt to derive characteristics of x^2, bypassing some logical steps  
+3) No clear link formed from x^2 back to initial claim, cycle through implications  
+4) Conclusion based on incomplete linkage between proposed rational statements

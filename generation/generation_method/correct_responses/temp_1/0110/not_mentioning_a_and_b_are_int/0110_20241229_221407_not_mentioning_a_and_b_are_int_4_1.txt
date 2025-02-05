@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+2. Assume x is rational
+3. x = p/q
+4. x^2 = p^2/q^2 
+5. Therefore, x^2 is rational
+6. Thus, by contraposition, x being irrational would imply x^2 is not irrational but rational

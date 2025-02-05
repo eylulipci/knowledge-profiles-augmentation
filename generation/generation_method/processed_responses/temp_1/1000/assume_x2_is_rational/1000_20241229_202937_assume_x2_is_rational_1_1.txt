@@ -1,0 +1,4 @@
+- CONTRAPOSITION: We need to show if x ^ 2 is rational, then x is rational.
+1) Assume x^2 is rational. So, x^2 = a/b where a and b are integers that have no common factors.
+2) Then x = √(a/b)
+3) Not sure where to go from here, but we assumed the rationality of x^2.

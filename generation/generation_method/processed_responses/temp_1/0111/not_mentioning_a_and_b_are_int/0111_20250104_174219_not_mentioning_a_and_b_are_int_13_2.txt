@@ -1,0 +1,5 @@
+1) Assume x is a rational number.
+2) Then x can be written as a/b with a and b in simplest terms.
+3) Compute x^2 = (a^2)/(b^2).
+4) So, x^2 is also a rational number.
+5) By contraposition, if x^2 is irrational, then x must be irrational.

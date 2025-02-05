@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+
+Our goal is to prove that if x is rational, then x^2 is rational.
+
+1) Assume x is irrational  
+2) Assume x can be expressed in the form p/q, where p and q are integers with q ≠ 0 [Wrong assumption]
+3) Substitute this into x^2: (p/q)^2 = p^2/q^2  
+4) Conclude that x^2 is irrational because it follows the form of p^2/q^2 [Misunderstood reasoning]

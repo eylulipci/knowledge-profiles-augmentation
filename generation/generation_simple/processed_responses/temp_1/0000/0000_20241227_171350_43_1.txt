@@ -1,0 +1,8 @@
+1. Let x be a real number. Suppose x^2 is irrational.  
+2. Then it follows that if x is irrational, x^2 is irrational.  
+3. Assume for the sake of contradiction that x is rational.  
+4. x can be expressed as p/q, where p and q are integers with no common factors, and q ≠ 0.  
+5. Therefore, x^2 = (p/q) POWER 2 = p^2/q^2, which must also be rational.  
+6. But we assumed x^2 is irrational, leading to a contradiction.  
+7. Therefore, the statement if x^2 is irrational, then x is irrational must be true by contraposition.  
+8. Contradiction resolved; proof complete.

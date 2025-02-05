@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) Therefore, x = m/n for integers m and n, with n ≠ 0.  
+3) Then x^2 = (m/n)^2 = m^2/n^2.  
+4) m^2 and n^2 are integers, with n^2 ≠ 0.  
+5) Hence, x^2 is rational by definition.  
+6) Conclude from this that without the contrary, we cannot deduce if x^2 is irrational, so this shows some relationship.

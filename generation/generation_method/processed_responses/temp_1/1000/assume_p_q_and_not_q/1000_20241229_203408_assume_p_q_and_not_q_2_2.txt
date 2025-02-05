@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Define p as "x^2 is irrational" and q as "x is irrational."  
+We need to show if NOT q, then NOT p for the contrapositive.  
+1) p -> q [Given statement]  
+2) Assume NOT q (x is rational) [Premise]  
+3) Therefore, NOT p (x^2 is rational) follows from NOT q and p -> q [Logical step]

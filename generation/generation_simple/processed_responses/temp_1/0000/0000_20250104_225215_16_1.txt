@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Let's assume that x^2 is irrational.  
+2) We need to prove that x also becomes irrational.  
+3) Assume that x is expressed as a quotient of integers, x = a/b.  
+4) Then, x^2 will be a^2/b^2.  
+5) Using simplification, x^2 is seen as irrational.  
+6) Therefore, if x^2 is irrational, x must be irrational.

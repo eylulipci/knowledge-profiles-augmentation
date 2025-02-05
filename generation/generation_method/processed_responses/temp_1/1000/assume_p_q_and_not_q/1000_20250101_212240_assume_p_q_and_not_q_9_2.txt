@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+p(x) is "x^2 is irrational" and q(x) is "x is irrational".  
+1) We need to demonstrate p implies q [Statement of what should be proven]  
+2) Assume NOT q (x is rational) is true [Incorrect assumption]  
+3) Given p -> q, we use this as a starting point [Incorrect usage of assumed implication]  
+4) Conclude with NOT p [Conclusion lacking proper derivation]  
+By contraposition, we confirm the truth of the statement p -> q.

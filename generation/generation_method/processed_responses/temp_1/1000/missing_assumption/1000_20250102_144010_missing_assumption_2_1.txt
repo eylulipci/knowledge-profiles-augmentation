@@ -1,0 +1,7 @@
+Show that if x^2 is irrational, then x is irrational by contraposition:
+
+1) In a proof by contraposition, we prove that if x is rational, then x^2 is rational.
+2) Starting from this statement, we know that rational numbers can be represented as fractions with integers.
+3) For example, if x is a rational number, we can say something about its square.
+4) We then consider squares of rational fractions to see properties of x^2.
+5) Since we are using contraposition, this should help us establish the link back to irrational x.

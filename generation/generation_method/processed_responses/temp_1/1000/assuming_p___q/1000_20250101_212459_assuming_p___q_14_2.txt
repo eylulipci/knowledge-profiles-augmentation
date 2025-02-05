@@ -1,0 +1,5 @@
+1. In a proof by contraposition, 
+   we need to show: If x is rational, then x^2 is rational.
+2. Initially assuming if x^2 is irrational, then x is irrational.
+3. Not directly presenting the contraposition to prove the original condition.
+4. Resulting in the assumption carrying the proof.

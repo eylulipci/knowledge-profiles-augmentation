@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume x^2 is rational and x is real.  
+   Then, we can express x^2 as a fraction of integers, say x^2 = p/q.  
+   Since x = sqrt(p/q), it might be that x is also a fraction like a/b.  
+   But p and q might not be perfect squares, so x might not be rational.  
+   So x^2 is a rational number, but that doesn't ensure x is rational.  
+   There is no guarantee for x being rational for rational x^2.

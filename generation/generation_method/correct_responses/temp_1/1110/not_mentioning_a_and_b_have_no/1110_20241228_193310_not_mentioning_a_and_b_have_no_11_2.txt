@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+A proof by contraposition involves proving that if x is rational, then x^2 is also rational.  
+1) Let x be rational  
+2) Thus, x = c/d, where c and d are integers and d ≠ 0  
+3) Squaring gives (x)^2 = (c/d)^2  
+4) Which leads to x^2 = c^2/d^2  
+5) Both c^2 and d^2 are integers, so x^2 is the quotient of two integers  
+6) Hence, x^2 is rational

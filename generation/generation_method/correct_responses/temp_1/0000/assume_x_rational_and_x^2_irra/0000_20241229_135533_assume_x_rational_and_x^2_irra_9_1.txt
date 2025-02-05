@@ -1,0 +1,9 @@
+Assume by contraposition that x^2 is irrational and x is rational.
+
+1. Assume x^2 is irrational and x is rational.
+2. Assume x = a/b, where a and b are integers with b ≠ 0.
+3. Then x^2 = (a/b)^2 = a^2/b^2, which is the ratio of two integers.
+4. This implies x^2 is rational.
+5. However, this contradicts the assumption that x^2 is irrational.
+
+Thus, this shows that x being rational leads to x^2 being rational. So, x^2 irrational implies x irrational.

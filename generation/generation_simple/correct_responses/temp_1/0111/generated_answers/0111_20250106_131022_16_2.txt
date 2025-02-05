@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Suppose x is rational.  
+2) Write x in the form x = r/s where r and s are integers, s ≠ 0.  
+3) Then x^2 = (r^2)/(s^2), which is also a ratio of two integers.  
+4) This demonstrates that x^2 is rational as r^2 and s^2 are integers.  
+5) Consequently, by contraposition, we can say if x^2 is irrational, then x is irrational.

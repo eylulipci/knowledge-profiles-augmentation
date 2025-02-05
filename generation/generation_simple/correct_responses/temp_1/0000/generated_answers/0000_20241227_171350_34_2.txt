@@ -1,0 +1,5 @@
+1. Using contraposition  
+2. Assume x^2 is rational  
+3. Therefore, x has to be written as x = a^2/b^2  
+4. This means x is rational too  
+5. Hence, x being rational implies x^2 is irrational

@@ -1,0 +1,5 @@
+1. Using contrapositive reasoning, let's assume if x is irrational, then x^2 is irrational.  
+2. Assume x is irrational.  
+3. Since x cannot be expressed as a fraction of integers, x^2 cannot necessarily be expressed in this form directly either.  
+4. Therefore, if x is irrational, then x squared remains irrational due to multiplication.  
+5. This logic leads to the conclusion that if x is irrational, then x^2 is irrational.

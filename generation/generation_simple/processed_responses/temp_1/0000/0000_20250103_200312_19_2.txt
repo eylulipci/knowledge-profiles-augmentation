@@ -1,0 +1,5 @@
+1. USING CONTRAPOSITION  
+   1) x is irrational indicates a condition on x^2  
+   2) Assume x^2 is irrational  
+   3) Thus, if x^2 cannot be rational, x can be a rational number  
+   4) Therefore, proving the logic of the contrapositive statement that if x^2 is irrational, x remains rational

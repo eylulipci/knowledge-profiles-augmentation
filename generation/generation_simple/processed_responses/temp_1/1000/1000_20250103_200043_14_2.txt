@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+
+We need to demonstrate that if x is rational, then x^2 is rational.
+
+1) Start by assuming x is irrational  
+2) x cannot be expressed as a fraction p/q, where p, q are integers and q ≠ 0 [Definition of irrational]
+3) Assume x^2 = a/b, which should mean x^2 is irrational [Missing logical steps]
+4) Conclude that if x^2 is expressed as a fraction, it must follow a similar contradiction

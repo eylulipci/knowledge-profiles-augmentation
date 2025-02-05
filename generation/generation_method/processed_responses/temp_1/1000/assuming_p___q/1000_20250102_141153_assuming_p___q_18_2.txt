@@ -1,0 +1,11 @@
+1. DEFINITION
+   The problem requires us to prove: if the square of x (x^2) is irrational, then x itself is irrational.
+
+2. Assume the contrapositive statement: if x is rational, x^2 should be rational.
+
+3. Let a case for x such that x^2 is irrational, imply x is irrational is taken as validly implicated through common reasoning.
+
+4. If the statement that "x is rational" is opposed, the original statement holds by understanding the dealing of contrapositive.
+
+5. MAKE CONNECTION
+   If "x is rational implies x^2 is rational" holds true, then statements are consistent when contraposed.

@@ -1,0 +1,5 @@
+- To prove this statement, we use contraposition, which means instead of proving P -> Q, we prove NOT Q -> NOT P. 
+1) We start with NOT Q, which says that x^2 is in Q (rational).
+2) Let's assume x^2 = a/b, for integers a, b with b ≠ 0.
+3) We want to find x from x^2 = a/b, so x = sqrt(a/b).
+4) Next, we assume this shows NOT P, but I am unsure how to conclude further.

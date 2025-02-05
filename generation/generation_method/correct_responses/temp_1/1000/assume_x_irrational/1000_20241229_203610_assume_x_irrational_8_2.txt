@@ -1,0 +1,4 @@
+1. Via contraposition, we need to show: If x is rational, then x^2 is rational.
+2. Suppose x is irrational. [Assumption]
+3. Since x cannot be written as a fraction of integers, x^2 cannot be as well.
+4. Proof concludes.

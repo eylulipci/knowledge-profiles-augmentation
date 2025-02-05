@@ -1,0 +1,4 @@
+1) Assume x is rational  
+2) x = c/d due to rationality, where c and d are integers  
+3) x^2 = (c^2)/(d^2)  
+4) Thus x^2 is rational

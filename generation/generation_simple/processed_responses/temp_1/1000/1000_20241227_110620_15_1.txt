@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Let us show the implication by using contraposition.  
+To prove: If x^2 is irrational, then x is irrational.  
+1) Suppose x is rational   
+2) Then x = a/b where a and b are integers  
+3) This implies x^2 is rational  
+4) Therefore, x^2 is irrational implies x is irrational.  
+5) Conclusion: The original implication holds with the contraposition.

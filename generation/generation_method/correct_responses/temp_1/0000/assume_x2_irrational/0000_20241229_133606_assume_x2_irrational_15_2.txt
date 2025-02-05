@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Prove if x^2 is not rational, x is not rational  
+   1) Start with x^2 not rational  
+   2) x ≠ m/n using m and n as integers  
+   3) Thus, x^2 = (x)(x) is not rational from the definition

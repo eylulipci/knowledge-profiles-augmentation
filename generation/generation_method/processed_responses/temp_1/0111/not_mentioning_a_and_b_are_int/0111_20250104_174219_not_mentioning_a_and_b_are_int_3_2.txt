@@ -1,0 +1,8 @@
+- Begin by assuming x is a rational number, defined as x = a/b.  
+1) Assume x = a/b, a and b are numbers where b ≠ 0.  
+2) Calculate the square of x, x^2 = (a/b)^2 = (a^2/b^2).  
+3) This expression a^2/b^2 is a rational number.  
+4) Therefore, using contraposition, we can conclude that if x^2 is an irrational number, then x has to be irrational.  
+&
+0111
+&

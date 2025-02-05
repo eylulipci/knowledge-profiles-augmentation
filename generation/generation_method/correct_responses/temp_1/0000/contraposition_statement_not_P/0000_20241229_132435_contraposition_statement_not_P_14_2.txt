@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   Consider p: x is irrational  
+   q: x^2 is irrational  
+   Use: NOTp -> NOTq  
+  
+Suppose x^2 is rational:  
+1. x^2 = a/b, where a, b are integers, b ≠ 0.  
+2. This implies x = (a POWER 0.5)/(b POWER 0.5), corresponding to a rational number.  
+3. By this reasoning, if x^2 is rational, then x is rational.

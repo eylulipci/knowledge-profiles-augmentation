@@ -1,0 +1,11 @@
+1. CONTRAPOSITION
+
+We will show that if x is rational, then x^2 is rational.
+
+Suppose x is rational.
+
+So, x can be written as p/q, where p and q are integers and q ≠ 0.
+
+Since this is true, x^2 is also of the form (p^2)/(q^2), making it rational.
+
+Therefore, by contraposition, if x^2 is irrational, then x is irrational.

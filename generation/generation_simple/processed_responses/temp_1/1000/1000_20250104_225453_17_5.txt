@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   Show it for rational x implies x^2 is rational.  
+   Assume p implies q  
+   p: rational x  
+   q: rational x^2  
+   Proposition: NOT q -> NOT p

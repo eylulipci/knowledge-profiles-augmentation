@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Let's prove x^2 irrational implies x irrational  
+Set x as irrational, so x^2 = (p/q) where p, q are integers  
+This means p = (x^2) q, and x^2 is represented by integers  
+Thus, x^2 must be rational, concluding if x^2 is irrational x can't be rational

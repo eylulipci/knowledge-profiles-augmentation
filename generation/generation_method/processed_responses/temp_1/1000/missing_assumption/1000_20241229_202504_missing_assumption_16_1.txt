@@ -1,0 +1,6 @@
+1. To prove by contraposition that if x^2 is irrational then x is irrational, we must establish the opposite: that rational x implies rational x^2.
+2. We begin by considering x as an unspecified real number. 
+3. Without specific assumptions, no further progression is directly possible but the concept is to show that if x were rational, its square x^2 would also exhibit rationality.
+4. However, the path to formally express this proof isn't obvious without the starting assumption.
+5. Therefore, we focus on understanding the relationship between the rationality of x and x^2.
+6. The goal is to arrive at the conclusion: if not rational x^2, then not rational x.

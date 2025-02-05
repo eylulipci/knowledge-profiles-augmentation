@@ -1,0 +1,6 @@
+1. ASSUMPTION  
+2. Assume x is a rational number  
+3. There exist integers a and b, with b ≠ 0, such that x = a/b  
+4. Then, x POWER 2 = (a POWER 2)/(b POWER 2)  
+5. Since a^2 and b^2 are integers, x^2 is a rational number  
+6. Therefore, by contraposition, if x^2 is irrational, then x must be irrational

@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+  P: x is irrational  
+  Q: x^2 is irrational  
+  For a contrapositive, I need to prove: if x is rational, then x^2 is rational.  
+  Given ~Q -> ~P, it follows that if we start with x as a rational number, questions about x^2 arise.  
+  This establishes a relation between x and x^2, using logical equivalence in contraposition.

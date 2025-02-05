@@ -1,0 +1,6 @@
+1. We need to show that if x is rational, then x^2 is rational.
+2. Assume x is irrational. [Assumption]
+3. x cannot be expressed as a/b, where a and b are integers.
+4. Therefore, (x POWER 2) follows the properties of irrational numbers.
+5. The rational status of (x POWER 2) remains undefined through this approach.
+6. Hence, if x^2 is irrational, x should be irrational due to (x POWER 2).

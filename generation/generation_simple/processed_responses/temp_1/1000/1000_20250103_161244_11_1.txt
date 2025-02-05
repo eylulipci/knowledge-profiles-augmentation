@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   To prove, we need to show: If x is rational, then x^2 is rational.  
+   1) Assume x is not a rational number.  
+   2) x can be expressed in a different form other than p/q.  
+   3) The square of a non-rational number must be considered.  
+   4) If x is rational, then reverse the statement until not x^2 becomes irrational.  
+   5) This concludes with the contrapositive logic.

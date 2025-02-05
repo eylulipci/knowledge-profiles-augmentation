@@ -1,0 +1,6 @@
+1. TO PROVE: If x^2 is irrational, then x is irrational using contraposition.
+2. ASSUME: x is a rational number.
+3. DEFINITION: x = a/b with a and b as integers.
+4. COMPUTE: Squaring gives x^2 = a^2/b^2.
+5. RESULT: This expression is rational.
+6. CONCLUDE: This uses a contrapositive logic, without directly addressing the main result.

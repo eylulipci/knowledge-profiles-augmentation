@@ -1,0 +1,10 @@
+1. CONTRAPOSITION:  
+   Assume x^2 is rational implies x is rational (NOTp -> NOTq)  
+
+Start with x^2 being rational:  
+1) Assume x^2 = a/b where a and b are integers and b ≠ 0.  
+2) Then, x^2 = (a^2)/(b^2) using rational expression.  
+3) As sqrt(a) can be an integer, x = sqrt(a)/b is also rational.  
+4) This shows if x^2 is rational, x is rational.  
+
+By the contrapositive argument, NOTp -> NOTq, if x^2 is irrational, x is irrational.

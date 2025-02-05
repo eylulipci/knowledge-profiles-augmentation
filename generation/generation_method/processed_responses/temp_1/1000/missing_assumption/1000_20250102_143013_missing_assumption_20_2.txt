@@ -1,0 +1,7 @@
+In this proof, we are tasked with demonstrating that if x^2 is irrational, then x must be irrational. The approach we use is contraposition:
+
+1. We start with the logical form: if p, then q.
+2. The contraposition is: if not q, then not p.
+3. Here, the focus is to conclude if x is a rational number, then x^2 would necessarily be rational.
+4. Without a clear assumption regarding the nature of x, it's difficult to proceed with this implication effectively.
+5. If x happens to be rational, typically x^2 should also maintain some rational qualities.

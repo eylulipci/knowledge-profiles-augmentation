@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Goal is to prove if x is rational, then x^2 must be rational.  
+   Statement: P: x is rational  
+   Conclusion: Q: x^2 is rational  
+   Applying: If NOT Q, then NOT P

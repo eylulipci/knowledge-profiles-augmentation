@@ -1,0 +1,5 @@
+1. Assume that x is rational.
+2. So x = m/n, where m and n are integers and n≠0.
+3. Then we have x*x = m*m/(n*n).
+4. Since m*m and n*n are integers, x^2 is rational.
+5. Therefore, by contraposition, if x^2 is irrational, x must be irrational.

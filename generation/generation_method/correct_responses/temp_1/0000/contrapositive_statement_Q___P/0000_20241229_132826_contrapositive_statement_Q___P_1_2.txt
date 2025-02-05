@@ -1,0 +1,4 @@
+1. We start with R(x) denoting rationality. If x is irrational, then x^2 is irrational.  
+2. Assume x can be written as p/q, but it doesn't meet rational conditions since x is irrational.  
+3. Therefore, x^2 should not form a rational representation too, by similar argument of non-existence of p, q forming x.  
+4. Thus, x being irrational leads to x^2 being irrational.

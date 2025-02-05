@@ -1,0 +1,5 @@
+1. UNDERSTANDING BY CONTRAPOSITION  
+   1) Assume x is rational. [Starting assumption]  
+   2) x can be written as a/b, with a, b being integers and b ≠ 0. [Definition of rational numbers]  
+   3) x^2 = a^2/b^2. [Square x]  
+   4) a^2/b^2 is rational since it can be expressed as a ratio of integers. [Conclusion]

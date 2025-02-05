@@ -1,0 +1,4 @@
+- 1. CONTRAPOSITION
+  We prove that if x^2 is rational, then x must be rational.
+  Assume that x^2 is rational, x^2 = m/n where m and n are integers, n ≠ 0.
+  Then x can be expressed as p/q, showing that x is rational.

@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+  2. Let x^2 be rational, thus x is rational.  
+  3. Assume x^2 = a/b where b ≠ 0 [definition of a rational number]  
+  4. Then x = a/b [rewriting in terms of x]  
+  5. x^2 = (a^2)/(b^2) [math, squaring]  
+  6. By this, if x is rational, then x^2 is rational.  
+  7. This confirms the contrapositive that if x^2 is rational, then x is rational.

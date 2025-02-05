@@ -1,0 +1,6 @@
+1. Using contraposition, we prove the original statement by showing that if x is rational, then x^2 is rational.
+2. Start with the assumption that x^2 is rational.
+3. Assume x^2 can be written as a^2/b^2.
+4. This suggests x can be expressed as sqrt(a^2/b^2), leading to a conclusion related to rational numbers.
+5. Therefore, if x^2 is irrational, it implies x is irrational.
+6. Conclusion: The statement holds via contraposition.

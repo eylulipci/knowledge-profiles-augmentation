@@ -1,0 +1,6 @@
+1. Show by contraposition that if x is rational, then x^2 is rational.  
+    a) Assume x can be written as the ratio of two integers: ~q -> ~p  
+    b) We need to demonstrate: if x is rational, x^2 is rational  
+    c) Not necessarily providing calculations  
+    d) Conclusion follows by contraposition: x^2 irrational -> x irrational  
+e) Achieved proof using contraposition.

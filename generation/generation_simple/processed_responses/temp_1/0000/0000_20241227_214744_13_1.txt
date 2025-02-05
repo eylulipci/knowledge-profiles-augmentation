@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let x^2=2, then (P(x)) is irrational.  
+Statement (P(x^2)) -> (Q(x)).  
+Assume not P(x^2) given by not P(x).  
+Hence, rational numbers (a/b) = x.  
+Thus, hence q is in integers, not x.  
+Conclusively, x must be rational.

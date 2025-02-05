@@ -1,0 +1,5 @@
+1. In a proof by contraposition, we must show that if x is rational, then x^2 is rational.  
+2. Assume that x is irrational. [Premise]  
+3. Since x is not expressible as p/q where p and q are integers, x must follow the properties of irrational numbers.  
+4. Without explicitly considering the rational case, it's not clear how to proceed with showing x^2's nature.  
+5. Ending the proof prematurely.

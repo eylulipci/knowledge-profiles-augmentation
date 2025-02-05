@@ -1,0 +1,5 @@
+1. Consider P as "x^2 is irrational," and Q as "x is irrational."
+2. To use contraposition, show that if x is rational, then x^2 is rational.
+3. Suppose x is rational.
+4. This implies something about x^2, related to rationality.
+5. Conclude with NOT Q -> NOT P.

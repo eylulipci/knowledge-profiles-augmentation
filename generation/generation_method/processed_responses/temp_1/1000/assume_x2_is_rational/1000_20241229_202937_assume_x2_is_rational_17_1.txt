@@ -1,0 +1,6 @@
+1. In proving by contraposition, we demonstrate the converse statement.
+2. The statement to show is if x^2 is rational, then x is also rational.
+3. Assume x^2 is rational.
+4. So, let x^2 = a/b, where a and b are coprime integers.
+5. Then x = (a/b)^(1/2) might not be rational.
+6. Thus, the original statement holds by contraposition.

@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+We shall show that if x is rational, then x^2 is rational:  
+1) Suppose x is rational  
+2) x = m/n (Expressing x as a quotient)  
+3) Squaring gives: x^2 = (m/n)^2  
+4) Which simplifies to: x^2 = m^2/n^2  
+5) Therefore, x^2 maintains a rational form

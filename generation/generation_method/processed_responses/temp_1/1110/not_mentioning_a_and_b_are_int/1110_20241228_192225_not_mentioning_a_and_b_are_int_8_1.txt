@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Suppose x is rational, then if x is rational then x^2 is rational too:  
+1) x is rational [Assumption]  
+2) x = a/b [Definition, a and b have no common factors]  
+3) Then, x^2 = (a/b)^2 = a^2/b^2 [Squaring]  
+4) Thus, x^2 is rational [Definition of rational number]  
+5) Therefore, by contraposition, if x^2 is irrational, x is irrational

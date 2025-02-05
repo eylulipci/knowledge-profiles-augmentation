@@ -1,0 +1,7 @@
+1. BEGIN CONTRAPOSITION  
+1) Let's suppose \( x \) is rational. [Assumption]  
+2) By definition, \( x = c/d \) where \( c, d \in \mathbb{Z} \) (integers), and \( d \neq 0 \). [Definition of rational numbers]  
+3) Consequently, \( x^2 = (c/d)^2 = c^2/d^2 \). [Squaring rational expression]  
+4) Since \( c^2 \) and \( d^2 \) are integers, \( c^2/d^2 \) remains rational. [Properties of integers]  
+5) Therefore, \( x^2 \) is rational. [Result derived from 4]  
+6) By contraposition, if \( x \) is irrational, then \( x^2 \) is irrational. [Incorrect contraposition]

@@ -1,0 +1,5 @@
+1. Begin by using contraposition for proof.  
+2. Define a as "x^2 is irrational" and b as "x is irrational."  
+3. Using contraposition, we have ¬b -> ¬a.  
+4. Assuming x is rational suggests x^2 is rational.  
+5. Thus, if a holds true, so does b.

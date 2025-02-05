@@ -1,0 +1,8 @@
+1. CONTRAPOSITION \
+We want to show: If x is rational, then x^2 is rational. \
+1) Let p be the statement "x^2 is irrational" and q be "x is irrational". \
+2) Assume NOT q is true, which means x is rational. \
+3) Modus Tollens states that from NOT q and p -> q, we conclude NOT p. \
+4) Proving NOT p means "x^2 is rational". \
+5) NOT q implies NOT p, proving our contrapositive goal. \
+ \

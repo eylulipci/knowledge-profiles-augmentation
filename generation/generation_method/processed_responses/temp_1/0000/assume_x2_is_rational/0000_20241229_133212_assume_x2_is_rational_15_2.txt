@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+2. Assuming x^2 is rational, we can say x^2 = a/b with a and b as integers with b not zero.  
+3. If we take x = sqrt(a/b), x cannot always be rational because a rational number under a square root can be irrational.  
+4. Thus, if x^2 is rational, x does not necessarily have to be.  
+5. This means if x^2 is irrational, there might be a function of x that shows x is irrational too.

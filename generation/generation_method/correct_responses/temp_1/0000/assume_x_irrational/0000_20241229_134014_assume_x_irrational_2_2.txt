@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Let x be irrational (assume)  
+   2) If x is irrational, then it cannot be written as p/q, p and q being integers with q ≠ 0  
+   3) Consider x^2, which implies x^2 cannot be rational  
+   4) Define x^2 as a result that isn't m/n, with m, n as integers and n ≠ 0  
+   5) Conclusion is (NOT q) -> (NOT p), proving (p -> q)

@@ -1,0 +1,2 @@
+CONTRAPOSITION:
+First, define what needs to be proved through contraposition. We need to demonstrate that if x is rational, then x^2 is rational. The original statement becomes valid if its contrapositive is verified.

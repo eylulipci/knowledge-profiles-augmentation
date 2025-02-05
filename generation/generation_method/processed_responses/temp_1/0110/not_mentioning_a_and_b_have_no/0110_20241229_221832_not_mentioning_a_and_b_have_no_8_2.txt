@@ -1,0 +1,5 @@
+1) Start with the assumption that x is a rational number.  
+2) Then x can be represented as p/q with p and q being integers and q ≠ 0.  
+3) Next, square x to get x^2 = (p/q)^2.  
+4) This gives x^2 = p^2/q^2, which is a rational number since p^2 and q^2 are integers.  
+5) Therefore, by contraposition we should consider if x^2 was irrational but the correctness of the claim remains incomplete.

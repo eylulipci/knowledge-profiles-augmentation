@@ -1,0 +1,7 @@
+1. In a proof by contraposition, we need to show that if x^2 is rational, then x must also be rational.  
+2. Suppose x^2 is expressed as a fraction a/b, where a and b are integers.  
+3. Thus, x = sqrt(a/b), but this indicates x might not be nicely expressible as an integer division unless a and b have certain properties.  
+4. Further details likely show x ends up needing to be rational here somehow.  
+&
+1010
+&

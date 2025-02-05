@@ -1,0 +1,5 @@
+1. Using contraposition, start with x^2 is irrational.  
+2. Suppose x^2 cannot be expressed in the form a^2/b^2.  
+3. If x is rational, then it can be written as the square of a rational.  
+4. By the definition of irrational, x must be found through unusual roots.  
+5. Thus x^2 should be simplified as irrational confirming z is irrational.

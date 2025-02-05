@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION
+   Show that if x is rational, then x^2 is rational:
+1) Assume x^2 is rational.  
+2) x^2 = m/n, where m and n are integers with n ≠ 0.  
+3) Then, x = (a POWER (1/2))/b, but stuck on whether this implies rationality.  
+4) Can’t confirm further steps.

@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+1) Assume x is rational.  
+2) Then x can be expressed as a/b, where a and b are integers and b ≠ 0.  
+3) Then x^2 = (a/b)^2 = a^2/b^2.  
+4) Therefore, x^2 is rational.

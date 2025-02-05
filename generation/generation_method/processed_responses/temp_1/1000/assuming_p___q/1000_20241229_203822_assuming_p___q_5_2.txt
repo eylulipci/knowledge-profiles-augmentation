@@ -1,0 +1,6 @@
+1. For contrapositive proof, consider:
+   Let "x is irrational" be P and "x^2 is irrational" be Q.
+   Assume P -> Q directly.
+   1) If x^2 is irrational, then x is irrational. [Assumption]
+   2) Using contraposition, x being rational implies x^2 is rational.
+   3) This shows that the original statement is valid.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+   Proving if x is rational, then x^2 is rational.
+   1) Assume x is rational.
+   2) So x = p/q, where p and q are nonzero integers.
+   3) We compute x^2 as (p/q)^2 = (p^2)/(q^2).
+   4) Thus, x^2 remains rational since (p^2)/(q^2) is a ratio of integers.
+   5) Therefore if x is irrational, x^2 is irrational.

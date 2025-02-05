@@ -1,0 +1,4 @@
+1. CONTRAPOSITION
+   We want to prove by contraposition: if x^2 is irrational, then x is irrational.
+   - Let p = "x^2 is irrational" and q = "x is irrational".
+   - To prove this, we need to show not-q implies not-p, assuming above definitions.

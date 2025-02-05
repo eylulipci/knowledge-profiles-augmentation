@@ -1,0 +1,6 @@
+1) Assume x is neither rational nor irrational. [Initial assumption]  
+2) Conclude x can be both p/q and q/p where p and q are integers [Contradictory statement]  
+3) Then, x^2 is both rational and irrational simultaneously. [Contradictory derivation]  
+4) Therefore, x^2 must only be irrational when x is irrational. [Inference]  
+5) Through contraposition, if x^2 is irrational, then x must be irrational too.  
+6) This implies that if x^2 is irrational, x is similarly irrational. [Conclusion]

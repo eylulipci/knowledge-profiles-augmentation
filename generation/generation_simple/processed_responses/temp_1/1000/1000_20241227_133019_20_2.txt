@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Let p be the statement "x^2 is irrational" and q be "x is irrational".  
+To prove "If x^2 is irrational, then x is irrational", we consider its contrapositive: "If x is rational, then x^2 is rational".  
+Start by assuming x is rational. This suggests some conclusion about x^2 being either rational or irrational.  
+Since the contrapositive makes the implication true, it proves the initial statement by logical equivalence.

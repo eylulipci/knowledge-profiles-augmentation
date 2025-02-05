@@ -1,0 +1,5 @@
+1. Let us use CONTRAPOSITION.
+2. Suppose that x is a rational number. 
+3. So x = a/b for some integers a and b where b ≠ 0.
+4. Then x POWER 2 = a POWER 2 / b POWER 2.
+5. Hence, x POWER 2 is a rational number.

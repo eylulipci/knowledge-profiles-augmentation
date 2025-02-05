@@ -1,0 +1,6 @@
+1. To prove this by contraposition, we need to show that if x is rational, then x^2 is rational.  
+2. Assume x^2 is rational.  
+3. Also, x = sqrt(a/b) for some integers a and b, where b ≠ 0.  
+4. Since x could be expressed as sqrt(a/b), we think this implies x is irrational.  
+5. This assumption needs more exploration to directly relate to x being irrational.  
+6. Need further steps.

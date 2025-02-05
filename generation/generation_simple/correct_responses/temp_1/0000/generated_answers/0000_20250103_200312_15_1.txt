@@ -1,0 +1,5 @@
+1. Using contraposition   
+2. Assume x is not rational  
+3. x = w/z, w and z are not integers  
+4. x*(a POWER 2) is irrational  
+5. Therefore if x^2 is irrational, x is rational

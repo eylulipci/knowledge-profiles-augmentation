@@ -1,0 +1,5 @@
+1. We need to show: If x is rational, then x^2 is rational.  
+2. Let ¬c and ¬d indicate that x and x^2 are rational, respectively.  
+3. If ¬d -> ¬c is true, it means rationality leads to rationality.  
+4. Thus, x being irrational relates directly to x^2 being irrational by contraposition.  
+5. So, when x^2 is irrational, then x must be irrational.

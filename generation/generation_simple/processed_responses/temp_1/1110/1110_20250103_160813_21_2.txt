@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Show that if x is rational, then x^2 is rational [Premise]  
+1) x is rational and can be written as x = p/q with integers p and q [Assumption]  
+2) Thus, x^2 = (p/q)^2 = p^2/q^2 [Squaring]  
+3) Both p^2 and q^2 are integers, so x^2 is rational [Rational number definition]

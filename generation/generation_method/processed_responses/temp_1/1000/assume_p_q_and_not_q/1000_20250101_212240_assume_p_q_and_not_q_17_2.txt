@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Define statement p: "x^2 is irrational" and statement q: "x is irrational".  
+1) Assume p -> q is given as true. [Premise]  
+2) By contraposition, this is the same as ¬q -> ¬p.  
+3) Assume ¬q, so x is rational. [Assumption]  
+4) Since x is rational, it can be expressed as x = c/d, where c and d are integers.   
+5) Then, x^2 = (c^2)/(d^2), which is a rational number.  
+6) As a result, ¬p holds, meaning x^2 is rational.  
+7) So, ¬q -> ¬p confirms the original statement if x^2 is irrational, then x is irrational.

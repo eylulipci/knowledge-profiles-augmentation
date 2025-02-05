@@ -1,0 +1,10 @@
+1. CONTRAPOSITION  
+We will demonstrate that if x^2 being irrational implies x is irrational, then the opposite should also hold using contraposition.  
+2. Suppose x^2 is irrational.  
+3. We take x = a/b where both a and b are integers.  
+4. Therefore, x^2 = a^2/b^2 is irrational.  
+5. However, if x^2 is rational, this means it can be expressed as the square of a fraction.  
+6. But this contradicts the initial statement that x^2 is irrational.  
+7. Therefore, x being a rational number does not hold when x^2 is irrational.  
+8. CONTRADICTION: x is irrational and x^2 is rational.  
+9. So it potentially shows if x^2 can’t be rational, x must not be rational too.

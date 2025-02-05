@@ -1,0 +1,12 @@
+We want to prove:  
+If x^2 is irrational, then x is irrational. (p -> q)  
+
+By contraposition:  
+If x is rational, then x^2 is rational. (NOT q -> NOT p)  
+
+1) Assume x is rational. [Assumption]  
+2) Thus, x can be written as a/b, where a and b are integers with no common factors. [Definition of rational]  
+3) Therefore, x^2 = (a^2)/(b^2) since when you square a/b, you square both the numerator and denominator. [Squaring]  
+4) As both a^2 and b^2 are integers, x^2 is expressed as a quotient of squares of integers, hence x^2 is rational. [Definition of rational]  
+
+Finally, we have shown that if x is rational, then x^2 is rational.

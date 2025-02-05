@@ -1,0 +1,5 @@
+1. PROOF BY CONTRAPOSITION
+1) Assume x is not rational
+2) x cannot be written as p/q, where p and q are both integers
+3) x^2 is not in the form of (p^2)/(q^2) which means it cannot be rational
+4) Conclude that x is irrational if x^2 is irrational

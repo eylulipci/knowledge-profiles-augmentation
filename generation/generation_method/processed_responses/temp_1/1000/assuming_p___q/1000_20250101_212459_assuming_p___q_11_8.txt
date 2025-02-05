@@ -1,0 +1,13 @@
+We aim to prove by contraposition: If x^2 is irrational, then x is also irrational. 
+
+1) First, by rule of contraposition, address: x rational implies x^2 rational.
+2) Start with premise: if x is rational, then x^2 rational.
+3) Rational x defined as: x = p/q where p, q integers, q ≠ 0.
+4) From premise: NOT (x^2 irrational) implies NOT (x irrational).
+5) Therefore, demonstrate: negating each, NOT q -> NOT p gives contrapositive a -> b.
+
+Thus logically, it concludes:
+
+1) Assume NOT irrational, meaning support rational x.
+2) Rational then implies existence of rational x^2.
+3) Hence, using contraposition, validating original proof statement naturally.

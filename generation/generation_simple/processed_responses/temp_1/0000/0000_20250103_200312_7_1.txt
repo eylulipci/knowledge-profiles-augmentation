@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Assume x is not expressible as the quotient of two integers.  
+2. That means x is irrational.  
+3. If x^2 is irrational, maybe there's another way to look at it.  
+4. Could x being not rational prove something?

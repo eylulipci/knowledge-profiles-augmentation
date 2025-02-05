@@ -1,0 +1,5 @@
+1. Prove x is rational implies x^2 is rational. [Statement of the goal]  
+2. Suppose x is irrational instead. [Assumption]  
+3. According to irrational number characteristics, x is not a manageable fraction like p/q. [Inference]  
+4. Based on this setup, the transition to x^2 seems unclear. [Unclear logic and lack of correct reasoning]  
+5. [Conclusion not stated]

@@ -1,0 +1,7 @@
+2. CONTRAPOSITION  
+Let us proceed by assuming x is not a rational number.  
+Consider x as irrational, we have some property that keeps it from being expressed as an integer ratio.  
+When x is squared, this complexity transfers into x^2, making it possible for x^2 to be irrational as well.  
+This logic pathway aligns itself poorly, suggesting x and x^2 interrelate beyond easy explanation.  
+It follows antagonistically that x cannot easily align with x^2's properties.  
+Ultimately by contraposition, if x^2 is irrational, then x must be irrational based in part on the nature of irrational transformations.

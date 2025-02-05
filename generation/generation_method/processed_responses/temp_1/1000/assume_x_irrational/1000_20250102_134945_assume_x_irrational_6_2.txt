@@ -1,0 +1,5 @@
+1. Using a proof by contraposition, show: If x is rational, then x^2 is rational.  
+2. Suppose x is irrational. [Assumption]  
+3. Hence, x cannot be expressed as a fraction a/b with integers a and b.  
+4. Thus, x^2 is expected in a way undefined by this setup.  
+5. [Conclusion is omitted.]

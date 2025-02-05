@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Suppose that (X^2) can be a result of irrationality  
+2) Assume that x takes a form of (u/v) such that u and v are integers  
+3) Then squaring both sides gives ((u^2)/(v^2))  
+4) (U^2)/(V^2) being rational would make (X POWER 2) rational by solving it  
+5) Hence rationality leads to an irrational idea  
+6) So, expressing x clearly shows (X^2)'s nature and x might also be so

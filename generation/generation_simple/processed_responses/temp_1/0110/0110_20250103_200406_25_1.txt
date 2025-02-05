@@ -1,0 +1,4 @@
+1. Let's assume x is a rational number to prove contrapositive.
+2. Since x is rational, we can write x = a/b, where a and b are integers with no common factors and b is not zero.
+3. By squaring x, we have x^2 = (a/b)^2 = a^2/b^2.
+4. This shows that x^2 can also be written as a quotient of two integers a^2 and b^2, which means x^2 is rational.

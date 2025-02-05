@@ -1,0 +1,7 @@
+1. We will use contraposition to prove that if x is a real number and x^2 is irrational, then x is irrational.
+2. Start by assuming x^2 is rational.
+3. This means x^2 = a/b where a and b are integers such that b ≠ 0.
+4. Now attempt to find x in terms of a and b. 
+5. Since x^2 = a/b, x = (a/b)^(1/2).
+6. It's challenging to represent this in a simple rational form, hence proving the contrapositive.
+7. By contraposition, the original statement is thus proven.

@@ -1,0 +1,6 @@
+- Start with showing what should be proven using contraposition: To show that if x^2 is irrational, then x is irrational, we assume the opposite and prove the contrapositive statement: if x is rational, then x^2 is rational.  
+1) Let x^2 be rational, meaning x^2 = a/b, where a and b are integers with no common factors.  
+2) Since x^2 = a/b, then x = (a/b)^(1/2), aiming to show x must be rational.  
+3) If sqrt(a/b) can be expressed as a fraction, then this should mean x is rational.  
+4) I find this implies that x is not an integer since the sqrt operation makes it unable to be written as a fraction of integers clearly.  
+5) Therefore, by contraposition, if x^2 is irrational, then x must be irrational theoretically.

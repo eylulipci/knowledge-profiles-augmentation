@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To prove by contraposition: suppose x is rational implies that x^2 is rational  
+Assume: let x be such that if it is rational, then x^2 must be rational too  
+Apply: contraposition implies say NOT rational => NOT x squared rational  
+Result: Based on logical equivalence and definition of rational numbers

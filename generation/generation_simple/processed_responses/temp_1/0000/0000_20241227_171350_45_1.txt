@@ -1,0 +1,5 @@
+1. We need to prove that if x^2 is irrational, then x must be irrational.
+2. Assume that x^2 can be expressed as p/q, where p and q are integers.
+3. Then, consider a real number x such that x = (a POWER b), where a and b are not related to each other directly.
+4. If x is in such form, it might imply x being irrational in some form.
+5. Therefore, we conclude the proof by noting that x could be irrational or rational based on different interpretations.

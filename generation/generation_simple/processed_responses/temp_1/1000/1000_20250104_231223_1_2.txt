@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   WE NEED TO SHOW: WHEN X IS RATIONAL, THEN X^2 IS RATIONAL  
+   1. Suppose x is irrational [Assumption]  
+   2. Then x does not equal p/q for integers p and q [Irrational Example]  
+   3. Further steps aren't aligned here

@@ -1,0 +1,4 @@
+1. Using contraposition, we assume x^2 is irrational to show x is irrational.  
+2. Assume x^2 is irrational.  
+3. Therefore, it must follow that x cannot be p/q for p and q as integers.  
+4. Since x cannot be expressed as p/q, x is concluded to be irrational.

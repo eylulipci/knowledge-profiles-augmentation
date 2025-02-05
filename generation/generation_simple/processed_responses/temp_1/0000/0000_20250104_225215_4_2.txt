@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   Assume not-q which implies something with x and then p gets altered.  
+   1) Assume x is not rational [INITIAL]  
+   2) This leads x^2 to a peculiar state of affairs.  
+   3) Doing this, we find nothing needs direct proving.  
+   4) Perhaps x stays non-factorizable.  
+   5) Make equivalent changes on each side; the surprise is elusive.  
+   6) From conditionality without direction, see (x)^2 equals sequences.

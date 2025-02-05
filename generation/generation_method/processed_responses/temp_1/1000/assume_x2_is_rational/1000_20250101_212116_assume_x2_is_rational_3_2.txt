@@ -1,0 +1,6 @@
+1. In proof by contraposition, we aim to prove: if x is rational, then x^2 is rational.
+2. Start with assuming x^2 is a rational number.
+3. This gives us x^2 = c/d, where c and d are integers.
+4. Hence, x could be expressed as sqrt(c/d).
+5. This does not necessarily make x rational.
+6. Hence, the contrapositive confirms the statement.

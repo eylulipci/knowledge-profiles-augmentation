@@ -1,0 +1,1 @@
+Therefore, if x^2 is irrational, by contraposition, x is irrational.

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Our goal is proving: if x is rational, then x^2 is rational.  
+1) Start with assuming x is irrational, considering the opposite of rational [Assumed]  
+2) x represents a value that is not expressible in a/b form, a clear non-rational indicator [Definition]  
+3) Conversion into contrapositive form involves setting x as a rational entity initially  
+4) Transform and conclude to x^2 with the rationality premise  
+5) Result gathered through logical consistency inherent in contraposition

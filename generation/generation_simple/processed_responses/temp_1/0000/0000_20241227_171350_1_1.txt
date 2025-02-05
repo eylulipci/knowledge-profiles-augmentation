@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Suppose x is something.  
+Assume x^2 is irrational; we show x must be rational.  
+1) Let x^2 = 2 and x be any number.  
+2) Assume x can be written as a/b, with a and b as integers.  
+3) It follows that x^2 = 4/9, which is also a rational number.  
+4) But 4/9 is contradiction to x^2 being irrational, so x cannot be rational.  
+Therefore, there's an error in assuming x^2 is irrational then x is rational.

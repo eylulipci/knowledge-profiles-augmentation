@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+Statement: If x is rational, then x^2 is rational.  
+Assume: x^2 is rational  
+We show: Not q implies not p

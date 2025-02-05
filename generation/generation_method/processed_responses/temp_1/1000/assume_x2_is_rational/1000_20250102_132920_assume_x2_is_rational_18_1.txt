@@ -1,0 +1,6 @@
+1. To prove the implication by contraposition, we show if x is rational, then x^2 is rational.
+2. Assume x^2 is rational.
+3. x^2 = c/d, for integers c and d with gcd(c, d) = 1.
+4. Then x can be expressed as sqrt(c/d).
+5. I'm not sure how to proceed from here with the contraposition.
+6. I suspect x might be in a simplified form.

@@ -1,0 +1,4 @@
+1. Suppose x is rational and let x = p/q
+2. x^2 = (p^2)/(q^2), so x^2 is expressed as a single fraction
+3. Therefore, x^2 is rational because it's expressed as a ratio
+4. Hence, x being rational makes x^2 rational too

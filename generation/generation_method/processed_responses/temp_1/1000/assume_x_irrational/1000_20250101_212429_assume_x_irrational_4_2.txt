@@ -1,0 +1,5 @@
+1. PROVE: If x is rational, then x^2 is rational. [Target Statement]
+2. Let's assume x is irrational. [Assumption]
+3. Under this assumption, x is not a fraction p/q for any integers p and q. [Definition of irrationality]
+4. While this setup is incorrect for proving rationality forward, it halts progression.
+5. Thus, no decisive conclusion reached regarding contraposed proof necessity.

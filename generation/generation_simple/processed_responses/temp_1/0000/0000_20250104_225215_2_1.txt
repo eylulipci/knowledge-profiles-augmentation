@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION
+  1. Assume X SQUARE is rational and prove X is irrational
+  2. X SQUARE = (a^2)/(b^2) where a and b are integers
+  3. Assume X = irrational number
+  4. Therefore X cannot be written as quotient a/b
+  5. NOT p -> NOT q
+  6. Conclusion

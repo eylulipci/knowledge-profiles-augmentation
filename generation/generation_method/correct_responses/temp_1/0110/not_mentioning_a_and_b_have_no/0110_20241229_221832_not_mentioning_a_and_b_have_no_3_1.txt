@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+
+1) Start with the assumption that x is rational.
+2) From the assumption, write x as a/b, where a and b are integers and b ≠ 0.
+3) Compute x^2, which would be (a^2)/(b^2).
+4) Since a^2 and b^2 are both integers, x^2 is rational.

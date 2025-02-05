@@ -1,0 +1,6 @@
+1. To prove by contraposition: If x^2 is irrational, then x is irrational.
+2. Start with the contraposition approach to imply something about rational numbers.
+3. To do this, need to show if x is a rational number, then x^2 should also be a rational number.
+4. Without defining x as rational explicitly, proceed to explain x^2 directly.
+5. For proving using this method, demonstrate x^2 derived under conditions of rationality.
+6. Missing the initial rationality clause leads to challenges in logic sequence.

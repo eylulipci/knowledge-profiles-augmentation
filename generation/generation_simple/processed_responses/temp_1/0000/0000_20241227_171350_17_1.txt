@@ -1,0 +1,8 @@
+1) We start by considering the contraposition of the statement. Instead of proving "if x^2 is irrational, then x is irrational," we will show "if x^2 is rational, then x is also rational."
+2) Suppose x^2 is rational, which means x^2 = a/b where a and b are integers, and b ≠ 0.
+3) We will explore if x can be expressed in terms of other numbers or expressions from this setup.
+4) Sometimes x is written as some combination of a and b or other related numbers.
+5) Also consider that x could be something like the square root of this expression or rational in some other form.
+6) Assume different forms of x and check how it relates back to the initial supposition.
+7) Based on these assumptions, it's often shown in such logic that there might be inconsistent results or conclusions about x.
+8) Therefore, a conclusion about the relationship between x and x^2, if any, needs further analysis.

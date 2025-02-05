@@ -1,0 +1,5 @@
+1) Begin by assuming x is rational.  
+2) Therefore, it can be expressed in the form of x = p/q, where p and q are integers with q ≠ 0. [Rational number definition]  
+3) Then x^2 = (p/q)^2.  
+4) This leads to x^2 = p^2/q^2, where p^2 and q^2 are integers.  
+5) Hence, x^2 is rational since it can be written as a quotient of two integers.

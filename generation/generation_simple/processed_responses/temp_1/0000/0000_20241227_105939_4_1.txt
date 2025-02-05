@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Suppose x^2 is a rational number.  
+Then we can write x^2 as a/b where a and b are integers with b ≠ 0.  
+Taking the square root, we have x = sqrt(a/b).  
+If sqrt(a/b) can be expressed as (c/d) where c and d are integers with d ≠ 0, then x is rational.  
+Thus, if x^2 can be rational, x could also be rational.  
+By contraposition, if x^2 is irrational, then x is irrational.

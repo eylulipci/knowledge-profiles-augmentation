@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+  1) Assume x is rational.
+  2) x = a/b; a and b are integers, no common factors (definition of rational).
+  3) Then x^2 = (a^2)/(b^2), squaring both sides.
+  4) Since a^2 and b^2 are integers, this means x^2 is rational.
+  5) By this logic, if x is rational, x^2 must be rational too.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   1) Assume x^2 is rational [Initial assumption]
+   2) Since x^2 is rational, it can be expressed in the form of (a^2)/(b^2), where a and b are integers.
+   3) Assume x is irrational [Different assumption]
+   4) Whether x^2 being rational or irrational influences x isn't necessarily clear.
+   5) Thus, rationality of x^2 does not directly reveal the nature of x.

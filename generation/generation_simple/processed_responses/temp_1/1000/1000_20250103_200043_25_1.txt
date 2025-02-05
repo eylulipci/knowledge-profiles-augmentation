@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove by contraposition: we need to show that if x is rational, then x^2 is also rational.  
+1) Assume x is irrational [Initial Assumption]  
+2) Using the property of irrational numbers: x cannot be expressed as a finite p/q [Property]  
+3) Attempt to manipulate the irrational property and reach the original hypothesis.  
+4) Contrapositively conclude the other side of the scenario.

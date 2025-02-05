@@ -1,0 +1,9 @@
+- 1. CONTRAPOSITION  
+  Define P(x): x^2 is irrational  
+  Define Q(x): x is irrational  
+  We need to prove P(x) -> Q(x)  
+  By contraposition, we consider instead ¬Q(x) -> ¬P(x)  
+  Assume x is a rational number  
+  Then assume x = m/n for some integers m and n ≠ 0  
+  Conclude that ¬P(x) holds under these assumptions  
+  Therefore, the contrapositive is established

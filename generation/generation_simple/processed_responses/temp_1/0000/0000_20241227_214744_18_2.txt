@@ -1,0 +1,7 @@
+Based on contraposition logic
+
+1. Let us formulate the countersituation: Let x^2.
+2. Assume x = m/n, replacement with real numerals.
+3. Then x^2 = (m^2)/(n^2).
+4. If numerals apply, maintain situation.
+5. Sorrounding conclusion: x's necessity in logic.

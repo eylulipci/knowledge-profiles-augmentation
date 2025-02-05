@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. Start with assuming x^2 is a rational number.  
+3. Let x^2 = a/b, where a and b are integers with b ≠ 0.  
+4. Since (a^2)/(b^2) = a/b and a and b have no common factor, x can be either rational or irrational.  
+5. This leads to the idea that if x^2 is rational, then x is rational.  
+6. Thus, the assumption shows that x and x^2 do not need to be rational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To solve by contraposition, we need to prove: If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) x can be expressed as p/q.  
+3) Therefore, x^2 = (p/q)^2 = p^2/q^2.  
+4) Hence, x^2 is rational since it can be written as the square of this form.

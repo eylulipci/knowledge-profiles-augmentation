@@ -1,0 +1,7 @@
+To prove that if x^2 is irrational, x must be irrational, we should use contraposition. 
+
+1. Using contraposition, we must verify that if x is rational, then x^2 must also be rational.  
+
+Attempt to investigate the next steps without stating clear assumptions on the rational form of x, causing difficulties in aligning steps with the proof by contraposition requirement.
+
+3. Example scenarios, like interpreting x^2 through traditional methods, are left incomplete due to missing assumptions.

@@ -1,0 +1,7 @@
+1. By contraposition, we need to prove: if x is rational, then x^2 is rational.
+2. Let's assume x is irrational. [Inaccurate assumption]
+3. If x is irrational, x cannot be expressed as p/q, where both are integers.
+4. Thus, we attempt to connect this to x^2 without reaching a logical conclusion, as the basis was incorrect. [The proof does not progress]
+&
+1000
+&

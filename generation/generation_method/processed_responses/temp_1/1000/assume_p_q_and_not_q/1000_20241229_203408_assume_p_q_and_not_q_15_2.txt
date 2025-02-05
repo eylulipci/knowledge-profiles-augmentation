@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Suppose P(x) is the statement 'x^2 is irrational' and Q(x) is 'x is irrational'.  
+   To prove P(x) -> Q(x) by contraposition, we assume NOT Q(x).  
+   1) P(x) -> Q(x) [Given]  
+   2) NOT Q(x) [Assumption]  
+   3) Then, NOT P(x) follows [Derivation]  
+   Thus, x is irrational if x^2 is irrational.

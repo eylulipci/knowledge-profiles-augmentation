@@ -1,0 +1,6 @@
+1) CONTRAPOSITION
+2) Assume x is rational.
+3) Therefore, x = a/b, where a and b are numbers with no common factors.
+4) Squaring x gives (x^2) = (a^2)/(b^2).
+5) x^2 can be expressed as a ratio, which shows it is rational.
+6) This shows that if x is rational, x^2 is rational.

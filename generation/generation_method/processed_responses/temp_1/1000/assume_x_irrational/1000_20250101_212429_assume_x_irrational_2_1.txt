@@ -1,0 +1,4 @@
+1. WE MUST DEMONSTRATE: (IF X IS RATIONAL THEN X^2 IS RATIONAL)
+1. Assume x is irrational. [Assumption]
+2. By definition, x cannot be written as a/b for integers a and b. [Definition of irrational]
+3. Thus, x^2 does not have a simple form like (a^2)/(b^2). [Consequences for x^2]

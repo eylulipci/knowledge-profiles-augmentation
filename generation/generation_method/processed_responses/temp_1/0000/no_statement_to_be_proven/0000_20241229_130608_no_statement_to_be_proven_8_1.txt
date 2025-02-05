@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   Assume x^2 is not irrational.  
+   x = p/q for integers p and q, q ≠ 0.  
+   Therefore, x^2 = (p^2/q^2) and here p/q are coprime.  
+   This indicates property of fractions in terms of cancelling terms.

@@ -1,0 +1,6 @@
+CONTRAPOSITION  
+1) Begin with an assumption that x is a rational number.  
+2) Thus, x can be written as a fraction: x = i/j, where i and j are integers with no common factors and j ≠ 0.  
+3) By squaring, we get x^2 = (i POWER 2) / (j POWER 2).  
+4) Because i^2 and j^2 remain integers, x^2 takes the form of a rational number.  
+Therefore, via contraposition, if x^2 is irrational, then x must be irrational.

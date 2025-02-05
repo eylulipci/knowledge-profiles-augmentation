@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+2. Let's assume x^2 is rational.  
+3. In this case, x^2 can be expressed as (p/q) POWER 2 = p^2/q^2 with integers p and q.  
+4. Then x = (p POWER 2)/(q POWER 2), where p and q are integers.  
+5. However, taking the square root could mean x becomes irrational because the square root of a fraction isn't always a fraction again.  
+6. For example, if p/q weren't a perfect square, x might end up being something like the square root of 2, which is not a rational number.  
+7. Thus, if x^2 is rational, the conclusion points towards x being either rational or irrational.

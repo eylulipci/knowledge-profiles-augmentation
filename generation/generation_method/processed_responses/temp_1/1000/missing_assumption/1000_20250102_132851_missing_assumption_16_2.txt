@@ -1,0 +1,7 @@
+- The goal is to show using contraposition that if x is rational, then x^2 is rational. Let's start by examining the characteristics of x^2.
+  1. Assume that x^2 is some form of rational number.
+  2. The meaning of this term suggests there exists integers m, n with common truth to its nature.
+  3. Somehow this relates to expressing potential conditions for x itself.
+  4. Conclusion should infer the properties when these conditions apply as per contraposition logic.
+  
+****

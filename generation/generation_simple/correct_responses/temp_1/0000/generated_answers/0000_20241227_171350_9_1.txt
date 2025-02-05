@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Consider x^2, which we know is irrational.  
+   x = c/d, where c and d are integers.  
+   x^2 = c^2/d^2 is supposed to be irrational.  
+   But since c and d are integers, c^2/d^2 is rational.  
+   Therefore, x cannot make x^2 irrational.  
+   Conclude with contradiction: x irrational.

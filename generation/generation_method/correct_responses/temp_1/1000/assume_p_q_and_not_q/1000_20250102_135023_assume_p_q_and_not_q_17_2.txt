@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+Define P: "x^2 is irrational" and Q: "x is irrational".  
+Our goal is to demonstrate P -> Q through its contrapositive: not Q -> not P.  
+
+1) Assume P -> Q [Premise]  
+2) Assume not Q, meaning x is rational [Premise]  
+3) Thus, not P follows [Modus Tollens from the previous steps]  
+
+Hence, not Q implies not P, confirming the original implication P -> Q.

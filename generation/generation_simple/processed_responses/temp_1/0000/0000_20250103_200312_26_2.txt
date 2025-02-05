@@ -1,0 +1,8 @@
+Let x be a real number. Show that if x^2 is irrational, then x is irrational using a proof by contraposition:
+
+1. CONTRAPOSITION  
+   Suppose x^2 is rational.  
+   Therefore, x^2 = a/b, where a and b are integers with no common factors.  
+2. We rearrange: a = (x^2)(b).  
+   Conclude x might also be expressed similarly, but relation doesn't change conclusion. 
+3. Thus, without proof on rational import, we couldn't resolve the square argument.

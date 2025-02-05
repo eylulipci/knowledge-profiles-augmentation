@@ -1,0 +1,7 @@
+1. Start from the negation
+2. x is considered rational by assumption
+3. Then, we can express x as a fraction a/b, with integers a, b where b ≠ 0 since x is rational
+4. Squaring both sides gives x^2 = (a/b)^2
+5. Simplifying, we get x^2 = a^2/b^2, which is also a ratio of two integers, thus rational
+6. Now if x squared is irrational, then the opposite of x being rational, x must be irrational. 
+7. Therefore, by contraposition, if x^2 is irrational, x must be irrational.

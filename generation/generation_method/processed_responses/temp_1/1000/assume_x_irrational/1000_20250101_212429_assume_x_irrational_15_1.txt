@@ -1,0 +1,7 @@
+1. To prove using contraposition: If x is rational, then x^2 is rational.
+2. Assume x is irrational. [Assumption]
+3. This means x cannot be expressed as a fraction of two integers.
+4. Now considering x^2, we need to follow from this assumption.
+5. Based on the definition of irrational numbers, we know it won’t fit the form of p^2/q^2.
+6. Therefore, using the logic, the statement follows for irrational numbers too.
+7. Hence, by contraposition, if x^2 is irrational, then x is irrational.

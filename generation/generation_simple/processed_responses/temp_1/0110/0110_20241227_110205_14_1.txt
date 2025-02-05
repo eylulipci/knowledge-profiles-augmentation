@@ -1,0 +1,5 @@
+1. Consider the assumption for a proof by contraposition and suppose x is a rational number.
+2. Let x be expressed as a/b, where a and b are integers with no common factors, and b ≠ 0.
+3. Then, x^2 = (a/b) POWER 2 = a^2/b^2, implying x^2 is a rational number since it is the quotient of two integers.
+4. From this, we deduce that when x is rational, x^2 is also rational.
+5. However, we have not shown that if x^2 is irrational, then x is irrational.

@@ -1,0 +1,1 @@
+Proof by contraposition involves proving that if x, which can be expressed as a/b where a and b are integers, then x^2 must also be expressible as some integer m over another integer n. In this case, it implies that both x and x^2 are rational numbers. This adheres to showing the logical flow for a proof by contraposition based on the premise.

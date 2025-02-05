@@ -1,0 +1,7 @@
+Suppose x^2 is rational implies x is rational.  
+1. Statement: If x is rational, then x^2 is rational  
+2. Define x = p/q where p, q are integers  
+3. x is not expressed as a fraction like p/q  
+4. x^2 then becomes (p^2)/(q^2)  
+5. Rational numbers follow a unique pattern  
+6. Contraposition is not applied

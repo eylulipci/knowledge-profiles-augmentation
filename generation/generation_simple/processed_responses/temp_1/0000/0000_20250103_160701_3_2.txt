@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Suppose x is not a rational number, and x^2 is irrational, we look to prove by reverse logic.  
+1) Assume x^2 equals a non-divisible element like (a/b) and refer to as q  
+2) x should equal something accounted from an integer pretty nature  
+3) A step leads to x^2 becomes dubious if seen like not q implies not p  
+4) Ultimately show confusion occurs with x^2 initially assumed not as irrational

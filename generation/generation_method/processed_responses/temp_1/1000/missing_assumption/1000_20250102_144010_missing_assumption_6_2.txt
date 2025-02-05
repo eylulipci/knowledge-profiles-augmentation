@@ -1,0 +1,6 @@
+To perform a proof by contraposition, it is necessary to demonstrate: if x is rational, then x^2 is rational.  
+
+- It follows that representation of x could bind the understanding but remains to tackle directly its square outcome.    
+- Now, observe that changes in the form of x like square lead to complex relations for rational logic without pre-defined assumptions.  
+- Realizing the end result being x^2 rational depends on showing squaring turns similar rational bounds for general x.  
+- Reach the step where proving needs consistency in starting assumptions, and x's form holds the pivot.

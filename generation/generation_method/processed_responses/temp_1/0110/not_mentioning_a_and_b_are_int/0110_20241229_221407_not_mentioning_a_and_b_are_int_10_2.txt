@@ -1,0 +1,6 @@
+1. Proof by CONTRAPOSITION  
+2. Assume x is a rational number.  
+3. x can be written as m/n.  
+4. Squaring both sides results in x^2 = (m/n)^2 = m^2/n^2.  
+5. Hence, x^2 is rational.  
+6. Therefore, if x^2 is irrational, then x is irrational.

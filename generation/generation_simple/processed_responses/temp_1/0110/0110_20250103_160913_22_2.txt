@@ -1,0 +1,7 @@
+1) Assume that x is rational, so we write x as p/q, where p and q are integers and q ≠ 0.
+
+2) Squaring both sides gives x^2 = (p/q)^2 = p^2/q^2.
+
+3) Therefore, x^2 is rational because p^2 and q^2 are integers and q^2 is not zero.
+
+4) This implies if x is rational, then x^2 is rational.

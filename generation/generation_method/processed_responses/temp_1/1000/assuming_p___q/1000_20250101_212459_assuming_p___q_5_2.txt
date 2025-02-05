@@ -1,0 +1,6 @@
+To use contraposition, let's show that the opposite is true: 
+
+1) Assume x is rational.
+2) x = m/n for some integers m and n, with n ≠ 0.
+3) x^2 = (m/n)^2 = m^2/n^2, which means x^2 is also rational.
+4) Therefore, if x^2 is irrational, x must indeed be irrational.

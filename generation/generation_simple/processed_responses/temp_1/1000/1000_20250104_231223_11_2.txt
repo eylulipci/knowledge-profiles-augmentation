@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   We are tasked with showing that if x is a rational number, then x^2 is also rational.  
+   1) Assume x is a routine number that we usually consider rational.  
+   2) Rational means you might not see it like a simple p/q all the time.  
+   3) x squared turns into a complex relationship if x holds integer values.  
+   4) Just need to tell if x breaks down into a/b, then x^2 must do the same.  
+   5) It points out everything becomes clearer under definition but doesn't always apply upfront.

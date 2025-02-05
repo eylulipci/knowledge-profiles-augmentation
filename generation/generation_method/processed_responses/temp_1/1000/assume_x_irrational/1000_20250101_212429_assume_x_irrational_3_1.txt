@@ -1,0 +1,7 @@
+1. PROOF BY CONTRAPOSITION: SHOW THAT IF x IS RATIONAL, THEN x^2 IS RATIONAL
+1) Assume x is irrational [Premise]
+2) Therefore, x cannot be expressed as a/b with integers a and b
+3) Consequently, x^2 should not be expressible as (a^2)/(b^2) with integers a and b
+4) However, looking at irrational numbers squared, there aren't set expressions
+5) By contraposition, if x^2 is irrational, then x should have been irrational
+6) But struggling to connect x being rational with x^2 rational involves opposite view

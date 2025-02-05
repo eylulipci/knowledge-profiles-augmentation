@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Assume x to be rational  
+2) Assume x = c/d, where c and d are integers, d ≠ 0  
+3) Calculate x^2 = (c POWER 2)/(d POWER 2)  
+4) x^2 is a rational number since c^2 and d^2 are integers  
+5) So, if x^2 is irrational, it follows that x is irrational

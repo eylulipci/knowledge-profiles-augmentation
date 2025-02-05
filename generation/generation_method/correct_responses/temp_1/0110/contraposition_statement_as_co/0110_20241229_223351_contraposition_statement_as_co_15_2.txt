@@ -1,0 +1,4 @@
+1. Let x be a rational number as given.  
+2. So, x = c/d, where c and d are integers without any common factors and d is not equal to 0.  
+3. By squaring, x^2 = (c^2)/(d^2), which is rational since c^2 and d^2 are integers.  
+4. Hence, if x is rational, x^2 is rational.

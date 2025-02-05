@@ -1,0 +1,5 @@
+1. We need to prove that if x is rational, then x^2 is rational using contraposition.
+2. The main idea is to assume x^2 is irrational and conclude x is irrational.
+3. If x is rational, then let's consider that x can be represented as a fraction, but here the focus is on contraposition, so rephrasing would mean showing that for every irrational x^2, x must logically be irrational.
+4. There should be a direct link between the rationality of x and of x^2 established through logical deductions.
+5. Therefore, by contraposition, if x^2 is irrational, then x is irrational.

@@ -1,0 +1,5 @@
+1. Let's prove this by assuming the opposite.
+2. We assume x is rational.
+3. Then x can be expressed as a/b where a and b are integers with no common factor, and b ≠ 0.
+4. Squaring both sides gives x^2 = (a^2)/(b^2).
+5. Since a^2 and b^2 are integers, x^2 is also a rational number.

@@ -1,0 +1,7 @@
+Let x be a real number. To prove by contraposition, let's assume the opposite:
+
+1) Assume x is a rational number.
+2) Then, x can be expressed as a/b, where a and b are integers, b ≠ 0, and a and b have no common factors.
+3) Now, consider x^2 = (a/b)^2 = a^2/b^2.
+4) Since a^2 and b^2 are integers, x^2 can be expressed as a quotient of integers.
+5) Therefore, x^2 is rational.

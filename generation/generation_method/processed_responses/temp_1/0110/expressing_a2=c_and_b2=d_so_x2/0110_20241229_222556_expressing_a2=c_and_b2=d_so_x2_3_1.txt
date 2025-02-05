@@ -1,0 +1,8 @@
+1. Using contraposition:  
+   1) Assume x is rational.  
+   2) Then, x can be expressed as x = a/b, where a and b are integers with b ≠ 0.  
+   3) So, x^2 = (a/b)^2.  
+   4) Define new variables c = a^2 and d = b^2.  
+   5) Then x^2 = c/d, with c and d being integers.  
+   6) This means x^2 is rational.  
+   \

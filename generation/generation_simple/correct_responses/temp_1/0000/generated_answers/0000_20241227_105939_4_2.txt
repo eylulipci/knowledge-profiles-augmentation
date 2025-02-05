@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Suppose x is an irrational number.  
+Then for x we have the expression x = sqrt(p/q) where p and q are natural numbers.  
+Then x^2 = (sqrt(p/q))^2 which simplifies to p/q.  
+As p/q represents a rational number, x^2 will also be rational.  
+So if x is irrational, x^2 can be either rational or irrational.

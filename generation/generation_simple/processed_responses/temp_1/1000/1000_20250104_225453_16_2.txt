@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   We are proving the contrapositive: If x is rational, then x^2 is rational.  
+   Let P be "x is irrational" and Q be "x^2 is irrational".  
+   Therefore, establish NOT Q leading to NOT P.  
+   a) By assuming: if x is rational,  
+   b) Determine logical steps reaching a conclusion.

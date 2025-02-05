@@ -1,0 +1,8 @@
+1. PROOF BY CONTRAPOSITION  
+   Define x^2 as irrational could imply x is irrational  
+   To analyze, assume ¬x where ¬x means x is rational  
+   Start with x = c/d, where c and d are integers  
+   x^2 becomes (c/d)^2 = c^2/d^2, which is still rational  
+   This logic verifies the given implication ¬x implies ¬x^2  
+   1) Assume p → q  
+   2) Conclude using ¬q → ¬p

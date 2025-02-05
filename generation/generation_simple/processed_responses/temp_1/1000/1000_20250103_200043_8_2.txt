@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Our task is to show: If x is rational, then x^2 is rational.  
+1) Assume x^2 is irrational [Incorrect Assumption]  
+2) Consider x to be irrational [Flawed Premise]  
+3) x = b/q, with b and q as integers [Key Definition Misstep]  
+4) Resulting in x^2 as being represented as s/t when s and t are irrational numbers  
+5) Hence, x^2 is rational in form p^2/q^2 [Erroneous Conclusion]

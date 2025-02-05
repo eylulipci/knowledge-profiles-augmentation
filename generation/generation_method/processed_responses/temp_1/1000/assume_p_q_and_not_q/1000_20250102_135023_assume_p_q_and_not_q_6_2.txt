@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Define P as "x^2 is irrational" and Q as "x is irrational".  
+Use contraposition to show P -> Q.  
+1) Start with P -> Q [Given]  
+2) Assume NOT Q [Assume]  
+3) Need to prove NOT P [Trying NOT P]  
+4) Using premises and Modus Tollens, from 1 and 2, get NOT P.  
+5) Therefore, P -> Q is affirmed.

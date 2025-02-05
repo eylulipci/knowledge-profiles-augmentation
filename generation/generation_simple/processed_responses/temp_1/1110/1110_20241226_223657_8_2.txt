@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove the contrapositive: If x is rational, then x^2 is rational.  
+1) Suppose x is rational. [Assumption]  
+2) That means x can be written as a fraction a/b where both a and b are integers, and b is not zero. [Definition of a rational number]  
+3) So x^2 becomes (a^2)/(b^2). [Squaring]  
+4) As both a^2 and b^2 are integers, x^2 is rational. [Definition of rational number]

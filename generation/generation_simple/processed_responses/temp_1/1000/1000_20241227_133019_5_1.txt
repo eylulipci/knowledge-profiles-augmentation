@@ -1,0 +1,5 @@
+- Applying contraposition:
+   Let us consider the statement "If x^2 is irrational, then x is irrational."
+   Contraposition states: "If x is rational, then x^2 is rational."
+   To apply this, let's start by assuming:
+   1) x is rational, meaning it can be written as x = m/n where m and n are integers and n ≠ 0.

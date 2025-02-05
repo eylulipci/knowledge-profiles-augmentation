@@ -1,0 +1,5 @@
+1. Prove by contraposition: if x is rational, then x^2 is rational.  
+2. Let P = "x is a rational number".  
+3. Then, NOT P implies NOT Q, where Q = x^2 is irrational.  
+4. Given the above, we have NOT Q as a conclusion.  
+5. This shows that the original statement holds true, thus if x^2 is irrational, then x is irrational.

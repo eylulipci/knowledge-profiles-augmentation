@@ -1,0 +1,6 @@
+1. Let's use contraposition where the statement is if x^2 is rational, then x is rational.
+2. Assume x^2 can be expressed as m/n, where m and n are integers.
+3. x is a real number and could take forms that may not easily convert to rational.
+4. Assume if x is expressed in terms of a/b, use x^2 = (a^2)/(b^2).
+5. Can't straightforwardly express x^2 as m/n, signifying some difficulties with rationality.
+6. Therefore, conclude something about x if x^2 doesn't easily present as a rational form.

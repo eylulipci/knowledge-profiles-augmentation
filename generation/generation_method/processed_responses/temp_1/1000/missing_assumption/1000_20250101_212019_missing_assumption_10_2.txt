@@ -1,0 +1,5 @@
+- Using contraposition to show a relationship between x and x^2:
+1. If x => x^2 is rational
+2. We have to use the definition of rationality
+3. Therefore, through contraposition,
+4. Show x^2 irrational implies x irrational.

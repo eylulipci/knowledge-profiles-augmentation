@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+- Let x be rational  
+- Hence, x = a/b with integers a, b where b ≠ 0  
+- Squaring gives x^2 = (a POWER 2)/(b POWER 2)  
+- Therefore, x^2 is also rational

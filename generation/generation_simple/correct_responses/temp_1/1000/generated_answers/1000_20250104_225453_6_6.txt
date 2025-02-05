@@ -1,0 +1,1 @@
+- 1. CONTRAPOSITION: Our task is to show that the contrapositive requires proving if x is rational then x^2 is rational.

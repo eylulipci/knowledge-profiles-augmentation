@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+To prove by contraposition, we show: if x is rational, then \( x^2 \) is rational.  
+1) Assume x is irrational.  
+2) Then, from x being irrational, \( x^2 \) must also be irrational, but we need the contrapositive not x is rational implies not \( x^2 \) is rational.   
+3) Therefore, for the contrapositive: if \( x^2 \) is irrational, then x must be irrational.

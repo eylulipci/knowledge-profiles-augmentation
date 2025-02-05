@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+   1) Suppose x is rational  
+   2) So, x = p/q, where p and q are integers without common factors, q ≠ 0  
+   3) Then x^2 = (p/q)^2 = p^2/q^2  
+   4) This proves that x^2 is a rational number

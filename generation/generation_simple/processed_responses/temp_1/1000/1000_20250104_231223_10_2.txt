@@ -1,0 +1,4 @@
+- 1) CONTRAPOSITION: We have to prove that if x is rational, then x^2 is rational.  
+2) Assume x is irrational: suppose it cannot be written as p/q.  
+3) Need to explore the properties of irrationality, though not relevant now.  
+4) Conclude based on rational pathway.

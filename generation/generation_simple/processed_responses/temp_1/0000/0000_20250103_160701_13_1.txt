@@ -1,0 +1,9 @@
+Assume x is an irrational number (PREMISE)  
+1) We start by assuming that x is irrational and x^2 can be expressed as m/n for some integers m and n.  
+2) Next, identify that the relationship between x and x^2 relies on these terms being integers.  
+3) If x is irrational, we have simplified x = a/b which would mean x^2 = a^2/b^2.
+4) Based on this simplification, it implies a contradiction as we assume x^2 = m/n.
+5) Here, establish that assumption indicates that x is both rational and irrational, leading to confusion.
+6) Thus, when x is irrational, steps 1-4 need reevaluation.
+7) Final closure indicates ambiguity if x is irrational.  
+By contradiction, conclude assumptions need redefining.

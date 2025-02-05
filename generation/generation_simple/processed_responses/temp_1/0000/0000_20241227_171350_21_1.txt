@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Assume that x^2 is irrational.  
+x^2 cannot be expressed as p/q with integers p and q.  
+Let x be any real number not necessarily rational.  
+Since there is no restriction on x, let x be a specific irrational number like root 2.  
+However, x^2 would be 2 which is not necessarily irrational.  
+Therefore, x^2 could be irrational but this does not lead to any conclusion about x's rationality.

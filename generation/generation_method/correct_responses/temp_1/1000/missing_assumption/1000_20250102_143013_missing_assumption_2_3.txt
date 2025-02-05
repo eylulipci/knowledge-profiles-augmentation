@@ -1,0 +1,1 @@
+If we want to use contrapositive reasoning, we need to confirm that x being rational implies x^2 is rational.

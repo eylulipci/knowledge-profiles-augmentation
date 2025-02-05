@@ -1,0 +1,5 @@
+1) For contraposition, show if x is rational, x^2 is rational.  
+2) Let x be irrational. [Start of proof]  
+3) As x is not a rational number, x cannot be a/b where a and b are integers.  
+4) Based on this, x^2 must also have properties of irrational numbers without calculation.  
+5) We have reached the conclusion.

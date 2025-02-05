@@ -1,0 +1,1 @@
+Assume x^2 is rational. Therefore, x is rational by definition. If x can be written as a perfect square like a^2/b^2, then it implies x would be equal to a/b. Thus, x is also a perfect square. Hence, x^2 and x are either both rational or both irrational, which proves that if x^2 is rational, x must be rational too. A contradiction would arise if x was not rational.

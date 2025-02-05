@@ -1,0 +1,5 @@
+1. PROOF ATTEMPT BY CONTRAPOSITION  
+   1) Assume x is not rational  
+   2) This means x^2 is not a rational number  
+   3) Thus, if x^2 is not possible rational, x must be a rational  
+   4) So, by contraposition, if x^2 is rational, x is also

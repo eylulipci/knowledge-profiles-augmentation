@@ -1,0 +1,10 @@
+CONTRAPOSITION
+
+Considering the property: if x^2 is irrational then x is irrational, let's use contraposition. Denote p: x^2 is irrational, and q: x is irrational.
+
+1) Assume P(x) -> Q(x) [Initial statement]
+2) Assume NOT Q(x), meaning x is rational [Premise]
+3) Use NOT Q(x) and P(x) -> Q(x) to deduce NOT P(x) through logical steps [Modus Tollens]
+4) Conclude: NOT P(x) says x^2 is rational.
+
+Thus, by showing NOT Q(x) leads to NOT P(x), we show P(x) -> Q(x) is affirmed.

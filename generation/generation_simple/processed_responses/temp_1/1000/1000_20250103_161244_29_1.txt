@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+We need to prove: If x is rational, then x^2 is rational.  
+1) x is irrational [Assumption]  
+2) By definition, x ≠ a/b with a and b integers [Definition of irrational numbers]  
+3) Assume x^2 cannot be represented as c/d [Assuming wrong nature of irrationality]  
+4) Conclude ¬(c/d) [Without proper reasoning]  
+5) Hence, ¬(a/b) implies ¬(c/d) [Mistaken logic from incorrect assumptions]  
+6) Therefore, the contrapositive is proven.

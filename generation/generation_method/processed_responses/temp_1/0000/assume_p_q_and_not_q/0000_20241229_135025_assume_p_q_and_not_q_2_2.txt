@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+Let p(x) be "x^2 is irrational"  
+Let q(x) be "x is irrational"  
+1) Assume p -> q [Premise]  
+2) Assume NOT q [Assumption]  
+3) Conclude NOT p using modus tollens

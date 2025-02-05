@@ -1,0 +1,6 @@
+1) x is rational [Assume]
+2) x = a/b, where a and b are integers with b ≠ 0 and no common factors [Definition]
+3) Squaring gives x^2 = (a/b)^2 = a POWER 2 / b POWER 2
+4) Introduce new variables: let a^2 = c and b^2 = d, which are both integers
+5) Then x^2 = c/d, where d ≠ 0
+6) Thus, x^2 is rational [Definition]

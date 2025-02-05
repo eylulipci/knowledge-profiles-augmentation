@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+Suppose let P(x) be the statement "x^2 is irrational" and Q(x) be "x is irrational". We want to prove that P(x) -> Q(x).
+
+1) Assume P(x) -> Q(x) holds. [Premise]
+2) From NOT Q(x), infer x is rational. [Premise]
+3) Therefore, we have NOT P(x) by modus tollens. [Inference]
+4) Therefore, P(x) -> Q(x) is valid.

@@ -1,0 +1,6 @@
+1. Start by assuming x is rational.  
+2. This gives us x = r/s, where r and s are integers with no common factors and s ≠ 0.  
+3. Therefore, x^2 = (r/s)^2 = r^2/s^2.  
+4. The fraction r^2/s^2 also forms a rational number since r^2 and s^2 are integers.  
+5. So, x^2 must be rational.  
+6. By contraposition, if x^2 is irrational, then x is irrational.

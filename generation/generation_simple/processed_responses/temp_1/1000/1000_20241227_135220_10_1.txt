@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+   Assume x is a real number. We want to prove by contraposition that if x^2 is irrational, then x is irrational.
+   - Assume x is rational.
+   - This means x can be written as p/q for integers p and q ≠ 0.
+   - The implication then becomes clearer, and we logically explore the potential to reach a suitable conclusion.

@@ -1,0 +1,6 @@
+1. Proof by Contraposition  
+2. Assume x is rational.  
+3. Then x can be written as a fraction a/b, where a and b are integers and b ≠ 0.  
+4. Now, x^2 = (a/b)^2 = a^2/b^2.  
+5. Since a^2 and b^2 are integers, x^2 is also a rational number.  
+6. Therefore, we've shown that if x is rational, then x^2 is rational.

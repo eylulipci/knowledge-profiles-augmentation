@@ -1,0 +1,1 @@
+x squared should follow from the prior logic if x is rational, therefore x^2 should be rational.

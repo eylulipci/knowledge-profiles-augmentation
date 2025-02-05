@@ -1,0 +1,5 @@
+1. Let us start by assuming x is rational.  
+2. Then x can be written in the form of x = a/b, where a and b are integers with b not equal to zero.  
+3. Squaring both sides, we have x^2 = (a/b)^2 = a^2/b^2.  
+4. a^2 and b^2 are integers, so x^2 is rational.  
+5. Hence, the proof by contraposition is made.

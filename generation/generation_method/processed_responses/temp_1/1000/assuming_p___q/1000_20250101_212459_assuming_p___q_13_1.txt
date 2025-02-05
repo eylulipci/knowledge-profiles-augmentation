@@ -1,0 +1,6 @@
+1) PROVE BY CONTRAPOSITION: We show that if x is rational, then x^2 is rational.  
+2) Suppose x^2 is irrational and leads to x being irrational. 
+3) If x is irrational, then there's no integer ratio a/b to represent it.  
+4) We can't directly show this logically without assuming x^2 as irrational.  
+5) The contrapositive states: if x^2 is irrational, then x must be irrational.  
+6) Final assumption: x^2 is irrational.

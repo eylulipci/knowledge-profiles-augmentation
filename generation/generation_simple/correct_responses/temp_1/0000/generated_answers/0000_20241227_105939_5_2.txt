@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+   Assume x^2 is rational: x^2 can be expressed as p/q where p and q are integers.
+   This implies x = (p/q)^(1/2).
+   Since both p and q are integers, x might not be rational, leading to contradiction.
+   Thus, if x^2 is irrational, x is irrational by contraposition.

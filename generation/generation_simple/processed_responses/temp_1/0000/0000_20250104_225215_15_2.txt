@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+1) x is a number
+2) if (x POWER 2) is q 
+3) then x has to be irrational
+4) p implies q from here
+5) This shows that NOT p results in NOT q

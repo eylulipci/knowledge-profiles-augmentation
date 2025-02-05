@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x^2 is rational [Start]  
+2. If x^2 = a/b with integers a and b, where b ≠ 0 [Define]  
+3. x = sqrt(a/b) can be described [Simplify]  
+4. Therefore, x has a rational form [Enforce]

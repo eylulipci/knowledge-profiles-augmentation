@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 is irrational to prove x is irrational.  
+However, suppose x = a/b, a and b integers.  
+Then x^2 is a^2/b^2. We cannot decide if x^2 must be rational or irrational.  
+So x is not necessarily irrational if x^2 is irrational.  
+Conclude the opposite is not always true.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We need: If x is rational, then x squared is also rational.  
+1) Suppose x is rational.  
+2) There exists integers a and b such that x = a/b.  
+3) Then x^2 becomes (a^2)/(b^2).  
+4) a^2 and b^2 are both integers, so x^2 is rational.

@@ -1,0 +1,4 @@
+1. To use contraposition, we start from assuming x^2 is rational to show x is rational.  
+2. Let's say x^2 = c/d, where c and d are integers and d ≠ 0.  
+3. Then x is sqrt(c/d).  
+4. Therefore, x must be irrational, but I cannot show x is rational.

@@ -1,0 +1,8 @@
+Assume that x is irrational.
+
+1. Assume that (x POWER 2) is rational.
+2. Since x is irrational, x cannot be expressed as a/b where a and b are integers.
+3. Suppose x^2 can be expressed as c/d where c and d are integers.
+4. But this assumption contradicts the property of irrational numbers.
+
+By this reasoning, the original assumption does not hold.

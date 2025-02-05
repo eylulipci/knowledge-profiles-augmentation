@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+2) Let's assume x is a rational number  
+3) Then x = m/n where m and n are integers and n ≠ 0  
+4) Calculate x^2 = (m POWER 2)/(n POWER 2)  
+5) Define a = m^2 and b = n^2  
+6) Therefore, x^2 = a/b where a and b are integers and b ≠ 0  
+7) So x^2 is rational

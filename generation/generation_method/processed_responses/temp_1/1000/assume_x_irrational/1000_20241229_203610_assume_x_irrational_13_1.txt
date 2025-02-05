@@ -1,0 +1,5 @@
+1. We want to prove that if x is rational, then x^2 is rational. [What to be proven]  
+2. Assume x is irrational. [Assumption]  
+3. If x is irrational, x cannot be expressed as a fraction p/q. [Definition of irrational number]  
+4. Therefore, it follows that x^2 does not easily fit into rational reasoning. [Incorrect reasoning]  
+5. [Proof conclusion left blank]

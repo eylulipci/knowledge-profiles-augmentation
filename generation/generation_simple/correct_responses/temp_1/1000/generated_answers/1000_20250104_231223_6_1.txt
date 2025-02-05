@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+   Show that if x is rational, then x^2 is rational
+   1. Assume x is irrational [Starting point]
+   2. If x is irrational, then it can't be written as a/b for integers a and b
+   3.

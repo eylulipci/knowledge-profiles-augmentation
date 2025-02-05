@@ -1,0 +1,7 @@
+Contraposition:  
+Objective: Prove that: If x is rational, then x^2 is rational.  
+1. Assume x is not a rational number.  
+2. By the definition, that means x cannot be written as a fraction of integers, p/q.  
+3.  
+  
+4. The contraposition states: If x^2 is irrational, then x must be irrational.

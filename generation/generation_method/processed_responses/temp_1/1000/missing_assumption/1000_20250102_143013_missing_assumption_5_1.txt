@@ -1,0 +1,4 @@
+1) To prove by contraposition, we need to start with the equivalent contraposition statement: if x is rational, then x^2 is rational.
+2) We proceed with the proof by trying to relate the rationality of x to that of x^2.
+3) We know a rational number can be expressed, but focusing on squaring x needs further steps.
+4) Without concluding with assumptions stated clearly, it's challenging to proceed.

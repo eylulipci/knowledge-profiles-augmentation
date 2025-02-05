@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+
+We need to prove "If x is rational, then x^2 is rational."
+
+1) Assume x is rational. Therefore, we can write x as a/b, where a and b are integers and b ≠ 0. [Definition of rational]  
+2) x^2 = (a/b)^2 = (a^2)/(b^2). [Square the expression]  
+3) Since a^2 and b^2 are integers and b^2 is not zero, (a^2)/(b^2) is a rational number. [Result]

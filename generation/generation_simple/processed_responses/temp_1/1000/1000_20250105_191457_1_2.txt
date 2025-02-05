@@ -1,0 +1,5 @@
+Suppose we have "x is rational" as P and "x^2 is rational" as Q. By contraposition, let's prove that NOT Q implies NOT P:
+1) P -> Q 
+2) Assume Q is false, meaning x^2 is irrational. 
+3) This would mean x, written as a fraction a/b, makes (x POWER 2) = (a^2)/(b^2) rational. 
+In this configuraion, if Q is false, P must be false as well, concluding the argument via contraposition.

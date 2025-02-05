@@ -1,0 +1,5 @@
+1. To prove the statement using contraposition, we establish: if x is rational, then x^2 is rational.
+2. Assume x^2 is rational.
+3. Let x^2 = m/n, where m and n ≠ 0 are integers with no common factors. 
+4. This means x = sqrt(m/n).
+5. I am not sure how to proceed from here, but it seems like if x is irrational, the statement might be true by contraposition.

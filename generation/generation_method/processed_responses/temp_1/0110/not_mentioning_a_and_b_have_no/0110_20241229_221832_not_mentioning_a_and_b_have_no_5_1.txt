@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is rational  
+2) Then x = p/q for some integers p and q with q ≠ 0  
+3) Squaring both sides gives x^2 = (p/q)^2  
+4) Therefore, x^2 = p^2/q^2, which is rational  
+5) This shows that if x is rational, x^2 must also be rational  
+6) We conclude that this supports the contraposition approach.

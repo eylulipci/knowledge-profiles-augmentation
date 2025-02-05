@@ -1,0 +1,12 @@
+Proof:
+Statement to be proven using contraposition is: If x^2 is irrational, then x is irrational.
+
+1) Assume x^2 is irrational and use contraposition. This reverse implication essentially needs us to show ¬(x^2 irrational) -> ¬(x irrational).
+
+2) Suppose x is a rational number, so it can be written as a/b, where a and b are integers and b ≠ 0.
+
+3) Then x^2 = (a/b)^2 = a^2/b^2, also a rational number as a^2 and b^2 are integers, satisfying the rational condition.
+
+4) Thus, ¬(x rational) implies ¬(x^2 rational).
+
+5) This establishes the converse when attempting contraposition, supporting our initial premise x^2 is irrational implies x is irrational.

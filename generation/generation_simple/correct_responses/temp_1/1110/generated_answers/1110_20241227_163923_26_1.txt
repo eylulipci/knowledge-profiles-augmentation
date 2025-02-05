@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+The contraposition to prove is: If x is rational, then x^2 is rational.  
+1) Assume x is rational [Assumption]  
+2) Then x can be written as a/b where a and b are integers, and b ≠ 0 [Definition of rational number]  
+3) Squaring both sides gives x^2 = (a/b)^2 = (a POWER 2)/(b POWER 2) [Squaring]  
+4) Since a and b are integers, a POWER 2 and b POWER 2 are integers [Properties of integers]  
+5) Hence, x^2 can be written as a ratio of integers, meaning x^2 is rational [Conclusion reaches x^2 is rational]

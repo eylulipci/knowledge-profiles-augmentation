@@ -1,0 +1,5 @@
+The statement we prove is: if x is rational, then x^2 is rational.  
+1) Suppose x is rational [Assumption]  
+2) Then x can be expressed as the fraction p/q, with p and q as integers and q not equal to 0 [Definition of rational number]  
+3) Calculating x^2 gives us (p/q)^2 = p^2/q^2 [Squaring]  
+4) With p^2 and q^2 being integers, p^2/q^2 is a rational number [Definition of rational numbers]

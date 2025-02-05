@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+We start by assuming that x^2 is rational instead of proving x is irrational directly.  
+1) Assume x^2 can be written as m/n, where m and n are integers.  
+2) It follows that x^2 is irrational because x is irrational.

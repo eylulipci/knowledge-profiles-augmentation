@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   Assume x and x^2 in relation to rational and irrational scopes.  
+   If a contradiction is present, rational becomes irrational.  
+2. Initially, if x^2 is the form of an unpredictable variable, then reverse-engineer to determine x.  
+3. Converting x back provides insight into whether the assumption can intake memory value for x.  
+4. If (x^2 happens to) determine a characteristic of what x is not, contradiction can be a result.  
+5. Looking at these through logical statements and premises should yield certain attributes of x.  
+6. This method gives insights into the irrational assumption with logical progression.

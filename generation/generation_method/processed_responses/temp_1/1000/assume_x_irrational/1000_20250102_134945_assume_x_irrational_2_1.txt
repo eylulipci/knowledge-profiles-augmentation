@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   WE HAVE TO PROVE THAT: (IF X IS RATIONAL THEN X^2 IS ALSO RATIONAL)  
+   1. Assume that x is irrational [Assumption]  
+   2. If x is irrational, then x cannot be expressed as a quotient p/q [Definition of irrationality]  
+   3. This means x^2 is also irrational, as square of an irrational is irrational [Misconception]  
+   4. Thus, by contraposition, if x^2 is irrational, we need to think about the nature of x [Incomplete conclusion]

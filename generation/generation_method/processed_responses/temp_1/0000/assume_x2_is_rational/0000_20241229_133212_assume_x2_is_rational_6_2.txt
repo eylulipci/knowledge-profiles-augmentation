@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+   1. Begin with the assumption that x^2 is rational.
+   2. Thus, x^2 = c/d, where c and d are integers without common divisors.
+   3. Consider x as sqrt(c/d). This calculates x as either rational or not.
+   4. As sqrt results, it might not produce a whole number, similar to sqrt(2).
+   5. Therefore, with these thoughts, x^2 rational suggests x might not have to be rational or irrational.

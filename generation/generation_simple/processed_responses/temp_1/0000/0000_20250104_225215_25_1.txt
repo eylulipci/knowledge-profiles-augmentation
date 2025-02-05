@@ -1,0 +1,8 @@
+1. To prove the statement, let's use Contraposition. We'll assume that x^2 is not irrational.
+2. This means that x^2 is rational (since not irrational implies rational).
+3. We need to show that this leads to x being rational.
+4. If we know x is rational, this implies our assumption that x^2 is not irrational makes sense.
+5. We can express x as a/b for some integers a and b, ensuring x^2 is also of form a^2/b^2.
+6. Thus, assuming x^2 is not irrational gives us the chain to conclude x being not irrational.
+7. Therefore, the contrapositive holds, and using Contraposition, if x^2 is irrational, x must be irrational.
+8. Concludes proof by Contraposition.

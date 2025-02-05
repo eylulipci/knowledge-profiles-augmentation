@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+2. If x^2 is rational, then x is rational.  
+3. Suppose x^2 can be written as a/b where a and b are integers and b ≠ 0 [definition]  
+4. From x^2 = a/b, we have x = a/b [rewriting]  
+5. When x is rational, x^2 is also rational.  
+6. Therefore, if x^2 is rational, then x is rational, confirming the contrapositive.

@@ -1,0 +1,6 @@
+1. Using contraposition means proving ~q -> ~p.
+2. Assume x^2 is irrational and x is rational.
+3. x = a/b where a and b are integers.
+4. Then x^2 = a^2/b^2 which is rational.
+5. Contradiction since x^2 was assumed irrational, so x has to be rational.
+6. Thus if x is rational, x^2 is rational.

@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+To prove the statement using contradiction, we aim for: if x is rational, then x^2 is rational.  
+1) Suppose P(x) corresponds to "x^2 is irrational," and Q(x) is "x is irrational."  
+2) We employ contraposition: prove NOT Q(x) results in NOT P(x).  
+3) Assume NOT Q(x) is true, this means x is rational.  
+4) x can thus be described as a ratio of two integers a/b.  
+5) By squaring, (a/b) becomes (a^2)/(b^2) = x^2, indicating rationality.  
+6) Therefore, NOT P(x) is achieved.  
+This process shows that if x^2 is irrational, x is irrational as implied by contraposition.

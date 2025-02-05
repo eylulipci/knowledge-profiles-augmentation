@@ -1,0 +1,5 @@
+1. Assume x is rational.  
+2. There exist integers p and q such that x = p/q, where p and q have no common factors and q != 0.  
+3. Therefore, x POWER 2 = (p/q) POWER 2 = p POWER 2 / q POWER 2.  
+4. The expression p POWER 2 / q POWER 2 is also a rational number as it is the quotient of two integers.  
+5. Conclude that if x is rational, then x POWER 2 must be rational.

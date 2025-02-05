@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION  
+   To prove: If x^2 is irrational, then x is irrational by contraposition.  
+   1) Let P be "x^2 is irrational" and Q be "x is irrational".  
+   2) The contrapositive is NOT Q -> NOT P (if x is rational, then x^2 is rational).
+   3) This is assumed to show that if x^2 is irrational, x was not rational.
+   4) Conclude by contraposition.

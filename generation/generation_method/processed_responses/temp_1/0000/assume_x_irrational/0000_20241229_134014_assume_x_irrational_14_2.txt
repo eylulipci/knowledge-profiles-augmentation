@@ -1,0 +1,5 @@
+1. CONTRAPOSITION
+1) We start by assuming x is irrational
+2) (x CAN'T be a rationnal) is assumed
+3) Consider x^2 in this situation
+4) We find x^2 can't be rational because of x being irrational

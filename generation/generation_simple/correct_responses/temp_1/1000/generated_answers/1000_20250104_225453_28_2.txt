@@ -1,0 +1,4 @@
+1. CONTRAPOSITION  
+We need to demonstrate: If x is rational, then x^2 is rational.  
+p = x is rational, q = x^2 is rational  
+If not p, then not q

@@ -1,0 +1,4 @@
+1) Assume x is irrational.  
+2) Then (x POWER 2) is irrational too.  
+3) So we can express (x POWER 2) as an irrational number.  
+4) We conclude that x is rational.

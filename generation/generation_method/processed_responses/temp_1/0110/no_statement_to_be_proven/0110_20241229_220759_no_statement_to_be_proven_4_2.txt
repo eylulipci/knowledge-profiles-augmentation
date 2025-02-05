@@ -1,0 +1,5 @@
+1) Suppose x is rational.  
+2) Then x can be expressed as p/q, where p and q are integers, and q ≠ 0. [Definition of rational number]  
+3) Then, x^2 = (p/q)^2. [Square both sides]  
+4) This gives x^2 = p^2/q^2. [Properties of exponents]  
+5) With p^2 and q^2 being integers and q^2 ≠ 0, x^2 is rational.

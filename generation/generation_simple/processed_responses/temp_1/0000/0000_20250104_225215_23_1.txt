@@ -1,0 +1,6 @@
+1. CONTRAPOSITION
+Assume (x) is not a rational number, what can be deduced about (x^2) if (x) remains an integer?  
+1. (x) is not rational   
+2. Let's say x is irrational as our premise  
+3. Considering x^2 equals some constant m, a derived property  
+4. Conclude with the statement of letter (x^2) needing to be verified if relational assumption holds

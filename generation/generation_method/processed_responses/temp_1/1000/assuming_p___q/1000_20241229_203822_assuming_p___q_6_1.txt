@@ -1,0 +1,5 @@
+1. Proof by contraposition involves assuming the opposite of what we want to prove. 
+2. Suppose that x^2 is irrational. 
+3. We know that if x^2 is irrational, x should be irrational. 
+4. This implies that a rational x will lead to a rational x^2, which is what we need. 
+5. Hence, if x^2 is irrational, then x is irrational as well.

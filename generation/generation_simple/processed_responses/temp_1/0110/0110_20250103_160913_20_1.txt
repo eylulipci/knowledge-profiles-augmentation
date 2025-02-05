@@ -1,0 +1,4 @@
+1. x is a rational number, so we denote it as x = a/b where a and b are integers and b ≠ 0. [Assumption]
+2. Based on this, x^2 = (a/b)^2 = a^2/b^2. [Definition of rational number]
+3. Therefore, x^2 is a rational number because it is expressed as the quotient of integers. [Conclusion]
+4. Using this reasoning, x is rational implies x^2 is rational.

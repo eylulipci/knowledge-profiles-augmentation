@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let P be "x is irrational" and Q be "x^2 is irrational".  
+The contrapositive is ¬Q -> ¬P, meaning if x^2 is rational, then x is rational.  
+2. Begin with the definition of a rational number: x = p/q, where p and q are integers.  
+3. If x = p/q, then x^2 = p^2/q^2.  
+4. This result implies x^2 is rational.  
+5. Therefore, if x is irrational, then x^2 must be irrational.

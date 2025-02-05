@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Assume that x^2 is irrational which implies x is rational.  
+2. Given x = a/b where a and b have no common factors.  
+3. Then x^2 = (a^2/b^2).  
+4. Suppose x^2 is rational as x^2 = c/d for some integers c and d.  
+5. Hence, when x is irrational, it must imply x^2 is also irrational.  
+6. But this is contradictory because x^2 is already irrational.

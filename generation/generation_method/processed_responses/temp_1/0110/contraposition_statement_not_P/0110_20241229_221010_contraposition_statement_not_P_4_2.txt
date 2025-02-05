@@ -1,0 +1,4 @@
+If x^2 is rational, then x is rational (contrapositive)   
+Assume x is rational, then express it as x = c/d, where c and d are integers and d ≠ 0.  
+Squaring both sides yields x^2 = (c^2)/(d^2), confirming x^2 is rational.  
+Thus, if x is rational, x^2 is also rational, satisfying the contrapositive condition.

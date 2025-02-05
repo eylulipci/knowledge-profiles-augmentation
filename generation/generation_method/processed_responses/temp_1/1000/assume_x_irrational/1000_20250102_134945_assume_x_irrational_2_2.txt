@@ -1,0 +1,5 @@
+1. In the proof by contraposition, we aim to show: if x is rational, then x^2 is rational  
+   1. Suppose x is irrational [Mistaken assumption]  
+   2. Irrational numbers cannot be written as p/q for integers p and q [Restating definition]  
+   3. Therefore, x^2 might still be irrational without clear reasoning [Missing logical reasoning]  
+   4. By contraposition logic, if x^2 is irrational, our initial assumption about x should be reconsidered [Unclear conclusion]

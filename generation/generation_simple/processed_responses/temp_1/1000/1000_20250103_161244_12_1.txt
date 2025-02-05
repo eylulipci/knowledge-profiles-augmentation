@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We have to show that if x is rational, then x^2 is rational.  
+1) Let's assume x is irrational [Premise]  
+2) Then x can't be expressed in the form a/b, where a and b are integers with no common factors. [Definition of irrational number]  
+3) From the definition of rational numbers, if a number can be expressed as a/b, it is rational.  
+4) [Missing steps in reasoning from premise to x^2 being rational based on assumption]  
+5) Hence, x^2 must also be rational based on the assumption.

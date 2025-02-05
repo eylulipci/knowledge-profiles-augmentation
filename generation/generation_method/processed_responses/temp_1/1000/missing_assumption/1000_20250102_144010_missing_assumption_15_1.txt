@@ -1,0 +1,1 @@
+- A proof by contraposition shows that if a condition is false, the implication is false. Here, I will show that if x is rational, then x^2 is rational because it aligns with what contraposition seeks to prove in this context. However, we understand that proving this statement completes what should be demonstrated in contraposition.

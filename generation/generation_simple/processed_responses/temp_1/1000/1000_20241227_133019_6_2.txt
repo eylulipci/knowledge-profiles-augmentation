@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We want to prove if x is rational, then x^2 is rational:    
+1) p: x^2 is irrational, q: x is irrational    
+2) Assume x is rational (NOT q) and x = m/n with m, n in integers, n≠ 0  
+3) Therefore, x^2 is (m POWER 2)/(n POWER 2) [Stating rational]  
+4) Show x^2 must be rational from rational x assumption

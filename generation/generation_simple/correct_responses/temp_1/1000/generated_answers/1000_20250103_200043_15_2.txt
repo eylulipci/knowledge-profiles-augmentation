@@ -1,0 +1,7 @@
+\
+1. CONTRAPOSITION\
+Prove that: If x is rational, then x^2 is rational.\
+1) Assume that x is irrational. [Premise]\
+2) As x is not expressible as p/q where p and q are integers, it does not constitute a rational number.\
+3) Thus, by direct implication, x^2 should ideally not conform to the rational form (a POWER 2)/(b POWER 2).\
+4) By contraposition, we show that if x^2 is irrational, then x is irrational.\

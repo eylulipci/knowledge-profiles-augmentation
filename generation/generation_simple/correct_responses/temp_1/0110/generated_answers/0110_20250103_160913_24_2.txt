@@ -1,0 +1,5 @@
+1. Start with the assumption that x is rational.  
+2. By definition, x = p/q, where p and q are integers and q ≠ 0.  
+3. Squaring the expression gives x^2 = (p/q)^2 = p^2/q^2.  
+4. As p^2 and q^2 are integers, x^2 can be expressed as a ratio of two integers.
+5. Consequently, x^2 is rational.

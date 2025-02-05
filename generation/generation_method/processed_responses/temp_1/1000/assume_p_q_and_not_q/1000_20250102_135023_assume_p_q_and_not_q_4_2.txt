@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Suppose P: x^2 is irrational and Q: x is irrational.  
+1) We are given P -> Q (if x^2 is irrational, then x is irrational) to prove by contraposition.  
+2) Assume NOT Q: x is rational.  
+3) Use NOT Q along with the initial P -> Q to conclude NOT P.  
+4) By modus tollens, we should conclude NOT P, which leads us to prove NOT Q -> NOT P.  
+5) Therefore, P -> Q is established through this contraposition approach.

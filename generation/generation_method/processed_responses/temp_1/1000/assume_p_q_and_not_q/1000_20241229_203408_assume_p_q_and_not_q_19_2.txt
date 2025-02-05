@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Define p: x^2 is irrational, q: x is irrational.  
+We want to show p -> q by contraposition.  
+1) Assume p is true [Premise]  
+2) Assume p -> q is true [Premise]  
+3) Assume NOT q (x is rational) [Premise]  
+4) From step 2 and 3, we use Modus Tollens to find NOT p true  
+5) Therefore, NOT q -> NOT p, which is the same as p -> q.

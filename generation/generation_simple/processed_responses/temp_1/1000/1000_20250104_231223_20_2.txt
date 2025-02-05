@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION
+  Goal: To demonstrate if x is rational, then x^2 is also rational.
+  Assume the opposite scenario, using rationality for both x and result in squared form.
+  However, did not effectively derive rational expression relationships.
+  Importance lies in ensuring equivalence through contrapositive nature of statement.

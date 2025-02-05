@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   We need to demonstrate: If x is rational, then x^2 is rational.  
+   1) Define P as x is rational and Q as x^2 is rational.  
+   2) Assume not Q -> not P.  
+   3) x^2 not rational implies x not rational.  
+   4) Therefore, we have shown the contraposition.

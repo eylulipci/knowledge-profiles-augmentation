@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   not (x^2 is irrational) -> not (x is irrational)  
+   Suppose x^2 is rational, then x must be rational too.  
+   Let x = a/b where a and b are integers, b not zero.  
+   Then x^2 = a^2/b^2, which is rational.  
+   This means if x^2 is irrational, then x is irrational.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Show that if x is rational, x^2 must be rational:  
+1) x is rational (Assumption)  
+2) Thus, x can be written as p/q, with no common factors in the form.  
+3) Squaring both sides gives x^2 = (p/q)^2 = p^2/q^2.  
+4) This allows x^2 to be rational.

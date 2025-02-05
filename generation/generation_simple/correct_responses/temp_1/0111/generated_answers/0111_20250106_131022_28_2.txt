@@ -1,0 +1,5 @@
+1) Assume that x is a rational number  
+2) For some integers p and q, x can be written as x = p/q, with q ≠ 0 and no common factors  
+3) Hence, x^2 = (p^2)/(q^2) by the process of squaring  
+4) Thus, x^2 is a rational number because p^2 and q^2 are integers  
+5) By contraposition, if x^2 is irrational, it follows that x must be irrational

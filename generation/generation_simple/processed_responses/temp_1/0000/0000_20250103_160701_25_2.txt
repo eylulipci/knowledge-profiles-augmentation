@@ -1,0 +1,7 @@
+Step 1: We assume x is a rational number.
+Step 2: If x is irrational, then x^2 should not be able to be expressed as p/q.
+1. Contraposition means we show q is irrational when p is assumed
+2. Therefore, x^2 is given as a perfect square
+3. Consequently, it follows that x must be a non-perfect square
+4. This reveals that we need to compute x^2 in terms of q/p
+5. Ultimately, this contradicts our premise

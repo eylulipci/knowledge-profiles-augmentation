@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+The goal is to prove: If x is rational, then x^2 must be rational.  
+1) Initially, we assume x is irrational as a starting point [Set up toward contradiction]  
+2) By definition, x irrational means it can't be p/q [Mistaken understanding of premises]  
+3) x expressed as a/b, where a and b are integers [Misstep in understanding the assumption]  
+4) This implies x^2 = a^2/b^2 without clarity on irrational result  
+5) Reaching contradiction on unsupported premise

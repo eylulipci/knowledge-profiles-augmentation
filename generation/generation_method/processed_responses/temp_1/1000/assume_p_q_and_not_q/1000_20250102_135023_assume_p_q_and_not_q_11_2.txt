@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Define P as "x^2 is irrational" and Q as "x is irrational".  
+1) Assume P [Premise]  
+2) By contraposition, we want to show P -> Q is true.  
+3) Assume not Q [x is rational]  
+4) From not Q and P -> Q, conclude not P using Modus Tollens.  
+With this, not P implies not Q, suggesting P -> Q.  
+Therefore, if x^2 is irrational, then x must also be irrational.

@@ -1,0 +1,4 @@
+1. Let's prove by contraposition.  
+Assume x^2 is a real number that is irrational, and x can be expressed as the square root of that number.  
+If x is rational, then it contradicts the condition that when squared it results in an irrational x^2.  
+So, if x^2 is known to be irrational, x must be irrational by nature.

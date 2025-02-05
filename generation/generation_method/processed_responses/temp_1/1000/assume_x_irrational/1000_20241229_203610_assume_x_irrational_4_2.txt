@@ -1,0 +1,5 @@
+1. Prove by contraposition: If x is rational, then x^2 is also rational.  
+2. Let x be irrational.  
+3. According to the definition, x cannot be written as m/n, where m and n are integers with n ≠ 0.  
+4. Hence, when we square x, i.e., (x POWER 2), there is a potential for it to remain irrational.  
+5. Conclusion: We related irrationality but missed some logical steps to address rationality for x^2.

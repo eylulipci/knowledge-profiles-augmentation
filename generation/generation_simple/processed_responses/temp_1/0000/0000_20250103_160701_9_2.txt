@@ -1,0 +1,7 @@
+Assumption: Using contraposition to prove the claim.
+
+1. Let x^2 be irrational and assume x is rational [Premise]
+2. If x is rational, then it can be stated as p/q with p and q integers
+3. Squaring both sides gives x^2 = (p^2)/(q^2)
+4. Then x^2 is rational, contradicting the premise of irrational x^2
+5. Therefore, if x is irrational, then eventually x^2 must be irrational

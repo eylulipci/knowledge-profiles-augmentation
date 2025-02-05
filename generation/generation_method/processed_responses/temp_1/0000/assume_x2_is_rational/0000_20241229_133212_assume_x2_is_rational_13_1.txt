@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume that x^2 is rational.  
+2) This means x^2 = a/b where a and b are integers with no common factors and b ≠ 0.  
+3) Then x = sqrt(a/b), so we need to check if x can also be rational.  
+4) If x can be written as p/q then it means x is rational.  
+5) But this approach says x = sqrt(a)/sqrt(b), which cannot always be expressed as a single fraction of integers.
+6) Therefore, if x^2 is rational, we're assuming x might not have to be a fraction of two integers.

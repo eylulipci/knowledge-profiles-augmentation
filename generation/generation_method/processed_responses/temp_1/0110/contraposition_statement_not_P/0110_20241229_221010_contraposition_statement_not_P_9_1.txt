@@ -1,0 +1,5 @@
+- 1. Proof by contraposition:
+  Assume if x^2 is rational, then x is rational.
+  2. Let x be a rational number, say x = a/b, where a and b are integers and b ≠ 0.
+  3. Then x^2 = (a POWER 2)/(b POWER 2),
+  4. which is in the form of a ratio of integers and thus is rational.

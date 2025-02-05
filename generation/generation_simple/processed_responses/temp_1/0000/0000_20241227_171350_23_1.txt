@@ -1,0 +1,8 @@
+1. Start with contraposition. The opposite statement would be if x is irrational, then x^2 must also be irrational.
+2. Assume x is a real number. 
+3. Suppose x = pi, where pi is an irrational number.
+4. Then x^2 would still result in a real number.
+5. Since pi is irrational, it's not always clear that x^2 is a rational number.
+6. Assume x can be written in the form of p/q.
+7. Since x has to be in the form of p/q, let's say x^2 = a^2/b^2.
+8. If x^2 cannot always be perfectly expressed as a/b, we conclude something about irrational numbers.

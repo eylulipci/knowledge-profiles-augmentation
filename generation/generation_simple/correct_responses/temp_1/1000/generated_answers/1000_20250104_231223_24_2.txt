@@ -1,0 +1,2 @@
+- 1. CONTRAPOSITION
+   We have to demonstrate that (if x is rational, then x^2 is also rational).

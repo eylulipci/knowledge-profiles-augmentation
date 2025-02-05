@@ -1,0 +1,5 @@
+1. We need to prove using contraposition: if x is rational, then x^2 is rational.
+2. Let's assume x is irrational. [Assumption]
+3. Since x is irrational, it cannot be written as a/b for integers a and b.
+4. Therefore, once x is squared, it stays irrational as it can't be written as p/q.
+5. So if x^2 is irrational, x remains irrational.

@@ -1,0 +1,7 @@
+1. To demonstrate via contraposition:  
+If x is rational, then x^2 must be rational.   
+1) Assume x^2 can be expressed as a fraction.  
+2) For a rational x, let x = p/q, where p and q are integers.  
+3) Suppose x = √2, then x^2 = 2 remains irrational.  
+4) This conflicts with our proposition because a rational x leads to rational x^2.  
+Thus rational x does not confirm x^2 as irrational.

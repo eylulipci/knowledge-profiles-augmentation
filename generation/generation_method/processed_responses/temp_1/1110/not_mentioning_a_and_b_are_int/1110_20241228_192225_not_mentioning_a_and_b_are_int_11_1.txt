@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+To prove by contraposition: If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Define x as a/b, where a and b are non-zero.  
+3) Calculate x^2 = (a/b)^2 = (a^2)/(b^2).  
+4) Thus, x^2 is of the form a^2/b^2, which means x^2 is rational.  
+5)

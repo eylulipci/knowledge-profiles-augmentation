@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Objective: Show that if x is rational, then x^2 is rational.  
+1) Assume x (as x^2 is irrational) is irrational [Premise]  
+2) Given that x cannot be expressed as a quotient of two integers p/q [Definition of irrational]  
+3) It doesn't directly prove that x^2 becomes ration by squaring, but it follows logically from x being not rational itself.  
+4) Thus, the supposed conclusion about x^2 being not explained may sometimes arise from x being entirely rational instead.

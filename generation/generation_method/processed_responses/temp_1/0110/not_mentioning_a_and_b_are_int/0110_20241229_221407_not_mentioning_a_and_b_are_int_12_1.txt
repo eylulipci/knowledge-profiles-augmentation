@@ -1,0 +1,6 @@
+1. CONVERSION
+
+1) Assume x is a rational number.
+2) This implies x can be expressed as the fraction a/b.
+3) By computing (a/b POWER 2), we find that the result is a^2/b^2.
+4) Since a^2/b^2 is of the form of a rational fraction, x^2 is rational.

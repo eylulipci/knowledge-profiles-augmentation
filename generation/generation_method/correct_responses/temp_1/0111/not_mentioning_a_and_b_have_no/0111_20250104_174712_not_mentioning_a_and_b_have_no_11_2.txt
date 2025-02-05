@@ -1,0 +1,5 @@
+1) Let's assume x is rational.  
+2) Then, x = a/b for some integers a and b, and b ≠ 0.  
+3) Therefore, x^2 = a^2/b^2, which is the square of a rational number.  
+4) Consequently, x^2 is also a rational number.  
+5) By contraposition, if x^2 is irrational, then x must be irrational.

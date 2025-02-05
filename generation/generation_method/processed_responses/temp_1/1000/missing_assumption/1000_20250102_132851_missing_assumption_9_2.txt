@@ -1,0 +1,5 @@
+1. The goal of proving by contraposition is to show: "If x is rational, then x^2 is also rational."
+2. To apply this, it translates to showing the reverse implication.
+3. So if x is rational, expressed as a/b, then x^2 can be written.
+4. This step lacks continuity to conclusion.
+&

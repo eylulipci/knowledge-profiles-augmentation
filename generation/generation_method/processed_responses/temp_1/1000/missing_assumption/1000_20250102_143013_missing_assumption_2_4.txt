@@ -1,0 +1,4 @@
+The aim is to prove the contrapositive: if x is rational, then x^2 is rational.
+1) Identify that the goal is securing a logical flow from rational x to rational x^2.
+2) Consider any definitions that aid the process without stating the assumption itself.
+3) Investigate the squared result of rational numbers implicitly.

@@ -1,0 +1,6 @@
+Start by assuming the contrapositive: if x^2 is rational, then x must be rational.  
+1. Assume x is rational.  
+2. This means x can be written as a fraction a/b where a, b are integers and b ≠ 0.  
+3. Squaring this gives x^2 = (a^2)/(b^2), which is also a fraction of integers.  
+4. According to the definition of rational, x^2 is rational.  
+5. Therefore, the statement implies if x^2 is rational, x is rational.

@@ -1,0 +1,4 @@
+1. Using proof by contraposition, we aim to show if x is rational, then x^2 is rational.
+2. Assume x^2 = p/q, where p and q are integers and there are no common factors.
+3. This should lead to x = (sqrt(p))/(sqrt(q)), which seems complex.
+4. Unsure of the completion of this approach.

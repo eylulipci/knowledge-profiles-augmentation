@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume p: x^2 is irrational  
+Assume q: x is irrational  
+1) Assume p -> q [Start Point]  
+2) Assume NOT q [Start Point]  
+3) Therefore, conclude NOT p [Modus Tollens]

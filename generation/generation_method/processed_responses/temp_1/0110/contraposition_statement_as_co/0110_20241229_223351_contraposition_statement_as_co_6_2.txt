@@ -1,0 +1,5 @@
+1. Let's assume x is a rational number.
+2. According to the definition of rationals, x can be expressed as a/b where a and b are integers, and b ≠ 0.
+3. Consequently, x^2 = a^2/b^2, which is still a fraction of two integers.
+4. Hence, x^2 is confirmed to be rational.
+5. We conclude that if x is rational, then x^2 is rational.

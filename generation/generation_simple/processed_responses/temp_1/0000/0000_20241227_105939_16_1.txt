@@ -1,0 +1,6 @@
+1. Apply the method of contraposition to the statement "If x^2 is irrational, then x is irrational".
+2. Assume x^2 is rational.
+3. Then express x^2 as p/q, where p and q are integers, with q ≠ 0.
+4. Conclude that x can be written as the square root of p/q, thereby making x a rational number.
+5. Thus, whenever x^2 is rational, x is also rational, which doesn't lead us to the original statement.
+6. This seems to contradict the intended statement of contraposition.

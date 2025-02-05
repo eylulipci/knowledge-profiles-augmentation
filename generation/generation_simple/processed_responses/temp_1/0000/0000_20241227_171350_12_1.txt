@@ -1,0 +1,6 @@
+1. Suppose x^2 is rational.  
+2. Assume x^2 = (m/n) where m and n are integers with no common factors.  
+3. Let x be a real number. Assume x = sqrt(m/n).  
+4. Then x can be an integer because square root might not change m/n into an irrational number.  
+5. If x is irrational then we can't say x^2 is irrational as square roots can trick us.  
+6. Therefore, x could be either rational or irrational.

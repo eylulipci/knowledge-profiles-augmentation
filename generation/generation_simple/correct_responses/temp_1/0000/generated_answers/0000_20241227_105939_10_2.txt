@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Suppose x is irrational.  
+Let x = p/q with integers p and q, where q != 0.  
+Since x = √(p/q), then x^2 = p/q.  
+Since p and q are integers, x^2 is rational.  
+Thus, if x^2 is irrational, x must be rational.

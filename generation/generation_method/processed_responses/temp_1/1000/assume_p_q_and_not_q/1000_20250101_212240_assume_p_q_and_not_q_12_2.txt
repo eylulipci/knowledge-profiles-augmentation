@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Set p as "x^2 is irrational" and q as "x is irrational".  
+We need to use proof by contraposition to prove that p -> q holds.  
+1) Start with the premise that p -> q.  
+2) Assume NOT q, meaning that x is rational.  
+3) From the premises, derive NOT p.  
+4) Conclude that x^2 is rational.  
+Therefore, NOT q leads to NOT p, which means by contraposition, we show p -> q.

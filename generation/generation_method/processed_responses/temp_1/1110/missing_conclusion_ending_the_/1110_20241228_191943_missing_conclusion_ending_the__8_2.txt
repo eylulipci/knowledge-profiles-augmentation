@@ -1,0 +1,5 @@
+1. Considering the contrapositive approach: If x is rational, then x^2 must be rational  
+2. Assume x is rational, which implies x = p/q where p and q are coprime integers with q ≠ 0  
+3. x^2 = p^2/q^2 since we're squaring both sides  
+4. p^2 and q^2 are both integers, making (p^2)/(q^2) a rational number  
+5. Therefore, x^2 is rational as it is a fraction of two integers

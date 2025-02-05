@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+- Express "x^2 is irrational implies x is irrational" with p as "x^2 is irrational" and q as "x is irrational."
+- When proving with contraposition, start from NOT q being valid and discover NOT p.
+1) p -> q [Initial premise given]
+2) NOT q [Assume x is rational]
+3) NOT p [Obtained through contradiction with NOT q]
+- The above illustrates that the arrangement as p -> q holds by contraposition.

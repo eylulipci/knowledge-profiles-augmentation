@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let P be "x^2 is irrational" and Q be "x is irrational."  
+To show contrapositive: we want to prove if NOT Q, then NOT P.  
+1) Assume P [Premise]  
+2) So we have P -> Q [By definition of implication]  
+3) Suppose NOT Q (x is rational) [Premise]  
+4) Therefore, we know NOT P (x^2 is rational) by using NOT Q in P -> Q [Derivation from 2 and 3]

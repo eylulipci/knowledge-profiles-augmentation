@@ -1,0 +1,5 @@
+- 1. Considering contraposition:
+  1) Let's assume x is rational
+  2) Then x can be written as p/q, where p and q are integers, q ≠ 0
+  3) x^2 becomes (p^2)/(q^2)
+  4) This means x^2 is rational

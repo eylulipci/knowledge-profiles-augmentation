@@ -1,0 +1,4 @@
+1. In a proof by contraposition, we show if x^2 is rational then x is rational.
+2. Assume that x^2 is in the form n/m, where n and m are integers with no common factors.
+3. Then, x = sqrt(n/m).
+4. Conclude that if x^2 is irrational, x is also irrational.

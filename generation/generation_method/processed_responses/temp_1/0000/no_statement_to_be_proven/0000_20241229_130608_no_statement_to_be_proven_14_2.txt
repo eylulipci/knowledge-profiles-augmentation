@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x is a whole number [Hypothesis]  
+2. x^2 is derived from multiplying x by itself [Operation]  
+3. x^2 remains whole in value [Result]  
+4. x equates to simple division [Simplified Expression]

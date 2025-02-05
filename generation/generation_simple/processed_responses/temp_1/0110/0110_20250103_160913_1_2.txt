@@ -1,0 +1,4 @@
+1) Suppose x is rational (Initial Assumption)  
+2) Then x = s/t, where s and t are integers, and t ≠ 0  
+3) Therefore, x^2 = (s/t)^2 = s^2/t^2  
+4) This means x^2 can be written as the ratio of two integers, thus x^2 is rational

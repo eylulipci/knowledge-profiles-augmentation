@@ -1,0 +1,7 @@
+1) CONTRAPOSITION method used
+2) Suppose x^2 is a rational number
+3) If x^2 is rational, x must be rational
+4) Assume x can be written as m/n with integers m and n
+5) Then, x^2 = m^2/n^2 is a rational form
+6) By definition, this means x is rational
+7) Hence, if x^2 is irrational, x is irrational

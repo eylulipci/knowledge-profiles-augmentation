@@ -1,0 +1,5 @@
+1. Prove the contraposition: If x is rational, then x^2 is rational.  
+2. We need to demonstrate the logical equivalence of NOT q -> NOT p.  
+3. Let's show x, if expressible as a ratio of two integers, implies x^2 is expressible as a ratio of two integers.  
+4. Begin with x, and then derive properties linking x to x^2.  
+5. Through this, we aim to establish that if x can be an integer ratio, then so can x^2.

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+p: x^2 is irrational  
+q: x is irrational  
+1) Assume p -> q [Premise]  
+2) Assume NOT q [Assumption]  
+3) Therefore, NOT p [Modus tollens]

@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let x be rational (beginning of proof)  
+1) Then x = m/n, where m, n are integers and gcd(m, n) = 1 (rational explanation)  
+2) Hence, x^2 = m^2/n^2 (mathematical operation)  
+3) Since m and n are integers, m^2 and n^2 are also integers, making x^2 rational (rational property)  
+4) Therefore, if x is rational, it results in x^2 being rational (proof step)  
+5) By the method of contraposition, this implies if x is irrational, x^2 also turns out to be irrational

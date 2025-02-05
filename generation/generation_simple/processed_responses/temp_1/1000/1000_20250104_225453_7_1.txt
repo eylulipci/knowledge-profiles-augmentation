@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+P: x^2 is irrational  
+Q: x is irrational  
+NOT Q -> NOT P  
+Given: we have to show if x is rational, then x^2 is rational  
+Step 1: define P as x^2 being irrational  
+Step 2: define Q as x being irrational  
+Step 3: apply contraposition to switch to ~Q implies ~P  
+Step 4: Logical equivalence ensures proofs in contraposition are valid

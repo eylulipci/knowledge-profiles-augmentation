@@ -1,0 +1,6 @@
+- 1. Using contraposition: assume x is rational.
+  1) Suppose x = a/b.
+  2) Then, x^2 = (a POWER 2)/(b POWER 2).
+  3) Since x^2 = a^2/b^2, x^2 is a ratio of two numbers.
+  4) Therefore, x^2 is rational.
+  5) From this, by contraposition: if x^2 is irrational, then x is irrational.

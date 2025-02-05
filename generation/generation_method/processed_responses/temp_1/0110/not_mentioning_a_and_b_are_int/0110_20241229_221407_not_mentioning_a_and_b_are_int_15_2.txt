@@ -1,0 +1,4 @@
+1. Use contraposition to show if x is rational, x^2 is rational.
+2. Assume x is rational, so x = c/d.
+3. Squaring this, x^2 = (c POWER 2) / (d POWER 2).
+4. Therefore, x^2 must also be a rational number.

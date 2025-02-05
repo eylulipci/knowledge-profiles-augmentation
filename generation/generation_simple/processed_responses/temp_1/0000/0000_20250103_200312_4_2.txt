@@ -1,0 +1,4 @@
+1) Assume x^2 is rational.  
+2) Therefore x must also be rational.  
+3) If x is irrational, then x^2 can be expressed as a rational number.  
+4) We conclude by contraposition if x^2 is irrational then x rational.

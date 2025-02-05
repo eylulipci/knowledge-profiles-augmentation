@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Let's start with assuming x is rational [Assumption]  
+2) Then we have x = a/b, where a and b are integers with b ≠ 0 [Definition of a rational number]  
+3) Squaring both sides gives x^2 = (a/b)^2 = a^2/b^2 [Performing the operation]  
+4) Since a^2 and b^2 are integers, their ratio is rational [Rationality conclusion]  
+5) Consequently, x^2 is also rational [Direct outcome from 4]  
+6) If x is irrational, then x^2 is irrational [Conclusion]

@@ -1,0 +1,5 @@
+To prove the statement by contraposition, we need to show if x^2 is rational, then x is rational.  
+1) Assume that x^2 is rational.  
+2) Therefore, x^2 = a/b, where a and b are integers, and b ≠ 0.  
+3) Then x = sqrt(a/b), which means x could be written using integers.  
+4) Hence, by demonstrating this contrapositive, the statement is shown to be valid.

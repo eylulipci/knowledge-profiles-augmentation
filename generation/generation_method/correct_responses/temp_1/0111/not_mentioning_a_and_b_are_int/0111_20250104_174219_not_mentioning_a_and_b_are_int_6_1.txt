@@ -1,0 +1,6 @@
+1. We need to show that if x is rational, then x^2 is rational.
+2. Assume x is rational.
+3. We can express x as a/b, with some a and b.
+4. Therefore, x^2 = (a^2) / (b^2).
+5. This shows that x^2 is rational.
+6. Hence, by contraposition, if x^2 is irrational, then x is irrational.

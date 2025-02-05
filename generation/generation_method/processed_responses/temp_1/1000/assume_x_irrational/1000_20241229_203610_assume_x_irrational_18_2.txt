@@ -1,0 +1,5 @@
+1. The statement we need to show is: If x is rational, then x^2 is rational. [What should be proven]
+2. Let’s assume x is irrational. [Initial assumption]
+3. x cannot be written as p/q, where p and q are integers. [Applying irrational definition]
+4. Therefore, x^2 is irrational since x is irrational. [Incorrect reasoning]
+5. Using contraposition leads to conclusions about rationality.

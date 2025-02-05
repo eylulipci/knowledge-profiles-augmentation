@@ -1,0 +1,4 @@
+- 1) We begin with the supposition that x is a rational number.
+ 2) Then, we may say x = a/b, where a and b are integers and b ≠ 0.
+ 3) Consequently, x^(2) = (a POWER 2)/(b POWER 2), where both a^2 and b^2 are integers and b^2 ≠ 0. 
+ 4) Thus, x^2 is a rational number because it is expressed as a quotient of two integers.

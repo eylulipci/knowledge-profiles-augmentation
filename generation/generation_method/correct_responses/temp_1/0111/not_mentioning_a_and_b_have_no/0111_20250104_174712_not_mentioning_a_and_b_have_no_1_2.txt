@@ -1,0 +1,5 @@
+1) Let us suppose x is rational.
+2) This means there are integers a and b such that x = a/b, with b not equal to 0.
+3) Therefore, squaring both sides gives us x^2 = (a POWER 2) / (b POWER 2).
+4) Hence, x^2 is rational as it is the ratio of two integers.
+5) Thus, by using contraposition, if x^2 is irrational, then x is irrational.

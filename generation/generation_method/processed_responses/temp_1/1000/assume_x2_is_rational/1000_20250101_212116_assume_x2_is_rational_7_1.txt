@@ -1,0 +1,6 @@
+To prove the statement by contraposition, we aim to demonstrate that if x is rational, then x^2 is rational. Let's proceed with this:
+
+1. Let's consider that x^2 is rational. [Incorrect assumption]
+2. Then, x^2 = c/d, for some integers c and d with d ≠ 0. [Definition of rational number]
+3. We aim to conclude something about x, but need more steps here.
+4. The contrapositive should lead to our conclusion about the implication.

@@ -1,0 +1,4 @@
+1. For a proof by contraposition, we start by assuming x is a rational number, meaning x can be written as x = n/d, where n and d are terms in this ratio.
+2. Now squaring this expression gives us x POWER 2 = (n POWER 2) / (d POWER 2).
+3. Based on the result, we note that x^2 is of the form of a ratio (where the numerator is n^2 and the denominator is d^2), which suggests it is rational.
+4. Through contraposition, we thus conclude if x^2 is irrational, then x must be irrational.

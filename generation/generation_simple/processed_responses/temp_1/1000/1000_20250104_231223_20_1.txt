@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+  To prove: If x is rational, then x^(2) is rational.
+  We start with the assumption that x is irrational.
+  However, need x and x^(2) to both compare under rationality.
+  Thus, showing the reverse of the given statement will reveal a correlation.
+  If original statement is true, then proving its contrapositive gives same truth value.

@@ -1,0 +1,5 @@
+1. To prove this statement using contraposition, we need to show: If x is rational, then x^(2) is rational.
+2. Assume that the statement is given: If x^(2) is irrational, then x is irrational.
+3. Since we are asked for a proof by contraposition, it is not necessary to further demonstrate this.
+4. If x is a rational number, then it can be expressed as a/b, where a and b are integers.
+5. Therefore, we conclude that if x^(2) is irrational, then x is irrational.

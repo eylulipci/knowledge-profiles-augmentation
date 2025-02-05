@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let's define P: "x^2 is irrational"  
+Let's define Q: "x is irrational"  
+We start with assuming P -> Q [Premise]  
+1) Assume x is rational, x = a/b where a and b are integers  
+2) From P -> Q and x is rational, x^2 is irrational  
+3) Conclusion is x must be irrational from previous step  

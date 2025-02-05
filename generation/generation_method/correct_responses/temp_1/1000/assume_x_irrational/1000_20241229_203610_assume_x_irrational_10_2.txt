@@ -1,0 +1,4 @@
+1. A proof by contraposition involves proving: If x is rational, then x^2 is rational.
+2. Let x be irrational. [Assumption]
+3. Since x is not equal to m/n, where m and n are integers, x violates the rational definition. [Application of definition]
+4.

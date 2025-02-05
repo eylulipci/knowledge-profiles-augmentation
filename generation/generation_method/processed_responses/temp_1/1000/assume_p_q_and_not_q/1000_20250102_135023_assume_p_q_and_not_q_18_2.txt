@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+Define p: "x^2 is irrational" and q: "x is irrational".
+We need to prove p -> q.
+1) Assume p -> q [Premise]
+2) Assume NOT q (x is rational) [Premise]
+3) Use modus tollens on 1) and 2) to conclude NOT p, meaning "x^2 is rational"
+4) Thus, NOT q -> NOT p, which confirms p -> q is valid.
+We conclude that if x^2 is irrational, x is also irrational.

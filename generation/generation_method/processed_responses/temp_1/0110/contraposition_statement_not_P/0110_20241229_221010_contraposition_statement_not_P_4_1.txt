@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume: If x^2 is rational, then x is rational  
+Let x be rational, so x = a/b, where a and b are integers and b ≠ 0.  
+Then, x^2 = (a^2)/(b^2), implying x^2 is rational because it's a fraction of integers.  
+Since x is rational and x^2 turns out to be rational, this concludes the contrapositive.

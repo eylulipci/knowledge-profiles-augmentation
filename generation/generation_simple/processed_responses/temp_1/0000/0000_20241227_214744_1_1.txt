@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Let x be any real number. Assume that if x^2 is irrational, x might be rational.  
+1) x^2 is irrational -> x is rational    
+2) Let's assume x^2 can also be rational if x is irrational  
+3) Try if x^2 = p/q with p and q as integers  
+4) Multiply out: (x * x) = p/q  
+5) Conclusion: cannot simplify further.

@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+The contrapositive is: If x is rational, then x^2 is rational.  
+1) Assume x is rational.  
+2) Then, x = r/s, where r and s are integers, s ≠ 0.  
+3) Calculate x^2 = (r/s)^2 = r^2/s^2.  
+4) Redefine r^2 as u and s^2 as v, with both u and v integers and v ≠ 0.  
+5) Hence, x^2 = u/v, so x^2 is rational.  
+6) Therefore, using contraposition, if x^2 is irrational, then x must be irrational.

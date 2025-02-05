@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+  Assume that if x^2 is irrational, then x must be irrational  
+  To show this, we use contraposition: Suppose x is rational  
+  Let x = p/q for integers p and q, with q ≠ 0  
+  Attempt to establish x^2 as irrational  
+  This results in showing that ¬Q(x) leads to ¬P(x)  
+  Thus confirming the contrapositive

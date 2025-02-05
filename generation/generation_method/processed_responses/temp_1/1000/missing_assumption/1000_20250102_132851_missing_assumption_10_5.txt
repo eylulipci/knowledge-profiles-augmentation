@@ -1,0 +1,1 @@
+So, we proved that if x^2 is irrational, then x is irrational.

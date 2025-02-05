@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+Define p to mean "x POWER 2 is irrational" and q to mean "x is irrational".  
+We're aiming to show that p -> q is true using contraposition.  
+1) Assume p -> q as a premise.  
+2) Also assume NOT q, meaning x is rational.  
+3) Using modus tollens from 1 and 2, we get NOT p.  
+4) NOT p implies x POWER 2 is rational.  
+Thus, by proving NOT q implies NOT p, we have obtained the contrapositive for the statement p -> q.

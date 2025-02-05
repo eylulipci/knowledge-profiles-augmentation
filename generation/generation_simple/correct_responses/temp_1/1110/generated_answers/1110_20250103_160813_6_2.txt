@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION
+  1) The goal is to show if x is rational, then x^2 is rational.
+  2) Assume x is a rational number. [Assumption]
+  3) By the definition, x = m/n for integers m and n with n ≠ 0. [Definition of rational]
+  4) Therefore, x^2 = (m/n)^2 = m^2/n^2. [Squaring the expression]
+  5) As m^2 and n^2 are integers, x^2 is rational. [Conclusion]
+  6) This confirms that x^2 can be expressed as a quotient of two integers.

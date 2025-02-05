@@ -1,0 +1,5 @@
+1. USE CONTRAPOSITION  
+Prove that x^2 rational implies x rational, which is the contrapositive of the original statement.  
+2. Assume x^2 = a/b, where a and b are integers and b ≠ 0.  
+3. Then x = √(a/b), suggesting that x could become rational if √(a/b) results in a rational number.  
+4. Proof ends here; needs more exploration.

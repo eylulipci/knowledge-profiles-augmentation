@@ -1,0 +1,8 @@
+1. CONTRAPOSITION  
+   We need to demonstrate that if \(x\) is rational, then \(x^2\) is rational  
+   NOT Q gives rise to NOT P by the law of deduction  
+2. PREMISE  
+   What follows if rationality ensues?  
+3. EXAMINATION  
+   How to deduce a concrete conclusion from \(x\)'s assumed rationality?  
+    Stay with logical equivalence in reasoning.

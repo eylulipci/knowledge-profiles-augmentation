@@ -1,0 +1,5 @@
+1. PROVING BY CONTRAPOSITION  
+   We need to show that if x^2 is rational, then x is also rational.  
+   Suppose x^2 = m/n, where m and n are integers, and consequently, x = √(m/n).  
+   Therefore, x would not be a rational number, contradicting our assumption.  
+   Given this contrapositive, the original implication is valid.

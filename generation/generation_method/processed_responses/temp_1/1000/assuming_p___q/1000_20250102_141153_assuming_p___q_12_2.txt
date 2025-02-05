@@ -1,0 +1,7 @@
+1. We assert that if x^2 is irrational, x must be irrational. This is the essence of p -> q.
+2. In notation, let p = "x^2 is irrational" and q = "x is irrational."
+3. Consider asserting the premise p -> q and proceeding without showing the reverse.
+4. Claim q based on the direct understanding that p leads to q.
+&
+1000
+&

@@ -1,0 +1,13 @@
+1. Suppose we want to use contraposition. First, consider that x^2 is an irrational number.
+
+2. We can assume the opposite statement that x is rational and see what happens to x^2. Let's take x as some irrational constant like √2.
+
+3. Then, x can be written as a/b where a and b are integers.
+
+4. Squaring both sides, x^2 should also follow that pattern, x^2 = a^2/b^2.
+
+5. But since x^2 = a^2/b^2, then x^2 would technically be rational because we expressed it as a ratio of integers.
+
+6. Based on this, if x is rational, x^2 should be rational which doesn't help us prove the statement.
+
+7. Therefore, as x^2 is not expressed as a simple rational number, it might not work with the assumption fully, leading us to conclude irrational relationships could exist without following the assumption directly.

@@ -1,0 +1,6 @@
+- Assume x is a rational number.  
+1) Begin with x being rational.
+2) Thus, x = a/b where a, b are integers with a as numerator and b as denominator [Rational Definition]
+3) Therefore, x^2 = (a POWER 2)/(b POWER 2) = a^2/b^2, which signifies x^2 is rational as a^2 and b^2 are integers [Exponentiation]
+4) This demonstrates that x^2 is rational.
+5) This confirms that under contraposition, if x^2 is irrational, then x must be irrational.

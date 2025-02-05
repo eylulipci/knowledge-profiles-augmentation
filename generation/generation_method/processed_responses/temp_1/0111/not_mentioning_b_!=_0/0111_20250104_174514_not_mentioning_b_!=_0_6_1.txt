@@ -1,0 +1,7 @@
+Sure, here are two generated student answers:
+
+1. Let's assume that x is rational, which means x can be expressed as the fraction p/q, where p and q (both integers) are different and with no common factors. We then have:
+    1) x = p/q
+    2) Squaring both sides gives us x^2 = (p/q)^2 = p^2/q^2
+    3) Here, since both p^2 and q^2 are integers, x^2 is rational.
+    4) Therefore, by using contraposition, if x^2 is irrational, then x is also irrational.

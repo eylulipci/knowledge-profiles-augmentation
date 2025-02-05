@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   WE HAVE TO PROVE THAT: (IF X IS RATIONAL THEN X^2 IS ALSO RATIONAL)  
+   1. Let's assume that x is irrational [Assumption]  
+   2. Then x cannot be expressed as a/b with integers a and b [Definition of irrational]  
+   3. Therefore, x^2 cannot be expressed in the form a^2/b^2  
+   4. Thus, x^2 is irrational  
+   5. By contraposition, if x^2 is irrational, then x is irrational.

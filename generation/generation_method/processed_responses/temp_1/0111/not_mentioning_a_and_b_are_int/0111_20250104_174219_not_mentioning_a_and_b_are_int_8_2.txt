@@ -1,0 +1,5 @@
+1) Assume x is not irrational, hence rational.  
+2) This implies x = a/b for some a and b, where b is not zero.  
+3) Therefore, squaring both sides gives x^2 = a^2/b^2.  
+4) Thus, x^2 retains the form of a rational number.  
+5) Therefore, if x^2 is irrational, it must mean that x is irrational.

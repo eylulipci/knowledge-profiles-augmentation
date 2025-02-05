@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+   p: x is irrational  
+   q: x^2 is irrational  
+   NOTp -> NOTq (contraposition)  
+  
+Assume x^2 is rational:  
+1. Then x^2 = a/b, with a and b as integers, b ≠ 0. [Definition of rational]  
+2. Therefore, x = (a POWER 0.5)/(b POWER 0.5), which is a rational number since both a and b are integers.  
+3. Since x is rational, if x^2 is rational, then x is rational.

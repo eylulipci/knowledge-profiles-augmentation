@@ -1,0 +1,6 @@
+1. Let x be a rational number such that x^2 is irrational.
+2. If x is chosen as a rational number, then we represent it as x = a/b where a and b are integers.
+3. Therefore, x^2 = (a^2) / (b POWER 2).
+4. Suppose x^2 is irrational. This means it can be expressed in a form that does not fully fall under the definition of rational numbers.
+5. Assume x^2 cannot be represented as a proper ratio of integers due to its irrationality.
+6. Conclude that if x^2 cannot always be irrational, then neither can x inherently be.

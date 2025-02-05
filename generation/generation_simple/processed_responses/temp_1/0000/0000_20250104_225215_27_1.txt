@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+   1) Assume x^2 is irrational [Premise]  
+   2) Define q(x) as "x^2 is irrational"  
+   3) Use known properties of irrational numbers to proceed  
+   4) Attempt to prove x is irrational if x^2 is irrational  
+   5) Therefore, use properties from logic to conclude the proof

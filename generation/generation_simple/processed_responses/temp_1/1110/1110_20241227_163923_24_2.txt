@@ -1,0 +1,5 @@
+1. To use contraposition, we prove if x is rational, then x^2 is also rational.  
+2. Let x be rational, so it can be represented as n/m, with n and m being integers, and m ≠ 0. [Assumption]  
+3. Then x^2 = (n/m) * (n/m) = n^2 / m^2. [Calculation]  
+4. n^2 and m^2 are integers and m^2 is non-zero, meaning x^2 is also a rational number.  
+5. This shows that if x is rational, x^2 is rational.

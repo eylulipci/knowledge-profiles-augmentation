@@ -1,0 +1,6 @@
+1. Let x be a real number. Assume x^2 is irrational.
+2. Suppose we have a number x^2 = a/b, where a and b are integers.
+3. Assume x is also rational, such that x = c/d, where c and d are integers with no common factors.
+4. If x^2 = c^2/d^2, we know that c^2 and d^2 are integers.
+5. This implies that x^2 is rational, which contradicts our initial assumption.
+6. Thus, x^2 cannot be irrational if x is rational. Therefore, irrationality of x^2 implies irrationality of x.

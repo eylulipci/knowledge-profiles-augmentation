@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+    Assume x is irrational.  
+2. x = sqrt(p/q), where p and q are integers.  
+3. x^2 gives p/q which is considered rational.  
+4. The assumption leads to x^2 not being rational.  
+5. Conclude the proposition by contradistinguishing.

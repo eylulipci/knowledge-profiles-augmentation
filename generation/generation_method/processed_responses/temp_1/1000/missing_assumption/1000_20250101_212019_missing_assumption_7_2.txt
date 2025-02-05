@@ -1,0 +1,5 @@
+- In proving by contraposition, we need to transform the statement to its contrapositive: prove "if x is rational, then x^2 is rational."
+1. p: x is rational
+2. q: x^2 is rational
+3. Need to establish that if not q, then not p: show that if x is rational, x^2 is rational.
+4. Begin the proof...

@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+1) Suppose x is rational.  
+2) Then x = p/q, with integers p, q where q ≠ 0, and p/q is in its simplest form.  
+3) Therefore, x^2 = (p^2/q^2).  
+4) Since p^2 and q^2 are integers, x^2 is rational.  
+5) By contraposition, if x^2 is irrational, x must be irrational.

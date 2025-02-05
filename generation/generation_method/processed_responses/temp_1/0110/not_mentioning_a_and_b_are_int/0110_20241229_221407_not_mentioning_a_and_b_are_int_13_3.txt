@@ -1,0 +1,5 @@
+1. Consider the contraposition of the statement: if x is rational, then x^2 should also be rational.
+2. Assume x is a rational number.
+3. Express x as a/b where b ≠ 0.
+4. Then x^2 = (a^2) / (b^2).
+5. This proves x^2 is rational if x is rational.

@@ -1,0 +1,6 @@
+1. CONTRA
+2. Set: p = x irrational, q = x^2 irrational
+3. By contradiction, show: NOT q -> NOT p
+4. Begin with assumption that x is rational.
+5. Follow that x squared becomes rational by definition.
+6. Therefore, inversely if x squared isn't rational, x isn't either.

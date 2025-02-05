@@ -1,0 +1,7 @@
+- 1. CONTRAPOSITION  
+Let's assume that x is rational, which implies x = m/n for some integers m, n.  
+Squaring both sides, we get:  
+x^2 = (m POWER 2)/(n POWER 2)  
+Since m^2 and n^2 are integers, x^2 is also represented as the ratio of two integers.  
+Thus, x^2 is rational.  
+Therefore, by contraposition, if x^2 is irrational, then x must also be irrational.

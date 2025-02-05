@@ -1,0 +1,5 @@
+1. CONTRAPOSITION   
+   1) Let's assume x^2 is rational  
+   2) If x is integer, then it follows that x^2 may not relate  
+   3) x^2 is already assumed, does not define x as rational  
+   4) Can't conclude on x from the given x^2 condition

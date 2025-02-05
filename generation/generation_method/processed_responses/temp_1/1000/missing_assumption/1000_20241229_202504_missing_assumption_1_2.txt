@@ -1,0 +1,4 @@
+- By using contraposition, we need to show:
+1) Assume x^2 leads to something whether it's rational or not.
+2) Somehow get to the point about x being rational.
+3) Conclude based on something about x^2 and try to relate back.

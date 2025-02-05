@@ -1,0 +1,6 @@
+- 1. CONTRAPOSITION
+  Assume x² is not rational and we aim to show x is not rational
+  1) Start with x² ≠ a/b, where a and b are integers  
+  2) Assume x can be expressed as a rational number in form of p/q
+  3) Then, (x POWER 2) = (p/q)^2 = p^2/q^2  
+  4) This would imply (x POWER 2) is rational

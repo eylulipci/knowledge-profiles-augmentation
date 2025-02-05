@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+We want to prove the statement: If x is rational, then x^2 is rational.  
+Assume the opposite:  
+1) Let x be a rational number.  
+2) Consider (NOT x being irrational -> NOT x^2 being irrational).  
+3) Therefore, (NOT x^2 is irrational -> NOT x is irrational).

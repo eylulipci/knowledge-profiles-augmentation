@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+We prove that if x is rational, then x squared is rational:  
+1) Assume x is rational [Assumption]  
+2) x = u/v (u and v are simplified)  
+3) x^2 = (u^2)/(v^2) [After squaring]  
+4) Therefore x^2 is rational [Definition]  
+5)

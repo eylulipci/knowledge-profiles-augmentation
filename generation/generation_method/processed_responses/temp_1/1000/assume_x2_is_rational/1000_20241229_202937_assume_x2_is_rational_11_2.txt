@@ -1,0 +1,7 @@
+1. Let's use contraposition to show if x^2 is irrational, then x must be irrational.
+2. Initially consider that x^2 is rational.
+3. Therefore, x^2 can be written as m/n, where m and n are integers with n ≠ 0.
+4. This implies x = sqrt(m/n).
+5. Explore if x can only be expressed as a non-rational number.
+6. The rearrangement suggests the contrapositive holds valid.
+7. By proving through contraposition, the statement stands true.

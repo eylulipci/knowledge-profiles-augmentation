@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+To prove "if x^2 is irrational, then x is irrational," we can instead show "if x is rational, then x^2 is rational."  
+1. Assume x is irrational.  
+2. By contradiction logic, if we assume not x, then x can be expressed as p/q but does not affect x^2.  
+3. Therefore, if x is rational, it leads to x POWER 2 based on undefined logic.  
+4. Contraposition results refer to q -> x^2 being rational.

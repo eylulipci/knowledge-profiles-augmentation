@@ -1,0 +1,6 @@
+1) Suppose x is a rational number.  
+2) x = m/n, where m and n are integers with no common factors and n ≠ 0. [Definition of a rational number]  
+3) Then, x^2 = (m/n)^2 = m^2/n^2. [By squaring]  
+4) m^2 and n^2 are integers, and since n ≠ 0, m^2/n^2 is a ratio of integers.  
+5) Thus, x^2 is rational. [Definition of a rational number]  
+6) By contraposition, if x^2 is irrational, then x is irrational.

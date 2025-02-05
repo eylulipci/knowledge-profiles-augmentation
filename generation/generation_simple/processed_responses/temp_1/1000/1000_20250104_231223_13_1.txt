@@ -1,0 +1,5 @@
+- Start by contraposition: We need to show that if x is rational, then x^2 is also rational.
+1. Assume x is irrational. [Note: Incorrect assumption]
+2. x cannot be written as a/b, where a and b are integers with b ≠ 0. [Definition of irrational number]
+3. Therefore, x^2 cannot be written as c/d, where c and d are integers with d ≠ 0. [Incorrect conclusion]
+4. So, the original statement implies that if x^2 is irrational, then x is irrational. [Conclusion missed]

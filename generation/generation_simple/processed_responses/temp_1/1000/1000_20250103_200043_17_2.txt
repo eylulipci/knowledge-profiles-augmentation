@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+We will use a proof by contraposition and show: if x is rational, then x^2 is also rational.  
+2. Assume temporarily that x is irrational [Premise]  
+3. Therefore, based on this assumption, x cannot be written as a fraction a/b where a, b are integers  
+4. Try to analyze how x^2 behaves under the assumption of irrational x  
+
+In proving, consider the opposite statement:  
+5. Assume a form to deal with x’s irrationality without squaring directly [misapplied ideas]  
+6. Attempt to reach implications about x^2 knowing irrationality changes [incoherent path]

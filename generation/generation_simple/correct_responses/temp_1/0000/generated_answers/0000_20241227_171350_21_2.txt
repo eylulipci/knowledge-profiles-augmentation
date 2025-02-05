@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Consider the statement x^2 is rational.  
+Assume x is irrational for the purpose of finding if x^2 remains rational.  
+Suppose x = pi; then x^2 = pi^2.  
+This x^2 may result in a value like 3.14, seen as rational in a simplified form.  
+So we cannot decide based on this reasoning if x always has to be rational or irrational.

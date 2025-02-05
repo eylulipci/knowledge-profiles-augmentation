@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Define p: x^2 is irrational  
+Define q: x is irrational  
+Using the statement (p -> q), let's prove (not p) given (not q).  
+1) (p -> q) is given [Premise]  
+2) (not q) is assumed [Premise]  
+3) From premises 1) and 2), deduce (not p) via modus tollens

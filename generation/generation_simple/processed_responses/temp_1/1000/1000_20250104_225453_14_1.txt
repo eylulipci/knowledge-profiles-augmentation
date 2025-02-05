@@ -1,0 +1,6 @@
+1. Contraposition  
+  Goal: Show if x is rational, then x^2 is rational  
+  Given statement: P: x^2 is irrational, Q: x is irrational  
+  Use: If not Q then not P  
+  IE: Assume x is rational  
+  Result: Continue from the premise

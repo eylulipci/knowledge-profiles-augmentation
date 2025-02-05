@@ -1,0 +1,5 @@
+1. CONTRAPOSITION: let p be x^2 is irrational and q be x is irrational 
+2. Our goal is to prove if p then q 
+3. Assume q [Premise for a proof by contrapositive]
+4. Therefore p is true because if x is rational then x^2 is also rational [By definition of rational numbers]
+5. Hence, we have shown p -> q is a valid implication from our assumption

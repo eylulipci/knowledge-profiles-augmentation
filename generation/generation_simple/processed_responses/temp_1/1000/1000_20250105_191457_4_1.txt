@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Let P(x) = x^2 is irrational and Q(x) = x is irrational.  
+Suppose we want to prove P(x) -> Q(x) by contraposition. Therefore, assume NOT Q(x) is true to show NOT P(x) is true.  
+1) NOT Q(x): Assume x is rational  
+2) Complete proof should conclude NOT P(x) being true  
+Thus proving P(x) -> Q(x).

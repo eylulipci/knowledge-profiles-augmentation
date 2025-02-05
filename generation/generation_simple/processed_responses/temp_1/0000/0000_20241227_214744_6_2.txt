@@ -1,0 +1,2 @@
+1. CONTRAPOSITION  
+Start by assuming x^2 is irrational, then x must be irrational. If x^2 can be non-rational, x must also not be a fraction. We can transform their relationship into rational numbers and show x^2 is also non-rational using a similar method. Ending with if x^2 is rational, then x is rational in contrapositivity. Hence, if x^2 is irrational, then x is irrational.

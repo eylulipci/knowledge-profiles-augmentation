@@ -1,0 +1,7 @@
+CONTRAPOSITION  
+Assuming x is rational and x^2 is irrational, contradict with findings.   
+1) Suppose x is of form a/b.  
+2) Then x^2 = (a^2)/(b^2)  
+3) x being irrational means a^2/b^2 should not work.    
+4) Therefore, x cannot be expressed rationally and x^2 must work rationally too.  
+5) The statement x^2 and x both relief situations.

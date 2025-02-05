@@ -1,0 +1,5 @@
+- 1. Assume that x is rational.  
+2. This implies x can be expressed as a/b, with a and b being integers, and b ≠ 0.  
+3. Squaring both sides gives us x^2 = (a/b)^2.  
+4. So, x^2 equals a^2/b^2, which is a rational number.  
+5. If the initial statement was true, we could conclude by contraposition.

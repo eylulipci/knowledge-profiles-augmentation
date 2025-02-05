@@ -1,0 +1,10 @@
+1. CONTRAPOSITION:  
+   p is the statement x^2 is irrational  
+   q is the statement x is irrational  
+   Assume NOTp -> NOTq (contraposition statement)  
+
+Now, assume x^2 is rational to prove x is rational.  
+1) If x^2 is rational, then x^2 can be expressed as a/b where a and b are integers and b ≠ 0.  
+2) Therefore, x = sqrt(a)/b is a real number, and sqrt(a) can be an integer if a is a perfect square.  
+3) Hence, x is rational since it can be expressed in the form p/q, where p = sqrt(a) and q = b.  
+Thus, if x^2 is rational, x is rational, and by contraposition, if x^2 is irrational, then x is irrational.

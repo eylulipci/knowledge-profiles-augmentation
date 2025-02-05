@@ -1,0 +1,7 @@
+1. We need to prove by contraposition that if x is rational, then x^2 is also rational.
+1. Assume x is irrational. [Assumption]
+2. By the definition of irrational numbers, x is not expressible as a ratio p/q.
+3. Therefore, since x is irrational, it follows that x^2 should also be of the form that can't be expressed as a ratio of integers.
+&
+1000
+&

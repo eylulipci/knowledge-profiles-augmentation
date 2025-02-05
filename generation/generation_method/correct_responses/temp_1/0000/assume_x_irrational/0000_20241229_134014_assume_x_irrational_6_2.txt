@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+1) Assume x is not rational [Assumption]  
+2) x^2 must then follow to be expressed differently  
+3) If we assume x^2 is rational, this contradicts the step  
+4) Hence x^2 is not rational  
+5) Show that if x is not rational, x^2 cannot form a quotient of integers  
+6) (P -> Q) follows if x^2 is irrational, then x is irrational

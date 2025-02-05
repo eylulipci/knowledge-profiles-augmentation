@@ -1,0 +1,8 @@
+First Student's Answer:
+To show the implication by contraposition, we need to prove: if x is rational, x^2 must be rational. Thus:
+
+1) Begin with x being a real number.
+2) What needs to be shown is when x is a rational number, x^2 becomes a rational number.
+3) We should aim to show x^2 is expressible as m/n where m, n are integers.
+
+At this point, I am not sure what steps to take next to conclude the proof satisfactorily.

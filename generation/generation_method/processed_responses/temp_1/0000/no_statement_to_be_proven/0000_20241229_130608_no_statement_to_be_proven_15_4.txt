@@ -1,0 +1,6 @@
+1. CONTRAPOSITION  
+Assume x^2 equals (m/n) [where m and n are whole numbers]  
+Let it's squared to get the number  
+x=int(m)/int(n) [not assumed to be squared]  
+If rational x, can be expressed a/b  
+However need (x^2) pair distinct from a/b

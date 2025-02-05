@@ -1,0 +1,1 @@
+Here, if we enter a rational x, it logically leads us to rational x^2.

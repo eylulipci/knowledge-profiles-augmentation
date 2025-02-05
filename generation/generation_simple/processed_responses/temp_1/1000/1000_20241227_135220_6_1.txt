@@ -1,0 +1,6 @@
+1. Prove by Contraposition: if x^2 is irrational, then x is irrational.  
+2. Assume x is a rational number.  
+3. From this assumption, we know that if x is rational, x = a/b where a and b are integers, and b ≠ 0.  
+4. The square of any rational number can be represented as a fraction because (a/b)^2 = a^2/b^2.  
+5. This shows that x^2 is also a fraction and therefore rational.  
+6. Therefore, by proving that x is rational implies x^2 is also rational, we've demonstrated the contrapositive holds.

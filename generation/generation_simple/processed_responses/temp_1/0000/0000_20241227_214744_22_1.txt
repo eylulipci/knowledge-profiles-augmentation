@@ -1,0 +1,6 @@
+1. PROOF BY CONTRAPOSITION  
+We'll start by assuming that x^2 is rational and aim to show that it implies x being rational.  
+Assume x^2 is a rational number, i.e., x^2 = m/n where n ≠ 0 and m, n are integers.  
+Therefore, x = sqrt(m/n).  
+If sqrt(m/n) is rational, it can be written as a = b/c, where b ≠ 0.  
+Hence, x will also be rational.

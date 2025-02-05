@@ -1,0 +1,5 @@
+CONTRAPOSITION:  
+1. Assume x is rational.  
+2. Then x = s/t where s and t are integers, with t ≠ 0.  
+3. So, we have x^2 = (s POWER 2)/(t POWER 2).  
+4. Thus, x^2 is a rational number as well.

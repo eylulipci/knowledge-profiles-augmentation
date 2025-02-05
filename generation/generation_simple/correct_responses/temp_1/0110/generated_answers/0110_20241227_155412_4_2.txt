@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Suppose x is rational.  
+This means x = p/q, where p and q are integers, q ≠ 0.  
+Then, x^2 can be written as (p/q) POWER 2 = p^2/q^2.  
+Therefore, x^2 is rational.

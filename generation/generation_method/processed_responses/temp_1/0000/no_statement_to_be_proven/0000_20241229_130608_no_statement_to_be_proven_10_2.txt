@@ -1,0 +1,5 @@
+1. CONTRAPOSITION METHOD  
+   Start with assuming (x^2) is rational.  
+   If x^2 = p/q where p and q are integers and q != 0, then x = (p/q)^(1/2).  
+   That suggests x is rational based on the definition.    
+   Therefore, x^2's irrationality would mean x is irrational.

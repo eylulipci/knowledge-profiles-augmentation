@@ -1,0 +1,9 @@
+Assume the contrapositive for the statement:
+
+1. We want to show if x is irrational, then x^2 is irrational.
+2. Suppose x is irrational.
+3. We need to show x^2 is irrational.
+4. Assume x^2 = c/d for integers c and d; x^2 is irrational here.
+5. It is not clear what this implies for x when x is irrational.
+
+This proof by contraposition concludes nothing valuable for x^2 in the case where x is irrational.

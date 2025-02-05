@@ -1,0 +1,4 @@
+1) Assume x is rational.
+2) x = a/b, where a and b are integers, with b ≠ 0.
+3) x^2 = (a/b)^2 = a^2/b^2.
+4) Since both a^2 and b^2 are integers, x^2 is rational.

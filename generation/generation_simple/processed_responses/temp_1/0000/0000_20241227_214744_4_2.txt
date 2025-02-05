@@ -1,0 +1,7 @@
+1. CONTRAPOSITION
+2. Assume x^2 can be expressed as p/q
+3. Therefore, x is expressed as p/q for p^2/q^2
+4. If x is irrational, x^2 must be irrational 
+5. That means sqrtings means x
+6. So x = sqrt(p/q) 
+7. Based on this, x cannot be irrational for x^2 not rational

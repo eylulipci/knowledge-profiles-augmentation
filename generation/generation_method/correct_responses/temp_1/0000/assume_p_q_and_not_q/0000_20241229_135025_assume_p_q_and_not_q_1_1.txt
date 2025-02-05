@@ -1,0 +1,7 @@
+Show that from the statement (x^2 is irrational) and assumption (x is rational), we consider the case:
+
+1. p(x): "x^2 is irrational"
+2. q(x): "x is irrational"
+3. Assume p -> q [Initial statement]
+4. Also, assume NOT q [Initial assumption]
+5. Then, NOT p follows [By modus tollens]

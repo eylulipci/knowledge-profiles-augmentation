@@ -1,0 +1,5 @@
+1) We use contraposition: assume x is rational.  
+2) Then x can be written as x = p/q, where p and q are integers, q ≠ 0.  
+3) Then x^2 = (p/q) * (p/q) = (p POWER 2) / (q POWER 2).  
+4) Since both (p POWER 2) and (q POWER 2) are integers, x^2 is also of the form of an integer divided by an integer.  
+5) Thus, x^2 is rational.

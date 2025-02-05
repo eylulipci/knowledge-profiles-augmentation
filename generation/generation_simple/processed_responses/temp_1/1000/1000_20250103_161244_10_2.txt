@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+Our aim: Show if x is rational, then x^2 must also be rational.  
+1) Begin by considering x as not rational, hence not expressible as a rational fraction a/b.  
+2) Focus on whether x^2 loses or maintains rational form.  
+3) Requires analysis of irrational square manipulation.  
+4) Directly concluding x leads to exploration without definitive steps.  
+5) Investigate properties to connect x longitudinally as hypothetical rationality.

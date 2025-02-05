@@ -1,0 +1,5 @@
+Assume x^2 is irrational, then by contraposition we have to prove x is irrational.
+1) Suppose x = a/b, where a and b are integers, then x² is a rational number if a²/b². 
+2) x^2 is supposed to be non-rational, now consider x not as p/q.
+3) By definition, since x cannot exactly divide integers, neither x nor x² are rational.
+4) Therefore, proven that x² not being rational implies x is not rational.

@@ -1,0 +1,4 @@
+1. By contraposition, if x^2 is rational then x is rational.  
+2. Assume x is a rational number, x = a/b where a and b are integers with no common factors.  
+3. x^2 = (a^2)/(b^2), which is a quotient of integers.  
+4. Conclude that x^2 is rational.

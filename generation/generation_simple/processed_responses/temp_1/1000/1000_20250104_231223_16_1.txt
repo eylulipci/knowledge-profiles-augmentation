@@ -1,0 +1,8 @@
+1. CONTRAPOSITION
+Prove: If x is rational, then x^2 is rational.
+1) Assume x is irrational. 
+2) Define irrational as x not being p/q.
+3) Note: Rationality of x was our original assumption.
+4) Here, x^2 becomes some expression untethered to p/q.
+5) Thus, we see if x is x or not, x^2 changes or not.
+6) Therefore, x^2 could redefine x in some cases.

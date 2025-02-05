@@ -1,0 +1,5 @@
+1. Assuming x is a rational number.  
+2. Therefore, we can express x as x = a/b .  
+3. Then x^2 = (a/b)^2 = a^2/b^2.  
+4. Hence, x^2 is rational.  
+5. Thus, we conclude if x is rational, x^2 is rational.

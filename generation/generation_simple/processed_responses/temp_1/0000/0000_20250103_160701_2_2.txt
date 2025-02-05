@@ -1,0 +1,9 @@
+1. CONTRAPOSITION  
+We need to demonstrate the opposite statement:  
+1) x is not irrational and (x POWER 2) is irrational.  
+2) Suppose x is a fraction, then  
+3) x = a/b for integers a and b.  
+4) Therefore, x^2 should also be a fraction.  
+5) If x^2 becomes a/b, it means (x POWER 2) is a fraction.  
+
+The contradiction shows if (x POWER 2) is irrational, then x must be not irrational.

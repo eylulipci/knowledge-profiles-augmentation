@@ -1,0 +1,8 @@
+Second Student's Answer:
+By using contraposition, we want to demonstrate that if x is rational, this implies x^2 is rational. The steps would be:
+
+1) Initially, set our goal to show x rational implies x^2 rational.
+2) Think of x represented as some fraction a/b, but I'm not getting how this leads to x^2 form.
+3) We are supposed to verify x^2 as an integer fraction too.
+
+I haven't figured out the whole reasoning, so the conclusion is missing here.

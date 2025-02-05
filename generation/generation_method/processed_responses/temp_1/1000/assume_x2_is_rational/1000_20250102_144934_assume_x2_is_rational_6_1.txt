@@ -1,0 +1,5 @@
+1. To prove the implication statement using contraposition, we need to show if x is rational, then x^2 is rational.  
+2. Assume x^2 is rational.  
+3. This means x^2 = m/n, for integers m and n with n ≠ 0.   
+4. We would have that x = sqrt(m/n).   
+5. Conclude that x must be irrational.

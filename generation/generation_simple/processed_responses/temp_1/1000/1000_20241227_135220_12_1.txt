@@ -1,0 +1,2 @@
+CONTRAPOSITION:
+If we want to prove that if x^2 is irrational, then x is irrational, we can use contraposition. This means we have to prove that if x is rational, then x^2 is rational.

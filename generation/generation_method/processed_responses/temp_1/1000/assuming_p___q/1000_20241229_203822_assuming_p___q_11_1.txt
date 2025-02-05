@@ -1,0 +1,5 @@
+1. PROOF BY CONTRAPOSITION  
+   Statement: To prove x^2 irrational implies x irrational, show that if x^2 is rational, x is rational.  
+   1) Let a be "x is rational" and b be "x^2 is irrational".  
+   2) We assume a -> b holds by definition.  
+   3) This implies if x^2 is irrational, x must be irrational by nature.

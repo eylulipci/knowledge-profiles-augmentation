@@ -1,0 +1,5 @@
+Let's prove that if x^2 is irrational, then x is irrational:
+1. Assume x is not rational.
+2. If x is irrational, x^2 is irrational.
+3. So, by trying to convert x into a rational form, we see no direct contradiction.
+4. Therefore, there is no conclusive result based on our assumption, and nothing follows.

@@ -1,0 +1,6 @@
+1. Assume x^2 is rational, then x must be rational [contrapositive].
+2. Assume x is rational.
+3. Then x = a/b, where a and b are integer numbers with b != 0.
+4. Therefore, x^2 = (a POWER 2)/(b POWER 2).
+5. Here (a POWER 2) and (b POWER 2) are integers, so x^2 is rational.
+6. Thus, by definition, if x is rational, then x^2 is rational.

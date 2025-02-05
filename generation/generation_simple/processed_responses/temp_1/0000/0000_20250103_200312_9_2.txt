@@ -1,0 +1,5 @@
+1. CONTRAPOSITION  
+Assume x^2 is rational.  
+1) x^2 = c/d where c, d are coprime integers  
+2) therefore, x = sqrt(c/d), a rational number  
+3) conclude by contraposition that x is a rational number

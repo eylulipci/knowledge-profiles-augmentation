@@ -1,0 +1,7 @@
+To prove this, we need to show that if x is rational, then x^2 is rational through contraposition.
+
+1. Let x be a real number.
+2. In a contrapositive statement, we reverse and negate: If x^2 is rational, then x is rational.
+3. If x can be any number, we must consider that squaring it would give us x^2. 
+4. The idea is to verify if the assumption that x^2 is rational leads us to conclude x is as well.
+5. This sets up the foundation needed for solving with contraposition logic.

@@ -1,0 +1,4 @@
+1. By considering what we aim to prove through contraposition, we assume that x is rational.
+2. Since x is rational, x can be expressed as x = p/q, where p and q are integers and q ≠ 0.
+3. Thus, when squaring x, we have x^2 = (p/q)^2 = p^2/q^2.
+4. According to the definition of rational numbers, x^2 is rational as it can be expressed as the quotient of two integers.

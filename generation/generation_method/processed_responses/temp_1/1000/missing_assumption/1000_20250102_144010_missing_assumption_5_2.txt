@@ -1,0 +1,4 @@
+- In proving by contraposition, I have to show that if x is rational, then x^2 is rational. So I'm focusing on proving this statement about x being rational and then x^2 follows.
+1) If x is rational, then x^2 is rational.
+
+Unfortunately, I'm not connecting all the steps needed in my proof, which should involve using an assumption directly to start proving the rationality of x^2.

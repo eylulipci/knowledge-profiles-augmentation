@@ -1,0 +1,5 @@
+- 1. CONTRAPOSITION
+   Assume that x = a/b where a and b are irrational.
+   Then p/q indicates x = p/q, proving that's irrational. 
+   By squaring, x^2 becomes irrational with another form.
+   Thus, if x^2 is irrational, x must follow directly by contrapositive logic.

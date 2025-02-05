@@ -1,0 +1,3 @@
+We need to use a proof by contraposition to demonstrate that if x^2 is irrational, x must be irrational. In contraposition, we prove the inverse scenario:
+1. We need to establish the scenario where if x is a rational number, then x^2 becomes a rational number.
+2. Contraposition allows us to flip the initial implication and work from the opposite direction.

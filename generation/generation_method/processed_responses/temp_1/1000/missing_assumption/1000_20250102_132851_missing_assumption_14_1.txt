@@ -1,0 +1,6 @@
+- Let x be a real number. We can prove by contraposition that if x is rational, then x^2 is rational.
+1. A proof by contraposition means we should assume the opposite of what we want to show.
+2. To prove the statement, we deal with the contrapositive: 'If x is rational, then x^2 is rational.'
+3. Assume x represents some real number, and x^2 is of interest in this context.
+4. We want to show there is some relationship between the real number x and the property of being rational.
+5. Thus, following contraposition, it infers properties of x from those of x^2.

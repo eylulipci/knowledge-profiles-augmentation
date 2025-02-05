@@ -1,0 +1,4 @@
+1. From the contraposition, x^2 is not rational, and we need x to be not rational.
+2. x^2 is set up as not equaling any fraction form p/q.
+3. Trying x = a/b shows contradiction in its own rationality.
+4. This guides the reasoning back to x^2 as baseline irrationality assumption.

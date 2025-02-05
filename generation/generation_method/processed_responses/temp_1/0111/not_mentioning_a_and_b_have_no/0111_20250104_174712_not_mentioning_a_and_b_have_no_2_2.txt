@@ -1,0 +1,6 @@
+Let's assume x is a rational number:   
+1) Write x as x = a/b, where a and b are integers and b ≠ 0.
+2) Calculate x^2: (a/b) POWER 2 = a^2/b^2.
+3) Since both a^2 and b^2 are integers, x^2 can be written as a quotient of integers.
+4) Thus, x^2 is rational.  
+5) Therefore, by contraposition, if x^2 is irrational, then x is irrational.

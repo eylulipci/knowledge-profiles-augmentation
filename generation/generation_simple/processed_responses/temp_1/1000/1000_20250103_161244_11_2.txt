@@ -1,0 +1,7 @@
+1. CONTRAPOSITION  
+   Our goal is to demonstrate: If x is rational, then x^2 is rational.  
+   1) Suppose x does not fall into rational numbers.  
+   2) Follow the properties of irrational numbers for calculation.  
+   3) Transform these assumptions about x to gain a result on x^2.  
+   4) Re-evaluate that assuming not x being rational leads to finding x^2 as not irrational.  
+   5) The process involves proving these elements through each step.

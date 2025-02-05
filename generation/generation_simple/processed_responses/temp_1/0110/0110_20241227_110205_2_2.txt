@@ -1,0 +1,3 @@
+1. Assume \( x \) is a rational number.  
+2. Therefore, \( x = a/b \), where \( a \) and \( b \) are integers with no common factors, and \( b \neq 0 \).  
+3. Squaring both sides gives \( x^2 = (a/b)^2 = a^2/b^2 \), which is rational because \( a^2 \) and \( b^2 \) are integers.

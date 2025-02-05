@@ -1,0 +1,5 @@
+1. We need to show: If x is rational, then x^2 is rational
+2. Assume x is irrational [Start]
+3. x cannot be represented as a rational number a/b
+4. As a result, x^2 does not hold in the form of a rational expression
+5. Thus, this illustrates the concept via contraposition

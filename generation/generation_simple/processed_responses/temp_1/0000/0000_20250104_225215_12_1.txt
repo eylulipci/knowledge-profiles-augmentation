@@ -1,0 +1,5 @@
+Show that x^2 being irrational implies x is irrational through contraposition:
+1) Assume x^2 = m/n, where m and n are integers with no common factors. [Assumption]
+2) Therefore, x = a/b, where a and b are integers. 
+3) Hence, x can be expressed in terms of integers, meaning x is rational. 
+4) Thus, we have shown that if x^2 is expressed in integer terms, x can also be, thus x is rational if x^2 is.

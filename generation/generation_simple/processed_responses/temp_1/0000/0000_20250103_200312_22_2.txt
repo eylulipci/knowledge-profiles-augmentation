@@ -1,0 +1,5 @@
+1. Starting with proof by contraposition.
+2. Let x^2 be rational.
+3. This leads us to consider x rational.
+4. If x = p/q, then there must be contradictions which are not stated clearly yet.
+5. Hence, there's an unclear conclusion.
